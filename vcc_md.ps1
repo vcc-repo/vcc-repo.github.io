@@ -29,8 +29,8 @@ function Create-ReposMarkdownTable {
     # VRChat Creator Companion Repositories
     $markdown = @"
 
-- VCC: <a>https://vrchat.com/download/vcc</a>
-- Docs: <a>https://vcc.docs.vrchat.com/guides/create-listing</a>
+- VCC: [https://vrchat.com/download/vcc](https://vrchat.com/download/vcc)
+- Docs: [https://vcc.docs.vrchat.com/guides/create-listing](https://vcc.docs.vrchat.com/guides/create-listing)
 
 | Id | Name | Packages | Install | Url
 ---|---|---|---|---
