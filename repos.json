@@ -1,0 +1,67 @@
+[
+  {
+    "url": "https://vcc.vrcfury.com/",
+    "name": "VRCFury Repo",
+    "id": "com.vrcfury.vcc"
+  },
+  {
+    "url": "https://wholesomevr.github.io/SPS-Configurator/index.json",
+    "name": "wholesome© SPS Configurator Listing",
+    "id": "wholesomevr.sps-configurator.listing"
+  },
+  {
+    "url": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+    "name": "lilxyzw",
+    "id": "io.github.lilxyzw.vpm"
+  },
+  {
+    "url": "https://rurre.github.io/vpm/index.json",
+    "name": "Pumkin's VPM Repo",
+    "id": "io.github.rurre.vpm"
+  },
+  {
+    "url": "https://facs01-01.github.io/FACS-VPM-Listing/index.json",
+    "name": "FACS01 VPM Listing",
+    "id": "com.facs01.facs_vpm_listing"
+  },
+  {
+    "url": "https://vpm.nadena.dev/vpm.json",
+    "name": "bd_",
+    "id": "dev.nadena.vpm"
+  },
+  {
+    "url": "https://poiyomi.github.io/vpm/index.json",
+    "name": "Poiyomi's VPM Repo",
+    "id": "io.github.poiyomi.vpm"
+  },
+  {
+    "url": "https://spokeek.github.io/goloco/index.json",
+    "name": "GoGoLoco Listing",
+    "id": "gogoloco.listing"
+  },
+  {
+    "url": "https://vpm.koyashiro.net/index.json",
+    "name": "koyashiro's vpm repo",
+    "id": "net.koyashiro.vpm"
+  },
+  {
+    "url": "https://vpm.thry.dev/index.json",
+    "name": "Thry's VPM Listing",
+    "id": "dev.thry.vpm"
+  },
+  {
+    "url": "https://api.vrlabs.dev/listings/ids/MzQFAA==",
+    "name": "VRLabs Packages: By Ids",
+    "id": "dev.vrlabs.repos.by-ids"
+  },
+  {
+    "url": "https://vpm.razgriz.one/index.json",
+    "name": "Raz's VPM Repo",
+    "id": "one.razgriz.vpm-repo"
+  },
+  {
+    "url": "https://cyanlaser.github.io/CyanTrigger/index.json",
+    "name": "CyanTrigger VCC Listing",
+    "id": "com.cyan.cyantrigger.vcc-listing"
+  }
+]

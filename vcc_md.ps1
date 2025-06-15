@@ -2,48 +2,29 @@
 function Create-ReposMarkdownTable {
     param(
         [string]$SettingsPath = "$env:LOCALAPPDATA\VRChatCreatorCompanion\settings.json",
+        [string]$ReposPath = "$PSScriptRoot\repos.json",
+        [string]$PackagesPath = "$PSScriptRoot\packages.json",
         [string]$OutputPath = "$PSScriptRoot\index.md"
     )
 
-    # Read and parse JSON file
-    try {
-        $settingsContent = Get-Content -Path $SettingsPath -Raw
-        $settings = ConvertFrom-Json -InputObject $settingsContent
-    }
-    catch {
-        Write-Error "Failed to read settings file: $_"
-        return
-    }
-
-    # Create array of repository objects with formatted links
     $repos = @()
-    foreach ($repo in $settings.userRepos) {
-        $installUrl = "vcc://vpm/addRepo?url={0}" -f [uri]::EscapeDataString($repo.url)
-        $installLink = "[Install]({0})" -f $installUrl
-        $packages = @()
 
-        # Read packages.json and check if repo name exists
-        $packagesJsonPath = Join-Path $PSScriptRoot "packages.json"
-        if (Test-Path $packagesJsonPath) {
-            $packagesContent = Get-Content -Path $packagesJsonPath -Raw
-            $packagesData = ConvertFrom-Json -InputObject $packagesContent
-            
-            if ($packagesData.PSObject.Properties.Name -contains $repo.name) {
-                $packages = $packagesData.$($repo.name)
-            }
-        }
-
-        if ($packages.Count -ne 0 ) {
-            $packages = ($packages -join "<br>")
-        }
-        $repos += [PSCustomObject]@{
-            Name = $repo.name
-            Packages = $packages
-            URL  = $repo.url
-            InstallUrl = $installUrl
-            InstallLink = $installLink
+    if (Test-Path $PackagesPath) {
+        $packages = Get-Content -Path $PackagesPath -Raw
+        $packages = ConvertFrom-Json -InputObject $packages
+    }
+    if (Test-Path $SettingsPath) {
+        $settingsContent = Get-Content -Path $SettingsPath -Raw
+        $repos = (ConvertFrom-Json -InputObject $settingsContent).userRepos
+        foreach ($repo in $repos) {
+            $repo.PSObject.Properties.Remove('localPath')
+            $repo.PSObject.Properties.Remove('headers')
         }
     }
+
+    # Save repos to repos.json
+    $reposJson = ConvertTo-Json -InputObject $repos -Depth 10
+    Set-Content -Path $ReposPath -Value $reposJson -Encoding UTF8
 
     # VRChat Creator Companion Repositories
     $markdown = @"
@@ -51,14 +32,22 @@ function Create-ReposMarkdownTable {
 - VCC: <a>https://vrchat.com/download/vcc</a>
 - Docs: <a>https://vcc.docs.vrchat.com/guides/create-listing</a>
 
-| Name | Packages | Link
-|------|-----|-----
+| Id | Name | Packages | Install | Url
+---|---|---|---|---
 
 "@
 
     # Add each repository as a table row
+    Write-Host "Found $($repos.Count) repositories"
     foreach ($repo in $repos) {
-        $markdown += "[$($repo.Name)]($($repo.URL)) | $($repo.Packages) | $($repo.InstallLink) |`n"
+        Write-Host "Processing repository: $($repo.Name)"
+        $installUrl = "vcc://vpm/addRepo?url={0}" -f [uri]::EscapeDataString($repo.url)
+        $installLink = "[Install]({0})" -f $installUrl
+        $packagesStr = ""
+        if ($packages.PSObject.Properties.Name -eq $repo.Name) {
+            $packagesStr = ($packages.$($repo.Name) -join "<br>")
+        }
+        $markdown += "$($repo.Id) | $($repo.Name) | $packagesStr | $InstallLink | $($repo.URL)`n"
     }
 
     # Save to file
