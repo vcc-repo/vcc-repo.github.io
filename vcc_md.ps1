@@ -2,7 +2,7 @@
 function Create-ReposMarkdownTable {
     param(
         [string]$SettingsPath = "$env:LOCALAPPDATA\VRChatCreatorCompanion\settings.json",
-        [string]$OutputPath = "$PSScriptRoot\repos.md"
+        [string]$OutputPath = "$PSScriptRoot\index.md"
     )
 
     # Read and parse JSON file
@@ -19,7 +19,7 @@ function Create-ReposMarkdownTable {
     $repos = @()
     foreach ($repo in $settings.userRepos) {
         $installUrl = "vcc://vpm/addRepo?url={0}" -f [uri]::EscapeDataString($repo.url)
-        $installLink = "<a href=""{0}"">Install</a>" -f $installUrl
+        $installLink = "[Install]({0})" -f $installUrl
         $packages = @()
         
         if ($repo.name -eq "bd_") {
@@ -30,7 +30,7 @@ function Create-ReposMarkdownTable {
         }
 
         if ($packages.Count -ne 0 ) {
-            $packages = ($packages -join ", ")
+            $packages = ($packages -join "<br>")
         }
         $repos += [PSCustomObject]@{
             Name = $repo.name
@@ -41,21 +41,20 @@ function Create-ReposMarkdownTable {
         }
     }
 
-    # Generate markdown table header
+    # VRChat Creator Companion Repositories
     $markdown = @"
-# VRChat Creator Companion Repositories
 
-- VCC: https://vrchat.com/download/vcc
-- Docs: https://vcc.docs.vrchat.com/guides/create-listing
+- VCC: <a>https://vrchat.com/download/vcc</a>
+- Docs: <a>https://vcc.docs.vrchat.com/guides/create-listing</a>
 
-| Name | Packages | URL | Install |
-|------|-----|-----|-------------|
+| Name | Packages | Link
+|------|-----|-----
 
 "@
 
     # Add each repository as a table row
     foreach ($repo in $repos) {
-        $markdown += "| $($repo.Name) | $($repo.Packages) | $($repo.URL) | $($repo.InstallLink) |`n"
+        $markdown += "[$($repo.Name)]($($repo.URL)) | $($repo.Packages) | $($repo.InstallLink) |`n"
     }
 
     # Save to file
