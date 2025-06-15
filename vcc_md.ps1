@@ -21,12 +21,16 @@ function Create-ReposMarkdownTable {
         $installUrl = "vcc://vpm/addRepo?url={0}" -f [uri]::EscapeDataString($repo.url)
         $installLink = "[Install]({0})" -f $installUrl
         $packages = @()
-        
-        if ($repo.name -eq "bd_") {
-            $packages += "Modular Avatar"
-        }
-        if ($repo.Name -eq "VRLabs Packages: By Ids") {
-            $packages += "Custom Object Sync"
+
+        # Read packages.json and check if repo name exists
+        $packagesJsonPath = Join-Path $PSScriptRoot "packages.json"
+        if (Test-Path $packagesJsonPath) {
+            $packagesContent = Get-Content -Path $packagesJsonPath -Raw
+            $packagesData = ConvertFrom-Json -InputObject $packagesContent
+            
+            if ($packagesData.PSObject.Properties.Name -contains $repo.name) {
+                $packages = $packagesData.$($repo.name)
+            }
         }
 
         if ($packages.Count -ne 0 ) {

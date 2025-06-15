@@ -14,7 +14,7 @@
 [GoGoLoco Listing](https://spokeek.github.io/goloco/index.json) |  | [Install](vcc://vpm/addRepo?url=https%3A%2F%2Fspokeek.github.io%2Fgoloco%2Findex.json) |
 [koyashiro's vpm repo](https://vpm.koyashiro.net/index.json) |  | [Install](vcc://vpm/addRepo?url=https%3A%2F%2Fvpm.koyashiro.net%2Findex.json) |
 [Thry's VPM Listing](https://vpm.thry.dev/index.json) |  | [Install](vcc://vpm/addRepo?url=https%3A%2F%2Fvpm.thry.dev%2Findex.json) |
-[VRLabs Packages: By Ids](https://api.vrlabs.dev/listings/ids/MzQFAA==) | Custom Object Sync | [Install](vcc://vpm/addRepo?url=https%3A%2F%2Fapi.vrlabs.dev%2Flistings%2Fids%2FMzQFAA%3D%3D) |
+[VRLabs Packages: By Ids](https://api.vrlabs.dev/listings/ids/MzQFAA==) | Custom Object Syncs | [Install](vcc://vpm/addRepo?url=https%3A%2F%2Fapi.vrlabs.dev%2Flistings%2Fids%2FMzQFAA%3D%3D) |
 [Raz's VPM Repo](https://vpm.razgriz.one/index.json) |  | [Install](vcc://vpm/addRepo?url=https%3A%2F%2Fvpm.razgriz.one%2Findex.json) |
 [CyanTrigger VCC Listing](https://cyanlaser.github.io/CyanTrigger/index.json) |  | [Install](vcc://vpm/addRepo?url=https%3A%2F%2Fcyanlaser.github.io%2FCyanTrigger%2Findex.json) |
 
