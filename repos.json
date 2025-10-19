@@ -1,5 +1,10 @@
 [
   {
+    "url": "https://vpm.vrclinking.com/index.json",
+    "name": "VRCLinking SDK Listing",
+    "id": "vpm.vrclinking.com"
+  },
+  {
     "url": "https://vcc.vrcfury.com/",
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc"
