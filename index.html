@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VCC Repository Listing</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>VCC Repository Listing</h1>
+            <div class="links">
+                <a href="https://vrchat.com/download/vcc" target="_blank" rel="noopener noreferrer">VCC</a>
+                <span class="separator">•</span>
+                <a href="https://vcc.docs.vrchat.com/guides/create-listing" target="_blank" rel="noopener noreferrer">Docs</a>
+            </div>
+        </header>
+
+        <div class="table-container">
+            <table id="reposTable">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Name</th>
+                        <th>Packages</th>
+                        <th>Install</th>
+                        <th>Url</th>
+                    </tr>
+                </thead>
+                <tbody id="reposTableBody">
+                    <tr>
+                        <td colspan="5" class="loading">Loading repositories...</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
