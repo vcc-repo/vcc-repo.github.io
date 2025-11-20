@@ -68,5 +68,10 @@
     "url": "https://cyanlaser.github.io/CyanTrigger/index.json",
     "name": "CyanTrigger VCC Listing",
     "id": "com.cyan.cyantrigger.vcc-listing"
+  },
+  {
+    "url": "https://camerablockervrc.namelessnanashi.dev/index.json",
+    "name": "CameraBlockerVRC Listing",
+    "id": "dev.namelessnanashi.camerablocker.listing"
   }
 ]
