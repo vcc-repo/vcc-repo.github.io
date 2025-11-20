@@ -55,9 +55,29 @@
     "id": "dev.thry.vpm"
   },
   {
-    "url": "https://api.vrlabs.dev/listings/ids/MzQFAA==",
-    "name": "VRLabs Packages: By Ids",
-    "id": "dev.vrlabs.repos.by-ids"
+    "url": "https://api.vrlabs.dev/listings/category/Essentials",
+    "name": "VRLabs Packages: Essentials",
+    "id": "dev.vrlabs.repos.essentials"
+  },
+  {
+    "url": "https://api.vrlabs.dev/listings/category/Systems",
+    "name": "VRLabs Packages: Systems",
+    "id": "dev.vrlabs.repos.systems"
+  },
+  {
+    "url": "https://api.vrlabs.dev/listings/category/Components",
+    "name": "VRLabs Packages: Components",
+    "id": "dev.vrlabs.repos.components"
+  },
+  {
+    "url": "https://api.vrlabs.dev/listings/category/Dependencies",
+    "name": "VRLabs Packages: Dependencies",
+    "id": "dev.vrlabs.repos.dependencies"
+  },
+  {
+    "url": "https://api.vrlabs.dev/listings/category/Rehosted",
+    "name": "VRLabs Packages: Rehosted",
+    "id": "dev.vrlabs.repos.rehosted"
   },
   {
     "url": "https://vpm.razgriz.one/index.json",
