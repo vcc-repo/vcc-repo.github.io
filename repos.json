@@ -1,4 +1,11 @@
 [
+  
+  {
+    "url": "https://lastationvrchat.github.io/Lastation-Package-Listing/index.json",
+    "name": "Lastation Package Listing",
+    "id": "tech.lastation.lpl",
+    "nsfw": true
+  },
   {
     "url": "https://vpm.vrclinking.com/index.json",
     "name": "VRCLinking SDK Listing",
