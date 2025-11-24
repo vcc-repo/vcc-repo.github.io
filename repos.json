@@ -1,5 +1,9 @@
 [
-  
+  {
+    "url": "httpshttps://Adjerry91.github.io/VRCFaceTracking-Templates/index.json",
+    "name": "VRCFT - Jerry's Templates Listing",
+    "id": "adjerry91.vrcft.templates.listin"
+  },
   {
     "url": "https://lastationvrchat.github.io/Lastation-Package-Listing/index.json",
     "name": "Lastation Package Listing",
