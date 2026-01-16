@@ -1,5 +1,10 @@
 [
   {
+    "url": "https://rerigferl.github.io/vpm/vpm.json",
+    "name": "Numeira VPM Repository",
+    "id": "numeira"
+  },
+  {
     "url": "https://Adjerry91.github.io/VRCFaceTracking-Templates/index.json",
     "name": "VRCFT - Jerry's Templates Listing",
     "id": "adjerry91.vrcft.templates.listin"
