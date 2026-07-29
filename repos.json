@@ -1,5 +1,9 @@
 [
-  
+  {
+    "url": "https://azukitiger.github.io/vrc-prefabs/index.json",
+    "name": "VAP (VRChat Azuki Prefabs) Listing",
+    "id": "tech.azuki.vrc-prefabs.listing"
+  },
   {
     "url": "https://bluscream.github.io/unity-editor-scripts/index.json",
     "name": "Bluscream's Packages",
