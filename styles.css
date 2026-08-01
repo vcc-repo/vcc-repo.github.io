@@ -147,6 +147,46 @@ td:first-child {
     font-weight: 600;
 }
 
+.search-bar-container {
+    padding: 1.5rem 2rem 0 2rem;
+}
+
+.search-bar {
+    width: 100%;
+    padding: 0.75rem 1.25rem;
+    font-size: 1rem;
+    border: 2px solid #e0e0e0;
+    border-radius: 8px;
+    outline: none;
+    transition: border-color 0.2s ease;
+}
+
+.search-bar:focus {
+    border-color: #667eea;
+}
+
+.pkg-pill {
+    display: inline-block;
+    background: #f0f2fd;
+    color: #4a5568;
+    font-size: 0.75rem;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    border: 1px solid #d6daf0;
+    margin: 2px;
+}
+
+.nsfw-badge {
+    display: inline-block;
+    background: #fed7d7;
+    color: #9b2c2c;
+    font-size: 0.7rem;
+    font-weight: 700;
+    padding: 0.15rem 0.4rem;
+    border-radius: 4px;
+    margin-left: 0.3rem;
+}
+
 @media (max-width: 768px) {
     body {
         padding: 1rem;

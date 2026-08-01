@@ -1,0 +1,35 @@
+name: Update Repository Catalog Index
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-catalog:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate Updated repos.json
+        run: node build.js
+
+      - name: Commit and Push Updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add repos.json
+          if ! git diff --cached --quiet; then
+            git commit -m "auto: update repos.json catalog index"
+            git push
+          else
+            echo "No catalog changes detected."
+          fi
