@@ -555,10 +555,10 @@
   },
   {
     "url": "https://aiczk.github.io/VPM/index.json",
-    "name": "VPM",
-    "id": "vpm",
+    "name": "aiczk",
+    "id": "aiczk",
     "hash": null,
-    "last_updated": "2026-08-01T16:03:13.117Z",
+    "last_updated": "2026-08-01T16:09:48.264Z",
     "packageCount": 0,
     "packages": {}
   },
@@ -8370,7 +8370,7 @@
     "id": "dev.vrlabs.repos.components",
     "author": "VRLabs",
     "hash": "b1e5136477fb66c38d82aec05496b80f93321ae9678cf2fec5e3298040a6630a",
-    "last_updated": "2026-08-01T16:03:13.325Z",
+    "last_updated": "2026-08-01T16:09:48.356Z",
     "packageCount": 14,
     "packages": {
       "dev.vrlabs.collision-detection": {
@@ -9262,7 +9262,7 @@
     "id": "dev.vrlabs.repos.dependencies",
     "author": "VRLabs",
     "hash": "df42da3512b03a618784a77cedde42ddeabbd4edb4cae7575f4a45560e27861a",
-    "last_updated": "2026-08-01T16:03:13.327Z",
+    "last_updated": "2026-08-01T16:09:48.357Z",
     "packageCount": 1,
     "packages": {
       "dev.vrlabs.instancer": {
@@ -9360,7 +9360,7 @@
     "id": "dev.vrlabs.repos.essentials",
     "author": "VRLabs",
     "hash": "fe0b24ccd13e7038868b013a6333b082ff93c6101b8a25271b4aabdce56167ea",
-    "last_updated": "2026-08-01T16:03:13.328Z",
+    "last_updated": "2026-08-01T16:09:48.358Z",
     "packageCount": 3,
     "packages": {
       "dev.vrlabs.av3manager": {
@@ -9624,7 +9624,7 @@
     "id": "dev.vrlabs.repos.rehosted",
     "author": "VRLabs",
     "hash": "5e4519eb3baf5ce279c152efcf04a546981740c7d70ebcd94fa26456b83a644e",
-    "last_updated": "2026-08-01T16:03:13.328Z",
+    "last_updated": "2026-08-01T16:09:48.359Z",
     "packageCount": 6,
     "packages": {
       "dev.vrlabs.blendtreebuilder": {
@@ -9837,7 +9837,7 @@
     "id": "dev.vrlabs.repos.systems",
     "author": "VRLabs",
     "hash": "7d794bc969b2cba4a0a3821f4827620ac108bc2cdc5fefbfda4cd92bc23fe9ef",
-    "last_updated": "2026-08-01T16:03:13.329Z",
+    "last_updated": "2026-08-01T16:09:48.360Z",
     "packageCount": 8,
     "packages": {
       "dev.vrlabs.camera-system": {
@@ -17193,7 +17193,7 @@
   {
     "url": "https://dine-png.github.io/Di_Ne_Tool/index.json",
     "name": "Di Ne Tool",
-    "id": "di_ne_tool",
+    "id": "dine-png.di_ne_tool",
     "author": "Dine",
     "hash": "4691f8e05e8711e4339fe4404a1cc18775dfc506f3ac75e6add79ab1eacaa6cd",
     "last_updated": "2026-08-01T10:41:10.000Z",
@@ -23532,7 +23532,7 @@
     "id": "com.gabsith.wft",
     "author": "GabSith",
     "hash": "ed31c2beeb60c2322e47d329a9b0cbe8b2c319649ebd2c252945be2fceacc184",
-    "last_updated": "2026-05-03T07:30:55.000Z",
+    "last_updated": "2026-05-03T07:30:54.000Z",
     "packageCount": 1,
     "packages": {
       "com.gabsith.wft": {
@@ -48254,7 +48254,7 @@
   {
     "url": "https://moruton1119.github.io/com.morulab.unity-tools/index.json",
     "name": "Morulab Unity Tools",
-    "id": "https://moruton1119.github.io/com.morulab.unity-tools/index.json",
+    "id": "moruton1119.com.morulab.unity-tools",
     "author": "Morulab",
     "hash": "a557d096d30c66b3d4ac9c8a66659cae793068c72c7e7edbaf7f9a7718dc68a2",
     "last_updated": "2026-06-18T13:56:40.000Z",
@@ -64497,7 +64497,7 @@
     "id": "dev.kokoa.vpmPackageRepository",
     "author": "kokoa",
     "hash": "c23d8dc23386252afb97257909c6c654bd76a10f7ed52535906733f1dbc9f41f",
-    "last_updated": "2026-08-01T15:00:17.000Z",
+    "last_updated": "2026-08-01T16:09:00.000Z",
     "packageCount": 7,
     "packages": {
       "dev.kokoa.upload-notification": {
@@ -64702,7 +64702,7 @@
     "id": "vrchat.apolstar",
     "author": "Star and APOL Assets",
     "hash": "7998f411641b7e3790cd3045acc8b2f87c5a3dcbaf941c3a7221127cc8b98327",
-    "last_updated": "2026-08-01T16:03:16.642Z",
+    "last_updated": "2026-08-01T16:09:50.683Z",
     "packageCount": 1,
     "packages": {
       "vrchat.apolstar.vrcue": {
@@ -64750,7 +64750,7 @@
     "id": "com.azlab.vpm",
     "author": "azurite",
     "hash": "8607524fb2b8877cfbc6823bc720cd5b5606f5a7e019390c54568782e5fb7616",
-    "last_updated": "2026-08-01T16:03:16.642Z",
+    "last_updated": "2026-08-01T16:09:50.684Z",
     "packageCount": 1,
     "packages": {
       "com.azlab.vrc_hierarchy_highlighter": {
@@ -64808,7 +64808,7 @@
     "id": "io.github.ksrgtech.vrchat.repo",
     "author": "The ksrgtech Technology Teams",
     "hash": "983e13b88fe8de7b9d566d850bac4e3b0a821cda228b6d9c5e0765b9906851d6",
-    "last_updated": "2026-08-01T16:03:16.643Z",
+    "last_updated": "2026-08-01T16:09:50.685Z",
     "packageCount": 1,
     "packages": {
       "io.github.kisaragieffective.resonite-import-helper": {
@@ -65012,7 +65012,7 @@
     "id": "net.ts7m.glitch-shader",
     "author": "Tsukina-7mochi",
     "hash": "16a877161b6eda7373a1f68c88091d1f882677f12b1242128deea5f4da597409",
-    "last_updated": "2026-08-01T16:03:16.644Z",
+    "last_updated": "2026-08-01T16:09:50.685Z",
     "packageCount": 1,
     "packages": {
       "net.ts7m.glitch-shader": {
@@ -65093,7 +65093,7 @@
     "id": "net.ts7m.qvpen-safe-clear",
     "author": "Tsukina-7mochi",
     "hash": "f2d71cc5b70f783afa0c082de633dbf5c604d490b75b463629d229c054f6f37f",
-    "last_updated": "2026-08-01T16:03:16.644Z",
+    "last_updated": "2026-08-01T16:09:50.686Z",
     "packageCount": 1,
     "packages": {
       "net.ts7m.qvpen-safe-clear": {
@@ -65145,7 +65145,7 @@
     "id": "dev.iyankim.vpm",
     "author": "Studio Iyan",
     "hash": "50803fcb4c2a2ba22630241963a803240e1fabd2f25a6d154bf6d5db4f8e9d0e",
-    "last_updated": "2026-08-01T16:03:16.645Z",
+    "last_updated": "2026-08-01T16:09:50.687Z",
     "packageCount": 6,
     "packages": {
       "com.iyankim.planefittocamera": {
@@ -66684,7 +66684,7 @@
     "id": "com.natsuneko.vpm",
     "author": "夏猫",
     "hash": "7dd0ed8e453b25da875e550f7839271622e1aa20cc4fbe268b638b9716c78341",
-    "last_updated": "2026-08-01T16:03:16.649Z",
+    "last_updated": "2026-08-01T16:09:50.689Z",
     "packageCount": 10,
     "packages": {
       "cat.natsuneko.collapsible-blendshapes": {
@@ -67042,7 +67042,7 @@
     "id": "com.natsuneko.vpm.worlds",
     "author": "夏猫",
     "hash": "142aac778c23b8db5bbffc792f6bb357f744a221a97b456885cf4fa932babcd2",
-    "last_updated": "2026-08-01T16:03:16.810Z",
+    "last_updated": "2026-08-01T16:09:50.759Z",
     "packageCount": 6,
     "packages": {
       "cat.natsuneko.udon-analyzer": {
@@ -97492,7 +97492,7 @@
     "id": "net.32ba.vpm",
     "author": "32ba",
     "hash": "231903ba3f3d47c1fffdcacab209c09b3038618faf4e644598243c0a66c89870",
-    "last_updated": "2026-08-01T16:03:17.696Z",
+    "last_updated": "2026-08-01T16:09:51.341Z",
     "packageCount": 10,
     "packages": {
       "net.32ba.reload-uploaded-avatar": {
@@ -98593,7 +98593,7 @@
     "id": "com.anatawa12.main",
     "author": "anatawa12",
     "hash": "dc799dfede424cc12e42fcccce17d2ff2cea5a62465f80865c6f3942038647ae",
-    "last_updated": "2026-08-01T16:03:17.697Z",
+    "last_updated": "2026-08-01T16:09:51.342Z",
     "packageCount": 14,
     "packages": {
       "com.anatawa12.avatar-optimizer": {
@@ -107498,7 +107498,7 @@
     "id": "net.chanfoo.vpm",
     "author": "nekochanfood",
     "hash": "0dcff60f84418fb5bc24dfaf1061893f6e7098cb59a11ce6f3a64f57e8a29e1d",
-    "last_updated": "2026-08-01T16:03:17.700Z",
+    "last_updated": "2026-08-01T16:09:51.344Z",
     "packageCount": 2,
     "packages": {
       "net.chanfoo.osc-clock": {
@@ -109376,19 +109376,19 @@
   },
   {
     "url": "https://vpm.hackebein.dev/index.json",
-    "name": "vpm.hackebein.dev",
+    "name": "Hackebein VPM",
     "id": "vpm.hackebein.dev",
     "hash": null,
-    "last_updated": "2026-08-01T16:03:17.969Z",
+    "last_updated": "2026-08-01T16:09:51.673Z",
     "packageCount": 0,
     "packages": {}
   },
   {
     "url": "https://vpm.hinasense.jp/vpm.json",
-    "name": "vpm.hinasense.jp",
+    "name": "Hinasense VPM",
     "id": "vpm.hinasense.jp",
     "hash": null,
-    "last_updated": "2026-08-01T16:03:17.970Z",
+    "last_updated": "2026-08-01T16:09:51.673Z",
     "packageCount": 0,
     "packages": {}
   },
@@ -112335,7 +112335,7 @@
     "id": "com.kibalab.vpm",
     "author": "KIBA",
     "hash": "376221692ce1fb44290f08b6462bfde95812e64ec7c0b297431b12a3cd0a878f",
-    "last_updated": "2026-08-01T16:03:17.976Z",
+    "last_updated": "2026-08-01T16:09:51.678Z",
     "packageCount": 13,
     "packages": {
       "com.kibalab.animation.highlighter": {
@@ -113658,7 +113658,7 @@
     "id": "net.koyashiro.vpm",
     "author": "koyashiro",
     "hash": "638d8e96eb28259370d1986d293295024647f88799560623064cf00f32ad6cdc",
-    "last_updated": "2026-08-01T16:03:19.313Z",
+    "last_updated": "2026-08-01T16:09:53.275Z",
     "packageCount": 5,
     "packages": {
       "net.koyashiro.genericdatacontainer": {
@@ -116205,7 +116205,7 @@
     "id": "com.m4rshal.vpm",
     "author": "m4rshal",
     "hash": "ab8b0b16597d3081ed11751d8716ce23fa3931c599769e66ec9bd789e2f964d0",
-    "last_updated": "2026-08-01T16:03:19.317Z",
+    "last_updated": "2026-08-01T16:09:53.278Z",
     "packageCount": 1,
     "packages": {
       "com.m4rshal.vrc-menu-creator": {
@@ -133598,7 +133598,7 @@
     "id": "studio.nekomimi.vpm",
     "author": "mewl hayabusa",
     "hash": "c25ea4fbde9b3f64301bcdfd01fe38538c60e0d7ab034433be3430c7b0e39bc0",
-    "last_updated": "2026-08-01T16:03:19.497Z",
+    "last_updated": "2026-08-01T16:09:53.406Z",
     "packageCount": 6,
     "packages": {
       "studio.nekomimi.parsevideo": {
@@ -134004,7 +134004,7 @@
     "id": "la.niri.vpm",
     "author": "ni rila",
     "hash": "f1506f04f557eb0624534835cb108ff58b516e7ee3e5ad1a94119f33acd55a41",
-    "last_updated": "2026-08-01T16:03:19.498Z",
+    "last_updated": "2026-08-01T16:09:53.407Z",
     "packageCount": 2,
     "packages": {
       "la.niri.videoplayer": {
@@ -134919,7 +134919,7 @@
     "id": "net.puk06.vpm",
     "author": "Pukorufu",
     "hash": "573576c54f246c048e08f8f346945f9d1704b9d964fa1f40640565b7fa2b7c68",
-    "last_updated": "2026-08-01T16:03:19.501Z",
+    "last_updated": "2026-08-01T16:09:53.410Z",
     "packageCount": 9,
     "packages": {
       "net.puk06.smiley-clip": {
@@ -137092,7 +137092,7 @@
     "id": "net.rs64.vpm",
     "author": "ReinaSakiria",
     "hash": "b28607f0dea51e64c99b3814cfb8ece7b942373f5be199bbf63a90d25f15a877",
-    "last_updated": "2026-08-01T16:03:19.702Z",
+    "last_updated": "2026-08-01T16:09:53.670Z",
     "packageCount": 9,
     "packages": {
       "net.rs64.tex-trans-tool": {
@@ -139610,7 +139610,7 @@
     "name": "smisann",
     "id": "net.smisann.vpm",
     "hash": "2e52296230207604ae1ab3b3598a739f2073486d0fae4f61cc379b7d35040eab",
-    "last_updated": "2026-08-01T16:03:19.703Z",
+    "last_updated": "2026-08-01T16:09:53.671Z",
     "packageCount": 1,
     "packages": {
       "net.smisann.unityeditortracker": {
@@ -151728,10 +151728,10 @@
   {
     "url": "https://www.negura-karasu.net/vpm/",
     "name": "Yagihata",
-    "id": "vpm",
+    "id": "www.negura-karasu.net",
     "author": "Yagihata",
     "hash": "e2e0e4ad3f5c5cf660d230256a66aafc8220ea9cdb39fbe295200851592f2200",
-    "last_updated": "2026-08-01T16:03:20.737Z",
+    "last_updated": "2026-08-01T16:09:54.691Z",
     "packageCount": 1,
     "packages": {
       "yagihata.radialinventorysystem.v4": {
@@ -158808,10 +158808,10 @@
   },
   {
     "url": "https://magmamcnet.github.io/VPM/index.json",
-    "name": "VPM",
-    "id": "vpm",
+    "name": "magmamcnet",
+    "id": "magmamcnet",
     "hash": null,
-    "last_updated": "2026-08-01T16:03:21.789Z",
+    "last_updated": "2026-08-01T16:09:56.403Z",
     "packageCount": 0,
     "packages": {}
   },
@@ -158954,10 +158954,10 @@
   },
   {
     "url": "https://page.853lab.com/vpm.json",
-    "name": "page.853lab.com",
+    "name": "853lab VPM",
     "id": "page.853lab.com",
     "hash": null,
-    "last_updated": "2026-08-01T16:03:21.791Z",
+    "last_updated": "2026-08-01T16:09:56.405Z",
     "packageCount": 0,
     "packages": {}
   },
@@ -159784,19 +159784,19 @@
   },
   {
     "url": "https://project-eauploader.github.io/EAUploader-for-VRChat/registry.json",
-    "name": "Registry.json",
-    "id": "registry.json",
+    "name": "project-eauploader - EAUploader for VRChat",
+    "id": "project-eauploader.eauploader-for-vrchat",
     "hash": null,
-    "last_updated": "2026-08-01T16:03:21.792Z",
+    "last_updated": "2026-08-01T16:09:56.406Z",
     "packageCount": 0,
     "packages": {}
   },
   {
     "url": "https://vpm.dreadscripts.com/listings/main.json",
-    "name": "Listings",
-    "id": "listings",
+    "name": "Dreadscripts VPM",
+    "id": "vpm.dreadscripts.com",
     "hash": null,
-    "last_updated": "2026-08-01T16:03:21.793Z",
+    "last_updated": "2026-08-01T16:09:56.407Z",
     "packageCount": 0,
     "packages": {}
   },
