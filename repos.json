@@ -1262,7 +1262,7 @@
     "id": "com.amehuri.amehuri-tools.listing",
     "author": "amehuri",
     "hash": "86383f3d5cdbd9da2c54498025338e48f24f66f0428999058c699aac074cf087",
-    "last_updated": "2025-12-27T06:24:24.000Z",
+    "last_updated": "2025-12-27T06:24:25.000Z",
     "packageCount": 1,
     "packages": {
       "com.amehuri.amehuri-tools": {
@@ -15478,7 +15478,7 @@
     "id": "com.cyan.cyantrigger.vcc-listing",
     "author": "CyanLaser",
     "hash": "a6d67a91e3c26d4b2575f25029cc6f6fea9441c11451fdd533128d76b3ba3e61",
-    "last_updated": "2026-07-03T00:44:09.000Z",
+    "last_updated": "2026-07-03T00:44:10.000Z",
     "packageCount": 2,
     "packages": {
       "com.cyan.cyantrigger": {
@@ -32587,7 +32587,7 @@
     "id": "cat.hisa.vpm",
     "author": "HisaCat",
     "hash": "164e0ed610f0a593fb9eb5867230becff0831ebe47d88f25397692d3bbae92c4",
-    "last_updated": "2026-07-03T05:26:12.000Z",
+    "last_updated": "2026-07-03T05:26:13.000Z",
     "packageCount": 3,
     "packages": {
       "cat.hisa.asset-patcher": {
@@ -35064,7 +35064,7 @@
     "id": "com.vrsive.avatar-exporter.listing",
     "author": "VRSive",
     "hash": "6e4fddf38f8f4986ffa38df8646ea79db089e58aa357f4991002a8cab32a4717",
-    "last_updated": "2026-06-12T12:24:23.000Z",
+    "last_updated": "2026-06-12T12:24:24.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrsive.avatar-exporter": {
@@ -40054,7 +40054,7 @@
     "id": "net.kanameliser.vpm",
     "author": "kxn4t",
     "hash": "a9014dcfa5464587f9d13a314e724ee0f6346cab22d58406d847dc3a9078df67",
-    "last_updated": "2026-07-06T12:27:21.000Z",
+    "last_updated": "2026-07-06T12:27:20.000Z",
     "packageCount": 2,
     "packages": {
       "net.kanameliser.editor-plus": {
@@ -45402,7 +45402,7 @@
     "id": "com.mattshark.openflight.repo",
     "author": "Mattshark89, Happyrobot33",
     "hash": "4bf1035e345fb8804dd390304e2d5438939feb2100c6f6ebd79c83cbc0e815b1",
-    "last_updated": "2026-07-19T19:37:48.000Z",
+    "last_updated": "2026-07-19T19:37:47.000Z",
     "packageCount": 1,
     "packages": {
       "com.mattshark.openflight": {
@@ -49227,7 +49227,7 @@
     "id": "com.nidonocu.virtual-gryphon-packages",
     "author": "Nidonocu",
     "hash": "4f1a4e20ac1e5d3661ae57c8d3353f05d769b8999754be537975ece981b322cc",
-    "last_updated": "2026-07-03T16:56:22.000Z",
+    "last_updated": "2026-07-03T16:56:21.000Z",
     "packageCount": 1,
     "packages": {
       "com.nidonocu.vrcunitytoolbar": {
@@ -63805,7 +63805,7 @@
     "id": "com.fracfloor.vpm-listing",
     "author": "raii",
     "hash": "bb8a1fb4b6497e28d58d8f4ed220692da23d2202d1dad6f3725f0921d2c66b57",
-    "last_updated": "2026-07-03T11:55:04.000Z",
+    "last_updated": "2026-07-03T11:55:03.000Z",
     "packageCount": 1,
     "packages": {
       "com.fracfloor.timeline-beat-marker": {
@@ -64497,7 +64497,7 @@
     "id": "dev.kokoa.vpmPackageRepository",
     "author": "kokoa",
     "hash": "c23d8dc23386252afb97257909c6c654bd76a10f7ed52535906733f1dbc9f41f",
-    "last_updated": "2026-08-01T16:09:00.000Z",
+    "last_updated": "2026-08-01T23:57:55.000Z",
     "packageCount": 7,
     "packages": {
       "dev.kokoa.upload-notification": {
@@ -66061,8 +66061,8 @@
     "name": "RED_SIM VRChat Assets",
     "id": "red.sim.vpm",
     "author": "RED_SIM",
-    "hash": "8943f2d9493eacdf915ff7d281518da44acd2365db8e13c9f8de5802c25d0451",
-    "last_updated": "2026-07-28T02:45:09.000Z",
+    "hash": "eb2be0df19cc1723cff9a510ffa6391918bbd41f764af7ba43bd86cf5377400d",
+    "last_updated": "2026-08-01T17:38:20.000Z",
     "packageCount": 3,
     "packages": {
       "red.sim.flexicurve": {
@@ -66148,7 +66148,7 @@
         "displayName": "VRC Light Volumes",
         "description": "Nextgen voxel based light probes replacement for VRChat",
         "latestVersion": "0.5.1",
-        "versionCount": 38,
+        "versionCount": 39,
         "keywords": [
           "shaders",
           "lighting",
@@ -66598,6 +66598,18 @@
             "displayName": "VRC Light Volumes",
             "description": "Nextgen voxel based light probes replacement and analytic lighting solution for VRChat",
             "url": "https://github.com/REDSIM/VRCLightVolumes/releases/download/v.3.0.0-dev.13/VRCLightVolumes_3.0.0-dev.13.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.unity.editorcoroutines": "1.0.0"
+            }
+          },
+          "3.0.0-dev.14": {
+            "version": "3.0.0-dev.14",
+            "name": "red.sim.lightvolumes",
+            "displayName": "VRC Light Volumes",
+            "description": "Nextgen voxel based light probes replacement and analytic lighting solution for VRChat",
+            "url": "https://github.com/REDSIM/VRCLightVolumes/releases/download/v.3.0.0-dev.14/VRCLightVolumes_3.0.0-dev.14.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -69795,7 +69807,7 @@
     "id": "jp.rroki.vpm",
     "author": "rroki-0u0",
     "hash": "842c482dcb0925dc36f99ba648d5191a7246b5ee657c75c1ab8f80680027bdce",
-    "last_updated": "2026-07-16T09:06:06.000Z",
+    "last_updated": "2026-07-16T09:06:07.000Z",
     "packageCount": 5,
     "packages": {
       "jp.rroki.poiyomi-to-nontoon": {
@@ -81238,7 +81250,7 @@
     "id": "io.github.tp-jp.vpm",
     "author": "tp.jp",
     "hash": "da473ccdc75356cd14e6c77e54e8be663bb1621108df5f980248e75789e4c3aa",
-    "last_updated": "2026-07-13T13:46:47.000Z",
+    "last_updated": "2026-07-13T13:46:48.000Z",
     "packageCount": 9,
     "packages": {
       "com.tp.jp.iwa-sync3-color-changer": {
@@ -83153,7 +83165,7 @@
     "id": "net.pawlygon.vcc-packages",
     "author": "Pawlygon",
     "hash": "ffddfc1a87cdf9aed91a660cbaca0e51f7f86152c9a6f89bfce1276d0295a790",
-    "last_updated": "2026-07-01T04:45:49.000Z",
+    "last_updated": "2026-07-01T04:45:50.000Z",
     "packageCount": 2,
     "packages": {
       "net.pawlygon.vrc-facetracking": {
@@ -83615,7 +83627,7 @@
     "id": "co.raphii.vpm-listing",
     "author": "Raphiiko",
     "hash": "13d7c0741bdb67306d4706066396ddccd4188238b4335f6b126e26cf84767a0b",
-    "last_updated": "2026-07-03T23:15:31.000Z",
+    "last_updated": "2026-07-03T23:15:32.000Z",
     "packageCount": 1,
     "packages": {
       "co.raphii.vrti.avatarmenu": {
@@ -83678,8 +83690,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "53033740c1a0c693eff9787c9df71e9215c1c1a9860eb023832e77f7af71db60",
-    "last_updated": "2026-08-01T16:00:47.000Z",
+    "hash": "0ffa17c35f46e822ba61aae7ea6a128f26cdbf5b9912bbe5f896d06fccb7a0ad",
+    "last_updated": "2026-08-02T02:27:48.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -132779,7 +132791,7 @@
     "id": "net.nekobako.vpm-listing",
     "author": "nekobako",
     "hash": "7812d30ef6ad60f49dca232138ea8a7f4878b3a3c612180b6cab7ff45c8da43a",
-    "last_updated": "2026-07-03T05:49:50.000Z",
+    "last_updated": "2026-07-03T05:49:49.000Z",
     "packageCount": 6,
     "packages": {
       "net.nekobako.gesture-weight-smoothing": {
@@ -158966,8 +158978,8 @@
     "name": "Poiyomi's VPM Repo",
     "id": "io.github.poiyomi.vpm",
     "author": "Poiyomi",
-    "hash": "d0ea73256e8c6be0634d3b2ac94f72f5e6d43cdb7b7b359114d552561861fb59",
-    "last_updated": "2026-07-31T20:18:58.000Z",
+    "hash": "dc894064dd5d095bc60d5299de6bb866de68fec23dc93f1162c2cd7f9d75b1bc",
+    "last_updated": "2026-08-01T23:39:40.000Z",
     "packageCount": 3,
     "packages": {
       "com.poiyomi.toon": {
@@ -159669,8 +159681,8 @@
         "name": "com.poiyomi.thryeditor",
         "displayName": "ThryEditor",
         "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
-        "latestVersion": "2.72.7",
-        "versionCount": 10,
+        "latestVersion": "2.73.0-beta.1",
+        "versionCount": 12,
         "keywords": [],
         "unity": "2021.3",
         "author": {
@@ -159678,6 +159690,26 @@
           "url": "https://www.poiyomi.com"
         },
         "versions": {
+          "2.73.0-beta.1": {
+            "version": "2.73.0-beta.1",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://github.com/poiyomi/ThryEditor/releases/download/2.73.0-beta.1/com.poiyomi.thryeditor-2.73.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.72.8": {
+            "version": "2.72.8",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://github.com/poiyomi/ThryEditor/releases/download/2.72.8/com.poiyomi.thryeditor-2.72.8.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
           "2.72.7": {
             "version": "2.72.7",
             "name": "com.poiyomi.thryeditor",
