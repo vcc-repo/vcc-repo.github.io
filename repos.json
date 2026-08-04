@@ -15906,7 +15906,7 @@
     "id": "com.chill.vpm",
     "author": "chill",
     "hash": "218dd1fd125e7194ca6c8140e63ca3d013b40ed5b78b42e79e1ff1e1d5cd5b05",
-    "last_updated": "2026-05-21T13:11:01.000Z",
+    "last_updated": "2026-05-21T13:11:02.000Z",
     "packageCount": 1,
     "packages": {
       "com.chill.avatarscope": {
@@ -28339,8 +28339,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "d20a96e91c70b565f3316f8fefd836b1b7911100766923a76047b312c2d1a815",
-    "last_updated": "2026-08-03T02:05:04.000Z",
+    "hash": "de5e72b46c5b7f3d6acf6b413f3cd9e036300c7b2928af7ad10f79281c25fffd",
+    "last_updated": "2026-08-03T22:09:44.000Z",
     "packageCount": 7,
     "packages": {
       "com.valvesoftware.unity.openvr": {
@@ -36465,7 +36465,7 @@
     "id": "cat.hisa.vpm",
     "author": "HisaCat",
     "hash": "164e0ed610f0a593fb9eb5867230becff0831ebe47d88f25397692d3bbae92c4",
-    "last_updated": "2026-07-03T05:26:13.000Z",
+    "last_updated": "2026-07-03T05:26:12.000Z",
     "packageCount": 3,
     "packages": {
       "cat.hisa.asset-patcher": {
@@ -36626,7 +36626,7 @@
     "id": "com.github.hkrn",
     "author": "hkrn",
     "hash": "66afe02e940c091d4b955f7a758659dfa28c963b53e571fc1c24147280761b5f",
-    "last_updated": "2026-07-12T08:29:10.000Z",
+    "last_updated": "2026-07-12T08:29:09.000Z",
     "packageCount": 1,
     "packages": {
       "com.github.hkrn.ndmf-vrm-exporter": {
@@ -39147,7 +39147,7 @@
     "id": "dev.kaefibot.listing",
     "author": "WoweePaw",
     "hash": "0f954512e7a69a442d27394f918fc68614873d3db3706347e1e36e0acde01244",
-    "last_updated": "2026-07-05T15:03:29.000Z",
+    "last_updated": "2026-07-05T15:03:28.000Z",
     "packageCount": 1,
     "packages": {
       "dev.kaefibot.kaefibot-controller": {
@@ -44240,7 +44240,7 @@
     "id": "net.kanameliser.vpm",
     "author": "kxn4t",
     "hash": "a9014dcfa5464587f9d13a314e724ee0f6346cab22d58406d847dc3a9078df67",
-    "last_updated": "2026-07-06T12:27:20.000Z",
+    "last_updated": "2026-07-06T12:27:21.000Z",
     "packageCount": 2,
     "packages": {
       "net.kanameliser.editor-plus": {
@@ -49667,7 +49667,7 @@
     "id": "com.mattshark.openflight.repo",
     "author": "Mattshark89, Happyrobot33",
     "hash": "4bf1035e345fb8804dd390304e2d5438939feb2100c6f6ebd79c83cbc0e815b1",
-    "last_updated": "2026-07-19T19:37:48.000Z",
+    "last_updated": "2026-07-19T19:37:47.000Z",
     "packageCount": 1,
     "packages": {
       "com.mattshark.openflight": {
@@ -57915,7 +57915,7 @@
     "id": "dev.omelette_ak.vpm",
     "author": "omeletteak",
     "hash": "87cd6506aa825e26b64761abbbe030e0e11ea7ac963a055d927af38e95a30b11",
-    "last_updated": "2026-06-23T11:45:39.000Z",
+    "last_updated": "2026-06-23T11:45:38.000Z",
     "packageCount": 1,
     "packages": {
       "dev.omelette_ak.vrcloth-declipper": {
@@ -57972,8 +57972,8 @@
     "name": "orels Unity Shaders",
     "id": "sh.orels.shaders",
     "author": "orels1",
-    "hash": "cee56d7212539b4b3945243041cc96f0ff6cb381a61f5415728aeec126fd15f8",
-    "last_updated": "2026-07-13T03:24:33.000Z",
+    "hash": "d842460670bad2a867569f0ee08a946c9a5f47f16e9f6db6de4259c6db2acbe9",
+    "last_updated": "2026-08-03T22:45:52.000Z",
     "packageCount": 3,
     "packages": {
       "sh.orels.shaders": {
@@ -57981,8 +57981,8 @@
         "name": "sh.orels.shaders",
         "displayName": "ORL Shaders",
         "description": "PBR Unity shaders for the Built-In pipeline built with ORL Shader Generator",
-        "latestVersion": "7.4.0-dev.1",
-        "versionCount": 55,
+        "latestVersion": "7.4.0-dev.2",
+        "versionCount": 56,
         "keywords": [
           "shaders",
           "pbr",
@@ -57994,6 +57994,19 @@
           "url": "https://github.com/orels1"
         },
         "versions": {
+          "7.4.0-dev.2": {
+            "version": "7.4.0-dev.2",
+            "name": "sh.orels.shaders",
+            "displayName": "ORL Shaders",
+            "description": "PBR Unity shaders for the Built-In pipeline built with ORL Shader Generator",
+            "url": "https://github.com/orels1/orels-Unity-Shaders/releases/download/v7.4.0-dev.2/sh.orels.shaders-7.4.0-dev.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "sh.orels.shaders.generator": "^7.4.0-dev.2",
+              "sh.orels.shaders.inspector": "^7.4.0-dev.2"
+            }
+          },
           "7.4.0-dev.1": {
             "version": "7.4.0-dev.1",
             "name": "sh.orels.shaders",
@@ -58716,8 +58729,8 @@
         "name": "sh.orels.shaders.generator",
         "displayName": "ORL Shader Generator",
         "description": "A template-based shader generator utilizing scripted importers",
-        "latestVersion": "7.4.0-dev.1",
-        "versionCount": 57,
+        "latestVersion": "7.4.0-dev.2",
+        "versionCount": 58,
         "keywords": [
           "shaders",
           "generator",
@@ -58729,6 +58742,16 @@
           "url": "https://github.com/orels1"
         },
         "versions": {
+          "7.4.0-dev.2": {
+            "version": "7.4.0-dev.2",
+            "name": "sh.orels.shaders.generator",
+            "displayName": "ORL Shader Generator",
+            "description": "A template-based shader generator utilizing scripted importers",
+            "url": "https://github.com/orels1/orels-Unity-Shaders/releases/download/v7.4.0-dev.2/sh.orels.shaders.generator-7.4.0-dev.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "7.4.0-dev.1": {
             "version": "7.4.0-dev.1",
             "name": "sh.orels.shaders.generator",
@@ -59306,8 +59329,8 @@
         "name": "sh.orels.shaders.inspector",
         "displayName": "ORL Shader Inspector",
         "description": "A simple property-based shader inspector with extension support",
-        "latestVersion": "7.4.0-dev.1",
-        "versionCount": 56,
+        "latestVersion": "7.4.0-dev.2",
+        "versionCount": 57,
         "keywords": [
           "shaders",
           "inspector",
@@ -59319,6 +59342,18 @@
           "url": "https://github.com/orels1"
         },
         "versions": {
+          "7.4.0-dev.2": {
+            "version": "7.4.0-dev.2",
+            "name": "sh.orels.shaders.inspector",
+            "displayName": "ORL Shader Inspector",
+            "description": "A simple property-based shader inspector with extension support",
+            "url": "https://github.com/orels1/orels-Unity-Shaders/releases/download/v7.4.0-dev.2/sh.orels.shaders.inspector-7.4.0-dev.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.unity.nuget.newtonsoft-json": "2.0.2"
+            }
+          },
           "7.4.0-dev.1": {
             "version": "7.4.0-dev.1",
             "name": "sh.orels.shaders.inspector",
@@ -66623,16 +66658,16 @@
     "name": "project-vrcz listing",
     "id": "xyz.misakal.vpm.project-vrcz",
     "author": "project-vrcz",
-    "hash": "dc6b30d2a539e3952c7a000ee6a9e3fe559ff52be911c6a6cdc322a3cc363b41",
-    "last_updated": "2026-05-26T19:17:39.000Z",
+    "hash": "d794c0a918744c361465a6b44e7ec2e3aa48749360b2529c7c459fdc26209f24",
+    "last_updated": "2026-08-03T18:32:01.000Z",
     "packageCount": 9,
     "packages": {
-      "xyz.misakal.vpm.yet-another-sdk-patch.avatars": {
-        "id": "xyz.misakal.vpm.yet-another-sdk-patch.avatars",
-        "name": "xyz.misakal.vpm.yet-another-sdk-patch.avatars",
-        "displayName": "Yet Another SDK Patch - Avatars Pack",
-        "description": "Patch to fix avatar sdk won't crop thumbnail when creating new avatar after upgrade to 3.9.0 or newer.",
-        "latestVersion": "0.3.1-beta.2",
+      "xyz.misakal.vpm.yet-another-sdk-patch.worlds": {
+        "id": "xyz.misakal.vpm.yet-another-sdk-patch.worlds",
+        "name": "xyz.misakal.vpm.yet-another-sdk-patch.worlds",
+        "displayName": "Yet Another SDK Patch - Worlds Pack",
+        "description": "Add ability to profiling Udon",
+        "latestVersion": "0.3.2",
         "versionCount": 8,
         "keywords": [
           "vrchat",
@@ -66644,129 +66679,19 @@
           "name": "project-vrcz"
         },
         "versions": {
-          "0.3.1-beta.2": {
-            "version": "0.3.1-beta.2",
-            "name": "xyz.misakal.vpm.yet-another-sdk-patch.avatars",
-            "displayName": "Yet Another SDK Patch - Avatars Pack",
-            "description": "Patch to fix avatar sdk won't crop thumbnail when creating new avatar after upgrade to 3.9.0 or newer.",
-            "url": "https://github.com/project-vrcz/yet-another-sdk-patch/releases/download/avatars-sdk-patch-v0.3.1-beta.2/xyz.misakal.vpm.yet-another-sdk-patch.avatars.zip",
+          "0.3.2": {
+            "version": "0.3.2",
+            "name": "xyz.misakal.vpm.yet-another-sdk-patch.worlds",
+            "displayName": "Yet Another SDK Patch - Worlds Pack",
+            "description": "Add ability to profiling Udon",
+            "url": "https://github.com/project-vrcz/yet-another-sdk-patch/releases/download/worlds-sdk-patch-v0.3.2/xyz.misakal.vpm.yet-another-sdk-patch.worlds.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "com.vrchat.avatars": "^3.7.0",
+              "com.vrchat.worlds": "^3.7.0",
               "xyz.misakal.vpm.yes-patch-framework-for-sdk": "^0.3.0"
             }
           },
-          "0.3.1-beta.1": {
-            "version": "0.3.1-beta.1",
-            "name": "xyz.misakal.vpm.yet-another-sdk-patch.avatars",
-            "displayName": "Yet Another SDK Patch - Avatars Pack",
-            "description": "Patch to fix avatar sdk won't crop thumbnail when creating new avatar after upgrade to 3.9.0 or newer.",
-            "url": "https://github.com/project-vrcz/yet-another-sdk-patch/releases/download/avatars-sdk-patch-v0.3.1-beta.1/xyz.misakal.vpm.yet-another-sdk-patch.avatars.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": "^3.7.0",
-              "xyz.misakal.vpm.yes-patch-framework-for-sdk": "^0.3.0"
-            }
-          },
-          "0.3.0": {
-            "version": "0.3.0",
-            "name": "xyz.misakal.vpm.yet-another-sdk-patch.avatars",
-            "displayName": "Yet Another SDK Patch - Avatars Pack",
-            "description": "Patch to fix avatar sdk won't crop thumbnail when creating new avatar after upgrade to 3.9.0 or newer.",
-            "url": "https://github.com/project-vrcz/yet-another-sdk-patch/releases/download/avatars-sdk-patch-v0.3.0/xyz.misakal.vpm.yet-another-sdk-patch.avatars.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": "^3.7.0",
-              "xyz.misakal.vpm.yes-patch-framework-for-sdk": "^0.3.0"
-            }
-          },
-          "0.2.1": {
-            "version": "0.2.1",
-            "name": "xyz.misakal.vpm.yet-another-sdk-patch.avatars",
-            "displayName": "Yet Another SDK Patch - Avatars Pack",
-            "description": "Patch to fix avatar sdk won't crop thumbnail when creating new avatar after upgrade to 3.9.0 or newer.",
-            "url": "https://github.com/project-vrcz/yet-another-sdk-patch/releases/download/avatars-sdk-patch-v0.2.1/xyz.misakal.vpm.yet-another-sdk-patch.avatars.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": "^3.7.0",
-              "xyz.misakal.vpm.yes-patch-framework-for-sdk": "^0.2.0-beta.1"
-            }
-          },
-          "0.2.0": {
-            "version": "0.2.0",
-            "name": "xyz.misakal.vpm.yet-another-sdk-patch.avatars",
-            "displayName": "Yet Another Patch for VRChat SDK - Avatars",
-            "description": "Patch to fix avatar sdk won't crop thumbnail when creating new avatar after upgrade to 3.9.0 or newer.",
-            "url": "https://github.com/project-vrcz/yet-another-sdk-patch/releases/download/avatars-sdk-patch-v0.2.0/xyz.misakal.vpm.yet-another-sdk-patch.avatars.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": "^3.7.0",
-              "xyz.misakal.vpm.yes-patch-framework-for-sdk": "^0.2.0-beta.1"
-            }
-          },
-          "0.2.0-beta.1": {
-            "version": "0.2.0-beta.1",
-            "name": "xyz.misakal.vpm.yet-another-sdk-patch.avatars",
-            "displayName": "Yet Another Patch for VRChat SDK - Avatars",
-            "description": "Patch to fix avatar sdk won't crop thumbnail when creating new avatar after upgrade to 3.9.0 or newer.",
-            "url": "https://github.com/project-vrcz/yet-another-sdk-patch/releases/download/avatars-sdk-patch-v0.2.0-beta.1/xyz.misakal.vpm.yet-another-sdk-patch.avatars.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": "^3.7.0",
-              "xyz.misakal.vpm.yes-patch-framework-for-sdk": "^0.2.0-beta.1"
-            }
-          },
-          "0.1.0": {
-            "version": "0.1.0",
-            "name": "xyz.misakal.vpm.yet-another-sdk-patch.avatars",
-            "displayName": "Yet Another Patch for VRChat SDK - Avatars",
-            "description": "Patch to fix avatar sdk won't crop thumbnail when creating new avatar after upgrade to 3.9.0 or newer.",
-            "url": "https://github.com/project-vrcz/yet-another-sdk-patch/releases/download/avatars-sdk-patch-v0.1.0/xyz.misakal.vpm.yet-another-sdk-patch.avatars.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": "^3.7.0",
-              "xyz.misakal.vpm.yes-patch-framework-for-sdk": "^0.1.0"
-            }
-          },
-          "0.1.0-beta.1": {
-            "version": "0.1.0-beta.1",
-            "name": "xyz.misakal.vpm.yet-another-sdk-patch.avatars",
-            "displayName": "Yet Another Patch for VRChat SDK - Avatars",
-            "description": "Patch to fix avatar sdk won't crop thumbnail when creating new avatar after upgrade to 3.9.0 or newer.",
-            "url": "https://github.com/project-vrcz/yet-another-sdk-patch/releases/download/avatars-sdk-patch-v0.1.0-beta.1/xyz.misakal.vpm.yet-another-sdk-patch.avatars.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": "^3.7.0",
-              "xyz.misakal.vpm.yes-patch-framework-for-sdk": "^0.1.0-beta.1"
-            }
-          }
-        }
-      },
-      "xyz.misakal.vpm.yet-another-sdk-patch.worlds": {
-        "id": "xyz.misakal.vpm.yet-another-sdk-patch.worlds",
-        "name": "xyz.misakal.vpm.yet-another-sdk-patch.worlds",
-        "displayName": "Yet Another SDK Patch - Worlds Pack",
-        "description": "Add ability to profiling Udon",
-        "latestVersion": "0.3.1",
-        "versionCount": 7,
-        "keywords": [
-          "vrchat",
-          "patch",
-          "patcher"
-        ],
-        "unity": "2022.3",
-        "author": {
-          "name": "project-vrcz"
-        },
-        "versions": {
           "0.3.1": {
             "version": "0.3.1",
             "name": "xyz.misakal.vpm.yet-another-sdk-patch.worlds",
@@ -66865,8 +66790,8 @@
         "name": "xyz.misakal.vpm.yet-another-sdk-patch",
         "displayName": "Yet Another SDK Patch - Common Pack",
         "description": "Provide Network Resilience ability, hotfix and add some quality of life features for VRChat SDK.",
-        "latestVersion": "0.3.0",
-        "versionCount": 8,
+        "latestVersion": "0.3.1",
+        "versionCount": 9,
         "keywords": [
           "vrchat",
           "patch",
@@ -66877,6 +66802,19 @@
           "name": "project-vrcz"
         },
         "versions": {
+          "0.3.1": {
+            "version": "0.3.1",
+            "name": "xyz.misakal.vpm.yet-another-sdk-patch",
+            "displayName": "Yet Another SDK Patch - Common Pack",
+            "description": "Provide Network Resilience ability, hotfix and add some quality of life features for VRChat SDK.",
+            "url": "https://github.com/project-vrcz/yet-another-sdk-patch/releases/download/sdk-patch-v0.3.1/xyz.misakal.vpm.yet-another-sdk-patch.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "^3.7.0",
+              "xyz.misakal.vpm.yes-patch-framework-for-sdk": "^0.3.0"
+            }
+          },
           "0.3.0": {
             "version": "0.3.0",
             "name": "xyz.misakal.vpm.yet-another-sdk-patch",
@@ -66983,6 +66921,142 @@
           }
         }
       },
+      "xyz.misakal.vpm.yet-another-sdk-patch.avatars": {
+        "id": "xyz.misakal.vpm.yet-another-sdk-patch.avatars",
+        "name": "xyz.misakal.vpm.yet-another-sdk-patch.avatars",
+        "displayName": "Yet Another SDK Patch - Avatars Pack",
+        "description": "Patch to fix avatar sdk won't crop thumbnail when creating new avatar after upgrade to 3.9.0 or newer.",
+        "latestVersion": "0.3.1",
+        "versionCount": 9,
+        "keywords": [
+          "vrchat",
+          "patch",
+          "patcher"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "project-vrcz"
+        },
+        "versions": {
+          "0.3.1": {
+            "version": "0.3.1",
+            "name": "xyz.misakal.vpm.yet-another-sdk-patch.avatars",
+            "displayName": "Yet Another SDK Patch - Avatars Pack",
+            "description": "Patch to fix avatar sdk won't crop thumbnail when creating new avatar after upgrade to 3.9.0 or newer.",
+            "url": "https://github.com/project-vrcz/yet-another-sdk-patch/releases/download/avatars-sdk-patch-v0.3.1/xyz.misakal.vpm.yet-another-sdk-patch.avatars.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.7.0",
+              "xyz.misakal.vpm.yes-patch-framework-for-sdk": "^0.3.0"
+            }
+          },
+          "0.3.1-beta.2": {
+            "version": "0.3.1-beta.2",
+            "name": "xyz.misakal.vpm.yet-another-sdk-patch.avatars",
+            "displayName": "Yet Another SDK Patch - Avatars Pack",
+            "description": "Patch to fix avatar sdk won't crop thumbnail when creating new avatar after upgrade to 3.9.0 or newer.",
+            "url": "https://github.com/project-vrcz/yet-another-sdk-patch/releases/download/avatars-sdk-patch-v0.3.1-beta.2/xyz.misakal.vpm.yet-another-sdk-patch.avatars.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.7.0",
+              "xyz.misakal.vpm.yes-patch-framework-for-sdk": "^0.3.0"
+            }
+          },
+          "0.3.1-beta.1": {
+            "version": "0.3.1-beta.1",
+            "name": "xyz.misakal.vpm.yet-another-sdk-patch.avatars",
+            "displayName": "Yet Another SDK Patch - Avatars Pack",
+            "description": "Patch to fix avatar sdk won't crop thumbnail when creating new avatar after upgrade to 3.9.0 or newer.",
+            "url": "https://github.com/project-vrcz/yet-another-sdk-patch/releases/download/avatars-sdk-patch-v0.3.1-beta.1/xyz.misakal.vpm.yet-another-sdk-patch.avatars.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.7.0",
+              "xyz.misakal.vpm.yes-patch-framework-for-sdk": "^0.3.0"
+            }
+          },
+          "0.3.0": {
+            "version": "0.3.0",
+            "name": "xyz.misakal.vpm.yet-another-sdk-patch.avatars",
+            "displayName": "Yet Another SDK Patch - Avatars Pack",
+            "description": "Patch to fix avatar sdk won't crop thumbnail when creating new avatar after upgrade to 3.9.0 or newer.",
+            "url": "https://github.com/project-vrcz/yet-another-sdk-patch/releases/download/avatars-sdk-patch-v0.3.0/xyz.misakal.vpm.yet-another-sdk-patch.avatars.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.7.0",
+              "xyz.misakal.vpm.yes-patch-framework-for-sdk": "^0.3.0"
+            }
+          },
+          "0.2.1": {
+            "version": "0.2.1",
+            "name": "xyz.misakal.vpm.yet-another-sdk-patch.avatars",
+            "displayName": "Yet Another SDK Patch - Avatars Pack",
+            "description": "Patch to fix avatar sdk won't crop thumbnail when creating new avatar after upgrade to 3.9.0 or newer.",
+            "url": "https://github.com/project-vrcz/yet-another-sdk-patch/releases/download/avatars-sdk-patch-v0.2.1/xyz.misakal.vpm.yet-another-sdk-patch.avatars.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.7.0",
+              "xyz.misakal.vpm.yes-patch-framework-for-sdk": "^0.2.0-beta.1"
+            }
+          },
+          "0.2.0": {
+            "version": "0.2.0",
+            "name": "xyz.misakal.vpm.yet-another-sdk-patch.avatars",
+            "displayName": "Yet Another Patch for VRChat SDK - Avatars",
+            "description": "Patch to fix avatar sdk won't crop thumbnail when creating new avatar after upgrade to 3.9.0 or newer.",
+            "url": "https://github.com/project-vrcz/yet-another-sdk-patch/releases/download/avatars-sdk-patch-v0.2.0/xyz.misakal.vpm.yet-another-sdk-patch.avatars.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.7.0",
+              "xyz.misakal.vpm.yes-patch-framework-for-sdk": "^0.2.0-beta.1"
+            }
+          },
+          "0.2.0-beta.1": {
+            "version": "0.2.0-beta.1",
+            "name": "xyz.misakal.vpm.yet-another-sdk-patch.avatars",
+            "displayName": "Yet Another Patch for VRChat SDK - Avatars",
+            "description": "Patch to fix avatar sdk won't crop thumbnail when creating new avatar after upgrade to 3.9.0 or newer.",
+            "url": "https://github.com/project-vrcz/yet-another-sdk-patch/releases/download/avatars-sdk-patch-v0.2.0-beta.1/xyz.misakal.vpm.yet-another-sdk-patch.avatars.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.7.0",
+              "xyz.misakal.vpm.yes-patch-framework-for-sdk": "^0.2.0-beta.1"
+            }
+          },
+          "0.1.0": {
+            "version": "0.1.0",
+            "name": "xyz.misakal.vpm.yet-another-sdk-patch.avatars",
+            "displayName": "Yet Another Patch for VRChat SDK - Avatars",
+            "description": "Patch to fix avatar sdk won't crop thumbnail when creating new avatar after upgrade to 3.9.0 or newer.",
+            "url": "https://github.com/project-vrcz/yet-another-sdk-patch/releases/download/avatars-sdk-patch-v0.1.0/xyz.misakal.vpm.yet-another-sdk-patch.avatars.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.7.0",
+              "xyz.misakal.vpm.yes-patch-framework-for-sdk": "^0.1.0"
+            }
+          },
+          "0.1.0-beta.1": {
+            "version": "0.1.0-beta.1",
+            "name": "xyz.misakal.vpm.yet-another-sdk-patch.avatars",
+            "displayName": "Yet Another Patch for VRChat SDK - Avatars",
+            "description": "Patch to fix avatar sdk won't crop thumbnail when creating new avatar after upgrade to 3.9.0 or newer.",
+            "url": "https://github.com/project-vrcz/yet-another-sdk-patch/releases/download/avatars-sdk-patch-v0.1.0-beta.1/xyz.misakal.vpm.yet-another-sdk-patch.avatars.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.7.0",
+              "xyz.misakal.vpm.yes-patch-framework-for-sdk": "^0.1.0-beta.1"
+            }
+          }
+        }
+      },
       "xyz.misakal.vpm.yes-patch-framework-for-sdk": {
         "id": "xyz.misakal.vpm.yes-patch-framework-for-sdk",
         "name": "xyz.misakal.vpm.yes-patch-framework-for-sdk",
@@ -67072,13 +67146,13 @@
           }
         }
       },
-      "xyz.misakal.vpm.vcm-connect": {
-        "id": "xyz.misakal.vpm.vcm-connect",
-        "name": "xyz.misakal.vpm.vcm-connect",
-        "displayName": "VRChat Content Publisher Connect - Base",
+      "xyz.misakal.vpm.vcm-connect.worlds": {
+        "id": "xyz.misakal.vpm.vcm-connect.worlds",
+        "name": "xyz.misakal.vpm.vcm-connect.worlds",
+        "displayName": "VRChat Content Publisher Connect - Worlds",
         "description": "Connect to your VRChat Content Publisher",
         "latestVersion": "0.5.2",
-        "versionCount": 15,
+        "versionCount": 11,
         "keywords": [
           "vrchat"
         ],
@@ -67089,6 +67163,180 @@
           "url": "https://misakal.xyz"
         },
         "versions": {
+          "0.5.2": {
+            "version": "0.5.2",
+            "name": "xyz.misakal.vpm.vcm-connect.worlds",
+            "displayName": "VRChat Content Publisher Connect - Worlds",
+            "description": "Connect to your VRChat Content Publisher",
+            "url": "https://github.com/project-vrcz/content-publisher-connect/releases/download/worlds-v0.5.2/xyz.misakal.vpm.vcm-connect.worlds.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "xyz.misakal.vpm.vcm-connect": "^0.5.0",
+              "com.vrchat.worlds": "^3.7.0"
+            }
+          },
+          "0.5.1": {
+            "version": "0.5.1",
+            "name": "xyz.misakal.vpm.vcm-connect.worlds",
+            "displayName": "VRChat Content Publisher Connect - Worlds",
+            "description": "Connect to your VRChat Content Publisher",
+            "url": "https://github.com/project-vrcz/content-publisher-connect/releases/download/worlds-v0.5.1/xyz.misakal.vpm.vcm-connect.worlds.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "xyz.misakal.vpm.vcm-connect": "^0.5.0",
+              "com.vrchat.worlds": "^3.7.0"
+            }
+          },
+          "0.5.0": {
+            "version": "0.5.0",
+            "name": "xyz.misakal.vpm.vcm-connect.worlds",
+            "displayName": "VRChat Content Publisher Connect - Worlds",
+            "description": "Connect to your VRChat Content Publisher",
+            "url": "https://github.com/project-vrcz/content-publisher-connect/releases/download/worlds-v0.5.0/xyz.misakal.vpm.vcm-connect.worlds.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "xyz.misakal.vpm.vcm-connect": "^0.4.0",
+              "com.vrchat.worlds": "^3.7.0"
+            }
+          },
+          "0.4.0": {
+            "version": "0.4.0",
+            "name": "xyz.misakal.vpm.vcm-connect.worlds",
+            "displayName": "VRChat Content Publisher Connect - Worlds",
+            "description": "Connect to your VRChat Content Publisher",
+            "url": "https://github.com/project-vrcz/content-publisher-connect/releases/download/worlds-v0.4.0/xyz.misakal.vpm.vcm-connect.worlds.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "xyz.misakal.vpm.vcm-connect": "^0.4.0",
+              "com.vrchat.worlds": "^3.7.0"
+            }
+          },
+          "0.3.0": {
+            "version": "0.3.0",
+            "name": "xyz.misakal.vpm.vcm-connect.worlds",
+            "displayName": "VRChat Content Publisher Connect - Worlds",
+            "description": "Connect to your VRChat Content Publisher",
+            "url": "https://github.com/project-vrcz/content-publisher-connect/releases/download/worlds-v0.3.0/xyz.misakal.vpm.vcm-connect.worlds.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "xyz.misakal.vpm.vcm-connect": "^0.3.0",
+              "com.vrchat.worlds": "^3.7.0"
+            }
+          },
+          "0.2.0": {
+            "version": "0.2.0",
+            "name": "xyz.misakal.vpm.vcm-connect.worlds",
+            "displayName": "VRChat Content Manager Connect - Worlds",
+            "description": "Connect to your VRChat Content Manager",
+            "url": "https://github.com/project-vrcz/content-publisher-connect/releases/download/worlds-v0.2.0/xyz.misakal.vpm.vcm-connect.worlds.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "xyz.misakal.vpm.vcm-connect": "^0.2.0-beta.2",
+              "com.vrchat.worlds": "^3.7.0"
+            }
+          },
+          "0.2.0-beta.2": {
+            "version": "0.2.0-beta.2",
+            "name": "xyz.misakal.vpm.vcm-connect.worlds",
+            "displayName": "VRChat Content Manager Connect - Worlds",
+            "description": "Connect to your VRChat Content Manager",
+            "url": "https://github.com/project-vrcz/content-publisher-connect/releases/download/worlds-v0.2.0-beta.2/xyz.misakal.vpm.vcm-connect.worlds.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "xyz.misakal.vpm.vcm-connect": "^0.2.0-beta.2",
+              "com.vrchat.worlds": "^3.7.0"
+            }
+          },
+          "0.2.0-beta.1": {
+            "version": "0.2.0-beta.1",
+            "name": "xyz.misakal.vpm.vcm-connect.worlds",
+            "displayName": "VRChat Content Manager Connect - Worlds",
+            "description": "Connect to your VRChat Content Manager",
+            "url": "https://github.com/project-vrcz/content-publisher-connect/releases/download/worlds-v0.2.0-beta.1/xyz.misakal.vpm.vcm-connect.worlds.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "xyz.misakal.vpm.vcm-connect": "^0.2.0-beta.1",
+              "com.vrchat.worlds": "^3.7.0"
+            }
+          },
+          "0.1.0": {
+            "version": "0.1.0",
+            "name": "xyz.misakal.vpm.vcm-connect.worlds",
+            "displayName": "VRChat Content Manager Connect - Worlds",
+            "description": "Connect to your VRChat Content Manager",
+            "url": "https://github.com/project-vrcz/content-publisher-connect/releases/download/worlds-v0.1.0/xyz.misakal.vpm.vcm-connect.worlds.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "xyz.misakal.vpm.vcm-connect": "^0.1.0",
+              "com.vrchat.worlds": "^3.7.0"
+            }
+          },
+          "0.1.0-beta.2": {
+            "version": "0.1.0-beta.2",
+            "name": "xyz.misakal.vpm.vcm-connect.worlds",
+            "displayName": "VRChat Content Manager Connect - Worlds",
+            "description": "Connect to your VRChat Content Manager",
+            "url": "https://github.com/project-vrcz/content-publisher-connect/releases/download/worlds-v0.1.0-beta.2/xyz.misakal.vpm.vcm-connect.worlds.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "xyz.misakal.vpm.vcm-connect": "^0.1.0-beta.1",
+              "com.vrchat.worlds": "^3.7.0"
+            }
+          },
+          "0.1.0-beta.1": {
+            "version": "0.1.0-beta.1",
+            "name": "xyz.misakal.vpm.vcm-connect.worlds",
+            "displayName": "VRChat Content Manager Connect - Worlds",
+            "description": "Connect to your VRChat Content Manager",
+            "url": "https://github.com/project-vrcz/content-publisher-connect/releases/download/worlds-v0.1.0-beta.1/xyz.misakal.vpm.vcm-connect.worlds.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "xyz.misakal.vpm.vcm-connect": "^0.1.0-beta.1"
+            }
+          }
+        }
+      },
+      "xyz.misakal.vpm.vcm-connect": {
+        "id": "xyz.misakal.vpm.vcm-connect",
+        "name": "xyz.misakal.vpm.vcm-connect",
+        "displayName": "VRChat Content Publisher Connect - Base",
+        "description": "Connect to your VRChat Content Publisher",
+        "latestVersion": "0.5.3",
+        "versionCount": 16,
+        "keywords": [
+          "vrchat"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "Misaka-L",
+          "email": "lipww1234@foxmail.com",
+          "url": "https://misakal.xyz"
+        },
+        "versions": {
+          "0.5.3": {
+            "version": "0.5.3",
+            "name": "xyz.misakal.vpm.vcm-connect",
+            "displayName": "VRChat Content Publisher Connect - Base",
+            "description": "Connect to your VRChat Content Publisher",
+            "url": "https://github.com/project-vrcz/content-publisher-connect/releases/download/base-v0.5.3/xyz.misakal.vpm.vcm-connect.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "^3.7.0",
+              "xyz.misakal.vpm.yes-patch-framework-for-sdk": "^0.3.0"
+            }
+          },
           "0.5.2": {
             "version": "0.5.2",
             "name": "xyz.misakal.vpm.vcm-connect",
@@ -67286,8 +67534,8 @@
         "name": "xyz.misakal.vpm.vcm-connect.avatars",
         "displayName": "VRChat Content Publisher Connect - Avatars",
         "description": "Connect to your VRChat Content Publisher",
-        "latestVersion": "0.5.2",
-        "versionCount": 12,
+        "latestVersion": "0.5.3",
+        "versionCount": 13,
         "keywords": [
           "vrchat"
         ],
@@ -67298,6 +67546,19 @@
           "url": "https://misakal.xyz"
         },
         "versions": {
+          "0.5.3": {
+            "version": "0.5.3",
+            "name": "xyz.misakal.vpm.vcm-connect.avatars",
+            "displayName": "VRChat Content Publisher Connect - Avatars",
+            "description": "Connect to your VRChat Content Publisher",
+            "url": "https://github.com/project-vrcz/content-publisher-connect/releases/download/avatars-v0.5.3/xyz.misakal.vpm.vcm-connect.avatars.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "xyz.misakal.vpm.vcm-connect": "^0.5.2",
+              "com.vrchat.avatars": "^3.7.0"
+            }
+          },
           "0.5.2": {
             "version": "0.5.2",
             "name": "xyz.misakal.vpm.vcm-connect.avatars",
@@ -67447,154 +67708,6 @@
             "displayName": "VRChat Content Manager Connect - Avatars",
             "description": "Connect to your VRChat Content Manager",
             "url": "https://github.com/project-vrcz/content-publisher-connect/releases/download/avatars-v0.1.0-beta/xyz.misakal.vpm.vcm-connect.avatars.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "xyz.misakal.vpm.vcm-connect": "^0.1.0-beta.1"
-            }
-          }
-        }
-      },
-      "xyz.misakal.vpm.vcm-connect.worlds": {
-        "id": "xyz.misakal.vpm.vcm-connect.worlds",
-        "name": "xyz.misakal.vpm.vcm-connect.worlds",
-        "displayName": "VRChat Content Publisher Connect - Worlds",
-        "description": "Connect to your VRChat Content Publisher",
-        "latestVersion": "0.5.1",
-        "versionCount": 10,
-        "keywords": [
-          "vrchat"
-        ],
-        "unity": "2022.3",
-        "author": {
-          "name": "Misaka-L",
-          "email": "lipww1234@foxmail.com",
-          "url": "https://misakal.xyz"
-        },
-        "versions": {
-          "0.5.1": {
-            "version": "0.5.1",
-            "name": "xyz.misakal.vpm.vcm-connect.worlds",
-            "displayName": "VRChat Content Publisher Connect - Worlds",
-            "description": "Connect to your VRChat Content Publisher",
-            "url": "https://github.com/project-vrcz/content-publisher-connect/releases/download/worlds-v0.5.1/xyz.misakal.vpm.vcm-connect.worlds.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "xyz.misakal.vpm.vcm-connect": "^0.5.0",
-              "com.vrchat.worlds": "^3.7.0"
-            }
-          },
-          "0.5.0": {
-            "version": "0.5.0",
-            "name": "xyz.misakal.vpm.vcm-connect.worlds",
-            "displayName": "VRChat Content Publisher Connect - Worlds",
-            "description": "Connect to your VRChat Content Publisher",
-            "url": "https://github.com/project-vrcz/content-publisher-connect/releases/download/worlds-v0.5.0/xyz.misakal.vpm.vcm-connect.worlds.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "xyz.misakal.vpm.vcm-connect": "^0.4.0",
-              "com.vrchat.worlds": "^3.7.0"
-            }
-          },
-          "0.4.0": {
-            "version": "0.4.0",
-            "name": "xyz.misakal.vpm.vcm-connect.worlds",
-            "displayName": "VRChat Content Publisher Connect - Worlds",
-            "description": "Connect to your VRChat Content Publisher",
-            "url": "https://github.com/project-vrcz/content-publisher-connect/releases/download/worlds-v0.4.0/xyz.misakal.vpm.vcm-connect.worlds.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "xyz.misakal.vpm.vcm-connect": "^0.4.0",
-              "com.vrchat.worlds": "^3.7.0"
-            }
-          },
-          "0.3.0": {
-            "version": "0.3.0",
-            "name": "xyz.misakal.vpm.vcm-connect.worlds",
-            "displayName": "VRChat Content Publisher Connect - Worlds",
-            "description": "Connect to your VRChat Content Publisher",
-            "url": "https://github.com/project-vrcz/content-publisher-connect/releases/download/worlds-v0.3.0/xyz.misakal.vpm.vcm-connect.worlds.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "xyz.misakal.vpm.vcm-connect": "^0.3.0",
-              "com.vrchat.worlds": "^3.7.0"
-            }
-          },
-          "0.2.0": {
-            "version": "0.2.0",
-            "name": "xyz.misakal.vpm.vcm-connect.worlds",
-            "displayName": "VRChat Content Manager Connect - Worlds",
-            "description": "Connect to your VRChat Content Manager",
-            "url": "https://github.com/project-vrcz/content-publisher-connect/releases/download/worlds-v0.2.0/xyz.misakal.vpm.vcm-connect.worlds.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "xyz.misakal.vpm.vcm-connect": "^0.2.0-beta.2",
-              "com.vrchat.worlds": "^3.7.0"
-            }
-          },
-          "0.2.0-beta.2": {
-            "version": "0.2.0-beta.2",
-            "name": "xyz.misakal.vpm.vcm-connect.worlds",
-            "displayName": "VRChat Content Manager Connect - Worlds",
-            "description": "Connect to your VRChat Content Manager",
-            "url": "https://github.com/project-vrcz/content-publisher-connect/releases/download/worlds-v0.2.0-beta.2/xyz.misakal.vpm.vcm-connect.worlds.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "xyz.misakal.vpm.vcm-connect": "^0.2.0-beta.2",
-              "com.vrchat.worlds": "^3.7.0"
-            }
-          },
-          "0.2.0-beta.1": {
-            "version": "0.2.0-beta.1",
-            "name": "xyz.misakal.vpm.vcm-connect.worlds",
-            "displayName": "VRChat Content Manager Connect - Worlds",
-            "description": "Connect to your VRChat Content Manager",
-            "url": "https://github.com/project-vrcz/content-publisher-connect/releases/download/worlds-v0.2.0-beta.1/xyz.misakal.vpm.vcm-connect.worlds.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "xyz.misakal.vpm.vcm-connect": "^0.2.0-beta.1",
-              "com.vrchat.worlds": "^3.7.0"
-            }
-          },
-          "0.1.0": {
-            "version": "0.1.0",
-            "name": "xyz.misakal.vpm.vcm-connect.worlds",
-            "displayName": "VRChat Content Manager Connect - Worlds",
-            "description": "Connect to your VRChat Content Manager",
-            "url": "https://github.com/project-vrcz/content-publisher-connect/releases/download/worlds-v0.1.0/xyz.misakal.vpm.vcm-connect.worlds.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "xyz.misakal.vpm.vcm-connect": "^0.1.0",
-              "com.vrchat.worlds": "^3.7.0"
-            }
-          },
-          "0.1.0-beta.2": {
-            "version": "0.1.0-beta.2",
-            "name": "xyz.misakal.vpm.vcm-connect.worlds",
-            "displayName": "VRChat Content Manager Connect - Worlds",
-            "description": "Connect to your VRChat Content Manager",
-            "url": "https://github.com/project-vrcz/content-publisher-connect/releases/download/worlds-v0.1.0-beta.2/xyz.misakal.vpm.vcm-connect.worlds.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "xyz.misakal.vpm.vcm-connect": "^0.1.0-beta.1",
-              "com.vrchat.worlds": "^3.7.0"
-            }
-          },
-          "0.1.0-beta.1": {
-            "version": "0.1.0-beta.1",
-            "name": "xyz.misakal.vpm.vcm-connect.worlds",
-            "displayName": "VRChat Content Manager Connect - Worlds",
-            "description": "Connect to your VRChat Content Manager",
-            "url": "https://github.com/project-vrcz/content-publisher-connect/releases/download/worlds-v0.1.0-beta.1/xyz.misakal.vpm.vcm-connect.worlds.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -69361,8 +69474,8 @@
     "name": "Pichu packages",
     "id": "dev.raspichu.vpm",
     "author": "Pichu",
-    "hash": "ebf0038bbcb05fb4e679a11dfdd24caa368d244d7dec44d2200b6d8179a3c42b",
-    "last_updated": "2026-07-06T13:01:05.000Z",
+    "hash": "99f163b853e127bbd1300f6f2e737ff33cd2326f6b7803f429221419cd5bbbf8",
+    "last_updated": "2026-08-03T10:28:11.000Z",
     "packageCount": 2,
     "packages": {
       "dev.raspichu.inspector-enhancements": {
@@ -69370,14 +69483,27 @@
         "name": "dev.raspichu.inspector-enhancements",
         "displayName": "Pichu Inspector Enhancements",
         "description": "A tool that enhances the inspector with more features and tools.",
-        "latestVersion": "0.6.20",
-        "versionCount": 36,
+        "latestVersion": "0.6.21",
+        "versionCount": 37,
         "keywords": [],
         "unity": "2019.4",
         "author": {
           "name": "Pichu"
         },
         "versions": {
+          "0.6.21": {
+            "version": "0.6.21",
+            "name": "dev.raspichu.inspector-enhancements",
+            "displayName": "Pichu Inspector Enhancements",
+            "description": "A tool that enhances the inspector with more features and tools.",
+            "url": "https://github.com/raspichu/VRC-Inspector-Enhancements/releases/download/0.6.21/dev.raspichu.inspector-enhancements-0.6.21.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "nadena.dev.modular-avatar": ">=1.10.0 <2.0.0-a",
+              "com.vrchat.avatars": ">=3.3.0 <3.11.0"
+            }
+          },
           "0.6.20": {
             "version": "0.6.20",
             "name": "dev.raspichu.inspector-enhancements",
@@ -69853,14 +69979,26 @@
         "name": "dev.raspichu.vrc-tools",
         "displayName": "Pichu VRC tools",
         "description": "Tools for VRC SDK3 avatars",
-        "latestVersion": "0.14.1",
-        "versionCount": 74,
+        "latestVersion": "0.14.2",
+        "versionCount": 75,
         "keywords": [],
         "unity": "2019.4",
         "author": {
           "name": "Pichu"
         },
         "versions": {
+          "0.14.2": {
+            "version": "0.14.2",
+            "name": "dev.raspichu.vrc-tools",
+            "displayName": "Pichu VRC tools",
+            "description": "Tools for VRC SDK3 avatars",
+            "url": "https://github.com/raspichu/VRC-tools/releases/download/0.14.2/dev.raspichu.vrc-tools-0.14.2.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.3.0 <3.11.0"
+            }
+          },
           "0.14.1": {
             "version": "0.14.1",
             "name": "dev.raspichu.vrc-tools",
@@ -70759,7 +70897,7 @@
     "id": "dev.kokoa.vpmPackageRepository",
     "author": "kokoa",
     "hash": "c23d8dc23386252afb97257909c6c654bd76a10f7ed52535906733f1dbc9f41f",
-    "last_updated": "2026-08-03T00:00:55.000Z",
+    "last_updated": "2026-08-04T00:14:09.000Z",
     "packageCount": 7,
     "packages": {
       "dev.kokoa.upload-notification": {
@@ -71887,7 +72025,7 @@
     "id": "chirp.reava.listings",
     "author": "Reava_",
     "hash": "741ef16424995b0c841b5b1ea6be385df118c35462b94b7bc8782c0634ab8585",
-    "last_updated": "2026-05-15T12:22:07.000Z",
+    "last_updated": "2026-05-15T12:22:06.000Z",
     "packageCount": 4,
     "packages": {
       "chirp.reava.uwutils": {
@@ -79100,7 +79238,7 @@
     "id": "com.mizore-nekoyanagi.vpm-packages",
     "author": "Mizore Nekoyanagi",
     "hash": "df5c206bda4082fc4825f6e0002aea2319d15d80cf9dc71813ef06fb4db812e7",
-    "last_updated": "2026-02-19T08:55:54.000Z",
+    "last_updated": "2026-02-19T08:55:53.000Z",
     "packageCount": 4,
     "packages": {
       "com.mizore-nekoyanagi.utils.apply-prefab-window": {
@@ -90002,7 +90140,7 @@
     "id": "co.raphii.vpm-listing",
     "author": "Raphiiko",
     "hash": "13d7c0741bdb67306d4706066396ddccd4188238b4335f6b126e26cf84767a0b",
-    "last_updated": "2026-07-03T23:15:32.000Z",
+    "last_updated": "2026-07-03T23:15:31.000Z",
     "packageCount": 1,
     "packages": {
       "co.raphii.vrti.avatarmenu": {
@@ -90065,8 +90203,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "2501aa6e297c64d89ee109cca465a3f308d61c9e173bce7d3e07da5476e4a937",
-    "last_updated": "2026-08-03T02:31:47.000Z",
+    "hash": "d289ea7ad1e094260a6cae53bf1c3b64d38b0eadd0a2d29f73fabf33ec478c4a",
+    "last_updated": "2026-08-04T02:09:47.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -105011,7 +105149,7 @@
     "name": "anatawa12",
     "id": "com.anatawa12.main",
     "author": "anatawa12",
-    "hash": "267ef7c8db06744ff8d5bf902ad45cbcb4318142da04f2960c15aa737eaf0ddb",
+    "hash": "d9ffd6c76b6ee88c8745ba8062318fd2df2a789274fb34be9d1c98d2c2b06abd",
     "last_updated": "2026-08-01T16:09:51.342Z",
     "packageCount": 14,
     "packages": {
@@ -105021,7 +105159,7 @@
         "displayName": "Anatawa12's AvatarOpitmizer",
         "description": "Set of Anatawa12's Small Avatar Optimization Utilities",
         "latestVersion": "0.0.1",
-        "versionCount": 342,
+        "versionCount": 343,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -109529,6 +109667,19 @@
               "nadena.dev.ndmf": ">=1.8.0 <2.0.0",
               "com.vrchat.avatars": ">=3.7.0 <3.11.0"
             }
+          },
+          "1.9.17-beta.2": {
+            "version": "1.9.17-beta.2",
+            "name": "com.anatawa12.avatar-optimizer",
+            "displayName": "AAO: Avatar Optimizer",
+            "description": "Set of Anatawa12's Small Avatar Optimization Utilities",
+            "url": "https://vpm.anatawa12.com/avatar-optimizer/package-1.9.17-beta.2.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.8.0 <2.0.0",
+              "com.vrchat.avatars": ">=3.7.0 <3.11.0"
+            }
           }
         }
       },
@@ -112290,7 +112441,7 @@
     "id": "org.azuretek.vpm",
     "author": "kobi32768",
     "hash": "9afa17a9cee430b616075de3b61791fa9b017b425564b6b56bd38722425d00db",
-    "last_updated": "2026-08-02T07:39:07.000Z",
+    "last_updated": "2026-08-03T08:53:15.000Z",
     "packageCount": 1,
     "packages": {
       "org.azuretek.copy-transform-shortcut": {
@@ -115824,8 +115975,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "d20a96e91c70b565f3316f8fefd836b1b7911100766923a76047b312c2d1a815",
-    "last_updated": "2026-08-03T02:05:04.000Z",
+    "hash": "de5e72b46c5b7f3d6acf6b413f3cd9e036300c7b2928af7ad10f79281c25fffd",
+    "last_updated": "2026-08-03T22:09:44.000Z",
     "packageCount": 7,
     "packages": {
       "com.valvesoftware.unity.openvr": {
@@ -117972,7 +118123,7 @@
     "id": "com.hoshinolabs.vpm",
     "author": "ikuko",
     "hash": "82ab28127d5aa83add258cc0e9b7b73e9c595cf8a4111d54c20e08e7e905f4af",
-    "last_updated": "2026-07-14T06:51:58.000Z",
+    "last_updated": "2026-07-14T06:51:59.000Z",
     "packageCount": 8,
     "packages": {
       "com.unity.scriptablebuildpipeline": {
@@ -119532,17 +119683,17 @@
     "name": "THE_cattail VPM",
     "id": "com.the-cattail.vpm",
     "author": "THE_cattail",
-    "hash": "ef821c59983d9d441c373a33ef25688a38e14d402cff3141849de635ff1b268c",
-    "last_updated": "2026-07-27T06:56:53.000Z",
+    "hash": "b7ddea2a29b25751700a34c728e37a82c8db7fce34a8ca56a69fa4ab1e3fdaca",
+    "last_updated": "2026-08-03T15:23:01.000Z",
     "packageCount": 1,
     "packages": {
       "com.the-cattail.afk-motion-patcher": {
         "id": "com.the-cattail.afk-motion-patcher",
         "name": "com.the-cattail.afk-motion-patcher",
         "displayName": "AFK Motion Patcher",
-        "description": "Patch an existing AFK layer with model-specific retargeting at avatar build time.",
-        "latestVersion": "1.0.1",
-        "versionCount": 2,
+        "description": "Retarget a source VRChat avatar's AFK behavior graph to a target avatar through explicit mappings at NDMF build time.",
+        "latestVersion": "1.0.0",
+        "versionCount": 1,
         "keywords": [
           "vrchat",
           "ndmf",
@@ -119557,19 +119708,6 @@
           "url": "https://github.com/k-neco-lab/afk-motion-patcher"
         },
         "versions": {
-          "1.0.1": {
-            "version": "1.0.1",
-            "name": "com.the-cattail.afk-motion-patcher",
-            "displayName": "AFK Motion Patcher",
-            "description": "Patch an existing AFK layer with model-specific retargeting at avatar build time.",
-            "url": "https://github.com/k-neco-lab/afk-motion-patcher/releases/download/v1.0.1/com.the-cattail.afk-motion-patcher-1.0.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.0 <3.11.0",
-              "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
-            }
-          },
           "1.0.0": {
             "version": "1.0.0",
             "name": "com.the-cattail.afk-motion-patcher",
@@ -124832,8 +124970,8 @@
     "name": "Poyo's VPM Repo",
     "id": "net.maaaaa.vpm",
     "author": "Poyotoron",
-    "hash": "73c021d6434e7485c01da46b482749dc0b75697cbabc487f7980d4f8b13bbc51",
-    "last_updated": "2026-08-02T12:19:49.000Z",
+    "hash": "ea821beb3461c05dfe3e4878520de3512a7bbe0b0c7f389a77e6de50e7fc7194",
+    "last_updated": "2026-08-03T11:57:57.000Z",
     "packageCount": 3,
     "packages": {
       "net.maaaaa.asset-keshichaumon-nator": {
@@ -124953,8 +125091,8 @@
         "name": "net.maaaaa.irodori-colorizer",
         "displayName": "Irodori Colorizer",
         "description": "Project / Hierarchy の行に色付きラベルを付与するエディタ拡張です。",
-        "latestVersion": "0.1.0",
-        "versionCount": 1,
+        "latestVersion": "0.2.0",
+        "versionCount": 2,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -124962,6 +125100,16 @@
           "url": "https://github.com/Poyotoron"
         },
         "versions": {
+          "0.2.0": {
+            "version": "0.2.0",
+            "name": "net.maaaaa.irodori-colorizer",
+            "displayName": "Irodori Colorizer",
+            "description": "Project / Hierarchy の行に色付きラベルを付与するエディタ拡張です。",
+            "url": "https://github.com/Poyotoron/Irodori-Colorizer/releases/download/0.2.0/net.maaaaa.irodori-colorizer-0.2.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "0.1.0": {
             "version": "0.1.0",
             "name": "net.maaaaa.irodori-colorizer",
@@ -128964,7 +129112,7 @@
     "id": "dev.nadena.vpm",
     "author": "bd_",
     "hash": "23a7d4a17f49b68feb73c318cda3a0f4974d7997b693066abaddfc5731db99e5",
-    "last_updated": "2026-08-03T01:29:44.000Z",
+    "last_updated": "2026-08-03T08:43:34.000Z",
     "packageCount": 4,
     "packages": {
       "nadena.dev.ndmf": {
@@ -143578,7 +143726,7 @@
     "name": "Pukorufu Packages",
     "id": "net.puk06.vpm",
     "author": "Pukorufu",
-    "hash": "573576c54f246c048e08f8f346945f9d1704b9d964fa1f40640565b7fa2b7c68",
+    "hash": "a76c944edf2d7ea6ce9b63cd3c4b29485ce5210a2d1bd1fd4aec66599aaf2cd1",
     "last_updated": "2026-08-01T16:09:53.410Z",
     "packageCount": 9,
     "packages": {
@@ -145037,7 +145185,7 @@
         "displayName": "Material Property Sync Core",
         "description": "A abstract component for non-destructively synchronizing a material's property with other materials.",
         "latestVersion": "1.0.0",
-        "versionCount": 10,
+        "versionCount": 11,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -145169,6 +145317,19 @@
             "displayName": "Material Property Sync Core",
             "description": "A abstract component for non-destructively synchronizing a material's property with other materials.",
             "url": "https://github.com/puk06/MaterialPropertySyncCore/releases/download/v1.1.4/net.puk06.material-property-sync-core-v1.1.4.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.5.0",
+              "com.vrchat.base": ">=3.5.0"
+            }
+          },
+          "1.1.5": {
+            "version": "1.1.5",
+            "name": "net.puk06.material-property-sync-core",
+            "displayName": "Material Property Sync Core",
+            "description": "A abstract component for non-destructively synchronizing a material's property with other materials.",
+            "url": "https://github.com/puk06/MaterialPropertySyncCore/releases/download/v1.1.5/net.puk06.material-property-sync-core-v1.1.5.zip?",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -149558,8 +149719,8 @@
     "name": "WhyKnot Tools",
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
-    "hash": "466e8498211a70197296a486b75bcd9e32ec40f12785df980eec979bb5675543",
-    "last_updated": "2026-08-02T08:05:03.000Z",
+    "hash": "c84b7a5f66b0a6163158a8a26a8b1fc4ef53c1c8894110957fa45fe07e21a7be",
+    "last_updated": "2026-08-03T09:21:37.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -152415,7 +152576,7 @@
     "id": "com.vrchat.repos.official",
     "author": "VRChat",
     "hash": "b35f42ad4d23c4f881bf3fb3385e042d3bd2a87b3da9b2dc834508c9c6e9c65b",
-    "last_updated": "2026-06-17T16:26:11.000Z",
+    "last_updated": "2026-06-17T16:26:10.000Z",
     "packageCount": 4,
     "packages": {
       "com.vrchat.base": {
@@ -157948,7 +158109,7 @@
     "id": "com.vrsuya.vpm",
     "author": "VRSuya",
     "hash": "1ae0fe3f8400e9f087ea1c7b73296cc35c61fa859fb7ed8574fce07825f81269",
-    "last_updated": "2026-07-31T10:29:11.000Z",
+    "last_updated": "2026-08-03T16:45:07.000Z",
     "packageCount": 4,
     "packages": {
       "com.vrsuya.cleaner": {
@@ -169300,7 +169461,7 @@
     "id": "dev.nadena.vpm",
     "author": "bd_",
     "hash": "23a7d4a17f49b68feb73c318cda3a0f4974d7997b693066abaddfc5731db99e5",
-    "last_updated": "2026-08-03T01:29:44.000Z",
+    "last_updated": "2026-08-03T08:43:34.000Z",
     "packageCount": 4,
     "packages": {
       "nadena.dev.ndmf": {
