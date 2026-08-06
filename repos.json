@@ -1262,7 +1262,7 @@
     "id": "com.amehuri.amehuri-tools.listing",
     "author": "amehuri",
     "hash": "86383f3d5cdbd9da2c54498025338e48f24f66f0428999058c699aac074cf087",
-    "last_updated": "2025-12-27T06:24:24.000Z",
+    "last_updated": "2025-12-27T06:24:25.000Z",
     "packageCount": 1,
     "packages": {
       "com.amehuri.amehuri-tools": {
@@ -1399,8 +1399,8 @@
     "name": "An-Labo NailTool",
     "id": "world.anlabo.mdnailtool.vpm",
     "author": "An-Labo",
-    "hash": "5df1395a8b0da88acdd3d96876223a0b9a662863036bf5a5211f5bef08abd536",
-    "last_updated": "2026-08-02T13:44:06.000Z",
+    "hash": "edc549dd83e0a17422c124be973d72f04d1e6d7881e7e5db738a3b2ceb7fcaf8",
+    "last_updated": "2026-08-05T17:25:50.000Z",
     "packageCount": 1,
     "packages": {
       "world.anlabo.mdnailtool": {
@@ -1409,7 +1409,7 @@
         "displayName": "An-Labo NailTool",
         "description": "An-Labo NailTool",
         "latestVersion": "0.9.141",
-        "versionCount": 557,
+        "versionCount": 558,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -8096,6 +8096,18 @@
             "displayName": "An-Labo NailTool",
             "description": "An-Labo NailTool",
             "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.10.46-beta.1/world.anlabo.mdnailtool-0.10.46-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.5.0"
+            }
+          },
+          "0.10.46": {
+            "version": "0.10.46",
+            "name": "world.anlabo.mdnailtool",
+            "displayName": "An-Labo NailTool",
+            "description": "An-Labo NailTool",
+            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.10.46/world.anlabo.mdnailtool-0.10.46.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -16513,7 +16525,7 @@
     "id": "com.cyan.cyantrigger.vcc-listing",
     "author": "CyanLaser",
     "hash": "a6d67a91e3c26d4b2575f25029cc6f6fea9441c11451fdd533128d76b3ba3e61",
-    "last_updated": "2026-07-03T00:44:09.000Z",
+    "last_updated": "2026-07-03T00:44:10.000Z",
     "packageCount": 2,
     "packages": {
       "com.cyan.cyantrigger": {
@@ -28311,10 +28323,254 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "a2779d425c95a49e17f0222a199692641d6c6d8e2d98c5ff3e9d96b120e7efd9",
-    "last_updated": "2026-08-04T14:44:23.000Z",
-    "packageCount": 7,
+    "hash": "484ff9a9b113cc86d4e80cf9f91a1611e70ca5a5b333b3493c7eef6d22041100",
+    "last_updated": "2026-08-06T01:46:33.000Z",
+    "packageCount": 11,
     "packages": {
+      "com.poiyomi.pro": {
+        "id": "com.poiyomi.pro",
+        "name": "com.poiyomi.pro",
+        "displayName": "Poiyomi Pro",
+        "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+        "latestVersion": "10.0.16",
+        "versionCount": 7,
+        "keywords": [
+          "shaders",
+          "vrchat",
+          "poiyomi",
+          "toon"
+        ],
+        "unity": "2021.3",
+        "author": {
+          "email": "poiyomi@poiyomi.com",
+          "name": "Poiyomi",
+          "url": "https://poiyomi.com"
+        },
+        "versions": {
+          "10.0.16": {
+            "version": "10.0.16",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/10.0.16/a899fe0c00c8078ad3b9a284811e96f112af4264bc1dbe5705834473a4dbe6bc",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {
+              "com.poiyomi.thryeditor": ">=2.72.5"
+            }
+          },
+          "10.0.15": {
+            "version": "10.0.15",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/10.0.15/a54143b0008b9771ce5ee53ac9d016b8a490e99cf792c6ba4b857c210557784c",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {
+              "com.poiyomi.thryeditor": ">=2.72.5"
+            }
+          },
+          "10.0.15-beta.1": {
+            "version": "10.0.15-beta.1",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/10.0.15-beta.1/53d2dcda6eb2c179f9c3161d1bbab376da1d97df368f24c2d6d8716db9c5ab0c",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {
+              "com.poiyomi.thryeditor": ">=2.72.5"
+            }
+          },
+          "10.0.14": {
+            "version": "10.0.14",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/10.0.14/8fb95093bf8e4e299d6c91efe92ec4553022e8f51534890051db0c9e026025c9",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
+          },
+          "10.0.13": {
+            "version": "10.0.13",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/10.0.13/a8f6812315d6fa06f2a2cc1624f0de3b4d908d770442cd1662537cadeaef2684",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
+          },
+          "10.0.12": {
+            "version": "10.0.12",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/10.0.12/2d83973bec16fd6aad5dc5d39f398c5718c4f56b57a7d0aefd0ed1f41a794f71",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
+          },
+          "10.0.11": {
+            "version": "10.0.11",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/10.0.11/b82ae9cfb2c28a073da7ddcab883209a9e14168740aaa65c81211774f0553f32",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
+          }
+        }
+      },
+      "com.poiyomi.thryeditor": {
+        "id": "com.poiyomi.thryeditor",
+        "name": "com.poiyomi.thryeditor",
+        "displayName": "ThryEditor",
+        "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+        "latestVersion": "2.73.0-beta.2",
+        "versionCount": 13,
+        "keywords": [],
+        "unity": "2021.3",
+        "author": {
+          "name": "Thryrallo",
+          "url": "https://www.poiyomi.com"
+        },
+        "versions": {
+          "2.73.0-beta.2": {
+            "version": "2.73.0-beta.2",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.73.0-beta.2/a4eecfe6b55a5c6aba81e4bbc3ffab9aa7b514212e02a155137bba5980497c43",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.73.0-beta.1": {
+            "version": "2.73.0-beta.1",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.73.0-beta.1/884306e6bff1368c68adffdbd51520df480db50cdd9627c6da126740c6b1b2ff",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.72.8": {
+            "version": "2.72.8",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.72.8/c8852d2a636954dc4dd12e18fea775f8374e647bf05c3bdf46e85c6c01d95640",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.72.7": {
+            "version": "2.72.7",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.72.7/6db3eef765021cfe9c48271eaa5d2282f25297a8d9bacef16daee6e1c2580366",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.72.6": {
+            "version": "2.72.6",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.72.6/2796e99857ce56d5735092b41f37807c7083f97bf967cec6a88b43a1191f7dd2",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.72.5": {
+            "version": "2.72.5",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.72.5/4e63d4d9be3277ff5ea6ece5132ac124b9de3f80c13fec3913419ce2833285bc",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.72.4": {
+            "version": "2.72.4",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.72.4/ad24d56f1ea6e435b05ca78ab4bb46a46d55ef8d20d79df91f0c3268e7dc5b67",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.72.3": {
+            "version": "2.72.3",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.72.3/39d5c2244d0a825891bc4b08af6630fbf6d5844017245e632e6794519faa5e21",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.72.2": {
+            "version": "2.72.2",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.72.2/5796e78378f7731cc67c325c5e7f62e91ccb6016b53dcba5e653e32d42c83015",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.72.1": {
+            "version": "2.72.1",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.72.1/9005de5b5dedf31794b89c04515b11e40968de71596d6c3e3b650894a6b1e057",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.72.0": {
+            "version": "2.72.0",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.72.0/5de8698b337fed79532be1a2da30afb2885c3a49d61cd33ff7d21bc0fa518365",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.72.0-beta.3": {
+            "version": "2.72.0-beta.3",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.72.0-beta.3/6acd75c179e4325286f9d365032818898828a63401fa48e3d4205d21c93dc5e0",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.72.0-beta.2": {
+            "version": "2.72.0-beta.2",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.72.0-beta.2/0ac176d3934f7de6d7ac21d7e17b6ad8c47788c3336c34d3574c903cc3a7f794",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          }
+        }
+      },
       "com.valvesoftware.unity.openvr": {
         "id": "com.valvesoftware.unity.openvr",
         "name": "com.valvesoftware.unity.openvr",
@@ -28405,7 +28661,7 @@
         "displayName": "Hackebein's Object Tracking",
         "description": "Hackebein's setup for Object Tracking in VRChat",
         "latestVersion": "1.0.0-beta.10",
-        "versionCount": 22,
+        "versionCount": 24,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -28477,6 +28733,34 @@
             "displayName": "Hackebein's Object Tracking",
             "description": "Hackebein's setup for Object Tracking in VRChat",
             "url": "https://vpmm.dev/files/hackebein.objecttracking/1.0.0-beta.6/717c2293d6b4d330a76da00b432a42e009ae30f509ec246096ea5ab2bde15443",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.valvesoftware.unity.openvr": "1.2.4",
+              "com.vrchat.avatars": ">=3.9.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0"
+            }
+          },
+          "1.0.0-beta.5": {
+            "version": "1.0.0-beta.5",
+            "name": "hackebein.objecttracking",
+            "displayName": "Hackebein's Object Tracking",
+            "description": "Hackebein's setup for Object Tracking in VRChat",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking/1.0.0-beta.5/2596ea5248d87a989e459027ae25c89f3b0e4e710f2da0e533bbfcd2d1d9470f",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.valvesoftware.unity.openvr": "1.2.4",
+              "com.vrchat.avatars": ">=3.9.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0"
+            }
+          },
+          "1.0.0-beta.4": {
+            "version": "1.0.0-beta.4",
+            "name": "hackebein.objecttracking",
+            "displayName": "Hackebein's Object Tracking",
+            "description": "Hackebein's setup for Object Tracking in VRChat",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking/1.0.0-beta.4/d748ee0860297ccd80bb8acc9d3130df1c6a53d73c0ad3dce5ddab4b758782bd",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -28697,6 +28981,34 @@
           }
         }
       },
+      "hackebein.objecttracking.assets.lyra-moon": {
+        "id": "hackebein.objecttracking.assets.lyra-moon",
+        "name": "hackebein.objecttracking.assets.lyra-moon",
+        "displayName": "Hackebein's Moon Lyra (Aerial Hoop) for Object Tracking",
+        "description": "Prefab of Moon Lyra (Aerial Hoop), Drop-in installation.",
+        "latestVersion": "1.0.0",
+        "versionCount": 1,
+        "keywords": [],
+        "unity": null,
+        "author": {
+          "email": "hackebein@gmail.com",
+          "name": "Hackebein"
+        },
+        "versions": {
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "hackebein.objecttracking.assets.lyra-moon",
+            "displayName": "Hackebein's Moon Lyra (Aerial Hoop) for Object Tracking",
+            "description": "Prefab of Moon Lyra (Aerial Hoop), Drop-in installation.",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking.assets.lyra-moon/1.0.0/7f78cb8c4652b50f24f4e4f03a72515a1e12062a214a8ae0e87c1927e4f518d8",
+            "zipSha256": null,
+            "vpmDependencies": {
+              "com.poiyomi.pro": ">=10",
+              "hackebein.tools.mapped-scale": "*"
+            }
+          }
+        }
+      },
       "hackebein.objecttracking.examples.pole-simple": {
         "id": "hackebein.objecttracking.examples.pole-simple",
         "name": "hackebein.objecttracking.examples.pole-simple",
@@ -28741,7 +29053,7 @@
         "displayName": "Hackebein's Object Tracking Host",
         "description": "ObjectTracking App for Hackebein's Object Tracking.",
         "latestVersion": "1.0.0-beta.10",
-        "versionCount": 5,
+        "versionCount": 6,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -28808,6 +29120,46 @@
             "unity": "2022.3",
             "vpmDependencies": {
               "com.valvesoftware.unity.openvr": "1.2.4"
+            }
+          },
+          "1.0.0-beta.2": {
+            "version": "1.0.0-beta.2",
+            "name": "hackebein.objecttracking.host",
+            "displayName": "Hackebein's Object Tracking Host",
+            "description": "ObjectTracking App (host executable at package root) for Hackebein's Object Tracking. Uses openvr_api.dll from the OpenVR XR Plugin package when not shipped side-by-side.",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking.host/1.0.0-beta.2/c48afc3e3647c6771cb92c2e869e0c2922c3832e10225d45362013d905c1bdba",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.valvesoftware.unity.openvr": "1.2.4"
+            }
+          }
+        }
+      },
+      "hackebein.tools.mapped-scale": {
+        "id": "hackebein.tools.mapped-scale",
+        "name": "hackebein.tools.mapped-scale",
+        "displayName": "Hackebein's Mapped Scale",
+        "description": "Simple component to scale a GameObject from a labeled dropdown.",
+        "latestVersion": "1.0.0",
+        "versionCount": 1,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "email": "hackebein@gmail.com",
+          "name": "Hackebein"
+        },
+        "versions": {
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "hackebein.tools.mapped-scale",
+            "displayName": "Hackebein's Mapped Scale",
+            "description": "Simple component to scale a GameObject from a labeled dropdown.",
+            "url": "https://vpmm.dev/files/hackebein.tools.mapped-scale/1.0.0/6e174f6efe0b9f3bc83725726ec51675e248906abeb74cc0feb4906b22fc5743",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.9.0"
             }
           }
         }
@@ -34374,7 +34726,7 @@
     "id": "io.github.helpinghandsvr.vpm",
     "author": "Helping Hands",
     "hash": "d3cba140edcf3cb5c17c4b6034085a4238c0dbbd2ce98b5f097b608968bff8fb",
-    "last_updated": "2026-07-03T13:20:30.000Z",
+    "last_updated": "2026-07-03T13:20:29.000Z",
     "packageCount": 2,
     "packages": {
       "io.github.helpinghandsvr.helpinghands-vrchat-avatar-accessories": {
@@ -36558,7 +36910,7 @@
     "id": "com.github.hkrn",
     "author": "hkrn",
     "hash": "66afe02e940c091d4b955f7a758659dfa28c963b53e571fc1c24147280761b5f",
-    "last_updated": "2026-07-12T08:29:09.000Z",
+    "last_updated": "2026-07-12T08:29:10.000Z",
     "packageCount": 1,
     "packages": {
       "com.github.hkrn.ndmf-vrm-exporter": {
@@ -39079,7 +39431,7 @@
     "id": "dev.kaefibot.listing",
     "author": "WoweePaw",
     "hash": "0f954512e7a69a442d27394f918fc68614873d3db3706347e1e36e0acde01244",
-    "last_updated": "2026-07-05T15:03:28.000Z",
+    "last_updated": "2026-07-05T15:03:29.000Z",
     "packageCount": 1,
     "packages": {
       "dev.kaefibot.kaefibot-controller": {
@@ -45116,7 +45468,7 @@
     "id": "net.euan.lazyoptimiser.listing",
     "author": "euan142",
     "hash": "6a0b4ea94d87ae345649306e6fda40f7bd86325206e58e1a4c5943450a9fe4ee",
-    "last_updated": "2025-02-20T10:25:21.000Z",
+    "last_updated": "2025-02-20T10:25:22.000Z",
     "packageCount": 1,
     "packages": {
       "net.euan.lazyoptimiser": {
@@ -45221,7 +45573,7 @@
     "id": "lereldarion",
     "author": "Lereldarion",
     "hash": "fa9cc79e70fb00eb2aa70863c05e008271c255affd1e14192f26540239c3a213",
-    "last_updated": "2026-06-25T19:36:15.000Z",
+    "last_updated": "2026-06-25T19:36:14.000Z",
     "packageCount": 2,
     "packages": {
       "lereldarion.unity-shaders": {
@@ -51121,8 +51473,8 @@
     "name": "MinMinMart Listing",
     "id": "minminmean.listing",
     "author": "MinMinMean",
-    "hash": "49a7a9d9330ec4c4dfb296552ca0578373643b81be2e2cb64f559df1e362a64a",
-    "last_updated": "2026-07-09T00:08:35.000Z",
+    "hash": "cbb005403b09e8c95c7bd84dff0d08daf078582277606a19799115d99504eff0",
+    "last_updated": "2026-08-05T06:11:27.000Z",
     "packageCount": 2,
     "packages": {
       "minminmean.supine": {
@@ -51130,8 +51482,8 @@
         "name": "minminmean.supine",
         "displayName": "Gorone System (Supine)",
         "description": "Have a good sleep",
-        "latestVersion": "4.3.2",
-        "versionCount": 7,
+        "latestVersion": "4.3.4",
+        "versionCount": 9,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -51140,6 +51492,32 @@
           "url": "https://github.com/minminmean"
         },
         "versions": {
+          "4.3.4": {
+            "version": "4.3.4",
+            "name": "minminmean.supine",
+            "displayName": "Gorone System (Supine)",
+            "description": "Have a good sleep",
+            "url": "https://github.com/minminmean/Supine/releases/download/4.3.4/minminmean.supine-4.3.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "nadena.dev.modular-avatar": ">=1.12.3"
+            }
+          },
+          "4.3.3": {
+            "version": "4.3.3",
+            "name": "minminmean.supine",
+            "displayName": "Gorone System (Supine)",
+            "description": "Have a good sleep",
+            "url": "https://github.com/minminmean/Supine/releases/download/4.3.3/minminmean.supine-4.3.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "nadena.dev.modular-avatar": ">=1.12.3"
+            }
+          },
           "4.3.2": {
             "version": "4.3.2",
             "name": "minminmean.supine",
@@ -51238,8 +51616,8 @@
         "name": "minminmean.supine-ex",
         "displayName": "Gorone System EX (Supine EX)",
         "description": "Have a good night",
-        "latestVersion": "4.3.3",
-        "versionCount": 6,
+        "latestVersion": "4.3.5",
+        "versionCount": 8,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -51248,6 +51626,34 @@
           "url": "https://github.com/minminmean"
         },
         "versions": {
+          "4.3.5": {
+            "version": "4.3.5",
+            "name": "minminmean.supine-ex",
+            "displayName": "Gorone System EX (Supine EX)",
+            "description": "Have a good night",
+            "url": "https://github.com/minminmean/Supine-EX/releases/download/4.3.5/minminmean.supine-ex-4.3.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "nadena.dev.modular-avatar": ">=1.12.3",
+              "minminmean.supine": ">=4.3.4"
+            }
+          },
+          "4.3.4": {
+            "version": "4.3.4",
+            "name": "minminmean.supine-ex",
+            "displayName": "Gorone System EX (Supine EX)",
+            "description": "Have a good night",
+            "url": "https://github.com/minminmean/Supine-EX/releases/download/4.3.4/minminmean.supine-ex-4.3.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "nadena.dev.modular-avatar": ">=1.12.3",
+              "minminmean.supine": ">=4.3.3"
+            }
+          },
           "4.3.3": {
             "version": "4.3.3",
             "name": "minminmean.supine-ex",
@@ -54024,7 +54430,7 @@
     "id": "com.nidonocu.virtual-gryphon-packages",
     "author": "Nidonocu",
     "hash": "4f1a4e20ac1e5d3661ae57c8d3353f05d769b8999754be537975ece981b322cc",
-    "last_updated": "2026-07-03T16:56:23.000Z",
+    "last_updated": "2026-07-03T16:56:21.000Z",
     "packageCount": 1,
     "packages": {
       "com.nidonocu.vrcunitytoolbar": {
@@ -70829,7 +71235,7 @@
     "id": "dev.kokoa.vpmPackageRepository",
     "author": "kokoa",
     "hash": "c23d8dc23386252afb97257909c6c654bd76a10f7ed52535906733f1dbc9f41f",
-    "last_updated": "2026-08-05T00:02:35.000Z",
+    "last_updated": "2026-08-06T00:05:09.000Z",
     "packageCount": 7,
     "packages": {
       "dev.kokoa.upload-notification": {
@@ -75650,7 +76056,7 @@
     "id": "dev.redline-team.redlinelist",
     "author": "LoonieLoonz",
     "hash": "a8cd7dcde92420b0ebf6cb6651b1355ea3e4bf3a9f884212c27d6b0298a8ab01",
-    "last_updated": "2026-03-25T01:07:43.000Z",
+    "last_updated": "2026-03-25T01:07:42.000Z",
     "packageCount": 5,
     "packages": {
       "dev.redline-team.rpm": {
@@ -76139,7 +76545,7 @@
     "id": "jp.rroki.vpm",
     "author": "rroki-0u0",
     "hash": "842c482dcb0925dc36f99ba648d5191a7246b5ee657c75c1ab8f80680027bdce",
-    "last_updated": "2026-07-16T09:06:06.000Z",
+    "last_updated": "2026-07-16T09:06:07.000Z",
     "packageCount": 5,
     "packages": {
       "jp.rroki.poiyomi-to-nontoon": {
@@ -78104,7 +78510,7 @@
     "id": "semmiedev.listing",
     "author": "SemmieDev",
     "hash": "764b234bce8d42c19ee898db4f726192706cfc034cfa348a8593e2579a2d0091",
-    "last_updated": "2026-07-06T07:55:28.000Z",
+    "last_updated": "2026-07-06T07:55:29.000Z",
     "packageCount": 2,
     "packages": {
       "semmiedev.friend-pov": {
@@ -88266,7 +88672,7 @@
     "id": "com.triturbo.blendshare.listing",
     "author": "Triturbo",
     "hash": "8d43fe402736de6cd2621406d3b850107d5fa9a6bc801a1a5857547ed262526d",
-    "last_updated": "2026-07-05T12:32:45.000Z",
+    "last_updated": "2026-07-05T12:32:46.000Z",
     "packageCount": 1,
     "packages": {
       "com.triturbo.blendshare": {
@@ -88777,9 +89183,9 @@
     "name": "Valenvrc Listing",
     "id": "com.valenvrc.package_listing",
     "author": "valenvrc",
-    "hash": "14b448e6cb8549534d6938eb791eec0f4740fed4f268d4da507fab8b11c8c257",
-    "last_updated": "2026-07-11T02:26:51.000Z",
-    "packageCount": 7,
+    "hash": "193bf83cfc81d06c32daac61f691718585a57a3017301d981ad256fe7edefc6d",
+    "last_updated": "2026-08-06T01:32:40.000Z",
+    "packageCount": 6,
     "packages": {
       "com.valenvrc.common": {
         "id": "com.valenvrc.common",
@@ -89253,59 +89659,6 @@
             "displayName": "Valenvrc - MPB Applier",
             "description": "A tool for applying Material Property Blocks (MPB) to multiple objects in Unity, designed for VRChat Udon worlds.",
             "url": "https://github.com/ElMoha943/MPBApplier/releases/download/v1.3.0/MPBApplier.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {}
-          }
-        }
-      },
-      "com.valenvrc.vmpbue": {
-        "id": "com.valenvrc.vmpbue",
-        "name": "com.valenvrc.vmpbue",
-        "displayName": "Valenvrc - MPB Editor",
-        "description": "A tool for applying Material Property Blocks (MPB) to multiple objects in Unity, designed for VRChat Udon worlds.",
-        "latestVersion": "1.2.0",
-        "versionCount": 3,
-        "keywords": [
-          "tool",
-          "material",
-          "material property block",
-          "editor",
-          "udon",
-          "vrchat"
-        ],
-        "unity": "2022.3",
-        "author": {
-          "name": "valenvrc",
-          "url": "https://valenvrc.com"
-        },
-        "versions": {
-          "1.2.0": {
-            "version": "1.2.0",
-            "name": "com.valenvrc.vmpbue",
-            "displayName": "Valenvrc - MPB Editor",
-            "description": "A tool for applying Material Property Blocks (MPB) to multiple objects in Unity, designed for VRChat Udon worlds.",
-            "url": "https://github.com/ElMoha943/VMPBUE/releases/download/v1.2.0/valenvrc.MPBEditor-v1.2.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {}
-          },
-          "1.1.0": {
-            "version": "1.1.0",
-            "name": "com.valenvrc.vmpbue",
-            "displayName": "Valenvrc - MPB Editor",
-            "description": "A tool for applying Material Property Blocks (MPB) to multiple objects in Unity, designed for VRChat Udon worlds.",
-            "url": "https://github.com/ElMoha943/VMPBUE/releases/download/v1.1.0/valenvrc.MPBEditor-v1.1.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {}
-          },
-          "1.0.0": {
-            "version": "1.0.0",
-            "name": "com.valenvrc.vmpbue",
-            "displayName": "Valenvrc - MPB Editor",
-            "description": "A tool for applying Material Property Blocks (MPB) to multiple objects in Unity, designed for VRChat Udon worlds.",
-            "url": "https://github.com/ElMoha943/VMPBUE/releases/download/v1.0.0/valenvrc.MPBEditor-v1.0.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {}
@@ -90135,8 +90488,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "33daf311dd37fe3152a8fa7f5bd2e144988541b4fcb1bc2dad85fefd32feb2c5",
-    "last_updated": "2026-08-05T02:09:47.000Z",
+    "hash": "86ef918cbd78e12a54707814b8965858612e2ee1b7474b7400d8b982607ec4bc",
+    "last_updated": "2026-08-06T02:13:33.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -112373,7 +112726,7 @@
     "id": "org.azuretek.vpm",
     "author": "kobi32768",
     "hash": "9afa17a9cee430b616075de3b61791fa9b017b425564b6b56bd38722425d00db",
-    "last_updated": "2026-08-03T08:53:15.000Z",
+    "last_updated": "2026-08-05T08:38:06.000Z",
     "packageCount": 1,
     "packages": {
       "org.azuretek.copy-transform-shortcut": {
@@ -112420,8 +112773,8 @@
     "name": "BluWizard LABS Repository",
     "id": "net.bluwizard.vpmlist",
     "author": "BluWizard",
-    "hash": "71f43a34fd3066da24e64d3b4a6623614635b846a5938f253a4b00b3b7ba167e",
-    "last_updated": "2026-07-01T21:44:18.000Z",
+    "hash": "cd7a9912938ed3b67fa260ada908179886dc1701a99b5c7b7eb35701b4bab1ad",
+    "last_updated": "2026-08-05T22:11:15.000Z",
     "packageCount": 7,
     "packages": {
       "net.bluwizard.poipresets": {
@@ -112836,8 +113189,8 @@
         "name": "net.bluwizard.hierarchy",
         "displayName": "BluWizard LABS - Enhanced Hierarchy System",
         "description": "Blu's personal editor enhancement system that introduces an improved Hierarchy look, tailored made for VRChat Creators.",
-        "latestVersion": "1.12.0",
-        "versionCount": 48,
+        "latestVersion": "1.12.1",
+        "versionCount": 49,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -112846,6 +113199,16 @@
           "url": "https://vpm.bluwizard.net"
         },
         "versions": {
+          "1.12.1": {
+            "version": "1.12.1",
+            "name": "net.bluwizard.hierarchy",
+            "displayName": "BluWizard LABS - Enhanced Hierarchy System",
+            "description": "Blu's personal editor enhancement system that introduces an improved Hierarchy look, tailored made for VRChat Creators.",
+            "url": "https://github.com/BluWizard10/Blu-Hierarchy/releases/download/1.12.1/net.bluwizard.hierarchy-1.12.1.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
+          },
           "1.12.0": {
             "version": "1.12.0",
             "name": "net.bluwizard.hierarchy",
@@ -115907,10 +116270,254 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "a2779d425c95a49e17f0222a199692641d6c6d8e2d98c5ff3e9d96b120e7efd9",
-    "last_updated": "2026-08-04T14:44:23.000Z",
-    "packageCount": 7,
+    "hash": "484ff9a9b113cc86d4e80cf9f91a1611e70ca5a5b333b3493c7eef6d22041100",
+    "last_updated": "2026-08-06T01:46:33.000Z",
+    "packageCount": 11,
     "packages": {
+      "com.poiyomi.pro": {
+        "id": "com.poiyomi.pro",
+        "name": "com.poiyomi.pro",
+        "displayName": "Poiyomi Pro",
+        "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+        "latestVersion": "10.0.16",
+        "versionCount": 7,
+        "keywords": [
+          "shaders",
+          "vrchat",
+          "poiyomi",
+          "toon"
+        ],
+        "unity": "2021.3",
+        "author": {
+          "email": "poiyomi@poiyomi.com",
+          "name": "Poiyomi",
+          "url": "https://poiyomi.com"
+        },
+        "versions": {
+          "10.0.16": {
+            "version": "10.0.16",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/10.0.16/a899fe0c00c8078ad3b9a284811e96f112af4264bc1dbe5705834473a4dbe6bc",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {
+              "com.poiyomi.thryeditor": ">=2.72.5"
+            }
+          },
+          "10.0.15": {
+            "version": "10.0.15",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/10.0.15/a54143b0008b9771ce5ee53ac9d016b8a490e99cf792c6ba4b857c210557784c",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {
+              "com.poiyomi.thryeditor": ">=2.72.5"
+            }
+          },
+          "10.0.15-beta.1": {
+            "version": "10.0.15-beta.1",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/10.0.15-beta.1/53d2dcda6eb2c179f9c3161d1bbab376da1d97df368f24c2d6d8716db9c5ab0c",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {
+              "com.poiyomi.thryeditor": ">=2.72.5"
+            }
+          },
+          "10.0.14": {
+            "version": "10.0.14",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/10.0.14/8fb95093bf8e4e299d6c91efe92ec4553022e8f51534890051db0c9e026025c9",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
+          },
+          "10.0.13": {
+            "version": "10.0.13",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/10.0.13/a8f6812315d6fa06f2a2cc1624f0de3b4d908d770442cd1662537cadeaef2684",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
+          },
+          "10.0.12": {
+            "version": "10.0.12",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/10.0.12/2d83973bec16fd6aad5dc5d39f398c5718c4f56b57a7d0aefd0ed1f41a794f71",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
+          },
+          "10.0.11": {
+            "version": "10.0.11",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/10.0.11/b82ae9cfb2c28a073da7ddcab883209a9e14168740aaa65c81211774f0553f32",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
+          }
+        }
+      },
+      "com.poiyomi.thryeditor": {
+        "id": "com.poiyomi.thryeditor",
+        "name": "com.poiyomi.thryeditor",
+        "displayName": "ThryEditor",
+        "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+        "latestVersion": "2.73.0-beta.2",
+        "versionCount": 13,
+        "keywords": [],
+        "unity": "2021.3",
+        "author": {
+          "name": "Thryrallo",
+          "url": "https://www.poiyomi.com"
+        },
+        "versions": {
+          "2.73.0-beta.2": {
+            "version": "2.73.0-beta.2",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.73.0-beta.2/a4eecfe6b55a5c6aba81e4bbc3ffab9aa7b514212e02a155137bba5980497c43",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.73.0-beta.1": {
+            "version": "2.73.0-beta.1",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.73.0-beta.1/884306e6bff1368c68adffdbd51520df480db50cdd9627c6da126740c6b1b2ff",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.72.8": {
+            "version": "2.72.8",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.72.8/c8852d2a636954dc4dd12e18fea775f8374e647bf05c3bdf46e85c6c01d95640",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.72.7": {
+            "version": "2.72.7",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.72.7/6db3eef765021cfe9c48271eaa5d2282f25297a8d9bacef16daee6e1c2580366",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.72.6": {
+            "version": "2.72.6",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.72.6/2796e99857ce56d5735092b41f37807c7083f97bf967cec6a88b43a1191f7dd2",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.72.5": {
+            "version": "2.72.5",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.72.5/4e63d4d9be3277ff5ea6ece5132ac124b9de3f80c13fec3913419ce2833285bc",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.72.4": {
+            "version": "2.72.4",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.72.4/ad24d56f1ea6e435b05ca78ab4bb46a46d55ef8d20d79df91f0c3268e7dc5b67",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.72.3": {
+            "version": "2.72.3",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.72.3/39d5c2244d0a825891bc4b08af6630fbf6d5844017245e632e6794519faa5e21",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.72.2": {
+            "version": "2.72.2",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.72.2/5796e78378f7731cc67c325c5e7f62e91ccb6016b53dcba5e653e32d42c83015",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.72.1": {
+            "version": "2.72.1",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.72.1/9005de5b5dedf31794b89c04515b11e40968de71596d6c3e3b650894a6b1e057",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.72.0": {
+            "version": "2.72.0",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.72.0/5de8698b337fed79532be1a2da30afb2885c3a49d61cd33ff7d21bc0fa518365",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.72.0-beta.3": {
+            "version": "2.72.0-beta.3",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.72.0-beta.3/6acd75c179e4325286f9d365032818898828a63401fa48e3d4205d21c93dc5e0",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.72.0-beta.2": {
+            "version": "2.72.0-beta.2",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.72.0-beta.2/0ac176d3934f7de6d7ac21d7e17b6ad8c47788c3336c34d3574c903cc3a7f794",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          }
+        }
+      },
       "com.valvesoftware.unity.openvr": {
         "id": "com.valvesoftware.unity.openvr",
         "name": "com.valvesoftware.unity.openvr",
@@ -116001,7 +116608,7 @@
         "displayName": "Hackebein's Object Tracking",
         "description": "Hackebein's setup for Object Tracking in VRChat",
         "latestVersion": "1.0.0-beta.10",
-        "versionCount": 22,
+        "versionCount": 24,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -116073,6 +116680,34 @@
             "displayName": "Hackebein's Object Tracking",
             "description": "Hackebein's setup for Object Tracking in VRChat",
             "url": "https://vpmm.dev/files/hackebein.objecttracking/1.0.0-beta.6/717c2293d6b4d330a76da00b432a42e009ae30f509ec246096ea5ab2bde15443",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.valvesoftware.unity.openvr": "1.2.4",
+              "com.vrchat.avatars": ">=3.9.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0"
+            }
+          },
+          "1.0.0-beta.5": {
+            "version": "1.0.0-beta.5",
+            "name": "hackebein.objecttracking",
+            "displayName": "Hackebein's Object Tracking",
+            "description": "Hackebein's setup for Object Tracking in VRChat",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking/1.0.0-beta.5/2596ea5248d87a989e459027ae25c89f3b0e4e710f2da0e533bbfcd2d1d9470f",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.valvesoftware.unity.openvr": "1.2.4",
+              "com.vrchat.avatars": ">=3.9.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0"
+            }
+          },
+          "1.0.0-beta.4": {
+            "version": "1.0.0-beta.4",
+            "name": "hackebein.objecttracking",
+            "displayName": "Hackebein's Object Tracking",
+            "description": "Hackebein's setup for Object Tracking in VRChat",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking/1.0.0-beta.4/d748ee0860297ccd80bb8acc9d3130df1c6a53d73c0ad3dce5ddab4b758782bd",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -116293,6 +116928,34 @@
           }
         }
       },
+      "hackebein.objecttracking.assets.lyra-moon": {
+        "id": "hackebein.objecttracking.assets.lyra-moon",
+        "name": "hackebein.objecttracking.assets.lyra-moon",
+        "displayName": "Hackebein's Moon Lyra (Aerial Hoop) for Object Tracking",
+        "description": "Prefab of Moon Lyra (Aerial Hoop), Drop-in installation.",
+        "latestVersion": "1.0.0",
+        "versionCount": 1,
+        "keywords": [],
+        "unity": null,
+        "author": {
+          "email": "hackebein@gmail.com",
+          "name": "Hackebein"
+        },
+        "versions": {
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "hackebein.objecttracking.assets.lyra-moon",
+            "displayName": "Hackebein's Moon Lyra (Aerial Hoop) for Object Tracking",
+            "description": "Prefab of Moon Lyra (Aerial Hoop), Drop-in installation.",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking.assets.lyra-moon/1.0.0/7f78cb8c4652b50f24f4e4f03a72515a1e12062a214a8ae0e87c1927e4f518d8",
+            "zipSha256": null,
+            "vpmDependencies": {
+              "com.poiyomi.pro": ">=10",
+              "hackebein.tools.mapped-scale": "*"
+            }
+          }
+        }
+      },
       "hackebein.objecttracking.examples.pole-simple": {
         "id": "hackebein.objecttracking.examples.pole-simple",
         "name": "hackebein.objecttracking.examples.pole-simple",
@@ -116337,7 +117000,7 @@
         "displayName": "Hackebein's Object Tracking Host",
         "description": "ObjectTracking App for Hackebein's Object Tracking.",
         "latestVersion": "1.0.0-beta.10",
-        "versionCount": 5,
+        "versionCount": 6,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -116404,6 +117067,46 @@
             "unity": "2022.3",
             "vpmDependencies": {
               "com.valvesoftware.unity.openvr": "1.2.4"
+            }
+          },
+          "1.0.0-beta.2": {
+            "version": "1.0.0-beta.2",
+            "name": "hackebein.objecttracking.host",
+            "displayName": "Hackebein's Object Tracking Host",
+            "description": "ObjectTracking App (host executable at package root) for Hackebein's Object Tracking. Uses openvr_api.dll from the OpenVR XR Plugin package when not shipped side-by-side.",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking.host/1.0.0-beta.2/c48afc3e3647c6771cb92c2e869e0c2922c3832e10225d45362013d905c1bdba",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.valvesoftware.unity.openvr": "1.2.4"
+            }
+          }
+        }
+      },
+      "hackebein.tools.mapped-scale": {
+        "id": "hackebein.tools.mapped-scale",
+        "name": "hackebein.tools.mapped-scale",
+        "displayName": "Hackebein's Mapped Scale",
+        "description": "Simple component to scale a GameObject from a labeled dropdown.",
+        "latestVersion": "1.0.0",
+        "versionCount": 1,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "email": "hackebein@gmail.com",
+          "name": "Hackebein"
+        },
+        "versions": {
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "hackebein.tools.mapped-scale",
+            "displayName": "Hackebein's Mapped Scale",
+            "description": "Simple component to scale a GameObject from a labeled dropdown.",
+            "url": "https://vpmm.dev/files/hackebein.tools.mapped-scale/1.0.0/6e174f6efe0b9f3bc83725726ec51675e248906abeb74cc0feb4906b22fc5743",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.9.0"
             }
           }
         }
@@ -126056,7 +126759,7 @@
     "id": "com.micksam7.vpm",
     "author": "Micca",
     "hash": "28148f3419e38143920ae19b3a3dd4a57a632a36728aa26382a61c71e69f2550",
-    "last_updated": "2026-07-03T02:20:29.000Z",
+    "last_updated": "2026-07-03T02:20:28.000Z",
     "packageCount": 1,
     "packages": {
       "com.micksam7.mididmx": {
@@ -126156,7 +126859,7 @@
     "id": "com.mimylab.vpm",
     "author": "Mimy Quality",
     "hash": "8b30a2666bf37d6254da9ac7a1de47146cff86b73bd67244b608d4c1b7c1bcc3",
-    "last_updated": "2026-07-03T04:43:20.000Z",
+    "last_updated": "2026-07-03T04:43:19.000Z",
     "packageCount": 5,
     "packages": {
       "com.mimylab.fukuroudon": {
@@ -129004,7 +129707,7 @@
     "id": "dev.nadena.vpm",
     "author": "bd_",
     "hash": "23a7d4a17f49b68feb73c318cda3a0f4974d7997b693066abaddfc5731db99e5",
-    "last_updated": "2026-08-04T08:25:45.000Z",
+    "last_updated": "2026-08-05T08:25:26.000Z",
     "packageCount": 4,
     "packages": {
       "nadena.dev.ndmf": {
@@ -149146,8 +149849,8 @@
     "name": "ureishi",
     "id": "net.ureishi.vpm",
     "author": "ureishi",
-    "hash": "facdc311c751bff48a537a175eda02c72e5e159a517c559c03b64c4ae4416653",
-    "last_updated": "2025-12-24T16:58:48.000Z",
+    "hash": "e374a92f41d7142b0cf6693b199958a98fe98670019b44bc691b71905bc29f94",
+    "last_updated": "2026-08-05T20:07:08.000Z",
     "packageCount": 1,
     "packages": {
       "net.ureishi.qvpen": {
@@ -149156,7 +149859,7 @@
         "displayName": "QvPen",
         "description": "VRChat World Pen.",
         "latestVersion": "3.2.6",
-        "versionCount": 25,
+        "versionCount": 26,
         "keywords": [],
         "unity": "2019.4",
         "author": "ureishi",
@@ -149460,6 +150163,18 @@
             "vpmDependencies": {
               "com.vrchat.worlds": "^3.5.0"
             }
+          },
+          "3.3.15": {
+            "version": "3.3.15",
+            "name": "net.ureishi.qvpen",
+            "displayName": "QvPen",
+            "description": "VRChat World Pen.",
+            "url": "https://github.com/ureishi/QvPen/releases/download/v3.3.15/net.ureishi.qvpen-3.3.15.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.5.0"
+            }
           }
         }
       }
@@ -149653,8 +150368,8 @@
     "name": "WhyKnot Tools",
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
-    "hash": "89a8c8a55cf5853f478436265a391f972fbe9cb3446f4b35a23971b8e053a3d9",
-    "last_updated": "2026-08-04T08:19:53.000Z",
+    "hash": "341cad6a33a288c45124c0e287ddececbccc547390c6f1f32938178520d0475c",
+    "last_updated": "2026-08-05T08:16:41.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -166043,8 +166758,8 @@
     "name": "z3y's packages",
     "id": "io.github.z3y.vpm-package-listing",
     "author": "z3y",
-    "hash": "b049584b80f67883de76b2ece000bda4981eb33b46d73894fe75defa843d18f1",
-    "last_updated": "2026-07-29T14:15:52.000Z",
+    "hash": "b9d79a17029a63bd2cb0dcc10c6661d701ba0f8031b577d2f81979ba7a68b4c7",
+    "last_updated": "2026-08-05T16:29:14.000Z",
     "packageCount": 8,
     "packages": {
       "com.z3y.graphlit": {
@@ -167745,8 +168460,8 @@
         "name": "io.github.z3y.glim",
         "displayName": "Glim Lightmapper",
         "description": "Lightmap Baker",
-        "latestVersion": "0.5.0",
-        "versionCount": 4,
+        "latestVersion": "0.5.1",
+        "versionCount": 5,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -167754,6 +168469,16 @@
           "url": "https://github.com/z3y"
         },
         "versions": {
+          "0.5.1": {
+            "version": "0.5.1",
+            "name": "io.github.z3y.glim",
+            "displayName": "Glim Lightmapper",
+            "description": "Lightmap Baker",
+            "url": "https://github.com/z3y/glim/releases/download/v0.5.1/io.github.z3y.glim-0.5.1.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "0.5.0": {
             "version": "0.5.0",
             "name": "io.github.z3y.glim",
@@ -167971,7 +168696,7 @@
     "id": "com.zhuozhi.vpm-listing",
     "author": "浊鸷",
     "hash": "07e043cddf4f2bc0a5d030d5ff6a3b3cf7c05982c1985788657f0407ddf6b556",
-    "last_updated": "2026-08-01T08:24:39.000Z",
+    "last_updated": "2026-08-01T08:24:40.000Z",
     "packageCount": 2,
     "packages": {
       "com.zhuozhi.lyumashader-extended": {
@@ -168547,8 +169272,8 @@
     "name": "Poiyomi's VPM Repo",
     "id": "io.github.poiyomi.vpm",
     "author": "Poiyomi",
-    "hash": "bc1bcc662b2675edb3152f08a838a8c764e3dd0c3940e4e0ce0ed320a0e53c0a",
-    "last_updated": "2026-08-05T00:17:10.000Z",
+    "hash": "d5bcfcbe3bc66ee3e3741ea4edb49c5897e767dfb81d6cd05ff107cf0c608b30",
+    "last_updated": "2026-08-05T22:57:26.000Z",
     "packageCount": 3,
     "packages": {
       "com.poiyomi.toon": {
@@ -169250,8 +169975,8 @@
         "name": "com.poiyomi.thryeditor",
         "displayName": "ThryEditor",
         "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
-        "latestVersion": "2.73.0-beta.2",
-        "versionCount": 13,
+        "latestVersion": "2.73.0",
+        "versionCount": 14,
         "keywords": [],
         "unity": "2021.3",
         "author": {
@@ -169259,6 +169984,16 @@
           "url": "https://www.poiyomi.com"
         },
         "versions": {
+          "2.73.0": {
+            "version": "2.73.0",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://github.com/poiyomi/ThryEditor/releases/download/2.73.0/com.poiyomi.thryeditor-2.73.0.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
           "2.73.0-beta.2": {
             "version": "2.73.0-beta.2",
             "name": "com.poiyomi.thryeditor",
@@ -169417,7 +170152,7 @@
     "id": "dev.nadena.vpm",
     "author": "bd_",
     "hash": "23a7d4a17f49b68feb73c318cda3a0f4974d7997b693066abaddfc5731db99e5",
-    "last_updated": "2026-08-04T08:25:45.000Z",
+    "last_updated": "2026-08-05T08:25:26.000Z",
     "packageCount": 4,
     "packages": {
       "nadena.dev.ndmf": {
