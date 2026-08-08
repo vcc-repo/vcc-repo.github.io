@@ -1262,7 +1262,7 @@
     "id": "com.amehuri.amehuri-tools.listing",
     "author": "amehuri",
     "hash": "86383f3d5cdbd9da2c54498025338e48f24f66f0428999058c699aac074cf087",
-    "last_updated": "2025-12-27T06:24:25.000Z",
+    "last_updated": "2025-12-27T06:24:24.000Z",
     "packageCount": 1,
     "packages": {
       "com.amehuri.amehuri-tools": {
@@ -1399,8 +1399,8 @@
     "name": "An-Labo NailTool",
     "id": "world.anlabo.mdnailtool.vpm",
     "author": "An-Labo",
-    "hash": "edc549dd83e0a17422c124be973d72f04d1e6d7881e7e5db738a3b2ceb7fcaf8",
-    "last_updated": "2026-08-05T17:25:50.000Z",
+    "hash": "e1351b10e14f9f5157ae9f034f1672c74ffbb69322bc6a87b5d8458ae1836e1b",
+    "last_updated": "2026-08-07T10:09:43.000Z",
     "packageCount": 1,
     "packages": {
       "world.anlabo.mdnailtool": {
@@ -1409,7 +1409,7 @@
         "displayName": "An-Labo NailTool",
         "description": "An-Labo NailTool",
         "latestVersion": "0.9.141",
-        "versionCount": 558,
+        "versionCount": 559,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -8108,6 +8108,18 @@
             "displayName": "An-Labo NailTool",
             "description": "An-Labo NailTool",
             "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.10.46/world.anlabo.mdnailtool-0.10.46.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.5.0"
+            }
+          },
+          "0.10.47": {
+            "version": "0.10.47",
+            "name": "world.anlabo.mdnailtool",
+            "displayName": "An-Labo NailTool",
+            "description": "An-Labo NailTool",
+            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.10.47/world.anlabo.mdnailtool-0.10.47.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -28323,8 +28335,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "3d922ec130af2c7b77b8de958e3ddac32d027fbd523fded7eea807854a995410",
-    "last_updated": "2026-08-06T22:06:53.000Z",
+    "hash": "3d591d15ea6713bdb37204bd73f2d092ea547878efe8683b2b2df50f2750af43",
+    "last_updated": "2026-08-07T11:43:16.000Z",
     "packageCount": 11,
     "packages": {
       "com.poiyomi.pro": {
@@ -39443,7 +39455,7 @@
     "id": "dev.kaefibot.listing",
     "author": "WoweePaw",
     "hash": "0f954512e7a69a442d27394f918fc68614873d3db3706347e1e36e0acde01244",
-    "last_updated": "2026-07-05T15:03:28.000Z",
+    "last_updated": "2026-07-05T15:03:29.000Z",
     "packageCount": 1,
     "packages": {
       "dev.kaefibot.kaefibot-controller": {
@@ -44535,8 +44547,8 @@
     "name": "Kanameliser VPM Packages",
     "id": "net.kanameliser.vpm",
     "author": "kxn4t",
-    "hash": "a9014dcfa5464587f9d13a314e724ee0f6346cab22d58406d847dc3a9078df67",
-    "last_updated": "2026-08-07T02:25:51.000Z",
+    "hash": "863ace37ce1a8e8a40104ded0d3d4ed9650a0c184b62e8e63c525a9138f33a6a",
+    "last_updated": "2026-08-07T18:44:02.000Z",
     "packageCount": 2,
     "packages": {
       "net.kanameliser.editor-plus": {
@@ -44544,8 +44556,8 @@
         "name": "net.kanameliser.editor-plus",
         "displayName": "Kanameliser Editor Plus",
         "description": "A small set of useful Unity & VRChat editor extensions by kxn4t",
-        "latestVersion": "0.5.0",
-        "versionCount": 17,
+        "latestVersion": "1.0.0-beta.1",
+        "versionCount": 18,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -44553,6 +44565,16 @@
           "url": "https://github.com/kxn4t"
         },
         "versions": {
+          "1.0.0-beta.1": {
+            "version": "1.0.0-beta.1",
+            "name": "net.kanameliser.editor-plus",
+            "displayName": "Kanameliser Editor Plus",
+            "description": "A small set of useful Unity & VRChat editor extensions by kxn4t",
+            "url": "https://github.com/kxn4t/kanameliser-editor-plus/releases/download/1.0.0-beta.1/net.kanameliser.editor-plus.1.0.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "0.5.0": {
             "version": "0.5.0",
             "name": "net.kanameliser.editor-plus",
@@ -49378,7 +49400,7 @@
     "id": "com.livedimensions.vrrefassist.listing",
     "author": "LiveDimensions",
     "hash": "2908b7f1ae85f0daf18eb213500a8142c7d9f1878d998626571be5cb1db669bf",
-    "last_updated": "2024-08-03T19:25:08.000Z",
+    "last_updated": "2026-08-07T15:56:02.000Z",
     "packageCount": 1,
     "packages": {
       "com.livedimensions.vrrefassist": {
@@ -54743,7 +54765,7 @@
     "id": "com.puddingkc.vpm-listing",
     "author": "PuddingKC",
     "hash": "f240f36289d0cc5747481bc9b789e2732c1ec1f494a82fe81e90c798c0fde67c",
-    "last_updated": "2026-07-04T04:18:33.000Z",
+    "last_updated": "2026-07-04T04:18:32.000Z",
     "packageCount": 3,
     "packages": {
       "com.puddingkc.ma-radial-control": {
@@ -71247,7 +71269,7 @@
     "id": "dev.kokoa.vpmPackageRepository",
     "author": "kokoa",
     "hash": "c23d8dc23386252afb97257909c6c654bd76a10f7ed52535906733f1dbc9f41f",
-    "last_updated": "2026-08-06T23:58:12.000Z",
+    "last_updated": "2026-08-07T23:33:22.000Z",
     "packageCount": 7,
     "packages": {
       "dev.kokoa.upload-notification": {
@@ -72375,7 +72397,7 @@
     "id": "chirp.reava.listings",
     "author": "Reava_",
     "hash": "741ef16424995b0c841b5b1ea6be385df118c35462b94b7bc8782c0634ab8585",
-    "last_updated": "2026-05-15T12:22:06.000Z",
+    "last_updated": "2026-05-15T12:22:07.000Z",
     "packageCount": 4,
     "packages": {
       "chirp.reava.uwutils": {
@@ -76557,7 +76579,7 @@
     "id": "jp.rroki.vpm",
     "author": "rroki-0u0",
     "hash": "842c482dcb0925dc36f99ba648d5191a7246b5ee657c75c1ab8f80680027bdce",
-    "last_updated": "2026-07-16T09:06:07.000Z",
+    "last_updated": "2026-07-16T09:06:06.000Z",
     "packageCount": 5,
     "packages": {
       "jp.rroki.poiyomi-to-nontoon": {
@@ -79588,7 +79610,7 @@
     "id": "com.mizore-nekoyanagi.vpm-packages",
     "author": "Mizore Nekoyanagi",
     "hash": "df5c206bda4082fc4825f6e0002aea2319d15d80cf9dc71813ef06fb4db812e7",
-    "last_updated": "2026-02-19T08:55:53.000Z",
+    "last_updated": "2026-02-19T08:55:54.000Z",
     "packageCount": 4,
     "packages": {
       "com.mizore-nekoyanagi.utils.apply-prefab-window": {
@@ -88049,7 +88071,7 @@
     "id": "jp.toh.package-listing",
     "author": "toh",
     "hash": "cc3967c59f319ff5c3910acb82ddac984aa9ad35b5aaec5e395d6ab2cf0dfd4f",
-    "last_updated": "2025-04-28T14:28:15.000Z",
+    "last_updated": "2025-04-28T14:28:14.000Z",
     "packageCount": 1,
     "packages": {
       "jp.toh.easy-object-switch": {
@@ -88113,7 +88135,7 @@
     "id": "io.github.tp-jp.vpm",
     "author": "tp.jp",
     "hash": "da473ccdc75356cd14e6c77e54e8be663bb1621108df5f980248e75789e4c3aa",
-    "last_updated": "2026-07-13T13:46:47.000Z",
+    "last_updated": "2026-07-13T13:46:48.000Z",
     "packageCount": 9,
     "packages": {
       "com.tp.jp.iwa-sync3-color-changer": {
@@ -88684,7 +88706,7 @@
     "id": "com.triturbo.blendshare.listing",
     "author": "Triturbo",
     "hash": "8d43fe402736de6cd2621406d3b850107d5fa9a6bc801a1a5857547ed262526d",
-    "last_updated": "2026-07-05T12:32:45.000Z",
+    "last_updated": "2026-07-05T12:32:46.000Z",
     "packageCount": 1,
     "packages": {
       "com.triturbo.blendshare": {
@@ -89987,7 +90009,7 @@
     "id": "net.pawlygon.vcc-packages",
     "author": "Pawlygon",
     "hash": "ffddfc1a87cdf9aed91a660cbaca0e51f7f86152c9a6f89bfce1276d0295a790",
-    "last_updated": "2026-07-01T04:45:50.000Z",
+    "last_updated": "2026-07-01T04:45:49.000Z",
     "packageCount": 2,
     "packages": {
       "net.pawlygon.vrc-facetracking": {
@@ -90449,7 +90471,7 @@
     "id": "co.raphii.vpm-listing",
     "author": "Raphiiko",
     "hash": "13d7c0741bdb67306d4706066396ddccd4188238b4335f6b126e26cf84767a0b",
-    "last_updated": "2026-07-03T23:15:31.000Z",
+    "last_updated": "2026-07-03T23:15:32.000Z",
     "packageCount": 1,
     "packages": {
       "co.raphii.vrti.avatarmenu": {
@@ -90512,8 +90534,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "4cbf9a2fac99ee64e89da1bcc12ffb6a4c3b5cc11be8205e273aef112d859a1f",
-    "last_updated": "2026-08-07T02:28:45.000Z",
+    "hash": "26eea86a409b336b709a2d5a0893ddedf724113243e722154b560cce00b6603b",
+    "last_updated": "2026-08-08T01:19:15.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -90521,14 +90543,34 @@
         "name": "com.vrcfury.vrcfury",
         "displayName": "VRCFury",
         "description": "Non-Destructive Tools for VRChat Avatars",
-        "latestVersion": "1.1411.0",
-        "versionCount": 1393,
+        "latestVersion": "1.1413.0",
+        "versionCount": 1395,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "VRCFury"
         },
         "versions": {
+          "1.1413.0": {
+            "version": "1.1413.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1413.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1412.0": {
+            "version": "1.1412.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1412.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.1411.0": {
             "version": "1.1411.0",
             "name": "com.vrcfury.vrcfury",
@@ -103800,8 +103842,8 @@
     "name": "Vixens Toolbox",
     "id": "com.vixencreations.vixens-toolbox.listing",
     "author": "Vixenlicous",
-    "hash": "d1e5c1a9ad785bb63656ae0adf4459565797eac16cc12db8d2ff88f2ca2ce32d",
-    "last_updated": "2026-07-27T14:17:38.000Z",
+    "hash": "4ce4fd72b50aa76e16003d766af4ce19c1056a73182836c38c0e1992a23cdfe1",
+    "last_updated": "2026-08-07T18:22:24.000Z",
     "packageCount": 1,
     "packages": {
       "com.vixencreations.vixens-toolbox": {
@@ -103809,8 +103851,8 @@
         "name": "com.vixencreations.vixens-toolbox",
         "displayName": "Vixen Tool Box",
         "description": "A VPM-native, cyber-noir suite of Unity Editor tools for VRChat creators, hand-built by VixForge Interactive. Includes a full Avatar Optimization Suite with real QEM mesh decimation, a non-destructive Quest Conversion Engine, a multi-ecosystem World Engine auditor (ProTV, AudioLink, LTCGI, VRSL, Light Volumes and more), PhysBone topology mapping, convention Badge Studio, and the flagship VixForge Avatar Optimizer. Engineered to eliminate human error, enforce project consistency, and push Unity 2022.3 to its limits. Trusted by 1,500+ creators.",
-        "latestVersion": "2.13.0",
-        "versionCount": 43,
+        "latestVersion": "2.13.1",
+        "versionCount": 44,
         "keywords": [
           "vrchat",
           "editor",
@@ -103832,6 +103874,18 @@
           "url": "https://x.com/VixenVRC"
         },
         "versions": {
+          "2.13.1": {
+            "version": "2.13.1",
+            "name": "com.vixencreations.vixens-toolbox",
+            "displayName": "Vixen Tool Box",
+            "description": "A VPM-native, cyber-noir suite of Unity Editor tools for VRChat creators, hand-built by VixForge Interactive. Includes a full Avatar Optimization Suite with real QEM mesh decimation, a non-destructive Quest Conversion Engine, a multi-ecosystem World Engine auditor (ProTV, AudioLink, LTCGI, VRSL, Light Volumes and more), PhysBone topology mapping, convention Badge Studio, and the flagship VixForge Avatar Optimizer. Engineered to eliminate human error, enforce project consistency, and push Unity 2022.3 to its limits. Trusted by 1,500+ creators.",
+            "url": "https://github.com/VixenCreations/VixenToolBox/releases/download/2.13.1/com.vixen.tools-2.13.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "^3.10.3"
+            }
+          },
           "2.13.0": {
             "version": "2.13.0",
             "name": "com.vixencreations.vixens-toolbox",
@@ -112828,7 +112882,7 @@
     "id": "net.bluwizard.vpmlist",
     "author": "BluWizard",
     "hash": "cd7a9912938ed3b67fa260ada908179886dc1701a99b5c7b7eb35701b4bab1ad",
-    "last_updated": "2026-08-05T22:11:15.000Z",
+    "last_updated": "2026-08-07T10:27:02.000Z",
     "packageCount": 7,
     "packages": {
       "net.bluwizard.poipresets": {
@@ -116324,8 +116378,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "3d922ec130af2c7b77b8de958e3ddac32d027fbd523fded7eea807854a995410",
-    "last_updated": "2026-08-06T22:06:53.000Z",
+    "hash": "3d591d15ea6713bdb37204bd73f2d092ea547878efe8683b2b2df50f2750af43",
+    "last_updated": "2026-08-07T11:43:16.000Z",
     "packageCount": 11,
     "packages": {
       "com.poiyomi.pro": {
@@ -126925,7 +126979,7 @@
     "id": "com.mimylab.vpm",
     "author": "Mimy Quality",
     "hash": "8b30a2666bf37d6254da9ac7a1de47146cff86b73bd67244b608d4c1b7c1bcc3",
-    "last_updated": "2026-07-03T04:43:19.000Z",
+    "last_updated": "2026-07-03T04:43:20.000Z",
     "packageCount": 5,
     "packages": {
       "com.mimylab.fukuroudon": {
@@ -129773,7 +129827,7 @@
     "id": "dev.nadena.vpm",
     "author": "bd_",
     "hash": "23a7d4a17f49b68feb73c318cda3a0f4974d7997b693066abaddfc5731db99e5",
-    "last_updated": "2026-08-06T08:27:50.000Z",
+    "last_updated": "2026-08-07T08:00:37.000Z",
     "packageCount": 4,
     "packages": {
       "nadena.dev.ndmf": {
@@ -150446,8 +150500,8 @@
     "name": "WhyKnot Tools",
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
-    "hash": "71848d0aee8b3b029bd31e2a1fe06407ad573165901fda766e914f21093b927b",
-    "last_updated": "2026-08-06T08:17:51.000Z",
+    "hash": "4b1121f5445f390126c07da8a568b1086461ae091522f1da9afc821743481b26",
+    "last_updated": "2026-08-07T06:59:30.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -150562,17 +150616,17 @@
     "name": "YozoLab-VPMRepository listing",
     "id": "net.yozolab.vpmrepository-listing",
     "author": "YozoraKurage",
-    "hash": "d62f50180d0bcb5d15be86ad041f9477d01650f79053581a2c7fdc4cc7d8dcfc",
-    "last_updated": "2026-08-01T06:43:34.000Z",
-    "packageCount": 3,
+    "hash": "e9920cc68ffef2808d424d57a86531c45b3bc1ec3f7bcb87fff0cecc0bef6dd6",
+    "last_updated": "2026-08-07T23:48:15.000Z",
+    "packageCount": 4,
     "packages": {
       "net.yozolab.daerd": {
         "id": "net.yozolab.daerd",
         "name": "net.yozolab.daerd",
         "displayName": "DaerD",
         "description": "GraphView-based replacement for Unity's AnimatorController editor. Adds parameter auto type conversion, transition copy/paste, cascade rename and analysis tools.",
-        "latestVersion": "0.8.0",
-        "versionCount": 15,
+        "latestVersion": "0.9.0",
+        "versionCount": 16,
         "keywords": [
           "animator",
           "animatorcontroller",
@@ -150584,6 +150638,16 @@
           "name": "Yozolab"
         },
         "versions": {
+          "0.9.0": {
+            "version": "0.9.0",
+            "name": "net.yozolab.daerd",
+            "displayName": "DaerD",
+            "description": "GraphView-based replacement for Unity's AnimatorController editor. Adds parameter auto type conversion, transition copy/paste, cascade rename and analysis tools.",
+            "url": "https://github.com/YozoraKurage/DaerD/releases/download/0.9.0/net.yozolab.daerd.0.9.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "0.8.0": {
             "version": "0.8.0",
             "name": "net.yozolab.daerd",
@@ -150741,14 +150805,24 @@
         "name": "net.yozolab.yozolab-utils",
         "displayName": "yozolab-utils",
         "description": "YozoLab's utility package for Unity",
-        "latestVersion": "0.3.0",
-        "versionCount": 10,
+        "latestVersion": "0.3.1",
+        "versionCount": 11,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "Yozolab"
         },
         "versions": {
+          "0.3.1": {
+            "version": "0.3.1",
+            "name": "net.yozolab.yozolab-utils",
+            "displayName": "yozolab-utils",
+            "description": "YozoLab's utility package for Unity",
+            "url": "https://github.com/YozoraKurage/YozoLab-Utils/releases/download/0.3.1/net.yozolab.yozolab-utils.0.3.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "0.3.0": {
             "version": "0.3.0",
             "name": "net.yozolab.yozolab-utils",
@@ -150856,8 +150930,8 @@
         "name": "net.yozolab.tabstep",
         "displayName": "Tabstep",
         "description": "Tabbed Project window for Unity. Hosts the stock Project browser and adds Windows Explorer style tabs, back/forward history, breadcrumbs and keyboard navigation.",
-        "latestVersion": "0.4.4",
-        "versionCount": 18,
+        "latestVersion": "0.5.0",
+        "versionCount": 19,
         "keywords": [
           "project",
           "browser",
@@ -150870,6 +150944,16 @@
           "name": "Yozolab"
         },
         "versions": {
+          "0.5.0": {
+            "version": "0.5.0",
+            "name": "net.yozolab.tabstep",
+            "displayName": "Tabstep",
+            "description": "Tabbed Project window for Unity. Hosts the stock Project browser and adds Windows Explorer style tabs, back/forward history, breadcrumbs and keyboard navigation.",
+            "url": "https://github.com/YozoraKurage/Tabstep/releases/download/0.5.0/net.yozolab.tabstep.0.5.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "0.4.4": {
             "version": "0.4.4",
             "name": "net.yozolab.tabstep",
@@ -151049,6 +151133,33 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {}
+          }
+        }
+      },
+      "net.yozolab.xestrel": {
+        "id": "net.yozolab.xestrel",
+        "name": "net.yozolab.xestrel",
+        "displayName": "xestrel",
+        "description": "Per-avatar Material isolation for VRChat with on-demand Texture isolation. Bulk-copies referenced Materials into Assets/Xestrel/<AvatarName>/Materials/ and rewires Renderers; individual Textures are copied on demand from the editor window into Assets/Xestrel/<AvatarName>/Textures/. The state is tracked on a VRC IEditorOnly component so it is stripped on upload.",
+        "latestVersion": "0.1.0",
+        "versionCount": 1,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "Yozolab"
+        },
+        "versions": {
+          "0.1.0": {
+            "version": "0.1.0",
+            "name": "net.yozolab.xestrel",
+            "displayName": "xestrel",
+            "description": "Per-avatar Material isolation for VRChat with on-demand Texture isolation. Bulk-copies referenced Materials into Assets/Xestrel/<AvatarName>/Materials/ and rewires Renderers; individual Textures are copied on demand from the editor window into Assets/Xestrel/<AvatarName>/Textures/. The state is tracked on a VRC IEditorOnly component so it is stripped on upload.",
+            "url": "https://github.com/YozoraKurage/xestrel/releases/download/0.1.0/net.yozolab.xestrel.0.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.5.0"
+            }
           }
         }
       }
@@ -158848,7 +158959,7 @@
     "id": "com.vrsuya.vpm",
     "author": "VRSuya",
     "hash": "1ae0fe3f8400e9f087ea1c7b73296cc35c61fa859fb7ed8574fce07825f81269",
-    "last_updated": "2026-08-06T14:56:08.000Z",
+    "last_updated": "2026-08-07T18:32:22.000Z",
     "packageCount": 4,
     "packages": {
       "com.vrsuya.cleaner": {
@@ -166837,7 +166948,7 @@
     "id": "io.github.z3y.vpm-package-listing",
     "author": "z3y",
     "hash": "b9d79a17029a63bd2cb0dcc10c6661d701ba0f8031b577d2f81979ba7a68b4c7",
-    "last_updated": "2026-08-05T16:29:14.000Z",
+    "last_updated": "2026-08-05T16:29:13.000Z",
     "packageCount": 8,
     "packages": {
       "com.z3y.graphlit": {
@@ -168774,7 +168885,7 @@
     "id": "com.zhuozhi.vpm-listing",
     "author": "浊鸷",
     "hash": "07e043cddf4f2bc0a5d030d5ff6a3b3cf7c05982c1985788657f0407ddf6b556",
-    "last_updated": "2026-08-01T08:24:39.000Z",
+    "last_updated": "2026-08-01T08:24:40.000Z",
     "packageCount": 2,
     "packages": {
       "com.zhuozhi.lyumashader-extended": {
@@ -169350,8 +169461,8 @@
     "name": "Poiyomi's VPM Repo",
     "id": "io.github.poiyomi.vpm",
     "author": "Poiyomi",
-    "hash": "f6cedcb26fd18bb700e5435be18fbe5aee3f0241ed89fe800366c0cffac3870d",
-    "last_updated": "2026-08-06T07:37:55.000Z",
+    "hash": "15a4ddec590c403084fa1205981fd552ca7d1ad962575cb0481d9a40d6238dea",
+    "last_updated": "2026-08-07T22:51:55.000Z",
     "packageCount": 3,
     "packages": {
       "com.poiyomi.toon": {
@@ -170053,8 +170164,8 @@
         "name": "com.poiyomi.thryeditor",
         "displayName": "ThryEditor",
         "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
-        "latestVersion": "2.73.1",
-        "versionCount": 15,
+        "latestVersion": "2.73.3",
+        "versionCount": 17,
         "keywords": [],
         "unity": "2021.3",
         "author": {
@@ -170062,6 +170173,26 @@
           "url": "https://www.poiyomi.com"
         },
         "versions": {
+          "2.73.3": {
+            "version": "2.73.3",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://github.com/poiyomi/ThryEditor/releases/download/2.73.3/com.poiyomi.thryeditor-2.73.3.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.73.2": {
+            "version": "2.73.2",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://github.com/poiyomi/ThryEditor/releases/download/2.73.2/com.poiyomi.thryeditor-2.73.2.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
           "2.73.1": {
             "version": "2.73.1",
             "name": "com.poiyomi.thryeditor",
@@ -170240,7 +170371,7 @@
     "id": "dev.nadena.vpm",
     "author": "bd_",
     "hash": "23a7d4a17f49b68feb73c318cda3a0f4974d7997b693066abaddfc5731db99e5",
-    "last_updated": "2026-08-06T08:27:50.000Z",
+    "last_updated": "2026-08-07T08:00:37.000Z",
     "packageCount": 4,
     "packages": {
       "nadena.dev.ndmf": {
