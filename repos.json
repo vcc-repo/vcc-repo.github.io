@@ -1399,8 +1399,8 @@
     "name": "An-Labo NailTool",
     "id": "world.anlabo.mdnailtool.vpm",
     "author": "An-Labo",
-    "hash": "8ac9bfd6e65dbcfed745136910c246c5e9d5d1da59e0ef185ed081cae6e4dcf7",
-    "last_updated": "2026-08-11T20:53:35.000Z",
+    "hash": "e57c541ca201362a4b356b407e0f90f03627b4cc9c196f28210f1f0c93a7ac95",
+    "last_updated": "2026-08-12T23:45:23.000Z",
     "packageCount": 1,
     "packages": {
       "world.anlabo.mdnailtool": {
@@ -1409,7 +1409,7 @@
         "displayName": "An-Labo NailTool",
         "description": "An-Labo NailTool",
         "latestVersion": "0.9.141",
-        "versionCount": 564,
+        "versionCount": 565,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -8180,6 +8180,18 @@
             "displayName": "An-Labo NailTool",
             "description": "An-Labo NailTool",
             "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.10.50/world.anlabo.mdnailtool-0.10.50.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.5.0"
+            }
+          },
+          "0.10.51": {
+            "version": "0.10.51",
+            "name": "world.anlabo.mdnailtool",
+            "displayName": "An-Labo NailTool",
+            "description": "An-Labo NailTool",
+            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.10.51/world.anlabo.mdnailtool-0.10.51.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -24723,7 +24735,7 @@
     "id": "com.furality.repos.official",
     "author": "Furality, Inc.",
     "hash": "1f058d849e3d6f8fbf1320164b63cd1f1019b43a7993a1adfa11f274f8288e49",
-    "last_updated": "2026-08-08T02:49:10.000Z",
+    "last_updated": "2026-08-08T02:49:09.000Z",
     "packageCount": 3,
     "packages": {
       "com.furality.sylvashader": {
@@ -28586,9 +28598,9 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "a2532fedca9cee8fcce734d9b8c494721492ccc63e4f0d0c9b41de4756747a98",
-    "last_updated": "2026-08-10T01:30:13.000Z",
-    "packageCount": 11,
+    "hash": "1db1e6bfecfaf7dc22241c9e5edb9dedbcbb29205331f405fd7eef3addcef9ad",
+    "last_updated": "2026-08-13T01:26:12.000Z",
+    "packageCount": 12,
     "packages": {
       "com.poiyomi.pro": {
         "id": "com.poiyomi.pro",
@@ -28923,8 +28935,8 @@
         "name": "hackebein.objecttracking",
         "displayName": "Hackebein's Object Tracking",
         "description": "Hackebein's setup for Object Tracking in VRChat",
-        "latestVersion": "1.0.0-beta.10",
-        "versionCount": 24,
+        "latestVersion": "1.0.0-beta.12",
+        "versionCount": 26,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -28933,6 +28945,36 @@
           "url": "https://hackebein.de"
         },
         "versions": {
+          "1.0.0-beta.12": {
+            "version": "1.0.0-beta.12",
+            "name": "hackebein.objecttracking",
+            "displayName": "Hackebein's Object Tracking",
+            "description": "Hackebein's setup for Object Tracking in VRChat",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking/1.0.0-beta.12/6617c79c7090a4938441c0d35bfa41eba0c51c6d7c6db6392461bda75007ee8c",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.valvesoftware.unity.openvr": "1.2.4",
+              "com.vrchat.avatars": ">=3.9.0",
+              "com.ygdr.mdv": ">=1.2.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0"
+            }
+          },
+          "1.0.0-beta.11": {
+            "version": "1.0.0-beta.11",
+            "name": "hackebein.objecttracking",
+            "displayName": "Hackebein's Object Tracking",
+            "description": "Hackebein's setup for Object Tracking in VRChat",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking/1.0.0-beta.11/aee9df77206ba4c3e888be5805e54f7423481f5fe8633e187d8a060e33047eba",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.valvesoftware.unity.openvr": "1.2.4",
+              "com.vrchat.avatars": ">=3.9.0",
+              "com.ygdr.mdv": ">=1.2.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0"
+            }
+          },
           "1.0.0-beta.10": {
             "version": "1.0.0-beta.10",
             "name": "hackebein.objecttracking",
@@ -29244,6 +29286,33 @@
           }
         }
       },
+      "hackebein.objecttracking.assets.cup40oz": {
+        "id": "hackebein.objecttracking.assets.cup40oz",
+        "name": "hackebein.objecttracking.assets.cup40oz",
+        "displayName": "Hackebein's Manley Cup 40oz for Object Tracking",
+        "description": "Prefab of 40oz Manley Cup , Drop-in installation.",
+        "latestVersion": "1.0.0",
+        "versionCount": 1,
+        "keywords": [],
+        "unity": null,
+        "author": {
+          "email": "hackebein@gmail.com",
+          "name": "Hackebein"
+        },
+        "versions": {
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "hackebein.objecttracking.assets.cup40oz",
+            "displayName": "Hackebein's Manley Cup 40oz for Object Tracking",
+            "description": "Prefab of 40oz Manley Cup , Drop-in installation.",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking.assets.cup40oz/1.0.0/2b3c74f3265118390d9814bfa7d91ccf7abb88cf60c03356a180937f99240f45",
+            "zipSha256": null,
+            "vpmDependencies": {
+              "hackebein.objecttracking": "*"
+            }
+          }
+        }
+      },
       "hackebein.objecttracking.assets.lyra-moon": {
         "id": "hackebein.objecttracking.assets.lyra-moon",
         "name": "hackebein.objecttracking.assets.lyra-moon",
@@ -29315,8 +29384,8 @@
         "name": "hackebein.objecttracking.host",
         "displayName": "Hackebein's Object Tracking Host",
         "description": "ObjectTracking App for Hackebein's Object Tracking.",
-        "latestVersion": "1.0.0-beta.10",
-        "versionCount": 6,
+        "latestVersion": "1.0.0-beta.12",
+        "versionCount": 8,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -29325,6 +29394,30 @@
           "url": "https://hackebein.de"
         },
         "versions": {
+          "1.0.0-beta.12": {
+            "version": "1.0.0-beta.12",
+            "name": "hackebein.objecttracking.host",
+            "displayName": "Hackebein's Object Tracking Host",
+            "description": "ObjectTracking App for Hackebein's Object Tracking.",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking.host/1.0.0-beta.12/624df812d5ebdff113cc1f0d3cd7e6c10c13694c4ea4096996c8f36235ef09ac",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.valvesoftware.unity.openvr": "1.2.4"
+            }
+          },
+          "1.0.0-beta.11": {
+            "version": "1.0.0-beta.11",
+            "name": "hackebein.objecttracking.host",
+            "displayName": "Hackebein's Object Tracking Host",
+            "description": "ObjectTracking App for Hackebein's Object Tracking.",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking.host/1.0.0-beta.11/71e3bf1e7b820012a12de6717524c86cb8260d3c64de7820ad20cc5692900408",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.valvesoftware.unity.openvr": "1.2.4"
+            }
+          },
           "1.0.0-beta.10": {
             "version": "1.0.0-beta.10",
             "name": "hackebein.objecttracking.host",
@@ -35015,7 +35108,7 @@
     "id": "io.github.helpinghandsvr.vpm",
     "author": "Helping Hands",
     "hash": "d3cba140edcf3cb5c17c4b6034085a4238c0dbbd2ce98b5f097b608968bff8fb",
-    "last_updated": "2026-07-03T13:20:30.000Z",
+    "last_updated": "2026-07-03T13:20:29.000Z",
     "packageCount": 2,
     "packages": {
       "io.github.helpinghandsvr.helpinghands-vrchat-avatar-accessories": {
@@ -37038,7 +37131,7 @@
     "id": "cat.hisa.vpm",
     "author": "HisaCat",
     "hash": "164e0ed610f0a593fb9eb5867230becff0831ebe47d88f25397692d3bbae92c4",
-    "last_updated": "2026-07-03T05:26:13.000Z",
+    "last_updated": "2026-07-03T05:26:12.000Z",
     "packageCount": 3,
     "packages": {
       "cat.hisa.asset-patcher": {
@@ -37770,7 +37863,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "680029c772846cb5e5b7331c6f399296d7c3d340058c68c9f48e255a6fa8e65e",
-    "last_updated": "2026-08-11T04:42:53.000Z",
+    "last_updated": "2026-08-12T05:07:21.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -39327,7 +39420,7 @@
     "id": "dev.jetees.vpm-listing",
     "author": "JeTeeS",
     "hash": "c43d1d46596697e66705b99d7740a062daf269bacdf077d0810963cb05d466da",
-    "last_updated": "2024-05-22T15:17:51.000Z",
+    "last_updated": "2024-05-22T15:17:52.000Z",
     "packageCount": 1,
     "packages": {
       "dev.jetees.memoryoptimizer": {
@@ -39623,7 +39716,7 @@
     "id": "com.vrsive.avatar-exporter.listing",
     "author": "VRSive",
     "hash": "6e4fddf38f8f4986ffa38df8646ea79db089e58aa357f4991002a8cab32a4717",
-    "last_updated": "2026-06-12T12:24:24.000Z",
+    "last_updated": "2026-06-12T12:24:23.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrsive.avatar-exporter": {
@@ -39828,7 +39921,7 @@
     "id": "dev.kaefibot.listing",
     "author": "WoweePaw",
     "hash": "0f954512e7a69a442d27394f918fc68614873d3db3706347e1e36e0acde01244",
-    "last_updated": "2026-07-05T15:03:29.000Z",
+    "last_updated": "2026-07-05T15:03:28.000Z",
     "packageCount": 1,
     "packages": {
       "dev.kaefibot.kaefibot-controller": {
@@ -46379,8 +46472,8 @@
     "name": "AjisaiFlow",
     "id": "com.ajisaiflow.vpm",
     "author": "AjisaiFlow",
-    "hash": "0c10ed04f99b97b9acd056f3bbe6dddbc060495137d3ec718afdbb4bce958cb3",
-    "last_updated": "2026-08-09T08:16:27.000Z",
+    "hash": "8cd4e8446c0c4c54ee8d51f5ca7157ae4a3cfc86411c37dff913616491f27624",
+    "last_updated": "2026-08-12T09:33:05.000Z",
     "packageCount": 4,
     "packages": {
       "net.ajisaiflow.anti-ripping": {
@@ -50357,7 +50450,7 @@
     "id": "com.mame8.vpm",
     "author": "mame8",
     "hash": "880c4bc843e71444652593ac77a1a92bd04b01453281fbe2f51c3cd1ea8bf95a",
-    "last_updated": "2026-07-02T19:27:29.000Z",
+    "last_updated": "2026-07-02T19:27:30.000Z",
     "packageCount": 3,
     "packages": {
       "com.mame8.animator-controller-context": {
@@ -68723,8 +68816,8 @@
     "name": "qsyi-VPM-repos",
     "id": "jp.qsyi.vpm",
     "author": "qsyi",
-    "hash": "00931306aba7d69ec882236190e98594be4225e8835ba9cc30f16f8788570de2",
-    "last_updated": "2026-08-12T00:32:00.000Z",
+    "hash": "37ed50108093b4921a911c17094235d99a9defeff6bdeed8eb25d08b1d42f5d8",
+    "last_updated": "2026-08-13T00:24:47.000Z",
     "packageCount": 1,
     "packages": {
       "jp.qsyi.qs-toolbox": {
@@ -68732,8 +68825,8 @@
         "name": "jp.qsyi.qs-toolbox",
         "displayName": "qsToolBox",
         "description": "アバター改変効率化ツール",
-        "latestVersion": "2.1.2",
-        "versionCount": 26,
+        "latestVersion": "2.1.3",
+        "versionCount": 27,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -68741,6 +68834,20 @@
           "url": "https://github.com/qsyi"
         },
         "versions": {
+          "2.1.3": {
+            "version": "2.1.3",
+            "name": "jp.qsyi.qs-toolbox",
+            "displayName": "qsToolBox",
+            "description": "アバター改変効率化ツール",
+            "url": "https://github.com/qsyi/qsToolbox/releases/download/2.1.3/jp.qsyi.qs-toolbox.2.1.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.modular-avatar": ">=1.18.0",
+              "jp.lilxyzw.lilycalinventory": ">=1.5.2",
+              "com.anatawa12.avatar-optimizer": ">=1.9.0"
+            }
+          },
           "2.1.2": {
             "version": "2.1.2",
             "name": "jp.qsyi.qs-toolbox",
@@ -71583,7 +71690,7 @@
     "id": "dev.kokoa.vpmPackageRepository",
     "author": "kokoa",
     "hash": "c23d8dc23386252afb97257909c6c654bd76a10f7ed52535906733f1dbc9f41f",
-    "last_updated": "2026-08-11T23:39:42.000Z",
+    "last_updated": "2026-08-12T23:40:48.000Z",
     "packageCount": 7,
     "packages": {
       "dev.kokoa.upload-notification": {
@@ -72711,7 +72818,7 @@
     "id": "chirp.reava.listings",
     "author": "Reava_",
     "hash": "741ef16424995b0c841b5b1ea6be385df118c35462b94b7bc8782c0634ab8585",
-    "last_updated": "2026-05-15T12:22:07.000Z",
+    "last_updated": "2026-05-15T12:22:06.000Z",
     "packageCount": 4,
     "packages": {
       "chirp.reava.uwutils": {
@@ -78858,7 +78965,7 @@
     "id": "semmiedev.listing",
     "author": "SemmieDev",
     "hash": "764b234bce8d42c19ee898db4f726192706cfc034cfa348a8593e2579a2d0091",
-    "last_updated": "2026-07-06T07:55:28.000Z",
+    "last_updated": "2026-07-06T07:55:29.000Z",
     "packageCount": 2,
     "packages": {
       "semmiedev.friend-pov": {
@@ -89268,7 +89375,7 @@
     "id": "jp.toh.package-listing",
     "author": "toh",
     "hash": "cc3967c59f319ff5c3910acb82ddac984aa9ad35b5aaec5e395d6ab2cf0dfd4f",
-    "last_updated": "2025-04-28T14:28:15.000Z",
+    "last_updated": "2025-04-28T14:28:14.000Z",
     "packageCount": 1,
     "packages": {
       "jp.toh.easy-object-switch": {
@@ -89903,7 +90010,7 @@
     "id": "com.triturbo.blendshare.listing",
     "author": "Triturbo",
     "hash": "8d43fe402736de6cd2621406d3b850107d5fa9a6bc801a1a5857547ed262526d",
-    "last_updated": "2026-07-05T12:32:45.000Z",
+    "last_updated": "2026-07-05T12:32:46.000Z",
     "packageCount": 1,
     "packages": {
       "com.triturbo.blendshare": {
@@ -91288,7 +91395,7 @@
     "id": "net.pawlygon.vcc-packages",
     "author": "Pawlygon",
     "hash": "ffddfc1a87cdf9aed91a660cbaca0e51f7f86152c9a6f89bfce1276d0295a790",
-    "last_updated": "2026-07-01T04:45:49.000Z",
+    "last_updated": "2026-07-01T04:45:50.000Z",
     "packageCount": 2,
     "packages": {
       "net.pawlygon.vrc-facetracking": {
@@ -91813,8 +91920,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "8088f9e24a7a7f8f7d6d1a50a3fa5f7bddc754a386bd6743b1cc4d22ff7bb33f",
-    "last_updated": "2026-08-12T01:39:58.000Z",
+    "hash": "1858ea3890c0dbdb02824cdb9ac38bd8efc7bbbdc538ea82e1005c78aa1e6ba6",
+    "last_updated": "2026-08-13T01:42:57.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -117736,9 +117843,9 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "a2532fedca9cee8fcce734d9b8c494721492ccc63e4f0d0c9b41de4756747a98",
-    "last_updated": "2026-08-10T01:30:13.000Z",
-    "packageCount": 11,
+    "hash": "1db1e6bfecfaf7dc22241c9e5edb9dedbcbb29205331f405fd7eef3addcef9ad",
+    "last_updated": "2026-08-13T01:26:12.000Z",
+    "packageCount": 12,
     "packages": {
       "com.poiyomi.pro": {
         "id": "com.poiyomi.pro",
@@ -118073,8 +118180,8 @@
         "name": "hackebein.objecttracking",
         "displayName": "Hackebein's Object Tracking",
         "description": "Hackebein's setup for Object Tracking in VRChat",
-        "latestVersion": "1.0.0-beta.10",
-        "versionCount": 24,
+        "latestVersion": "1.0.0-beta.12",
+        "versionCount": 26,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -118083,6 +118190,36 @@
           "url": "https://hackebein.de"
         },
         "versions": {
+          "1.0.0-beta.12": {
+            "version": "1.0.0-beta.12",
+            "name": "hackebein.objecttracking",
+            "displayName": "Hackebein's Object Tracking",
+            "description": "Hackebein's setup for Object Tracking in VRChat",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking/1.0.0-beta.12/6617c79c7090a4938441c0d35bfa41eba0c51c6d7c6db6392461bda75007ee8c",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.valvesoftware.unity.openvr": "1.2.4",
+              "com.vrchat.avatars": ">=3.9.0",
+              "com.ygdr.mdv": ">=1.2.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0"
+            }
+          },
+          "1.0.0-beta.11": {
+            "version": "1.0.0-beta.11",
+            "name": "hackebein.objecttracking",
+            "displayName": "Hackebein's Object Tracking",
+            "description": "Hackebein's setup for Object Tracking in VRChat",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking/1.0.0-beta.11/aee9df77206ba4c3e888be5805e54f7423481f5fe8633e187d8a060e33047eba",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.valvesoftware.unity.openvr": "1.2.4",
+              "com.vrchat.avatars": ">=3.9.0",
+              "com.ygdr.mdv": ">=1.2.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0"
+            }
+          },
           "1.0.0-beta.10": {
             "version": "1.0.0-beta.10",
             "name": "hackebein.objecttracking",
@@ -118394,6 +118531,33 @@
           }
         }
       },
+      "hackebein.objecttracking.assets.cup40oz": {
+        "id": "hackebein.objecttracking.assets.cup40oz",
+        "name": "hackebein.objecttracking.assets.cup40oz",
+        "displayName": "Hackebein's Manley Cup 40oz for Object Tracking",
+        "description": "Prefab of 40oz Manley Cup , Drop-in installation.",
+        "latestVersion": "1.0.0",
+        "versionCount": 1,
+        "keywords": [],
+        "unity": null,
+        "author": {
+          "email": "hackebein@gmail.com",
+          "name": "Hackebein"
+        },
+        "versions": {
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "hackebein.objecttracking.assets.cup40oz",
+            "displayName": "Hackebein's Manley Cup 40oz for Object Tracking",
+            "description": "Prefab of 40oz Manley Cup , Drop-in installation.",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking.assets.cup40oz/1.0.0/2b3c74f3265118390d9814bfa7d91ccf7abb88cf60c03356a180937f99240f45",
+            "zipSha256": null,
+            "vpmDependencies": {
+              "hackebein.objecttracking": "*"
+            }
+          }
+        }
+      },
       "hackebein.objecttracking.assets.lyra-moon": {
         "id": "hackebein.objecttracking.assets.lyra-moon",
         "name": "hackebein.objecttracking.assets.lyra-moon",
@@ -118465,8 +118629,8 @@
         "name": "hackebein.objecttracking.host",
         "displayName": "Hackebein's Object Tracking Host",
         "description": "ObjectTracking App for Hackebein's Object Tracking.",
-        "latestVersion": "1.0.0-beta.10",
-        "versionCount": 6,
+        "latestVersion": "1.0.0-beta.12",
+        "versionCount": 8,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -118475,6 +118639,30 @@
           "url": "https://hackebein.de"
         },
         "versions": {
+          "1.0.0-beta.12": {
+            "version": "1.0.0-beta.12",
+            "name": "hackebein.objecttracking.host",
+            "displayName": "Hackebein's Object Tracking Host",
+            "description": "ObjectTracking App for Hackebein's Object Tracking.",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking.host/1.0.0-beta.12/624df812d5ebdff113cc1f0d3cd7e6c10c13694c4ea4096996c8f36235ef09ac",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.valvesoftware.unity.openvr": "1.2.4"
+            }
+          },
+          "1.0.0-beta.11": {
+            "version": "1.0.0-beta.11",
+            "name": "hackebein.objecttracking.host",
+            "displayName": "Hackebein's Object Tracking Host",
+            "description": "ObjectTracking App for Hackebein's Object Tracking.",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking.host/1.0.0-beta.11/71e3bf1e7b820012a12de6717524c86cb8260d3c64de7820ad20cc5692900408",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.valvesoftware.unity.openvr": "1.2.4"
+            }
+          },
           "1.0.0-beta.10": {
             "version": "1.0.0-beta.10",
             "name": "hackebein.objecttracking.host",
@@ -128297,7 +128485,7 @@
     "id": "com.micksam7.vpm",
     "author": "Micca",
     "hash": "28148f3419e38143920ae19b3a3dd4a57a632a36728aa26382a61c71e69f2550",
-    "last_updated": "2026-07-03T02:20:28.000Z",
+    "last_updated": "2026-07-03T02:20:29.000Z",
     "packageCount": 1,
     "packages": {
       "com.micksam7.mididmx": {
@@ -128396,8 +128584,8 @@
     "name": "MimyLab",
     "id": "com.mimylab.vpm",
     "author": "Mimy Quality",
-    "hash": "8b30a2666bf37d6254da9ac7a1de47146cff86b73bd67244b608d4c1b7c1bcc3",
-    "last_updated": "2026-07-03T04:43:19.000Z",
+    "hash": "8680c9fa3dba301a554b2a272220c8dfbfc6fed76c3e97ea86f58facb7594d24",
+    "last_updated": "2026-08-12T06:12:39.000Z",
     "packageCount": 5,
     "packages": {
       "com.mimylab.fukuroudon": {
@@ -128405,8 +128593,8 @@
         "name": "com.mimylab.fukuroudon",
         "displayName": "Fukuro Udon",
         "description": "MimyLab's U# utilitiy pack for VPM.",
-        "latestVersion": "3.19.4",
-        "versionCount": 130,
+        "latestVersion": "3.19.5",
+        "versionCount": 131,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -128414,6 +128602,19 @@
           "url": "https://github.com/mimyquality"
         },
         "versions": {
+          "3.19.5": {
+            "version": "3.19.5",
+            "name": "com.mimylab.fukuroudon",
+            "displayName": "Fukuro Udon",
+            "description": "MimyLab's U# utilitiy pack for VPM.",
+            "url": "https://github.com/mimyquality/FukuroUdon/releases/download/3.19.5/com.mimylab.fukuroudon-3.19.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.4",
+              "net.narazaka.vrchat.tmp-fallback-fonts-jp": ">=1.0.0"
+            }
+          },
           "3.19.4": {
             "version": "3.19.4",
             "name": "com.mimylab.fukuroudon",
@@ -131245,7 +131446,7 @@
     "id": "dev.nadena.vpm",
     "author": "bd_",
     "hash": "a49c4597f07856bb197bb306665d7640045118d0e53b9d03bfc6834f528f8ccc",
-    "last_updated": "2026-08-11T07:58:30.000Z",
+    "last_updated": "2026-08-12T08:02:55.000Z",
     "packageCount": 4,
     "packages": {
       "nadena.dev.ndmf": {
@@ -151971,8 +152172,8 @@
     "name": "WhyKnot Tools",
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
-    "hash": "b13b02e47c9f93ff541c3b33c5803d1f5be51e81c383feb06a9767db0e7cba98",
-    "last_updated": "2026-08-11T06:47:38.000Z",
+    "hash": "0e1f0f4c866e1756ce00dccd6fc1f8d70c499cc3d70f1e2421cd80c6f31e2485",
+    "last_updated": "2026-08-12T07:07:57.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -167616,8 +167817,8 @@
     "name": "Yueby",
     "id": "com.yueby.vpm",
     "author": "Yueby",
-    "hash": "6e950802842b480297dd4add5662c94032192a06e5ec1fe02f62949d7c5ff477",
-    "last_updated": "2026-07-21T08:17:56.000Z",
+    "hash": "8406820731aeb096152ecfee4ab7c076f8bb39b6dd7212fa73c713b7cc1c5d6f",
+    "last_updated": "2026-08-12T15:04:42.000Z",
     "packageCount": 8,
     "packages": {
       "yueby.tools.editor-core": {
@@ -168244,17 +168445,17 @@
           }
         }
       },
-      "yueby.tools.ncmlyrics": {
-        "id": "yueby.tools.ncmlyrics",
-        "name": "yueby.tools.ncmlyrics",
-        "displayName": "◆ NcmLyrics",
-        "description": "A tool for getting lyrics from Netease Cloud Music.",
-        "latestVersion": "1.1.2",
-        "versionCount": 4,
+      "yueby.tools.splayer-lyrics": {
+        "id": "yueby.tools.splayer-lyrics",
+        "name": "yueby.tools.splayer-lyrics",
+        "displayName": "◆ SPlayer Lyrics",
+        "description": "Display and control SPlayer-Next lyrics in the Unity Editor.",
+        "latestVersion": "2.0.0",
+        "versionCount": 1,
         "keywords": [
           "yueby",
           "tool",
-          "ncm-lyrics",
+          "splayer-lyrics",
           "lyrics",
           "yueby tools"
         ],
@@ -168264,42 +168465,12 @@
           "email": "yueby_sp@qq.com"
         },
         "versions": {
-          "1.1.2": {
-            "version": "1.1.2",
-            "name": "yueby.tools.ncmlyrics",
-            "displayName": "◆ NcmLyrics",
-            "description": "A tool for getting lyrics from Netease Cloud Music.",
-            "url": "https://github.com/Yueby/NcmLyrics/releases/download/1.1.2/yueby.tools.ncmlyrics-1.1.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {}
-          },
-          "1.1.1": {
-            "version": "1.1.1",
-            "name": "yueby.tools.ncmlyrics",
-            "displayName": "◆ NcmLyrics",
-            "description": "A tool for getting lyrics from Netease Cloud Music.",
-            "url": "https://github.com/Yueby/NcmLyrics/releases/download/1.1.1/yueby.tools.ncmlyrics-1.1.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {}
-          },
-          "1.1.0": {
-            "version": "1.1.0",
-            "name": "yueby.tools.ncmlyrics",
-            "displayName": "◆ NcmLyrics",
-            "description": "A tool for getting lyrics from Netease Cloud Music.",
-            "url": "https://github.com/Yueby/NcmLyrics/releases/download/1.1.0/yueby.tools.ncmlyrics-1.1.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {}
-          },
-          "1.0.0": {
-            "version": "1.0.0",
-            "name": "yueby.tools.ncmlyrics",
-            "displayName": "◆ NcmLyrics",
-            "description": "A tool for getting lyrics from Netease Cloud Music.",
-            "url": "https://github.com/Yueby/NcmLyrics/releases/download/1.0.0/yueby.tools.ncmlyrics-1.0.0.zip",
+          "2.0.0": {
+            "version": "2.0.0",
+            "name": "yueby.tools.splayer-lyrics",
+            "displayName": "◆ SPlayer Lyrics",
+            "description": "Display and control SPlayer-Next lyrics in the Unity Editor.",
+            "url": "https://github.com/Yueby/SPlayerLyrics/releases/download/2.0.0/yueby.tools.ncmlyrics-2.0.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {}
@@ -171069,8 +171240,8 @@
     "name": "Poiyomi's VPM Repo",
     "id": "io.github.poiyomi.vpm",
     "author": "Poiyomi",
-    "hash": "8b1bc906abdcccf0da4f78c24188ceccaf62065272804c115b983acbad1193f0",
-    "last_updated": "2026-08-09T08:50:43.000Z",
+    "hash": "ff20c6bf6772ab965ec35a18a1c1191c3fc1e230f1595460a6677e482f70092d",
+    "last_updated": "2026-08-12T18:29:27.000Z",
     "packageCount": 3,
     "packages": {
       "com.poiyomi.toon": {
@@ -171772,8 +171943,8 @@
         "name": "com.poiyomi.thryeditor",
         "displayName": "ThryEditor",
         "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
-        "latestVersion": "2.73.4",
-        "versionCount": 18,
+        "latestVersion": "2.73.5",
+        "versionCount": 19,
         "keywords": [],
         "unity": "2021.3",
         "author": {
@@ -171781,6 +171952,16 @@
           "url": "https://www.poiyomi.com"
         },
         "versions": {
+          "2.73.5": {
+            "version": "2.73.5",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://github.com/poiyomi/ThryEditor/releases/download/2.73.5/com.poiyomi.thryeditor-2.73.5.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
           "2.73.4": {
             "version": "2.73.4",
             "name": "com.poiyomi.thryeditor",
@@ -171989,7 +172170,7 @@
     "id": "dev.nadena.vpm",
     "author": "bd_",
     "hash": "a49c4597f07856bb197bb306665d7640045118d0e53b9d03bfc6834f528f8ccc",
-    "last_updated": "2026-08-11T07:58:30.000Z",
+    "last_updated": "2026-08-12T08:02:55.000Z",
     "packageCount": 4,
     "packages": {
       "nadena.dev.ndmf": {
