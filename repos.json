@@ -1399,8 +1399,8 @@
     "name": "An-Labo NailTool",
     "id": "world.anlabo.mdnailtool.vpm",
     "author": "An-Labo",
-    "hash": "e57c541ca201362a4b356b407e0f90f03627b4cc9c196f28210f1f0c93a7ac95",
-    "last_updated": "2026-08-12T23:45:23.000Z",
+    "hash": "0efac883555928eb3341723813107ac9522d7eff223f2af58b2d840472b77183",
+    "last_updated": "2026-08-13T08:28:36.000Z",
     "packageCount": 1,
     "packages": {
       "world.anlabo.mdnailtool": {
@@ -1409,7 +1409,7 @@
         "displayName": "An-Labo NailTool",
         "description": "An-Labo NailTool",
         "latestVersion": "0.9.141",
-        "versionCount": 565,
+        "versionCount": 566,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -8192,6 +8192,18 @@
             "displayName": "An-Labo NailTool",
             "description": "An-Labo NailTool",
             "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.10.51/world.anlabo.mdnailtool-0.10.51.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.5.0"
+            }
+          },
+          "0.10.52": {
+            "version": "0.10.52",
+            "name": "world.anlabo.mdnailtool",
+            "displayName": "An-Labo NailTool",
+            "description": "An-Labo NailTool",
+            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.10.52/world.anlabo.mdnailtool-0.10.52.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -16675,7 +16687,7 @@
     "id": "com.cyan.cyantrigger.vcc-listing",
     "author": "CyanLaser",
     "hash": "a6d67a91e3c26d4b2575f25029cc6f6fea9441c11451fdd533128d76b3ba3e61",
-    "last_updated": "2026-07-03T00:44:09.000Z",
+    "last_updated": "2026-07-03T00:44:10.000Z",
     "packageCount": 2,
     "packages": {
       "com.cyan.cyantrigger": {
@@ -24735,7 +24747,7 @@
     "id": "com.furality.repos.official",
     "author": "Furality, Inc.",
     "hash": "1f058d849e3d6f8fbf1320164b63cd1f1019b43a7993a1adfa11f274f8288e49",
-    "last_updated": "2026-08-08T02:49:09.000Z",
+    "last_updated": "2026-08-08T02:49:10.000Z",
     "packageCount": 3,
     "packages": {
       "com.furality.sylvashader": {
@@ -25298,7 +25310,7 @@
     "id": "com.gabsith.wft",
     "author": "GabSith",
     "hash": "ed31c2beeb60c2322e47d329a9b0cbe8b2c319649ebd2c252945be2fceacc184",
-    "last_updated": "2026-05-03T07:30:54.000Z",
+    "last_updated": "2026-05-03T07:30:55.000Z",
     "packageCount": 1,
     "packages": {
       "com.gabsith.wft": {
@@ -25961,7 +25973,7 @@
     "id": "info.glintfraulein.vpm",
     "author": "GlinT Fraulein",
     "hash": "d067d1fbf289995ff3389fe27a75503a63cee6f1efcca3e91fd7ba1a4207094f",
-    "last_updated": "2026-08-09T08:47:45.000Z",
+    "last_updated": "2026-08-09T08:47:46.000Z",
     "packageCount": 1,
     "packages": {
       "info.glintfraulein.palasolu": {
@@ -28598,8 +28610,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "1db1e6bfecfaf7dc22241c9e5edb9dedbcbb29205331f405fd7eef3addcef9ad",
-    "last_updated": "2026-08-13T01:26:12.000Z",
+    "hash": "77d862e7a0a5ab5b8af1c842b4698336b7749366a369973e01668085feac0e4f",
+    "last_updated": "2026-08-13T02:35:40.000Z",
     "packageCount": 12,
     "packages": {
       "com.poiyomi.pro": {
@@ -28935,8 +28947,8 @@
         "name": "hackebein.objecttracking",
         "displayName": "Hackebein's Object Tracking",
         "description": "Hackebein's setup for Object Tracking in VRChat",
-        "latestVersion": "1.0.0-beta.12",
-        "versionCount": 26,
+        "latestVersion": "1.0.0-beta.13",
+        "versionCount": 27,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -28945,6 +28957,21 @@
           "url": "https://hackebein.de"
         },
         "versions": {
+          "1.0.0-beta.13": {
+            "version": "1.0.0-beta.13",
+            "name": "hackebein.objecttracking",
+            "displayName": "Hackebein's Object Tracking",
+            "description": "Hackebein's setup for Object Tracking in VRChat",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking/1.0.0-beta.13/bfc48f0cd107aedd77c9fd071fc13afc93f7be3326979a3b8d02ee629688b5c9",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.valvesoftware.unity.openvr": "1.2.4",
+              "com.vrchat.avatars": ">=3.9.0",
+              "com.ygdr.mdv": ">=1.2.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0"
+            }
+          },
           "1.0.0-beta.12": {
             "version": "1.0.0-beta.12",
             "name": "hackebein.objecttracking",
@@ -29384,8 +29411,8 @@
         "name": "hackebein.objecttracking.host",
         "displayName": "Hackebein's Object Tracking Host",
         "description": "ObjectTracking App for Hackebein's Object Tracking.",
-        "latestVersion": "1.0.0-beta.12",
-        "versionCount": 8,
+        "latestVersion": "1.0.0-beta.13",
+        "versionCount": 9,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -29394,6 +29421,18 @@
           "url": "https://hackebein.de"
         },
         "versions": {
+          "1.0.0-beta.13": {
+            "version": "1.0.0-beta.13",
+            "name": "hackebein.objecttracking.host",
+            "displayName": "Hackebein's Object Tracking Host",
+            "description": "ObjectTracking App for Hackebein's Object Tracking.",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking.host/1.0.0-beta.13/9b1477cc76037aac9663d449640a5490fb486f4d6c47942d0208b034d9f63cae",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.valvesoftware.unity.openvr": "1.2.4"
+            }
+          },
           "1.0.0-beta.12": {
             "version": "1.0.0-beta.12",
             "name": "hackebein.objecttracking.host",
@@ -35108,7 +35147,7 @@
     "id": "io.github.helpinghandsvr.vpm",
     "author": "Helping Hands",
     "hash": "d3cba140edcf3cb5c17c4b6034085a4238c0dbbd2ce98b5f097b608968bff8fb",
-    "last_updated": "2026-07-03T13:20:29.000Z",
+    "last_updated": "2026-07-03T13:20:30.000Z",
     "packageCount": 2,
     "packages": {
       "io.github.helpinghandsvr.helpinghands-vrchat-avatar-accessories": {
@@ -37131,7 +37170,7 @@
     "id": "cat.hisa.vpm",
     "author": "HisaCat",
     "hash": "164e0ed610f0a593fb9eb5867230becff0831ebe47d88f25397692d3bbae92c4",
-    "last_updated": "2026-07-03T05:26:12.000Z",
+    "last_updated": "2026-07-03T05:26:13.000Z",
     "packageCount": 3,
     "packages": {
       "cat.hisa.asset-patcher": {
@@ -37863,7 +37902,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "680029c772846cb5e5b7331c6f399296d7c3d340058c68c9f48e255a6fa8e65e",
-    "last_updated": "2026-08-12T05:07:21.000Z",
+    "last_updated": "2026-08-13T05:10:19.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -39420,7 +39459,7 @@
     "id": "dev.jetees.vpm-listing",
     "author": "JeTeeS",
     "hash": "c43d1d46596697e66705b99d7740a062daf269bacdf077d0810963cb05d466da",
-    "last_updated": "2024-05-22T15:17:52.000Z",
+    "last_updated": "2024-05-22T15:17:51.000Z",
     "packageCount": 1,
     "packages": {
       "dev.jetees.memoryoptimizer": {
@@ -40542,8 +40581,8 @@
     "name": "VRChatTools",
     "id": "com.kama-boko-vrc.vrchat-tools-repo",
     "author": "kama-boko-vrc",
-    "hash": "023583acc9df74783b24ef80ecae03ac7165b65f4c6494f500976f445c396f82",
-    "last_updated": "2026-08-11T12:58:49.000Z",
+    "hash": "2f650b55b855501faf8bc64351ce2ec1147b86af632458192600d0314290d2c1",
+    "last_updated": "2026-08-13T14:51:29.000Z",
     "packageCount": 1,
     "packages": {
       "com.kama-boko-vrc.vrchat-tools": {
@@ -40552,7 +40591,7 @@
         "displayName": "VRChatTools",
         "description": "VRChatアバター制作用のUnityエディタ拡張集",
         "latestVersion": "1.0.0",
-        "versionCount": 9,
+        "versionCount": 10,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -40646,6 +40685,16 @@
             "displayName": "VRChatTools",
             "description": "VRChatアバター改変用のUnityエディタ拡張集",
             "url": "https://github.com/kama-boko-vrc/VRChatTools/releases/download/v1.4.1/com.kama-boko-vrc.vrchat-tools-1.4.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.5.0": {
+            "version": "1.5.0",
+            "name": "com.kama-boko-vrc.vrchat-tools",
+            "displayName": "VRChatTools",
+            "description": "VRChatアバター改変用のUnityエディタ拡張集",
+            "url": "https://github.com/kama-boko-vrc/VRChatTools/releases/download/v1.5.0/com.kama-boko-vrc.vrchat-tools-1.5.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {}
@@ -50450,7 +50499,7 @@
     "id": "com.mame8.vpm",
     "author": "mame8",
     "hash": "880c4bc843e71444652593ac77a1a92bd04b01453281fbe2f51c3cd1ea8bf95a",
-    "last_updated": "2026-07-02T19:27:30.000Z",
+    "last_updated": "2026-07-02T19:27:29.000Z",
     "packageCount": 3,
     "packages": {
       "com.mame8.animator-controller-context": {
@@ -54384,8 +54433,8 @@
     "name": "Nekoare VPM Packages（同梱版）",
     "id": "com.nekoare.vpm.bundled",
     "author": "nekoare",
-    "hash": "c7948104038649ed2a338d5d2e9cd87185a495ce32945eaafd959189c5a6558d",
-    "last_updated": "2026-07-23T19:39:23.000Z",
+    "hash": "aede3ee987eb78c609580e74c101c77515e8ecbcb757185f13f58f8d8724f3bf",
+    "last_updated": "2026-08-14T00:27:20.000Z",
     "packageCount": 2,
     "packages": {
       "com.nekoare.chimera-hair-master": {
@@ -54393,8 +54442,8 @@
         "name": "com.nekoare.chimera-hair-master",
         "displayName": "キメラヘアマスター",
         "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-        "latestVersion": "1.5.10",
-        "versionCount": 39,
+        "latestVersion": "1.5.11",
+        "versionCount": 40,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -54402,6 +54451,18 @@
           "url": "https://neko-to-same.booth.pm/"
         },
         "versions": {
+          "1.5.11": {
+            "version": "1.5.11",
+            "name": "com.nekoare.chimera-hair-master",
+            "displayName": "キメラヘアマスター",
+            "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
+            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.5.11/com.nekoare.chimera-hair-master-1.5.11.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.7.0"
+            }
+          },
           "1.5.10": {
             "version": "1.5.10",
             "name": "com.nekoare.chimera-hair-master",
@@ -55018,76 +55079,13 @@
   },
   {
     "url": "https://nickel-jp.github.io/avatar-recovery-unity/index.json",
-    "name": "Avatar Recovery Unity",
-    "id": "com.nickel-jp.repos.avatar-recovery",
+    "name": "nickel-jp - avatar recovery unity",
+    "id": "nickel-jp.avatar-recovery-unity",
     "author": "Nickel-JP",
-    "hash": "57f1542cdd99da80a82860e8f5a113b761b6b7369ab029ce4dfe26a7050a2956",
+    "hash": null,
     "last_updated": "2026-08-09T03:37:16.000Z",
-    "packageCount": 1,
-    "packages": {
-      "com.nickel-jp.avatar-recovery": {
-        "id": "com.nickel-jp.avatar-recovery",
-        "name": "com.nickel-jp.avatar-recovery",
-        "displayName": "Avatar Recovery",
-        "description": "Unity Editor tools for recovering VRChat avatar, world, and prop assets from VRCA/VRCW/VRCP files.",
-        "latestVersion": "1.2.10",
-        "versionCount": 3,
-        "keywords": [
-          "vrchat",
-          "avatar",
-          "world",
-          "prop",
-          "recovery",
-          "vrca",
-          "vrcw",
-          "vrcp",
-          "editor"
-        ],
-        "unity": "2022.3",
-        "author": {
-          "name": "Nickel-JP",
-          "url": "https://github.com/Nickel-JP"
-        },
-        "versions": {
-          "1.2.10": {
-            "version": "1.2.10",
-            "name": "com.nickel-jp.avatar-recovery",
-            "displayName": "Avatar Recovery",
-            "description": "Unity Editor tools for recovering VRChat avatar, world, and prop assets from VRCA/VRCW/VRCP files.",
-            "url": "https://nickel-jp.github.io/avatar-recovery-unity/packages/com.nickel-jp.avatar-recovery-1.2.10.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": ">=3.7.0 <3.11.0"
-            }
-          },
-          "1.2.9": {
-            "version": "1.2.9",
-            "name": "com.nickel-jp.avatar-recovery",
-            "displayName": "Avatar Recovery",
-            "description": "Unity Editor tools for recovering VRChat avatar, world, and prop assets from VRCA/VRCW/VRCP files.",
-            "url": "https://nickel-jp.github.io/avatar-recovery-unity/packages/com.nickel-jp.avatar-recovery-1.2.9.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": ">=3.7.0 <3.11.0"
-            }
-          },
-          "1.2.8": {
-            "version": "1.2.8",
-            "name": "com.nickel-jp.avatar-recovery",
-            "displayName": "Avatar Recovery",
-            "description": "Unity Editor tools for recovering VRChat avatar, world, and prop assets from VRCA/VRCW/VRCP files.",
-            "url": "https://nickel-jp.github.io/avatar-recovery-unity/packages/com.nickel-jp.avatar-recovery-1.2.8.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": ">=3.7.0 <3.11.0"
-            }
-          }
-        }
-      }
-    }
+    "packageCount": 0,
+    "packages": {}
   },
   {
     "url": "https://nidonocu.github.io/virtual-gryphon-packages/index.json",
@@ -55095,7 +55093,7 @@
     "id": "com.nidonocu.virtual-gryphon-packages",
     "author": "Nidonocu",
     "hash": "4f1a4e20ac1e5d3661ae57c8d3353f05d769b8999754be537975ece981b322cc",
-    "last_updated": "2026-07-03T16:56:21.000Z",
+    "last_updated": "2026-07-03T16:56:23.000Z",
     "packageCount": 1,
     "packages": {
       "com.nidonocu.vrcunitytoolbar": {
@@ -58975,7 +58973,7 @@
     "id": "dev.omelette_ak.vpm",
     "author": "omeletteak",
     "hash": "87cd6506aa825e26b64761abbbe030e0e11ea7ac963a055d927af38e95a30b11",
-    "last_updated": "2026-06-23T11:45:38.000Z",
+    "last_updated": "2026-06-23T11:45:39.000Z",
     "packageCount": 1,
     "packages": {
       "dev.omelette_ak.vrcloth-declipper": {
@@ -71690,7 +71688,7 @@
     "id": "dev.kokoa.vpmPackageRepository",
     "author": "kokoa",
     "hash": "c23d8dc23386252afb97257909c6c654bd76a10f7ed52535906733f1dbc9f41f",
-    "last_updated": "2026-08-12T23:40:48.000Z",
+    "last_updated": "2026-08-13T23:40:31.000Z",
     "packageCount": 7,
     "packages": {
       "dev.kokoa.upload-notification": {
@@ -72818,7 +72816,7 @@
     "id": "chirp.reava.listings",
     "author": "Reava_",
     "hash": "741ef16424995b0c841b5b1ea6be385df118c35462b94b7bc8782c0634ab8585",
-    "last_updated": "2026-05-15T12:22:06.000Z",
+    "last_updated": "2026-05-15T12:22:07.000Z",
     "packageCount": 4,
     "packages": {
       "chirp.reava.uwutils": {
@@ -78965,7 +78963,7 @@
     "id": "semmiedev.listing",
     "author": "SemmieDev",
     "hash": "764b234bce8d42c19ee898db4f726192706cfc034cfa348a8593e2579a2d0091",
-    "last_updated": "2026-07-06T07:55:29.000Z",
+    "last_updated": "2026-07-06T07:55:28.000Z",
     "packageCount": 2,
     "packages": {
       "semmiedev.friend-pov": {
@@ -91395,7 +91393,7 @@
     "id": "net.pawlygon.vcc-packages",
     "author": "Pawlygon",
     "hash": "ffddfc1a87cdf9aed91a660cbaca0e51f7f86152c9a6f89bfce1276d0295a790",
-    "last_updated": "2026-07-01T04:45:50.000Z",
+    "last_updated": "2026-07-01T04:45:49.000Z",
     "packageCount": 2,
     "packages": {
       "net.pawlygon.vrc-facetracking": {
@@ -91920,8 +91918,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "1858ea3890c0dbdb02824cdb9ac38bd8efc7bbbdc538ea82e1005c78aa1e6ba6",
-    "last_updated": "2026-08-13T01:42:57.000Z",
+    "hash": "5f6d17128dbc294184029991cf49d925ddd465391e896e09f0904f9e6fe6db03",
+    "last_updated": "2026-08-14T01:39:57.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -117843,8 +117841,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "1db1e6bfecfaf7dc22241c9e5edb9dedbcbb29205331f405fd7eef3addcef9ad",
-    "last_updated": "2026-08-13T01:26:12.000Z",
+    "hash": "77d862e7a0a5ab5b8af1c842b4698336b7749366a369973e01668085feac0e4f",
+    "last_updated": "2026-08-13T02:35:40.000Z",
     "packageCount": 12,
     "packages": {
       "com.poiyomi.pro": {
@@ -118180,8 +118178,8 @@
         "name": "hackebein.objecttracking",
         "displayName": "Hackebein's Object Tracking",
         "description": "Hackebein's setup for Object Tracking in VRChat",
-        "latestVersion": "1.0.0-beta.12",
-        "versionCount": 26,
+        "latestVersion": "1.0.0-beta.13",
+        "versionCount": 27,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -118190,6 +118188,21 @@
           "url": "https://hackebein.de"
         },
         "versions": {
+          "1.0.0-beta.13": {
+            "version": "1.0.0-beta.13",
+            "name": "hackebein.objecttracking",
+            "displayName": "Hackebein's Object Tracking",
+            "description": "Hackebein's setup for Object Tracking in VRChat",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking/1.0.0-beta.13/bfc48f0cd107aedd77c9fd071fc13afc93f7be3326979a3b8d02ee629688b5c9",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.valvesoftware.unity.openvr": "1.2.4",
+              "com.vrchat.avatars": ">=3.9.0",
+              "com.ygdr.mdv": ">=1.2.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0"
+            }
+          },
           "1.0.0-beta.12": {
             "version": "1.0.0-beta.12",
             "name": "hackebein.objecttracking",
@@ -118629,8 +118642,8 @@
         "name": "hackebein.objecttracking.host",
         "displayName": "Hackebein's Object Tracking Host",
         "description": "ObjectTracking App for Hackebein's Object Tracking.",
-        "latestVersion": "1.0.0-beta.12",
-        "versionCount": 8,
+        "latestVersion": "1.0.0-beta.13",
+        "versionCount": 9,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -118639,6 +118652,18 @@
           "url": "https://hackebein.de"
         },
         "versions": {
+          "1.0.0-beta.13": {
+            "version": "1.0.0-beta.13",
+            "name": "hackebein.objecttracking.host",
+            "displayName": "Hackebein's Object Tracking Host",
+            "description": "ObjectTracking App for Hackebein's Object Tracking.",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking.host/1.0.0-beta.13/9b1477cc76037aac9663d449640a5490fb486f4d6c47942d0208b034d9f63cae",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.valvesoftware.unity.openvr": "1.2.4"
+            }
+          },
           "1.0.0-beta.12": {
             "version": "1.0.0-beta.12",
             "name": "hackebein.objecttracking.host",
@@ -121958,8 +121983,8 @@
     "name": "THE_cattail",
     "id": "com.the-cattail.vpm",
     "author": "THE_cattail",
-    "hash": "f11d184aed8bb6a7e5fe8049d7dca484a45af6f0e7d497b6a67434acb2d11be0",
-    "last_updated": "2026-08-11T14:53:04.000Z",
+    "hash": "d5be95dd9358938a0d49844b12734e340c9ff70a34d0d479c6a08e56cacfa931",
+    "last_updated": "2026-08-13T03:39:42.000Z",
     "packageCount": 1,
     "packages": {
       "com.the-cattail.afk-motion-patcher": {
@@ -131446,7 +131471,7 @@
     "id": "dev.nadena.vpm",
     "author": "bd_",
     "hash": "a49c4597f07856bb197bb306665d7640045118d0e53b9d03bfc6834f528f8ccc",
-    "last_updated": "2026-08-12T08:02:55.000Z",
+    "last_updated": "2026-08-13T08:03:33.000Z",
     "packageCount": 4,
     "packages": {
       "nadena.dev.ndmf": {
@@ -152172,8 +152197,8 @@
     "name": "WhyKnot Tools",
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
-    "hash": "0e1f0f4c866e1756ce00dccd6fc1f8d70c499cc3d70f1e2421cd80c6f31e2485",
-    "last_updated": "2026-08-12T07:07:57.000Z",
+    "hash": "47f68073fbf65ae9087edce2741e05fcd7bb7f149bb7ad5b8da4685cc0fabb1b",
+    "last_updated": "2026-08-13T07:12:22.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -171024,7 +171049,7 @@
     "id": "dev.tsukimicode.vpm",
     "author": "TsukimiCode",
     "hash": "5ccf18ade4d8aa1ffc0fed2ed702e538502ac77b919d21ec564246f83f638b13",
-    "last_updated": "2026-08-09T10:54:12.000Z",
+    "last_updated": "2026-08-13T17:09:06.000Z",
     "packageCount": 1,
     "packages": {
       "com.tsukimicode.udon-tools": {
@@ -172170,7 +172195,7 @@
     "id": "dev.nadena.vpm",
     "author": "bd_",
     "hash": "a49c4597f07856bb197bb306665d7640045118d0e53b9d03bfc6834f528f8ccc",
-    "last_updated": "2026-08-12T08:02:55.000Z",
+    "last_updated": "2026-08-13T08:03:33.000Z",
     "packageCount": 4,
     "packages": {
       "nadena.dev.ndmf": {
