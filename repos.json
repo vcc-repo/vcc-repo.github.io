@@ -868,6 +868,133 @@
     }
   },
   {
+    "url": "https://alanbacker.github.io/vpm/index.json",
+    "name": "AlanBacker VPM Packages",
+    "id": "com.alanbacker.vpm",
+    "author": "AlanBacker",
+    "hash": "96b4cad271941517cd9402dc68f7e60d8ab8dcbe0e4c4e28e18cce5095cc63f6",
+    "last_updated": "2026-08-13T11:29:24.000Z",
+    "packageCount": 2,
+    "packages": {
+      "com.alanbacker.assets-manager-for-vrchat": {
+        "id": "com.alanbacker.assets-manager-for-vrchat",
+        "name": "com.alanbacker.assets-manager-for-vrchat",
+        "displayName": "Assets Manager for VRChat",
+        "description": "A tidy, searchable library for your Booth / Gumroad assets: groups with openable folders, cover images (upload or VRCCam-style capture), nicknames, store links, notes, tags and instant search. Editor-only — never ships with your builds. UI in English, 简体中文, 日本語, 한국어.",
+        "latestVersion": "1.1.5",
+        "versionCount": 6,
+        "keywords": [
+          "vrchat",
+          "booth",
+          "gumroad",
+          "assets",
+          "library",
+          "organizer",
+          "editor"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "AlanBacker",
+          "url": "https://github.com/AlanBacker"
+        },
+        "versions": {
+          "1.1.5": {
+            "version": "1.1.5",
+            "name": "com.alanbacker.assets-manager-for-vrchat",
+            "displayName": "Assets Manager for VRChat",
+            "description": "A tidy, searchable library for your Booth / Gumroad assets: groups with openable folders, cover images (upload or VRCCam-style capture), nicknames, store links, notes, tags and instant search. Editor-only — never ships with your builds. UI in English, 简体中文, 日本語, 한국어.",
+            "url": "https://github.com/AlanBacker/AssetsManagerForVRChat/releases/download/v1.1.5/com.alanbacker.assets-manager-for-vrchat-1.1.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1.4": {
+            "version": "1.1.4",
+            "name": "com.alanbacker.assets-manager-for-vrchat",
+            "displayName": "Assets Manager for VRChat",
+            "description": "A tidy, searchable library for your Booth / Gumroad assets: groups with openable folders, cover images (upload or VRCCam-style capture), nicknames, store links, notes, tags and instant search. Editor-only — never ships with your builds. UI in English, 简体中文, 日本語, 한국어.",
+            "url": "https://github.com/AlanBacker/AssetsManagerForVRChat/releases/download/v1.1.4/com.alanbacker.assets-manager-for-vrchat-1.1.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1.3": {
+            "version": "1.1.3",
+            "name": "com.alanbacker.assets-manager-for-vrchat",
+            "displayName": "Assets Manager for VRChat",
+            "description": "A tidy, searchable library for your Booth / Gumroad assets: groups with openable folders, cover images (upload or VRCCam-style capture), nicknames, store links, notes, tags and instant search. Editor-only — never ships with your builds. UI in English, 简体中文, 日本語, 한국어.",
+            "url": "https://github.com/AlanBacker/AssetsManagerForVRChat/releases/download/v1.1.3/com.alanbacker.assets-manager-for-vrchat-1.1.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1.2": {
+            "version": "1.1.2",
+            "name": "com.alanbacker.assets-manager-for-vrchat",
+            "displayName": "Assets Manager for VRChat",
+            "description": "A tidy, searchable library for your Booth / Gumroad assets: groups with openable folders, cover images (upload or VRCCam-style capture), nicknames, store links, notes, tags and instant search. Editor-only — never ships with your builds. UI in English, 简体中文, 日本語, 한국어.",
+            "url": "https://github.com/AlanBacker/AssetsManagerForVRChat/releases/download/v1.1.2/com.alanbacker.assets-manager-for-vrchat-1.1.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1.1": {
+            "version": "1.1.1",
+            "name": "com.alanbacker.assets-manager-for-vrchat",
+            "displayName": "Assets Manager for VRChat",
+            "description": "A tidy, searchable library for your Booth / Gumroad assets: groups with openable folders, cover images (upload or VRCCam-style capture), nicknames, store links, notes, tags and instant search. Editor-only — never ships with your builds. UI in English, 简体中文, 日本語, 한국어.",
+            "url": "https://github.com/AlanBacker/AssetsManagerForVRChat/releases/download/v1.1.1/com.alanbacker.assets-manager-for-vrchat-1.1.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "com.alanbacker.assets-manager-for-vrchat",
+            "displayName": "Assets Manager for VRChat",
+            "description": "A tidy, searchable library for your Booth / Gumroad assets: groups with openable folders, cover images (upload or VRCCam-style capture), nicknames, store links, notes, tags and instant search. Editor-only — never ships with your builds. UI in English, 简体中文, 日本語, 한국어.",
+            "url": "https://github.com/AlanBacker/AssetsManagerForVRChat/releases/download/v1.1.0/com.alanbacker.assets-manager-for-vrchat-1.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          }
+        }
+      },
+      "com.alanbacker.unity-batch-processor": {
+        "id": "com.alanbacker.unity-batch-processor",
+        "name": "com.alanbacker.unity-batch-processor",
+        "displayName": "Unity Batch Processor",
+        "description": "Batch-add one or more objects as children under many target objects at once. Editor-only tool with UI in English, 简体中文, 日本語, 한국어.",
+        "latestVersion": "0.2.0",
+        "versionCount": 1,
+        "keywords": [
+          "unity",
+          "editor",
+          "batch",
+          "hierarchy",
+          "tool"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "AlanBacker",
+          "url": "https://github.com/AlanBacker"
+        },
+        "versions": {
+          "0.2.0": {
+            "version": "0.2.0",
+            "name": "com.alanbacker.unity-batch-processor",
+            "displayName": "Unity Batch Processor",
+            "description": "Batch-add one or more objects as children under many target objects at once. Editor-only tool with UI in English, 简体中文, 日本語, 한국어.",
+            "url": "https://github.com/AlanBacker/Unity-Batch-Processor/releases/download/v0.2.0/com.alanbacker.unity-batch-processor-0.2.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          }
+        }
+      }
+    }
+  },
+  {
     "url": "https://amarinoa.github.io/AmariNoa-VPM-Listing/index.json",
     "name": "AmariNoa's vpm repo",
     "id": "com.amari-noa.vpm",
@@ -14127,8 +14254,8 @@
     "name": "UdonSharpOptimizer Listing",
     "id": "blueamulet.udonsharpoptimizer.listing",
     "author": "BlueAmulet",
-    "hash": "56a601bc8b7fb6c3ac35db228108ac5f73395f4e0028f626055bbc214ca7556d",
-    "last_updated": "2025-03-08T20:47:34.000Z",
+    "hash": "5de1a40b429017aa56a4df698919dfb6c4a95419439cbdcd03a26b3cd6b579be",
+    "last_updated": "2026-08-14T21:29:45.000Z",
     "packageCount": 1,
     "packages": {
       "blueamulet.udonsharpoptimizer": {
@@ -14136,14 +14263,25 @@
         "name": "blueamulet.udonsharpoptimizer",
         "displayName": "UdonSharpOptimizer",
         "description": "UdonSharp postprocessor to reduce instruction and variable counts",
-        "latestVersion": "1.0.12",
-        "versionCount": 6,
+        "latestVersion": "1.0.13",
+        "versionCount": 7,
         "keywords": [],
         "unity": null,
         "author": {
           "name": "BlueAmulet"
         },
         "versions": {
+          "1.0.13": {
+            "version": "1.0.13",
+            "name": "blueamulet.udonsharpoptimizer",
+            "displayName": "UdonSharpOptimizer",
+            "description": "UdonSharp postprocessor to reduce instruction and variable counts",
+            "url": "https://github.com/BlueAmulet/UdonSharpOptimizer/releases/download/1.0.13/blueamulet.udonsharpoptimizer-1.0.13.zip",
+            "zipSha256": null,
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.4.2"
+            }
+          },
           "1.0.12": {
             "version": "1.0.12",
             "name": "blueamulet.udonsharpoptimizer",
@@ -16040,7 +16178,7 @@
     "id": "com.chill.vpm",
     "author": "chill",
     "hash": "218dd1fd125e7194ca6c8140e63ca3d013b40ed5b78b42e79e1ff1e1d5cd5b05",
-    "last_updated": "2026-05-21T13:11:01.000Z",
+    "last_updated": "2026-05-21T13:11:02.000Z",
     "packageCount": 1,
     "packages": {
       "com.chill.avatarscope": {
@@ -25310,7 +25448,7 @@
     "id": "com.gabsith.wft",
     "author": "GabSith",
     "hash": "ed31c2beeb60c2322e47d329a9b0cbe8b2c319649ebd2c252945be2fceacc184",
-    "last_updated": "2026-05-03T07:30:55.000Z",
+    "last_updated": "2026-05-03T07:30:54.000Z",
     "packageCount": 1,
     "packages": {
       "com.gabsith.wft": {
@@ -25973,7 +26111,7 @@
     "id": "info.glintfraulein.vpm",
     "author": "GlinT Fraulein",
     "hash": "d067d1fbf289995ff3389fe27a75503a63cee6f1efcca3e91fd7ba1a4207094f",
-    "last_updated": "2026-08-09T08:47:46.000Z",
+    "last_updated": "2026-08-09T08:47:45.000Z",
     "packageCount": 1,
     "packages": {
       "info.glintfraulein.palasolu": {
@@ -37331,7 +37469,7 @@
     "id": "com.github.hkrn",
     "author": "hkrn",
     "hash": "66afe02e940c091d4b955f7a758659dfa28c963b53e571fc1c24147280761b5f",
-    "last_updated": "2026-07-12T08:29:09.000Z",
+    "last_updated": "2026-07-12T08:29:10.000Z",
     "packageCount": 1,
     "packages": {
       "com.github.hkrn.ndmf-vrm-exporter": {
@@ -37902,7 +38040,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "680029c772846cb5e5b7331c6f399296d7c3d340058c68c9f48e255a6fa8e65e",
-    "last_updated": "2026-08-13T05:10:19.000Z",
+    "last_updated": "2026-08-14T05:06:38.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -39459,7 +39597,7 @@
     "id": "dev.jetees.vpm-listing",
     "author": "JeTeeS",
     "hash": "c43d1d46596697e66705b99d7740a062daf269bacdf077d0810963cb05d466da",
-    "last_updated": "2024-05-22T15:17:51.000Z",
+    "last_updated": "2024-05-22T15:17:52.000Z",
     "packageCount": 1,
     "packages": {
       "dev.jetees.memoryoptimizer": {
@@ -39755,7 +39893,7 @@
     "id": "com.vrsive.avatar-exporter.listing",
     "author": "VRSive",
     "hash": "6e4fddf38f8f4986ffa38df8646ea79db089e58aa357f4991002a8cab32a4717",
-    "last_updated": "2026-06-12T12:24:23.000Z",
+    "last_updated": "2026-06-12T12:24:24.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrsive.avatar-exporter": {
@@ -40708,8 +40846,8 @@
     "name": "kb10uy VRChat Package Repository",
     "id": "org.kb10uy.vrc-repository",
     "author": "kb10uy",
-    "hash": "b299e418cbd87a5c715066883bb2418621e4b86f8ba50155ace659656a6a3b48",
-    "last_updated": "2026-07-25T09:26:07.000Z",
+    "hash": "2f61ab84ffbb3022aeb319f48bc4b70fedda1ea22154c52bbd55cd0124a0e44b",
+    "last_updated": "2026-08-14T11:16:45.000Z",
     "packageCount": 5,
     "packages": {
       "org.kb10uy.liltoon-msdfmask": {
@@ -41504,8 +41642,8 @@
         "name": "org.kb10uy.zatools",
         "displayName": "Zatools: kb10uy's Various Tools",
         "description": "Various tools developed by kb10uy",
-        "latestVersion": "5.0.1",
-        "versionCount": 75,
+        "latestVersion": "5.1.1",
+        "versionCount": 76,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -41514,6 +41652,19 @@
           "url": "https://kb10uy.org"
         },
         "versions": {
+          "5.1.1": {
+            "version": "5.1.1",
+            "name": "org.kb10uy.zatools",
+            "displayName": "Zatools: kb10uy's Various Tools",
+            "description": "Various tools developed by kb10uy",
+            "url": "https://github.com/kb10uy/kb10uy-zatools/releases/download/5.1.1/org.kb10uy.zatools.5.1.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.13.0",
+              "nadena.dev.modular-avatar": ">=1.15.0"
+            }
+          },
           "5.0.1": {
             "version": "5.0.1",
             "name": "org.kb10uy.zatools",
@@ -42649,6 +42800,192 @@
             "zipSha256": null,
             "vpmDependencies": {
               "com.vrchat.udonsharp": "^1.1.8"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "url": "https://kie610.github.io/vpm-listing/index.json",
+    "name": "Kie VPM Listing",
+    "id": "com.kie.vpm",
+    "author": "Kie",
+    "hash": "0b667c0d1a5844454d2b774dbbdf46049f217cd6d57ef073b17f794bfc44c312",
+    "last_updated": "2026-08-14T15:53:44.000Z",
+    "packageCount": 3,
+    "packages": {
+      "com.kie.kie-mergeable-toggle": {
+        "id": "com.kie.kie-mergeable-toggle",
+        "name": "com.kie.kie-mergeable-toggle",
+        "displayName": "kieMergeableToggle",
+        "description": "Converts existing hand-written animator mesh toggles into blend shapes, lilToon UV tile discard, or NaNimation at build time and normalizes renderer settings, so Avatar Optimizer can merge the toggled meshes while keeping the original toggle behavior.",
+        "latestVersion": "0.4.0-alpha",
+        "versionCount": 2,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "Kie",
+          "email": "64377537+Kie610@users.noreply.github.com",
+          "url": "https://github.com/Kie610"
+        },
+        "versions": {
+          "0.4.0-alpha": {
+            "version": "0.4.0-alpha",
+            "name": "com.kie.kie-mergeable-toggle",
+            "displayName": "kieMergeableToggle",
+            "description": "Converts existing hand-written animator mesh toggles into blend shapes, lilToon UV tile discard, or NaNimation at build time and normalizes renderer settings, so Avatar Optimizer can merge the toggled meshes while keeping the original toggle behavior.",
+            "url": "https://github.com/Kie610/kie-mergeable-toggle/releases/download/0.4.0-alpha/com.kie.kie-mergeable-toggle-0.4.0-alpha.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.7.0",
+              "nadena.dev.ndmf": "^1.14.0"
+            }
+          },
+          "0.3.0-alpha": {
+            "version": "0.3.0-alpha",
+            "name": "com.kie.kie-mergeable-toggle",
+            "displayName": "kieMergeableToggle",
+            "description": "Converts existing hand-written animator mesh toggles into blend shapes, lilToon UV tile discard, or NaNimation at build time and normalizes renderer settings, so Avatar Optimizer can merge the toggled meshes while keeping the original toggle behavior.",
+            "url": "https://github.com/Kie610/kie-mergeable-toggle/releases/download/0.3.0-alpha/com.kie.kie-mergeable-toggle-0.3.0-alpha.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.7.0",
+              "nadena.dev.ndmf": "^1.14.0"
+            }
+          }
+        }
+      },
+      "com.kie.kie-aps-gate": {
+        "id": "com.kie.kie-aps-gate",
+        "name": "com.kie.kie-aps-gate",
+        "displayName": "kieApsGate",
+        "description": "Disables AvatarPoseSystem's clone-skeleton tracking constraints while the pose is not fixed, and re-enables them from APS_FixBody. Recovers roughly two thirds of the CPU cost APS adds at idle without touching APS itself.",
+        "latestVersion": "0.4.0-alpha",
+        "versionCount": 4,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "Kie",
+          "email": "64377537+Kie610@users.noreply.github.com",
+          "url": "https://github.com/Kie610"
+        },
+        "versions": {
+          "0.4.0-alpha": {
+            "version": "0.4.0-alpha",
+            "name": "com.kie.kie-aps-gate",
+            "displayName": "kieApsGate",
+            "description": "Disables AvatarPoseSystem's clone-skeleton tracking constraints while the pose is not fixed, and re-enables them from APS_FixBody. Recovers roughly two thirds of the CPU cost APS adds at idle without touching APS itself.",
+            "url": "https://github.com/Kie610/kie-aps-gate/releases/download/0.4.0-alpha/com.kie.kie-aps-gate-0.4.0-alpha.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.7.0",
+              "nadena.dev.ndmf": "^1.14.0",
+              "nadena.dev.modular-avatar": "^1.10.0"
+            }
+          },
+          "0.3.0-alpha": {
+            "version": "0.3.0-alpha",
+            "name": "com.kie.kie-aps-gate",
+            "displayName": "kieApsGate",
+            "description": "Disables AvatarPoseSystem's clone-skeleton tracking constraints while the pose is not fixed, and re-enables them from APS_FixBody. Recovers roughly two thirds of the CPU cost APS adds at idle without touching APS itself.",
+            "url": "https://github.com/Kie610/kie-aps-gate/releases/download/0.3.0-alpha/com.kie.kie-aps-gate-0.3.0-alpha.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.7.0",
+              "nadena.dev.ndmf": "^1.14.0",
+              "nadena.dev.modular-avatar": "^1.10.0"
+            }
+          },
+          "0.2.0-alpha": {
+            "version": "0.2.0-alpha",
+            "name": "com.kie.kie-aps-gate",
+            "displayName": "kieApsGate",
+            "description": "Disables AvatarPoseSystem's clone-skeleton tracking constraints while the pose is not fixed, and re-enables them from APS_FixBody. Recovers roughly two thirds of the CPU cost APS adds at idle without touching APS itself.",
+            "url": "https://github.com/Kie610/kie-aps-gate/releases/download/0.2.0-alpha/com.kie.kie-aps-gate-0.2.0-alpha.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.7.0",
+              "nadena.dev.ndmf": "^1.14.0",
+              "nadena.dev.modular-avatar": "^1.10.0"
+            }
+          },
+          "0.1.0-alpha": {
+            "version": "0.1.0-alpha",
+            "name": "com.kie.kie-aps-gate",
+            "displayName": "kieApsGate",
+            "description": "Disables AvatarPoseSystem's clone-skeleton tracking constraints while the pose is not fixed, and re-enables them from APS_FixBody. Recovers roughly two thirds of the CPU cost APS adds at idle without touching APS itself.",
+            "url": "https://github.com/Kie610/kie-aps-gate/releases/download/0.1.0-alpha/com.kie.kie-aps-gate-0.1.0-alpha.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.7.0",
+              "nadena.dev.ndmf": "^1.14.0",
+              "nadena.dev.modular-avatar": "^1.10.0"
+            }
+          }
+        }
+      },
+      "com.kie.kie-apl-menu-target": {
+        "id": "com.kie.kie-apl-menu-target",
+        "name": "com.kie.kie-apl-menu-target",
+        "displayName": "kieAplMenuTarget",
+        "description": "AvatarPoseLibrary のメニューを好きな場所へ設置できるようにする NDMF プラグイン。",
+        "latestVersion": "0.2.1-alpha",
+        "versionCount": 3,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "Kie",
+          "email": "64377537+Kie610@users.noreply.github.com",
+          "url": "https://github.com/Kie610"
+        },
+        "versions": {
+          "0.2.1-alpha": {
+            "version": "0.2.1-alpha",
+            "name": "com.kie.kie-apl-menu-target",
+            "displayName": "kieAplMenuTarget",
+            "description": "AvatarPoseLibrary のメニューを好きな場所へ設置できるようにする NDMF プラグイン。",
+            "url": "https://github.com/Kie610/kie-apl-menu-target/releases/download/0.2.1-alpha/com.kie.kie-apl-menu-target-0.2.1-alpha.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.7.0",
+              "nadena.dev.ndmf": "^1.14.0",
+              "nadena.dev.modular-avatar": "^1.10.0"
+            }
+          },
+          "0.2.0-alpha": {
+            "version": "0.2.0-alpha",
+            "name": "com.kie.kie-apl-menu-target",
+            "displayName": "kieAplMenuTarget",
+            "description": "AvatarPoseLibrary のメニューを好きな場所へ設置できるようにする NDMF プラグイン。",
+            "url": "https://github.com/Kie610/kie-apl-menu-target/releases/download/0.2.0-alpha/com.kie.kie-apl-menu-target-0.2.0-alpha.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.7.0",
+              "nadena.dev.ndmf": "^1.14.0",
+              "nadena.dev.modular-avatar": "^1.10.0"
+            }
+          },
+          "0.1.0-alpha": {
+            "version": "0.1.0-alpha",
+            "name": "com.kie.kie-apl-menu-target",
+            "displayName": "kieAplMenuTarget",
+            "description": "AvatarPoseLibrary のメニューを好きな場所へ設置できるようにする NDMF プラグイン。",
+            "url": "https://github.com/Kie610/kie-apl-menu-target/releases/download/0.1.0-alpha/com.kie.kie-apl-menu-target-0.1.0-alpha.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.7.0",
+              "nadena.dev.ndmf": "^1.14.0",
+              "nadena.dev.modular-avatar": "^1.10.0"
             }
           }
         }
@@ -45142,8 +45479,8 @@
     "name": "Kanameliser VPM Packages",
     "id": "net.kanameliser.vpm",
     "author": "kxn4t",
-    "hash": "07bb1b466f2ad30a4d95cbc12ec6a5f0fe0f6f12b5ec1fe9ea7bb6a5a6256ee4",
-    "last_updated": "2026-08-09T13:03:57.000Z",
+    "hash": "7b061c608e5433144eecbb0931733919f1ef9096ad63ceb12734732605b24430",
+    "last_updated": "2026-08-14T09:02:09.000Z",
     "packageCount": 2,
     "packages": {
       "net.kanameliser.editor-plus": {
@@ -45151,8 +45488,8 @@
         "name": "net.kanameliser.editor-plus",
         "displayName": "Kanameliser Editor Plus",
         "description": "A small set of useful Unity & VRChat editor extensions by kxn4t",
-        "latestVersion": "1.0.0",
-        "versionCount": 21,
+        "latestVersion": "1.0.1",
+        "versionCount": 22,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -45160,6 +45497,16 @@
           "url": "https://github.com/kxn4t"
         },
         "versions": {
+          "1.0.1": {
+            "version": "1.0.1",
+            "name": "net.kanameliser.editor-plus",
+            "displayName": "Kanameliser Editor Plus",
+            "description": "A small set of useful Unity & VRChat editor extensions by kxn4t",
+            "url": "https://github.com/kxn4t/kanameliser-editor-plus/releases/download/1.0.1/net.kanameliser.editor-plus.1.0.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.0.0": {
             "version": "1.0.0",
             "name": "net.kanameliser.editor-plus",
@@ -46252,7 +46599,7 @@
     "id": "lereldarion",
     "author": "Lereldarion",
     "hash": "fa9cc79e70fb00eb2aa70863c05e008271c255affd1e14192f26540239c3a213",
-    "last_updated": "2026-06-25T19:36:14.000Z",
+    "last_updated": "2026-06-25T19:36:15.000Z",
     "packageCount": 2,
     "packages": {
       "lereldarion.unity-shaders": {
@@ -58973,7 +59320,7 @@
     "id": "dev.omelette_ak.vpm",
     "author": "omeletteak",
     "hash": "87cd6506aa825e26b64761abbbe030e0e11ea7ac963a055d927af38e95a30b11",
-    "last_updated": "2026-06-23T11:45:39.000Z",
+    "last_updated": "2026-06-23T11:45:38.000Z",
     "packageCount": 1,
     "packages": {
       "dev.omelette_ak.vrcloth-declipper": {
@@ -68814,8 +69161,8 @@
     "name": "qsyi-VPM-repos",
     "id": "jp.qsyi.vpm",
     "author": "qsyi",
-    "hash": "37ed50108093b4921a911c17094235d99a9defeff6bdeed8eb25d08b1d42f5d8",
-    "last_updated": "2026-08-13T00:24:47.000Z",
+    "hash": "49f4e6f16fd7932a0200c4a24a1c00a3535e0f960d72abd153321aeb2abd92ce",
+    "last_updated": "2026-08-14T12:03:41.000Z",
     "packageCount": 1,
     "packages": {
       "jp.qsyi.qs-toolbox": {
@@ -68823,8 +69170,8 @@
         "name": "jp.qsyi.qs-toolbox",
         "displayName": "qsToolBox",
         "description": "アバター改変効率化ツール",
-        "latestVersion": "2.1.3",
-        "versionCount": 27,
+        "latestVersion": "2.1.4",
+        "versionCount": 28,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -68832,6 +69179,20 @@
           "url": "https://github.com/qsyi"
         },
         "versions": {
+          "2.1.4": {
+            "version": "2.1.4",
+            "name": "jp.qsyi.qs-toolbox",
+            "displayName": "qsToolBox",
+            "description": "アバター改変効率化ツール",
+            "url": "https://github.com/qsyi/qsToolbox/releases/download/2.1.4/jp.qsyi.qs-toolbox.2.1.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.modular-avatar": ">=1.18.0",
+              "jp.lilxyzw.lilycalinventory": ">=1.5.2",
+              "com.anatawa12.avatar-optimizer": ">=1.9.0"
+            }
+          },
           "2.1.3": {
             "version": "2.1.3",
             "name": "jp.qsyi.qs-toolbox",
@@ -69562,7 +69923,7 @@
     "id": "com.fracfloor.vpm-listing",
     "author": "raii",
     "hash": "bb8a1fb4b6497e28d58d8f4ed220692da23d2202d1dad6f3725f0921d2c66b57",
-    "last_updated": "2026-07-03T11:55:03.000Z",
+    "last_updated": "2026-07-03T11:55:04.000Z",
     "packageCount": 1,
     "packages": {
       "com.fracfloor.timeline-beat-marker": {
@@ -71688,7 +72049,7 @@
     "id": "dev.kokoa.vpmPackageRepository",
     "author": "kokoa",
     "hash": "c23d8dc23386252afb97257909c6c654bd76a10f7ed52535906733f1dbc9f41f",
-    "last_updated": "2026-08-13T23:40:31.000Z",
+    "last_updated": "2026-08-14T23:22:46.000Z",
     "packageCount": 7,
     "packages": {
       "dev.kokoa.upload-notification": {
@@ -76998,7 +77359,7 @@
     "id": "jp.rroki.vpm",
     "author": "rroki-0u0",
     "hash": "842c482dcb0925dc36f99ba648d5191a7246b5ee657c75c1ab8f80680027bdce",
-    "last_updated": "2026-07-16T09:06:07.000Z",
+    "last_updated": "2026-07-16T09:06:06.000Z",
     "packageCount": 5,
     "packages": {
       "jp.rroki.poiyomi-to-nontoon": {
@@ -81639,8 +82000,8 @@
     "name": "suzufactory",
     "id": "com.suzufactory.vpm",
     "author": "suzufactory",
-    "hash": "e2e1a8c09fe5a82005df0a2f1b622d17fce718b76f964b2aaa6a3ca077f37991",
-    "last_updated": "2026-08-12T00:22:46.000Z",
+    "hash": "d503012f1dd0043518f4a11d1dfd238f2d5127a2766fb4d59ba34a3910d5e46e",
+    "last_updated": "2026-08-14T16:50:57.000Z",
     "packageCount": 2,
     "packages": {
       "com.suzufactory.hikari": {
@@ -81648,8 +82009,8 @@
         "name": "com.suzufactory.hikari",
         "displayName": "Hikari",
         "description": null,
-        "latestVersion": "1.5.29",
-        "versionCount": 15,
+        "latestVersion": "1.6.4",
+        "versionCount": 16,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -81657,6 +82018,15 @@
           "url": "https://suzufactory.com"
         },
         "versions": {
+          "1.6.4": {
+            "version": "1.6.4",
+            "name": "com.suzufactory.hikari",
+            "displayName": "Hikari",
+            "url": "https://github.com/suzufactory/vpm-repos/releases/download/hikari-1.6.4/com.suzufactory.hikari.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.5.29": {
             "version": "1.5.29",
             "name": "com.suzufactory.hikari",
@@ -81799,14 +82169,27 @@
         "name": "com.suzufactory.scm",
         "displayName": "SuzuFactory Shaders",
         "description": "Shader Core modules by SuzuFactory.",
-        "latestVersion": "0.5.0",
-        "versionCount": 6,
+        "latestVersion": "0.6.3",
+        "versionCount": 7,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "SuzuFactory"
         },
         "versions": {
+          "0.6.3": {
+            "version": "0.6.3",
+            "name": "com.suzufactory.scm",
+            "displayName": "SuzuFactory Shaders",
+            "description": "Shader Core modules by SuzuFactory.",
+            "url": "https://github.com/suzufactory/vpm-repos/releases/download/scm-0.6.3/com.suzufactory.scm.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "jp.lilxyzw.shadercore": ">=0.1.0",
+              "jp.lilxyzw.nontoon": ">=0.1.0"
+            }
+          },
           "0.5.0": {
             "version": "0.5.0",
             "name": "com.suzufactory.scm",
@@ -89373,7 +89756,7 @@
     "id": "jp.toh.package-listing",
     "author": "toh",
     "hash": "cc3967c59f319ff5c3910acb82ddac984aa9ad35b5aaec5e395d6ab2cf0dfd4f",
-    "last_updated": "2025-04-28T14:28:14.000Z",
+    "last_updated": "2025-04-28T14:28:15.000Z",
     "packageCount": 1,
     "packages": {
       "jp.toh.easy-object-switch": {
@@ -89437,7 +89820,7 @@
     "id": "io.github.tp-jp.vpm",
     "author": "tp.jp",
     "hash": "da473ccdc75356cd14e6c77e54e8be663bb1621108df5f980248e75789e4c3aa",
-    "last_updated": "2026-07-13T13:46:47.000Z",
+    "last_updated": "2026-07-13T13:46:48.000Z",
     "packageCount": 9,
     "packages": {
       "com.tp.jp.iwa-sync3-color-changer": {
@@ -91393,7 +91776,7 @@
     "id": "net.pawlygon.vcc-packages",
     "author": "Pawlygon",
     "hash": "ffddfc1a87cdf9aed91a660cbaca0e51f7f86152c9a6f89bfce1276d0295a790",
-    "last_updated": "2026-07-01T04:45:49.000Z",
+    "last_updated": "2026-07-01T04:45:50.000Z",
     "packageCount": 2,
     "packages": {
       "net.pawlygon.vrc-facetracking": {
@@ -91855,7 +92238,7 @@
     "id": "co.raphii.vpm-listing",
     "author": "Raphiiko",
     "hash": "13d7c0741bdb67306d4706066396ddccd4188238b4335f6b126e26cf84767a0b",
-    "last_updated": "2026-07-03T23:15:31.000Z",
+    "last_updated": "2026-07-03T23:15:32.000Z",
     "packageCount": 1,
     "packages": {
       "co.raphii.vrti.avatarmenu": {
@@ -91918,8 +92301,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "5f6d17128dbc294184029991cf49d925ddd465391e896e09f0904f9e6fe6db03",
-    "last_updated": "2026-08-14T01:39:57.000Z",
+    "hash": "00333ce828d6e9337dc9500223d427cb113300450bc53ee3ba8c5affff666704",
+    "last_updated": "2026-08-15T01:00:57.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -105855,7 +106238,7 @@
     "name": "32ba VPM repository",
     "id": "net.32ba.vpm",
     "author": "32ba",
-    "hash": "55da1acb21ec3f3d2d188c33c9f41cf338fc9b567e6889bf93ebc7d5e77f7f0c",
+    "hash": "9ab6409bb878e85f6af5ae8d709dbc6151b3f325e7b137e13db7b0f049a10aad",
     "last_updated": "2026-08-01T16:09:51.341Z",
     "packageCount": 10,
     "packages": {
@@ -106626,8 +107009,8 @@
         "name": "net.32ba.booth-library-manager-viewer",
         "displayName": "BOOTH Library Viewer",
         "description": "View and import assets managed by BOOTH Library Manager directly from Unity Editor.",
-        "latestVersion": "0.8.0",
-        "versionCount": 15,
+        "latestVersion": "0.8.1",
+        "versionCount": 16,
         "keywords": [
           "booth",
           "vrchat",
@@ -106641,6 +107024,16 @@
           "url": "https://github.com/32ba"
         },
         "versions": {
+          "0.8.1": {
+            "version": "0.8.1",
+            "name": "net.32ba.booth-library-manager-viewer",
+            "displayName": "BOOTH Library Viewer",
+            "description": "View and import assets managed by BOOTH Library Manager directly from Unity Editor.",
+            "url": "https://github.com/32ba/unity-booth-library-manager-viewer/releases/download/0.8.1/net.32ba.booth-library-manager-viewer-0.8.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "0.8.0": {
             "version": "0.8.0",
             "name": "net.32ba.booth-library-manager-viewer",
@@ -114297,7 +114690,7 @@
     "id": "org.azuretek.vpm",
     "author": "kobi32768",
     "hash": "9afa17a9cee430b616075de3b61791fa9b017b425564b6b56bd38722425d00db",
-    "last_updated": "2026-08-06T08:46:50.000Z",
+    "last_updated": "2026-08-14T19:22:37.000Z",
     "packageCount": 1,
     "packages": {
       "org.azuretek.copy-transform-shortcut": {
@@ -120423,7 +120816,7 @@
     "id": "com.hoshinolabs.vpm",
     "author": "ikuko",
     "hash": "82ab28127d5aa83add258cc0e9b7b73e9c595cf8a4111d54c20e08e7e905f4af",
-    "last_updated": "2026-07-14T06:51:58.000Z",
+    "last_updated": "2026-07-14T06:51:59.000Z",
     "packageCount": 8,
     "packages": {
       "com.unity.scriptablebuildpipeline": {
@@ -127271,7 +127664,7 @@
     "id": "net.maaaaa.vpm",
     "author": "Poyotoron",
     "hash": "a41a87044603dbc4bd1a0a8a28c5d5d5ccf63ba8c87a6b74fad9cc81d24c5c41",
-    "last_updated": "2026-08-10T14:46:58.000Z",
+    "last_updated": "2026-08-10T14:46:59.000Z",
     "packageCount": 4,
     "packages": {
       "net.maaaaa.asset-keshichaumon-nator": {
@@ -131471,7 +131864,7 @@
     "id": "dev.nadena.vpm",
     "author": "bd_",
     "hash": "a49c4597f07856bb197bb306665d7640045118d0e53b9d03bfc6834f528f8ccc",
-    "last_updated": "2026-08-13T08:03:33.000Z",
+    "last_updated": "2026-08-14T08:01:45.000Z",
     "packageCount": 4,
     "packages": {
       "nadena.dev.ndmf": {
@@ -151487,7 +151880,7 @@
     "id": "dev.thry.vpm",
     "author": "Thryrallo",
     "hash": "0189583cd590af92f6337bf072cfea3211c6a3ca90738536d8f30bcd5fab82cb",
-    "last_updated": "2024-08-05T22:13:01.000Z",
+    "last_updated": "2024-08-05T22:13:00.000Z",
     "packageCount": 1,
     "packages": {
       "de.thryrallo.vrc.avatar-performance-tools": {
@@ -152197,8 +152590,8 @@
     "name": "WhyKnot Tools",
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
-    "hash": "47f68073fbf65ae9087edce2741e05fcd7bb7f149bb7ad5b8da4685cc0fabb1b",
-    "last_updated": "2026-08-13T07:12:22.000Z",
+    "hash": "b5b9f75dad6a51c6fea4dae71a15b6f9ce73d0f6ed6b5cddfb1d0429ea44e0e3",
+    "last_updated": "2026-08-14T07:08:26.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -155153,7 +155546,7 @@
     "id": "com.vrchat.repos.official",
     "author": "VRChat",
     "hash": "b35f42ad4d23c4f881bf3fb3385e042d3bd2a87b3da9b2dc834508c9c6e9c65b",
-    "last_updated": "2026-06-17T16:26:11.000Z",
+    "last_updated": "2026-06-17T16:26:10.000Z",
     "packageCount": 4,
     "packages": {
       "com.vrchat.base": {
@@ -168655,8 +169048,8 @@
     "name": "z3y's packages",
     "id": "io.github.z3y.vpm-package-listing",
     "author": "z3y",
-    "hash": "7602dec1ab2c6f4327f3b9d4b765c300515cf3c9be1e00459623883b8df63017",
-    "last_updated": "2026-08-08T19:41:43.000Z",
+    "hash": "5d615636d862b4c4f07c6ffad7954aa281aee9f51908975428472be48f0e22ed",
+    "last_updated": "2026-08-14T17:36:22.000Z",
     "packageCount": 8,
     "packages": {
       "com.z3y.graphlit": {
@@ -170357,8 +170750,8 @@
         "name": "io.github.z3y.glim",
         "displayName": "Glim Lightmapper",
         "description": "Lightmap Baker",
-        "latestVersion": "0.5.2",
-        "versionCount": 6,
+        "latestVersion": "0.5.3",
+        "versionCount": 7,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -170366,6 +170759,16 @@
           "url": "https://github.com/z3y"
         },
         "versions": {
+          "0.5.3": {
+            "version": "0.5.3",
+            "name": "io.github.z3y.glim",
+            "displayName": "Glim Lightmapper",
+            "description": "Lightmap Baker",
+            "url": "https://github.com/z3y/glim/releases/download/v0.5.3/io.github.z3y.glim-0.5.3.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "0.5.2": {
             "version": "0.5.2",
             "name": "io.github.z3y.glim",
@@ -172195,7 +172598,7 @@
     "id": "dev.nadena.vpm",
     "author": "bd_",
     "hash": "a49c4597f07856bb197bb306665d7640045118d0e53b9d03bfc6834f528f8ccc",
-    "last_updated": "2026-08-13T08:03:33.000Z",
+    "last_updated": "2026-08-14T08:01:45.000Z",
     "packageCount": 4,
     "packages": {
       "nadena.dev.ndmf": {
