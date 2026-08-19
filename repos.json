@@ -1011,8 +1011,8 @@
     "name": "AmariNoa's vpm repo",
     "id": "com.amari-noa.vpm",
     "author": "Amari Noa",
-    "hash": "5ee83a40adea4acbe36456cc9e894a3cf8cd374cca38964c1f6abc8b33599776",
-    "last_updated": "2026-08-18T00:24:37.000Z",
+    "hash": "bb2dc1c382654fa6ae8d3facee5f001bf121ac87423ead04aa2a0a91038a5a80",
+    "last_updated": "2026-08-18T05:28:38.000Z",
     "packageCount": 6,
     "packages": {
       "com.amari-noa.avatar-modular-assistant": {
@@ -1412,8 +1412,8 @@
         "name": "com.amari-noa.materilune",
         "displayName": "Materilune",
         "description": "Material management tools for VRChat avatar customization, built on Modular Avatar Material Swap and NDMF.",
-        "latestVersion": "0.2.0",
-        "versionCount": 6,
+        "latestVersion": "0.2.3",
+        "versionCount": 9,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -1421,6 +1421,48 @@
           "url": "https://amari-noa.com/"
         },
         "versions": {
+          "0.2.3": {
+            "version": "0.2.3",
+            "name": "com.amari-noa.materilune",
+            "displayName": "Materilune",
+            "description": "Material management tools for VRChat avatar customization, built on Modular Avatar Material Swap and NDMF.",
+            "url": "https://github.com/AmariNoa/Materilune/releases/download/0.2.3/com.amari-noa.materilune-0.2.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.amari-noa.unity-editor-localization-core": "^1.0.0",
+              "nadena.dev.modular-avatar": "^1.13.0",
+              "nadena.dev.ndmf": "^1.14.0"
+            }
+          },
+          "0.2.2": {
+            "version": "0.2.2",
+            "name": "com.amari-noa.materilune",
+            "displayName": "Materilune",
+            "description": "Material management tools for VRChat avatar customization, built on Modular Avatar Material Swap and NDMF.",
+            "url": "https://github.com/AmariNoa/Materilune/releases/download/0.2.2/com.amari-noa.materilune-0.2.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.amari-noa.unity-editor-localization-core": "^1.0.0",
+              "nadena.dev.modular-avatar": "^1.13.0",
+              "nadena.dev.ndmf": "^1.14.0"
+            }
+          },
+          "0.2.1": {
+            "version": "0.2.1",
+            "name": "com.amari-noa.materilune",
+            "displayName": "Materilune",
+            "description": "Material management tools for VRChat avatar customization, built on Modular Avatar Material Swap and NDMF.",
+            "url": "https://github.com/AmariNoa/Materilune/releases/download/0.2.1/com.amari-noa.materilune-0.2.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.amari-noa.unity-editor-localization-core": "^1.0.0",
+              "nadena.dev.modular-avatar": "^1.13.0",
+              "nadena.dev.ndmf": "^1.14.0"
+            }
+          },
           "0.2.0": {
             "version": "0.2.0",
             "name": "com.amari-noa.materilune",
@@ -25836,7 +25878,7 @@
     "id": "com.gabsith.wft",
     "author": "GabSith",
     "hash": "ed31c2beeb60c2322e47d329a9b0cbe8b2c319649ebd2c252945be2fceacc184",
-    "last_updated": "2026-05-03T07:30:54.000Z",
+    "last_updated": "2026-05-03T07:30:55.000Z",
     "packageCount": 1,
     "packages": {
       "com.gabsith.wft": {
@@ -29136,8 +29178,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "1a04332ed5ec8df24b2b518f6fa193071e79f58012b1180196008ecf7d11c451",
-    "last_updated": "2026-08-15T12:12:38.000Z",
+    "hash": "7bdc639d66f8be96fbce11a4c0cfec4e38475ebb29fdd99843d7cd813ef13386",
+    "last_updated": "2026-08-18T19:24:42.000Z",
     "packageCount": 12,
     "packages": {
       "com.poiyomi.pro": {
@@ -37811,7 +37853,7 @@
     "id": "cat.hisa.vpm",
     "author": "HisaCat",
     "hash": "164e0ed610f0a593fb9eb5867230becff0831ebe47d88f25397692d3bbae92c4",
-    "last_updated": "2026-07-03T05:26:13.000Z",
+    "last_updated": "2026-07-03T05:26:12.000Z",
     "packageCount": 3,
     "packages": {
       "cat.hisa.asset-patcher": {
@@ -38543,7 +38585,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "680029c772846cb5e5b7331c6f399296d7c3d340058c68c9f48e255a6fa8e65e",
-    "last_updated": "2026-08-17T04:05:53.000Z",
+    "last_updated": "2026-08-18T04:00:36.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -40601,7 +40643,7 @@
     "id": "dev.kaefibot.listing",
     "author": "WoweePaw",
     "hash": "0f954512e7a69a442d27394f918fc68614873d3db3706347e1e36e0acde01244",
-    "last_updated": "2026-07-05T15:03:28.000Z",
+    "last_updated": "2026-07-05T15:03:29.000Z",
     "packageCount": 1,
     "packages": {
       "dev.kaefibot.kaefibot-controller": {
@@ -40699,523 +40741,13 @@
   },
   {
     "url": "https://kakunpc.github.io/kakunpc_vpm/index.json",
-    "name": "かーばんくるのvpm",
-    "id": "com.kakunpc.vpm",
+    "name": "kakunpc",
+    "id": "kakunpc",
     "author": "かーばんくる",
-    "hash": "d18cfe617c1c6e3ef479233820ff1d7d3474dab05b31017524fa0cc88662ed29",
+    "hash": null,
     "last_updated": "2026-05-31T04:46:07.000Z",
-    "packageCount": 6,
-    "packages": {
-      "com.kakunvr.facial-lock-generator": {
-        "id": "com.kakunvr.facial-lock-generator",
-        "name": "com.kakunvr.facial-lock-generator",
-        "displayName": "FacialLockGenerator",
-        "description": "FacialLockGenerator",
-        "latestVersion": "0.0.1",
-        "versionCount": 9,
-        "keywords": [],
-        "unity": "2019.4",
-        "author": "かーばんくる",
-        "versions": {
-          "0.0.1": {
-            "version": "0.0.1",
-            "name": "com.kakunvr.facial-lock-generator",
-            "displayName": "FacialLockGenerator",
-            "description": "FacialLockGenerator",
-            "url": "https://github.com/kakunpc/vrc_facial_lock_generator/releases/download/0.0.1/com.kakunvr.facial-lock-generator-0.0.1.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.2.0",
-              "nadena.dev.modular-avatar": ">=1.6.0"
-            }
-          },
-          "0.0.2": {
-            "version": "0.0.2",
-            "name": "com.kakunvr.facial-lock-generator",
-            "displayName": "FacialLockGenerator",
-            "description": "FacialLockGenerator",
-            "url": "https://github.com/kakunpc/vrc_facial_lock_generator/releases/download/0.0.2/com.kakunvr.facial-lock-generator-0.0.2.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.2.0",
-              "nadena.dev.modular-avatar": ">=1.6.0"
-            }
-          },
-          "0.0.3": {
-            "version": "0.0.3",
-            "name": "com.kakunvr.facial-lock-generator",
-            "displayName": "FacialLockGenerator",
-            "description": "FacialLockGenerator",
-            "url": "https://github.com/kakunpc/vrc_facial_lock_generator/releases/download/0.0.3/com.kakunvr.facial-lock-generator-0.0.3.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.2.0",
-              "nadena.dev.modular-avatar": ">=1.6.0"
-            }
-          },
-          "0.0.4": {
-            "version": "0.0.4",
-            "name": "com.kakunvr.facial-lock-generator",
-            "displayName": "FacialLockGenerator",
-            "description": "FacialLockGenerator",
-            "url": "https://github.com/kakunpc/vrc_facial_lock_generator/releases/download/0.0.4/com.kakunvr.facial-lock-generator-0.0.4.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.2.0",
-              "nadena.dev.modular-avatar": ">=1.6.0"
-            }
-          },
-          "0.0.5": {
-            "version": "0.0.5",
-            "name": "com.kakunvr.facial-lock-generator",
-            "displayName": "FacialLockGenerator",
-            "description": "FacialLockGenerator",
-            "url": "https://github.com/kakunpc/vrc_facial_lock_generator/releases/download/0.0.5/com.kakunvr.facial-lock-generator-0.0.5.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.2.0",
-              "nadena.dev.modular-avatar": ">=1.6.0"
-            }
-          },
-          "0.0.6": {
-            "version": "0.0.6",
-            "name": "com.kakunvr.facial-lock-generator",
-            "displayName": "FacialLockGenerator",
-            "description": "FacialLockGenerator",
-            "url": "https://github.com/kakunpc/vrc_facial_lock_generator/releases/download/0.0.6/com.kakunvr.facial-lock-generator-0.0.6.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.2.0",
-              "nadena.dev.modular-avatar": ">=1.6.0"
-            }
-          },
-          "0.0.7": {
-            "version": "0.0.7",
-            "name": "com.kakunvr.facial-lock-generator",
-            "displayName": "FacialLockGenerator",
-            "description": "FacialLockGenerator",
-            "url": "https://github.com/kakunpc/vrc_facial_lock_generator/releases/download/0.0.7/com.kakunvr.facial-lock-generator-0.0.7.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.2.0",
-              "nadena.dev.modular-avatar": ">=1.6.0"
-            }
-          },
-          "0.0.8": {
-            "version": "0.0.8",
-            "name": "com.kakunvr.facial-lock-generator",
-            "displayName": "FacialLockGenerator",
-            "description": "FacialLockGenerator",
-            "url": "https://github.com/kakunpc/vrc_facial_lock_generator/releases/download/0.0.8/com.kakunvr.facial-lock-generator-0.0.8.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.2.0",
-              "nadena.dev.modular-avatar": ">=1.6.0"
-            }
-          },
-          "0.0.9": {
-            "version": "0.0.9",
-            "name": "com.kakunvr.facial-lock-generator",
-            "displayName": "FacialLockGenerator",
-            "description": "FacialLockGenerator",
-            "url": "https://github.com/kakunpc/vrc_facial_lock_generator/releases/download/0.0.9/com.kakunvr.facial-lock-generator-0.0.9.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.2.0",
-              "nadena.dev.modular-avatar": ">=1.6.0"
-            }
-          }
-        }
-      },
-      "com.kakunvr.osc-perfect-sync": {
-        "id": "com.kakunvr.osc-perfect-sync",
-        "name": "com.kakunvr.osc-perfect-sync",
-        "displayName": "OSCPerfectSync",
-        "description": "OSCPerfectSync",
-        "latestVersion": "0.1.0",
-        "versionCount": 4,
-        "keywords": [],
-        "unity": "2019.4",
-        "author": "かーばんくる",
-        "versions": {
-          "0.1.0": {
-            "version": "0.1.0",
-            "name": "com.kakunvr.osc-perfect-sync",
-            "displayName": "OSCPerfectSync",
-            "description": "OSCPerfectSync",
-            "url": "https://github.com/kakunpc/vrc_perfect_sync_tool_public/releases/download/0.1.0/com.kakunvr.osc-perfect-sync-0.1.0.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {}
-          },
-          "0.1.1": {
-            "version": "0.1.1",
-            "name": "com.kakunvr.osc-perfect-sync",
-            "displayName": "OSCPerfectSync",
-            "description": "OSCPerfectSync",
-            "url": "https://github.com/kakunpc/vrc_perfect_sync_tool_public/releases/download/0.1.0/com.kakunvr.osc-perfect-sync-0.1.1.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {}
-          },
-          "0.1.2": {
-            "version": "0.1.2",
-            "name": "com.kakunvr.osc-perfect-sync",
-            "displayName": "OSCPerfectSync",
-            "description": "OSCPerfectSync",
-            "url": "https://github.com/kakunpc/vrc_perfect_sync_tool_public/releases/download/0.1.0/com.kakunvr.osc-perfect-sync-0.1.2.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {}
-          },
-          "0.1.5": {
-            "version": "0.1.5",
-            "name": "com.kakunvr.osc-perfect-sync",
-            "displayName": "OSCPerfectSync",
-            "description": "OSCPerfectSync",
-            "url": "https://github.com/kakunpc/vrc_perfect_sync_tool_public/releases/download/0.1.0/com.kakunvr.osc-perfect-sync-0.1.5.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {}
-          }
-        }
-      },
-      "com.kakunvr.decotogglesystem": {
-        "id": "com.kakunvr.decotogglesystem",
-        "name": "com.kakunvr.decotogglesystem",
-        "displayName": "DecoToggleSystem",
-        "description": "DecoToggleSystem",
-        "latestVersion": "0.0.1",
-        "versionCount": 4,
-        "keywords": [],
-        "unity": "2019.4",
-        "author": "かーばんくる",
-        "versions": {
-          "0.0.1": {
-            "version": "0.0.1",
-            "name": "com.kakunvr.decotogglesystem",
-            "displayName": "DecoToggleSystem",
-            "description": "DecoToggleSystem",
-            "url": "https://github.com/kakunpc/vrc_decorationtogglesystem/releases/download/0.0.1/com.kakunvr.deco-toggle-system-0.0.1.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.4.0",
-              "nadena.dev.modular-avatar": ">=1.8.0",
-              "nadena.dev.ndmf": ">=1.2.5"
-            }
-          },
-          "0.0.2": {
-            "version": "0.0.2",
-            "name": "com.kakunvr.decotogglesystem",
-            "displayName": "DecoToggleSystem",
-            "description": "DecoToggleSystem",
-            "url": "https://github.com/kakunpc/vrc_decorationtogglesystem/releases/download/0.0.2/com.kakunvr.deco-toggle-system-0.0.2.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.4.0",
-              "nadena.dev.modular-avatar": ">=1.8.0",
-              "nadena.dev.ndmf": ">=1.2.5"
-            }
-          },
-          "0.0.3": {
-            "version": "0.0.3",
-            "name": "com.kakunvr.decotogglesystem",
-            "displayName": "DecoToggleSystem",
-            "description": "DecoToggleSystem",
-            "url": "https://github.com/kakunpc/vrc_decorationtogglesystem/releases/download/0.0.3/com.kakunvr.deco-toggle-system-0.0.3.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.4.0",
-              "nadena.dev.modular-avatar": ">=1.8.0",
-              "nadena.dev.ndmf": ">=1.2.5"
-            }
-          },
-          "0.0.4": {
-            "version": "0.0.4",
-            "name": "com.kakunvr.decotogglesystem",
-            "displayName": "DecoToggleSystem",
-            "description": "DecoToggleSystem",
-            "url": "https://github.com/kakunpc/vrc_decorationtogglesystem/releases/download/0.0.4/com.kakunvr.deco-toggle-system-0.0.4.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.4.0",
-              "nadena.dev.modular-avatar": ">=1.8.0",
-              "nadena.dev.ndmf": ">=1.2.5"
-            }
-          }
-        }
-      },
-      "com.kakunvr.parameter-smoother": {
-        "id": "com.kakunvr.parameter-smoother",
-        "name": "com.kakunvr.parameter-smoother",
-        "displayName": "Parameter Smoother kakunvr fork",
-        "description": "Non-destructive avatar parameter smoother",
-        "latestVersion": "0.1.1",
-        "versionCount": 3,
-        "keywords": [],
-        "unity": "2019.4",
-        "author": {
-          "name": "logi",
-          "email": "ent@arrize.net",
-          "url": "https://logilabo.dev/"
-        },
-        "versions": {
-          "0.1.1": {
-            "version": "0.1.1",
-            "name": "com.kakunvr.parameter-smoother",
-            "displayName": "Parameter Smoother kakunvr fork",
-            "description": "Non-destructive avatar parameter smoother",
-            "url": "https://github.com/kakunpc/avatar-parameter-smoother/releases/download/0.1.1/com.kakunvr.parameter-smoother-0.1.1.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "nadena.dev.ndmf": ">=1.2.5 <2.0.0-a",
-              "nadena.dev.modular-avatar": ">=1.8.4 <2.0.0-a"
-            }
-          },
-          "0.1.2": {
-            "version": "0.1.2",
-            "name": "com.kakunvr.parameter-smoother",
-            "displayName": "Parameter Smoother kakunvr fork",
-            "description": "Non-destructive avatar parameter smoother",
-            "url": "https://github.com/kakunpc/avatar-parameter-smoother/releases/download/0.1.2/com.kakunvr.parameter-smoother-0.1.2.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "nadena.dev.ndmf": ">=1.2.5 <2.0.0-a",
-              "nadena.dev.modular-avatar": ">=1.8.4 <2.0.0-a"
-            }
-          },
-          "0.1.3": {
-            "version": "0.1.3",
-            "name": "com.kakunvr.parameter-smoother",
-            "displayName": "Parameter Smoother kakunvr fork",
-            "description": "Non-destructive avatar parameter smoother",
-            "url": "https://github.com/kakunpc/avatar-parameter-smoother/releases/download/0.1.3/com.kakunvr.parameter-smoother-0.1.3.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "nadena.dev.ndmf": ">=1.2.5 <2.0.0-a",
-              "nadena.dev.modular-avatar": ">=1.8.4 <2.0.0-a"
-            }
-          }
-        }
-      },
-      "com.kakunpc.ndmf-vrm-exporter": {
-        "id": "com.kakunpc.ndmf-vrm-exporter",
-        "name": "com.kakunpc.ndmf-vrm-exporter",
-        "displayName": "NDMF VRM Exporter(kakunvr fork)",
-        "description": "NDMF Plugin to export the avatar as VRM 1.0 model.",
-        "latestVersion": "1.0.10-20250609.1",
-        "versionCount": 2,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "kakunpc",
-          "url": "https://github.com/kakunpc"
-        },
-        "versions": {
-          "1.0.10-20250609.1": {
-            "version": "1.0.10-20250609.1",
-            "name": "com.kakunpc.ndmf-vrm-exporter",
-            "displayName": "NDMF VRM Exporter(kakunvr fork)",
-            "description": "NDMF Plugin to export the avatar as VRM 1.0 model.",
-            "url": "https://github.com/kakunpc/ndmf-vrm-exporter/releases/download/1.0.10-20250609.1/com.kakunvr.ndmf-vrm-exporter-1.0.10-20250609.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.0",
-              "nadena.dev.ndmf": ">=1.6.0 < 2.0.0"
-            }
-          },
-          "1.0.10-20250609.2": {
-            "version": "1.0.10-20250609.2",
-            "name": "com.kakunpc.ndmf-vrm-exporter",
-            "displayName": "NDMF VRM Exporter(kakunvr fork)",
-            "description": "NDMF Plugin to export the avatar as VRM 1.0 model.",
-            "url": "https://github.com/kakunpc/ndmf-vrm-exporter/releases/download/1.0.10-20250609.2/com.kakunvr.ndmf-vrm-exporter-1.0.10-20250609.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.0",
-              "nadena.dev.ndmf": ">=1.6.0 < 2.0.0"
-            }
-          }
-        }
-      },
-      "com.kakunvr.manaco": {
-        "id": "com.kakunvr.manaco",
-        "name": "com.kakunvr.manaco",
-        "displayName": "MANACO",
-        "description": "Material Assign Non-destructive Assistant for Customization Operations",
-        "latestVersion": "0.0.1",
-        "versionCount": 11,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "かーばんくる",
-          "url": "https://kakunvr.kakunpc.com/"
-        },
-        "versions": {
-          "0.0.1": {
-            "version": "0.0.1",
-            "name": "com.kakunvr.manaco",
-            "displayName": "MANACO",
-            "description": "Material Assign Non-destructive Assistant for Customization Operations",
-            "url": "https://github.com/kakunpc/manaco/releases/download/0.0.1/com.kakunvr.manaco-0.0.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "nadena.dev.ndmf": ">=1.8.0 <2.0.0",
-              "com.vrchat.avatars": ">=3.7.0 <3.11.0"
-            }
-          },
-          "0.0.2": {
-            "version": "0.0.2",
-            "name": "com.kakunvr.manaco",
-            "displayName": "MANACO",
-            "description": "Material Assign Non-destructive Assistant for Customization Operations",
-            "url": "https://github.com/kakunpc/manaco/releases/download/0.0.2/com.kakunvr.manaco-0.0.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "nadena.dev.ndmf": ">=1.8.0 <2.0.0",
-              "com.vrchat.avatars": ">=3.7.0 <3.11.0"
-            }
-          },
-          "0.0.3": {
-            "version": "0.0.3",
-            "name": "com.kakunvr.manaco",
-            "displayName": "MANACO",
-            "description": "Material Assign Non-destructive Assistant for Customization Operations",
-            "url": "https://github.com/kakunpc/manaco/releases/download/0.0.3/com.kakunvr.manaco-0.0.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "nadena.dev.ndmf": ">=1.8.0 <2.0.0",
-              "com.vrchat.avatars": ">=3.7.0 <3.11.0"
-            }
-          },
-          "0.0.4": {
-            "version": "0.0.4",
-            "name": "com.kakunvr.manaco",
-            "displayName": "MANACO",
-            "description": "Material Assign Non-destructive Assistant for Customization Operations",
-            "url": "https://github.com/kakunpc/manaco/releases/download/0.0.4/com.kakunvr.manaco-0.0.4.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "nadena.dev.ndmf": ">=1.8.0 <2.0.0",
-              "com.vrchat.avatars": ">=3.7.0 <3.11.0"
-            }
-          },
-          "0.0.5": {
-            "version": "0.0.5",
-            "name": "com.kakunvr.manaco",
-            "displayName": "MANACO",
-            "description": "Material Assign Non-destructive Assistant for Customization Operations",
-            "url": "https://github.com/kakunpc/manaco/releases/download/0.0.5/com.kakunvr.manaco-0.0.5.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "nadena.dev.ndmf": ">=1.8.0 <2.0.0",
-              "com.vrchat.avatars": ">=3.7.0 <3.11.0"
-            }
-          },
-          "0.0.6": {
-            "version": "0.0.6",
-            "name": "com.kakunvr.manaco",
-            "displayName": "MANACO",
-            "description": "Material Assign Non-destructive Assistant for Customization Operations",
-            "url": "https://github.com/kakunpc/manaco/releases/download/0.0.6/com.kakunvr.manaco-0.0.6.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "nadena.dev.ndmf": ">=1.8.0 <2.0.0",
-              "com.vrchat.avatars": ">=3.7.0 <3.11.0"
-            }
-          },
-          "0.1.0": {
-            "version": "0.1.0",
-            "name": "com.kakunvr.manaco",
-            "displayName": "MANACO",
-            "description": "Material Assign Non-destructive Assistant for Customization Operations",
-            "url": "https://github.com/kakunpc/manaco/releases/download/0.1.0/com.kakunvr.manaco-0.1.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "nadena.dev.ndmf": ">=1.8.0 <2.0.0",
-              "com.vrchat.avatars": ">=3.7.0 <3.11.0"
-            }
-          },
-          "0.1.1": {
-            "version": "0.1.1",
-            "name": "com.kakunvr.manaco",
-            "displayName": "MANACO",
-            "description": "Material Assign Non-destructive Assistant for Customization Operations",
-            "url": "https://github.com/kakunpc/manaco/releases/download/0.1.1/com.kakunvr.manaco-0.1.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "nadena.dev.ndmf": ">=1.8.0 <2.0.0",
-              "com.vrchat.avatars": ">=3.7.0 <3.11.0"
-            }
-          },
-          "0.1.2": {
-            "version": "0.1.2",
-            "name": "com.kakunvr.manaco",
-            "displayName": "MANACO",
-            "description": "Material Assign Non-destructive Assistant for Customization Operations",
-            "url": "https://github.com/kakunpc/manaco/releases/download/0.1.2/com.kakunvr.manaco-0.1.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "nadena.dev.ndmf": ">=1.8.0 <2.0.0",
-              "com.vrchat.avatars": ">=3.7.0 <3.11.0"
-            }
-          },
-          "0.1.3": {
-            "version": "0.1.3",
-            "name": "com.kakunvr.manaco",
-            "displayName": "MANACO",
-            "description": "Material Assign Non-destructive Assistant for Customization Operations",
-            "url": "https://github.com/kakunpc/manaco/releases/download/0.1.3/com.kakunvr.manaco-0.1.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "nadena.dev.ndmf": ">=1.8.0 <2.0.0",
-              "com.vrchat.avatars": ">=3.7.0 <3.11.0"
-            }
-          },
-          "0.2.0": {
-            "version": "0.2.0",
-            "name": "com.kakunvr.manaco",
-            "displayName": "MANACO",
-            "description": "Material Assign Non-destructive Assistant for Customization Operations",
-            "url": "https://github.com/kakunpc/manaco/releases/download/0.2.0/com.kakunvr.manaco-0.2.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "nadena.dev.ndmf": ">=1.8.0 <2.0.0",
-              "com.vrchat.avatars": ">=3.7.0 <3.11.0"
-            }
-          }
-        }
-      }
-    }
+    "packageCount": 0,
+    "packages": {}
   },
   {
     "url": "https://kama-boko-vrc.github.io/VRChatTools/index.json",
@@ -43315,7 +42847,7 @@
     "id": "com.kie.vpm",
     "author": "Kie",
     "hash": "0b667c0d1a5844454d2b774dbbdf46049f217cd6d57ef073b17f794bfc44c312",
-    "last_updated": "2026-08-16T15:23:27.000Z",
+    "last_updated": "2026-08-18T15:35:45.000Z",
     "packageCount": 3,
     "packages": {
       "com.kie.kie-mergeable-toggle": {
@@ -43501,7 +43033,7 @@
     "id": "com.kikurage1989.utilsscript",
     "author": "kikurage1989_",
     "hash": "a479bbbb44186c8db52473fa68813010d0cde6afd082f97f0ee93a79ee10ca50",
-    "last_updated": "2026-07-30T11:03:57.000Z",
+    "last_updated": "2026-07-30T11:03:58.000Z",
     "packageCount": 2,
     "packages": {
       "com.kikurage1989.utilsscript": {
@@ -46997,7 +46529,7 @@
     "id": "net.euan.lazyoptimiser.listing",
     "author": "euan142",
     "hash": "6a0b4ea94d87ae345649306e6fda40f7bd86325206e58e1a4c5943450a9fe4ee",
-    "last_updated": "2025-02-20T10:25:22.000Z",
+    "last_updated": "2025-02-20T10:25:21.000Z",
     "packageCount": 1,
     "packages": {
       "net.euan.lazyoptimiser": {
@@ -47372,7 +46904,7 @@
     "id": "com.ajisaiflow.vpm",
     "author": "AjisaiFlow",
     "hash": "8cd4e8446c0c4c54ee8d51f5ca7157ae4a3cfc86411c37dff913616491f27624",
-    "last_updated": "2026-08-12T09:33:04.000Z",
+    "last_updated": "2026-08-12T09:33:05.000Z",
     "packageCount": 4,
     "packages": {
       "net.ajisaiflow.anti-ripping": {
@@ -53037,8 +52569,8 @@
     "name": "MinMinMart Listing",
     "id": "minminmean.listing",
     "author": "MinMinMean",
-    "hash": "cbb005403b09e8c95c7bd84dff0d08daf078582277606a19799115d99504eff0",
-    "last_updated": "2026-08-05T06:11:27.000Z",
+    "hash": "78b34e8b72953dce484b1e2360f028f52a8d1f0f4d3486480470fe7b1da9ee0a",
+    "last_updated": "2026-08-18T01:45:37.000Z",
     "packageCount": 2,
     "packages": {
       "minminmean.supine": {
@@ -53046,8 +52578,8 @@
         "name": "minminmean.supine",
         "displayName": "Gorone System (Supine)",
         "description": "Have a good sleep",
-        "latestVersion": "4.3.4",
-        "versionCount": 9,
+        "latestVersion": "4.3.5",
+        "versionCount": 10,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -53056,6 +52588,19 @@
           "url": "https://github.com/minminmean"
         },
         "versions": {
+          "4.3.5": {
+            "version": "4.3.5",
+            "name": "minminmean.supine",
+            "displayName": "Gorone System (Supine)",
+            "description": "Have a good sleep",
+            "url": "https://github.com/minminmean/Supine/releases/download/4.3.5/minminmean.supine-4.3.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "nadena.dev.modular-avatar": ">=1.12.3"
+            }
+          },
           "4.3.4": {
             "version": "4.3.4",
             "name": "minminmean.supine",
@@ -70440,7 +69985,7 @@
     "id": "com.fracfloor.vpm-listing",
     "author": "raii",
     "hash": "bb8a1fb4b6497e28d58d8f4ed220692da23d2202d1dad6f3725f0921d2c66b57",
-    "last_updated": "2026-07-03T11:55:04.000Z",
+    "last_updated": "2026-07-03T11:55:03.000Z",
     "packageCount": 1,
     "packages": {
       "com.fracfloor.timeline-beat-marker": {
@@ -72566,7 +72111,7 @@
     "id": "dev.kokoa.vpmPackageRepository",
     "author": "kokoa",
     "hash": "c23d8dc23386252afb97257909c6c654bd76a10f7ed52535906733f1dbc9f41f",
-    "last_updated": "2026-08-17T23:22:33.000Z",
+    "last_updated": "2026-08-18T23:21:13.000Z",
     "packageCount": 7,
     "packages": {
       "dev.kokoa.upload-notification": {
@@ -74130,8 +73675,8 @@
     "name": "RED_SIM VRChat Assets",
     "id": "red.sim.vpm",
     "author": "RED_SIM",
-    "hash": "eb2be0df19cc1723cff9a510ffa6391918bbd41f764af7ba43bd86cf5377400d",
-    "last_updated": "2026-08-01T17:38:20.000Z",
+    "hash": "c08d66a924d22497840bc39a44457e3576209868785b2a0f2f018f5f4d1dac98",
+    "last_updated": "2026-08-18T17:44:23.000Z",
     "packageCount": 3,
     "packages": {
       "red.sim.flexicurve": {
@@ -74217,7 +73762,7 @@
         "displayName": "VRC Light Volumes",
         "description": "Nextgen voxel based light probes replacement for VRChat",
         "latestVersion": "0.5.1",
-        "versionCount": 39,
+        "versionCount": 40,
         "keywords": [
           "shaders",
           "lighting",
@@ -74679,6 +74224,18 @@
             "displayName": "VRC Light Volumes",
             "description": "Nextgen voxel based light probes replacement and analytic lighting solution for VRChat",
             "url": "https://github.com/REDSIM/VRCLightVolumes/releases/download/v.3.0.0-dev.14/VRCLightVolumes_3.0.0-dev.14.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.unity.editorcoroutines": "1.0.0"
+            }
+          },
+          "3.0.0-dev.15": {
+            "version": "3.0.0-dev.15",
+            "name": "red.sim.lightvolumes",
+            "displayName": "VRC Light Volumes",
+            "description": "Nextgen voxel based light probes replacement and analytic lighting solution for VRChat",
+            "url": "https://github.com/REDSIM/VRCLightVolumes/releases/download/v.3.0.0-dev.15/VRCLightVolumes_3.0.0-dev.15.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -78114,8 +77671,8 @@
     "name": "Pumkin's VPM Repo",
     "id": "io.github.rurre.vpm",
     "author": "Pumkin",
-    "hash": "adefe9fa2a3564d020a0bb1ce0adfa24f85bb619f7fe916f2301914458d4aaad",
-    "last_updated": "2026-06-30T16:33:31.000Z",
+    "hash": "2c45ac2108b05c574870e279e0091a8f19f3d94cdec73a230f8304b618ab90cf",
+    "last_updated": "2026-08-18T04:41:01.000Z",
     "packageCount": 3,
     "packages": {
       "io.github.rurre.pumkinsavatartools": {
@@ -78297,14 +77854,24 @@
         "name": "io.github.rurre.editor-screenshot",
         "displayName": "Pumkin's Editor Screenshot",
         "description": "An editor tool for taking transparent screenshots in the editor.",
-        "latestVersion": "1.2.4",
-        "versionCount": 10,
+        "latestVersion": "1.2.5",
+        "versionCount": 11,
         "keywords": [],
         "unity": "2019.4",
         "author": {
           "name": "Pumkin"
         },
         "versions": {
+          "1.2.5": {
+            "version": "1.2.5",
+            "name": "io.github.rurre.editor-screenshot",
+            "displayName": "Pumkin's Editor Screenshot",
+            "description": "An editor tool for taking transparent screenshots in the editor.",
+            "url": "https://github.com/rurre/Editor-Screenshot/releases/download/1.2.5/io.github.rurre.editor-screenshot-1.2.5.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
+          },
           "1.2.4": {
             "version": "1.2.4",
             "name": "io.github.rurre.editor-screenshot",
@@ -78412,8 +77979,8 @@
         "name": "io.github.rurre.vrc-sdk-patches",
         "displayName": "Pumkin's VRC SDK Patches",
         "description": "A couple of harmony patches for the VRC SDK",
-        "latestVersion": "1.1.3",
-        "versionCount": 2,
+        "latestVersion": "1.2.0",
+        "versionCount": 3,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -78421,6 +77988,18 @@
           "url": "https://github.com/rurre"
         },
         "versions": {
+          "1.2.0": {
+            "version": "1.2.0",
+            "name": "io.github.rurre.vrc-sdk-patches",
+            "displayName": "Pumkin's VRC SDK Patches",
+            "description": "A couple of harmony patches for the VRC SDK",
+            "url": "https://github.com/rurre/vrc-sdk-patches/releases/download/1.2.0/io.github.rurre.vrc-sdk-patches-1.2.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": ">=3.9.x"
+            }
+          },
           "1.1.3": {
             "version": "1.1.3",
             "name": "io.github.rurre.vrc-sdk-patches",
@@ -80907,7 +80486,7 @@
     "id": "com.mizore-nekoyanagi.vpm-packages",
     "author": "Mizore Nekoyanagi",
     "hash": "df5c206bda4082fc4825f6e0002aea2319d15d80cf9dc71813ef06fb4db812e7",
-    "last_updated": "2026-02-19T08:55:53.000Z",
+    "last_updated": "2026-02-19T08:55:54.000Z",
     "packageCount": 4,
     "packages": {
       "com.mizore-nekoyanagi.utils.apply-prefab-window": {
@@ -82517,8 +82096,8 @@
     "name": "suzufactory",
     "id": "com.suzufactory.vpm",
     "author": "suzufactory",
-    "hash": "f8fd7fad028c286f975f38b7db8ee638d651a1d1afa898123c4e618506663784",
-    "last_updated": "2026-08-16T15:49:11.000Z",
+    "hash": "705aecc5fa76c50c12e5cac55d4812b3f9e4b6fba47394888b7edd3d47adfa30",
+    "last_updated": "2026-08-18T23:53:06.000Z",
     "packageCount": 2,
     "packages": {
       "com.suzufactory.hikari": {
@@ -82526,8 +82105,8 @@
         "name": "com.suzufactory.hikari",
         "displayName": "Hikari",
         "description": null,
-        "latestVersion": "1.7.3",
-        "versionCount": 20,
+        "latestVersion": "1.9.2",
+        "versionCount": 21,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -82535,6 +82114,15 @@
           "url": "https://suzufactory.com"
         },
         "versions": {
+          "1.9.2": {
+            "version": "1.9.2",
+            "name": "com.suzufactory.hikari",
+            "displayName": "Hikari",
+            "url": "https://github.com/suzufactory/vpm-repos/releases/download/hikari-1.9.2/com.suzufactory.hikari.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.7.3": {
             "version": "1.7.3",
             "name": "com.suzufactory.hikari",
@@ -90425,7 +90013,7 @@
     "id": "io.github.tp-jp.vpm",
     "author": "tp.jp",
     "hash": "da473ccdc75356cd14e6c77e54e8be663bb1621108df5f980248e75789e4c3aa",
-    "last_updated": "2026-07-13T13:46:48.000Z",
+    "last_updated": "2026-07-13T13:46:47.000Z",
     "packageCount": 9,
     "packages": {
       "com.tp.jp.iwa-sync3-color-changer": {
@@ -92906,8 +92494,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "75ced1d2c687704285945b91ea1f71a8da1da7835c5b12db65daa942902c92c3",
-    "last_updated": "2026-08-18T01:00:54.000Z",
+    "hash": "4bf7e4a35f3aff78b60cf383811e03cd727fb7a0634d4d28fa89d4ec5cc6b24d",
+    "last_updated": "2026-08-19T01:01:54.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -118943,8 +118531,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "1a04332ed5ec8df24b2b518f6fa193071e79f58012b1180196008ecf7d11c451",
-    "last_updated": "2026-08-15T12:12:38.000Z",
+    "hash": "7bdc639d66f8be96fbce11a4c0cfec4e38475ebb29fdd99843d7cd813ef13386",
+    "last_updated": "2026-08-18T19:24:42.000Z",
     "packageCount": 12,
     "packages": {
       "com.poiyomi.pro": {
@@ -121595,7 +121183,7 @@
     "id": "com.hoshinolabs.vpm",
     "author": "ikuko",
     "hash": "82ab28127d5aa83add258cc0e9b7b73e9c595cf8a4111d54c20e08e7e905f4af",
-    "last_updated": "2026-07-14T06:51:58.000Z",
+    "last_updated": "2026-07-14T06:51:59.000Z",
     "packageCount": 8,
     "packages": {
       "com.unity.scriptablebuildpipeline": {
@@ -123156,7 +122744,7 @@
     "id": "com.the-cattail.vpm",
     "author": "THE_cattail",
     "hash": "d5be95dd9358938a0d49844b12734e340c9ff70a34d0d479c6a08e56cacfa931",
-    "last_updated": "2026-08-13T03:39:42.000Z",
+    "last_updated": "2026-08-13T03:39:43.000Z",
     "packageCount": 1,
     "packages": {
       "com.the-cattail.afk-motion-patcher": {
@@ -128442,8 +128030,8 @@
     "name": "Poyo's VPM Repo",
     "id": "net.maaaaa.vpm",
     "author": "Poyotoron",
-    "hash": "3e203b0fb56f3438f599b46ba25cbd623aaf298b6254aebe6650880a8c7820d6",
-    "last_updated": "2026-08-16T13:43:45.000Z",
+    "hash": "b859ab73b917d8c369c48d2f549670e572401af877d69ec9fae9372f73cd112a",
+    "last_updated": "2026-08-18T14:12:18.000Z",
     "packageCount": 4,
     "packages": {
       "net.maaaaa.asset-keshichaumon-nator": {
@@ -128631,8 +128219,8 @@
         "name": "net.maaaaa.candy-box",
         "displayName": "Candy Box",
         "description": "アバター改変向けの小さなエディタ拡張をまとめたパッケージです。使うツールだけを有効にできます。",
-        "latestVersion": "0.5.1",
-        "versionCount": 5,
+        "latestVersion": "0.6.1",
+        "versionCount": 7,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -128640,6 +128228,26 @@
           "url": "https://github.com/Poyotoron"
         },
         "versions": {
+          "0.6.1": {
+            "version": "0.6.1",
+            "name": "net.maaaaa.candy-box",
+            "displayName": "Candy Box",
+            "description": "アバター改変向けの小さなエディタ拡張をまとめたパッケージです。使うツールだけを有効にできます。",
+            "url": "https://github.com/Poyotoron/Candy-Box/releases/download/0.6.1/net.maaaaa.candy-box-0.6.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.6.0": {
+            "version": "0.6.0",
+            "name": "net.maaaaa.candy-box",
+            "displayName": "Candy Box",
+            "description": "アバター改変向けの小さなエディタ拡張をまとめたパッケージです。使うツールだけを有効にできます。",
+            "url": "https://github.com/Poyotoron/Candy-Box/releases/download/0.6.0/net.maaaaa.candy-box-0.6.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "0.5.1": {
             "version": "0.5.1",
             "name": "net.maaaaa.candy-box",
@@ -129734,7 +129342,7 @@
     "id": "com.micksam7.vpm",
     "author": "Micca",
     "hash": "28148f3419e38143920ae19b3a3dd4a57a632a36728aa26382a61c71e69f2550",
-    "last_updated": "2026-07-03T02:20:29.000Z",
+    "last_updated": "2026-07-03T02:20:28.000Z",
     "packageCount": 1,
     "packages": {
       "com.micksam7.mididmx": {
@@ -132694,8 +132302,8 @@
     "name": "bd_",
     "id": "dev.nadena.vpm",
     "author": "bd_",
-    "hash": "1edfb2366aa560ab23bde0066e43a7f7a4ec8bed23ac39541576311feb836d19",
-    "last_updated": "2026-08-17T04:22:21.000Z",
+    "hash": "6ede5b0df9ecd8e44aef1dae2268e1da4abdb95715a3e97ed7a7394344cdbb8d",
+    "last_updated": "2026-08-18T02:14:39.000Z",
     "packageCount": 4,
     "packages": {
       "nadena.dev.misc-vrc-tools": {
@@ -132731,7 +132339,7 @@
         "displayName": "Modular Avatar",
         "description": null,
         "latestVersion": "0.8.0",
-        "versionCount": 185,
+        "versionCount": 186,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -134190,6 +133798,18 @@
             "displayName": "Modular Avatar",
             "description": "A suite of tools for assembling your avatar out of reusable components",
             "url": "https://packages.vpm.nadena.dev/repositories/nadena.dev/packages/nadena.dev.modular-avatar/1.18.1/de4d866ad8b6e3c16f2d5c3da8f3e3a059839c528fa16feaa991a1c54e4ccfd6.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.14.3 <2.0.0-a"
+            }
+          },
+          "1.18.2": {
+            "version": "1.18.2",
+            "name": "nadena.dev.modular-avatar",
+            "displayName": "Modular Avatar",
+            "description": "A suite of tools for assembling your avatar out of reusable components",
+            "url": "https://packages.vpm.nadena.dev/repositories/nadena.dev/packages/nadena.dev.modular-avatar/1.18.2/1e850a8bad750c965dc65c283d2926d787703a3928ecd6722bdae501ddab5978.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -152768,7 +152388,7 @@
     "id": "dev.thry.vpm",
     "author": "Thryrallo",
     "hash": "0189583cd590af92f6337bf072cfea3211c6a3ca90738536d8f30bcd5fab82cb",
-    "last_updated": "2024-08-05T22:13:00.000Z",
+    "last_updated": "2024-08-05T22:13:01.000Z",
     "packageCount": 1,
     "packages": {
       "de.thryrallo.vrc.avatar-performance-tools": {
@@ -153478,8 +153098,8 @@
     "name": "WhyKnot Tools",
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
-    "hash": "8666c46cbe3a73290aab8c701193bf6817d646bfce34a0ded3f4c98e1b1ab13b",
-    "last_updated": "2026-08-17T06:33:21.000Z",
+    "hash": "1b8918cfea15d3274b5e050511bf10059b670d82bc3068a7cb400df27d5bf387",
+    "last_updated": "2026-08-18T06:25:03.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -153594,8 +153214,8 @@
     "name": "YozoLab-VPMRepository listing",
     "id": "net.yozolab.vpmrepository-listing",
     "author": "YozoraKurage",
-    "hash": "b6375dfe121d8df1d872b5fc11a6f8c831726e141d3a46a9bf66759609eb97f9",
-    "last_updated": "2026-08-16T03:24:18.000Z",
+    "hash": "111a9b1c6436d809e4e62b4ebce3ba463c6c898987b6f4d571b9a18a4348ee2a",
+    "last_updated": "2026-08-18T12:38:04.000Z",
     "packageCount": 4,
     "packages": {
       "net.yozolab.daerd": {
@@ -153603,8 +153223,8 @@
         "name": "net.yozolab.daerd",
         "displayName": "DaerD",
         "description": "GraphView-based replacement for Unity's AnimatorController editor. Adds parameter auto type conversion, transition copy/paste, cascade rename and analysis tools.",
-        "latestVersion": "0.12.0",
-        "versionCount": 20,
+        "latestVersion": "0.13.0",
+        "versionCount": 21,
         "keywords": [
           "animator",
           "animatorcontroller",
@@ -153616,6 +153236,16 @@
           "name": "Yozolab"
         },
         "versions": {
+          "0.13.0": {
+            "version": "0.13.0",
+            "name": "net.yozolab.daerd",
+            "displayName": "DaerD",
+            "description": "GraphView-based replacement for Unity's AnimatorController editor. Adds parameter auto type conversion, transition copy/paste, cascade rename and analysis tools.",
+            "url": "https://github.com/YozoraKurage/DaerD/releases/download/0.13.0/net.yozolab.daerd.0.13.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "0.12.0": {
             "version": "0.12.0",
             "name": "net.yozolab.daerd",
@@ -156444,7 +156074,7 @@
     "id": "com.vrchat.repos.official",
     "author": "VRChat",
     "hash": "b35f42ad4d23c4f881bf3fb3385e042d3bd2a87b3da9b2dc834508c9c6e9c65b",
-    "last_updated": "2026-06-17T16:26:11.000Z",
+    "last_updated": "2026-06-17T16:26:10.000Z",
     "packageCount": 4,
     "packages": {
       "com.vrchat.base": {
@@ -162183,17 +161813,17 @@
     "name": "wagunasu812's VPM Repository",
     "id": "com.wagunasu812.vpm-listing",
     "author": "wagunasu812",
-    "hash": "f1a3b35ae262cc5b713a36117270248f6068e0912c7754f5217af4476ddaf699",
-    "last_updated": "2026-07-04T03:26:24.000Z",
+    "hash": "2090cbd0218daaaecd833cafd7a41a5f0bf85361f3888cf995dbdc8730075129",
+    "last_updated": "2026-08-18T12:00:05.000Z",
     "packageCount": 1,
     "packages": {
       "com.wagunasu812.materialduplicator": {
         "id": "com.wagunasu812.materialduplicator",
         "name": "com.wagunasu812.materialduplicator",
         "displayName": "Material Duplicator",
-        "description": "VRChatアバター対応モデル製作者向け マテリアル・テクスチャ複製 & 自動アサインツール / フォルダごと複製対応",
-        "latestVersion": "1.1.4",
-        "versionCount": 6,
+        "description": "VRChatアバター対応モデル製作者向け マテリアル・テクスチャ複製 & 自動アサインツール / フォルダごと複製・FBX差し替え対応",
+        "latestVersion": "1.2.0",
+        "versionCount": 7,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -162201,6 +161831,16 @@
           "url": "https://github.com/wagunasu812"
         },
         "versions": {
+          "1.2.0": {
+            "version": "1.2.0",
+            "name": "com.wagunasu812.materialduplicator",
+            "displayName": "Material Duplicator",
+            "description": "VRChatアバター対応モデル製作者向け マテリアル・テクスチャ複製 & 自動アサインツール / フォルダごと複製・FBX差し替え対応",
+            "url": "https://github.com/wagunasu812/materialduplicator/releases/download/v1.2.0/com.wagunasu812.materialduplicator-1.2.0.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
+          },
           "1.1.4": {
             "version": "1.1.4",
             "name": "com.wagunasu812.materialduplicator",
@@ -172361,8 +172001,8 @@
     "name": "TsukimiCode",
     "id": "dev.tsukimicode.vpm",
     "author": "TsukimiCode",
-    "hash": "951f1d57f187f7a4ea584063a26f82a4070b1c6bb63c37190269b58e94b2756e",
-    "last_updated": "2026-08-15T10:40:28.000Z",
+    "hash": "cc93d3d538a7bdfa61496e655f31bdd319b74d09b933b70ec1fa60f182b3b372",
+    "last_updated": "2026-08-18T11:36:15.000Z",
     "packageCount": 1,
     "packages": {
       "com.tsukimicode.udon-tools": {
@@ -172371,7 +172011,7 @@
         "displayName": "TsukimiCode Udon Tools",
         "description": "UdonSharp スーパーセットの C# 言語 Tsukimi# のコンパイラ。",
         "latestVersion": "0.1.8",
-        "versionCount": 4,
+        "versionCount": 5,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -172420,6 +172060,18 @@
             "displayName": "TsukimiSharp(T#)",
             "description": "VRChatのUdon向けのC#コンパイラ(interface/ジェネリクス/リアクティブ宣言/GPU実行/ユニットテスト)。extern削減の最適化とAI向け静的解析サーバ(MCP)を同梱。",
             "url": "https://github.com/zz-roba/tsukimi-vpm/releases/download/v0.3.2/com.tsukimicode.udon-tools-0.3.2-vpm.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.10.4"
+            }
+          },
+          "0.4.0": {
+            "version": "0.4.0",
+            "name": "com.tsukimicode.udon-tools",
+            "displayName": "TsukimiSharp(T#)",
+            "description": "VRChatのUdon向けのC#コンパイラ(interface/ジェネリクス/リアクティブ宣言/GPU実行/ユニットテスト)。extern削減の最適化とAI向け静的解析サーバ(MCP)を同梱。",
+            "url": "https://github.com/zz-roba/tsukimi-vpm/releases/download/v0.4.0/com.tsukimicode.udon-tools-0.4.0-vpm.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -173529,8 +173181,8 @@
     "name": "bd_",
     "id": "dev.nadena.vpm",
     "author": "bd_",
-    "hash": "1edfb2366aa560ab23bde0066e43a7f7a4ec8bed23ac39541576311feb836d19",
-    "last_updated": "2026-08-17T04:22:21.000Z",
+    "hash": "6ede5b0df9ecd8e44aef1dae2268e1da4abdb95715a3e97ed7a7394344cdbb8d",
+    "last_updated": "2026-08-18T02:14:39.000Z",
     "packageCount": 4,
     "packages": {
       "nadena.dev.misc-vrc-tools": {
@@ -173566,7 +173218,7 @@
         "displayName": "Modular Avatar",
         "description": null,
         "latestVersion": "0.8.0",
-        "versionCount": 185,
+        "versionCount": 186,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -175025,6 +174677,18 @@
             "displayName": "Modular Avatar",
             "description": "A suite of tools for assembling your avatar out of reusable components",
             "url": "https://packages.vpm.nadena.dev/repositories/nadena.dev/packages/nadena.dev.modular-avatar/1.18.1/de4d866ad8b6e3c16f2d5c3da8f3e3a059839c528fa16feaa991a1c54e4ccfd6.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.14.3 <2.0.0-a"
+            }
+          },
+          "1.18.2": {
+            "version": "1.18.2",
+            "name": "nadena.dev.modular-avatar",
+            "displayName": "Modular Avatar",
+            "description": "A suite of tools for assembling your avatar out of reusable components",
+            "url": "https://packages.vpm.nadena.dev/repositories/nadena.dev/packages/nadena.dev.modular-avatar/1.18.2/1e850a8bad750c965dc65c283d2926d787703a3928ecd6722bdae501ddab5978.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
