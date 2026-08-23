@@ -14300,7 +14300,7 @@
     "id": "ooo.beko.vpm-repos",
     "author": "Bekosan",
     "hash": "e5b0fe31df398d40a65e0469bd9f199b84f62ec0bb62531a8a1b024a93ea25b7",
-    "last_updated": "2025-12-15T09:31:13.000Z",
+    "last_updated": "2025-12-15T09:31:14.000Z",
     "packageCount": 1,
     "packages": {
       "ooo.beko.vrc-heart-rate": {
@@ -17269,7 +17269,7 @@
     "id": "com.cyan.cyantrigger.vcc-listing",
     "author": "CyanLaser",
     "hash": "a6d67a91e3c26d4b2575f25029cc6f6fea9441c11451fdd533128d76b3ba3e61",
-    "last_updated": "2026-07-03T00:44:09.000Z",
+    "last_updated": "2026-07-03T00:44:10.000Z",
     "packageCount": 2,
     "packages": {
       "com.cyan.cyantrigger": {
@@ -25399,7 +25399,7 @@
     "id": "com.furality.repos.official",
     "author": "Furality, Inc.",
     "hash": "1f058d849e3d6f8fbf1320164b63cd1f1019b43a7993a1adfa11f274f8288e49",
-    "last_updated": "2026-08-08T02:49:09.000Z",
+    "last_updated": "2026-08-08T02:49:10.000Z",
     "packageCount": 3,
     "packages": {
       "com.furality.sylvashader": {
@@ -26625,7 +26625,7 @@
     "id": "info.glintfraulein.vpm",
     "author": "GlinT Fraulein",
     "hash": "d067d1fbf289995ff3389fe27a75503a63cee6f1efcca3e91fd7ba1a4207094f",
-    "last_updated": "2026-08-09T08:47:46.000Z",
+    "last_updated": "2026-08-09T08:47:45.000Z",
     "packageCount": 1,
     "packages": {
       "info.glintfraulein.palasolu": {
@@ -29262,8 +29262,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "9017b2b7cdf9f7ce1e88d719b49c4edfeb64f9ffc9957466641ce8fd2b7603b6",
-    "last_updated": "2026-08-21T11:07:40.000Z",
+    "hash": "5f65df43a87ddeed12a79c3cd3cfe18882a29d816b2b47a29c53bb3b91327287",
+    "last_updated": "2026-08-22T22:54:07.000Z",
     "packageCount": 12,
     "packages": {
       "com.poiyomi.pro": {
@@ -30133,8 +30133,8 @@
         "name": "hackebein.objecttracking.host",
         "displayName": "Hackebein's Object Tracking Host",
         "description": "ObjectTracking App for Hackebein's Object Tracking.",
-        "latestVersion": "1.0.0-beta.13",
-        "versionCount": 9,
+        "latestVersion": "1.0.0-beta.14",
+        "versionCount": 10,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -30143,6 +30143,16 @@
           "url": "https://hackebein.de"
         },
         "versions": {
+          "1.0.0-beta.14": {
+            "version": "1.0.0-beta.14",
+            "name": "hackebein.objecttracking.host",
+            "displayName": "Hackebein's Object Tracking Host",
+            "description": "ObjectTracking App for Hackebein's Object Tracking.",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking.host/1.0.0-beta.14/c11393c8da9d71ae6a45874229a9ccdf7b7bc37123533c427a1db05d726637c2",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.0.0-beta.13": {
             "version": "1.0.0-beta.13",
             "name": "hackebein.objecttracking.host",
@@ -30345,8 +30355,8 @@
         "name": "nadena.dev.ndmf",
         "displayName": "Non-Destructive Modular Framework",
         "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
-        "latestVersion": "1.14.4",
-        "versionCount": 147,
+        "latestVersion": "1.14.6",
+        "versionCount": 148,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -30355,6 +30365,20 @@
           "url": "https://github.com/bdunderscore/ndmf"
         },
         "versions": {
+          "1.14.6": {
+            "version": "1.14.6",
+            "name": "nadena.dev.ndmf",
+            "displayName": "Non-Destructive Modular Framework",
+            "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
+            "url": "https://vpmm.dev/files/nadena.dev.ndmf/1.14.6/9eb5734b50a838aaa6b246526e3f86bc0f881a32e4cbe294d6ff5d1000368e37",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.unity.collections": "2.1.4",
+              "com.unity.mathematics": "1.2.6",
+              "com.unity.modules.animation": "1.0.0"
+            }
+          },
           "1.14.4": {
             "version": "1.14.4",
             "name": "nadena.dev.ndmf",
@@ -36294,7 +36318,7 @@
     "id": "com.hhotatea.avatar-pose-library.listing",
     "author": "HhotateA",
     "hash": "605123390e97c96003b2c8c9e876e27df9bbcd475812d763d35528df5b9d4daa",
-    "last_updated": "2026-08-21T08:07:17.000Z",
+    "last_updated": "2026-08-21T08:07:18.000Z",
     "packageCount": 1,
     "packages": {
       "com.hhotatea.avatar-pose-library": {
@@ -37951,7 +37975,7 @@
     "id": "cat.hisa.vpm",
     "author": "HisaCat",
     "hash": "164e0ed610f0a593fb9eb5867230becff0831ebe47d88f25397692d3bbae92c4",
-    "last_updated": "2026-07-03T05:26:13.000Z",
+    "last_updated": "2026-07-03T05:26:12.000Z",
     "packageCount": 3,
     "packages": {
       "cat.hisa.asset-patcher": {
@@ -38112,7 +38136,7 @@
     "id": "com.github.hkrn",
     "author": "hkrn",
     "hash": "66afe02e940c091d4b955f7a758659dfa28c963b53e571fc1c24147280761b5f",
-    "last_updated": "2026-07-12T08:29:10.000Z",
+    "last_updated": "2026-07-12T08:29:09.000Z",
     "packageCount": 1,
     "packages": {
       "com.github.hkrn.ndmf-vrm-exporter": {
@@ -38683,7 +38707,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "680029c772846cb5e5b7331c6f399296d7c3d340058c68c9f48e255a6fa8e65e",
-    "last_updated": "2026-08-21T04:04:11.000Z",
+    "last_updated": "2026-08-22T03:58:50.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -43455,7 +43479,7 @@
     "id": "com.kie.vpm",
     "author": "Kie",
     "hash": "0b667c0d1a5844454d2b774dbbdf46049f217cd6d57ef073b17f794bfc44c312",
-    "last_updated": "2026-08-21T15:34:43.000Z",
+    "last_updated": "2026-08-22T15:22:43.000Z",
     "packageCount": 3,
     "packages": {
       "com.kie.kie-mergeable-toggle": {
@@ -47137,7 +47161,7 @@
     "id": "net.euan.lazyoptimiser.listing",
     "author": "euan142",
     "hash": "6a0b4ea94d87ae345649306e6fda40f7bd86325206e58e1a4c5943450a9fe4ee",
-    "last_updated": "2025-02-20T10:25:22.000Z",
+    "last_updated": "2025-02-20T10:25:21.000Z",
     "packageCount": 1,
     "packages": {
       "net.euan.lazyoptimiser": {
@@ -47242,7 +47266,7 @@
     "id": "lereldarion",
     "author": "Lereldarion",
     "hash": "fa9cc79e70fb00eb2aa70863c05e008271c255affd1e14192f26540239c3a213",
-    "last_updated": "2026-06-25T19:36:14.000Z",
+    "last_updated": "2026-06-25T19:36:15.000Z",
     "packageCount": 2,
     "packages": {
       "lereldarion.unity-shaders": {
@@ -51690,7 +51714,7 @@
     "id": "com.mattshark.openflight.repo",
     "author": "Mattshark89, Happyrobot33",
     "hash": "2659e37b23cc128e891c29a39e5bccda5a60665b585cf2406941eca4e5123520",
-    "last_updated": "2026-08-10T04:25:29.000Z",
+    "last_updated": "2026-08-10T04:25:27.000Z",
     "packageCount": 1,
     "packages": {
       "com.mattshark.openflight": {
@@ -53224,8 +53248,8 @@
     "name": "MinMinMart Listing",
     "id": "minminmean.listing",
     "author": "MinMinMean",
-    "hash": "78b34e8b72953dce484b1e2360f028f52a8d1f0f4d3486480470fe7b1da9ee0a",
-    "last_updated": "2026-08-18T01:45:37.000Z",
+    "hash": "7e2ed0321437199c52e910aaa8e9cf0fe177012ad26fa0649093aef6aed31825",
+    "last_updated": "2026-08-22T06:53:43.000Z",
     "packageCount": 2,
     "packages": {
       "minminmean.supine": {
@@ -53233,7 +53257,7 @@
         "name": "minminmean.supine",
         "displayName": "Gorone System (Supine)",
         "description": "Have a good sleep",
-        "latestVersion": "4.3.5",
+        "latestVersion": "4.3.6",
         "versionCount": 10,
         "keywords": [],
         "unity": "2022.3",
@@ -53243,12 +53267,12 @@
           "url": "https://github.com/minminmean"
         },
         "versions": {
-          "4.3.5": {
-            "version": "4.3.5",
+          "4.3.6": {
+            "version": "4.3.6",
             "name": "minminmean.supine",
             "displayName": "Gorone System (Supine)",
             "description": "Have a good sleep",
-            "url": "https://github.com/minminmean/Supine/releases/download/4.3.5/minminmean.supine-4.3.5.zip",
+            "url": "https://github.com/minminmean/Supine/releases/download/4.3.6/minminmean.supine-4.3.6.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -56161,8 +56185,8 @@
     "name": "Avatar Recovery Unity",
     "id": "com.nickel-jp.repos.avatar-recovery",
     "author": "Nickel-JP",
-    "hash": "9f2d64287223a898b34dd548aacaef722e2be40da66e0172ea3092bbdec2039b",
-    "last_updated": "2026-08-20T08:04:13.000Z",
+    "hash": "922e2990e19e05ff8784d27511a8b793b108c7760fc1ade07b7b255304dea293",
+    "last_updated": "2026-08-22T14:23:20.000Z",
     "packageCount": 1,
     "packages": {
       "com.nickel-jp.avatar-recovery": {
@@ -56170,7 +56194,7 @@
         "name": "com.nickel-jp.avatar-recovery",
         "displayName": "Avatar Recovery",
         "description": "Unity Editor tools for recovering VRChat avatar, world, and prop assets from VRCA/VRCW/VRCP files.",
-        "latestVersion": "1.3.0",
+        "latestVersion": "1.3.2",
         "versionCount": 3,
         "keywords": [
           "vrchat",
@@ -56189,36 +56213,36 @@
           "url": "https://github.com/Nickel-JP"
         },
         "versions": {
+          "1.3.2": {
+            "version": "1.3.2",
+            "name": "com.nickel-jp.avatar-recovery",
+            "displayName": "Avatar Recovery",
+            "description": "Unity Editor tools for recovering VRChat avatar, world, and prop assets from VRCA/VRCW/VRCP files.",
+            "url": "https://nickel-jp.github.io/avatar-recovery-unity/packages/com.nickel-jp.avatar-recovery-1.3.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": ">=3.7.0 <3.11.0"
+            }
+          },
+          "1.3.1": {
+            "version": "1.3.1",
+            "name": "com.nickel-jp.avatar-recovery",
+            "displayName": "Avatar Recovery",
+            "description": "Unity Editor tools for recovering VRChat avatar, world, and prop assets from VRCA/VRCW/VRCP files.",
+            "url": "https://nickel-jp.github.io/avatar-recovery-unity/packages/com.nickel-jp.avatar-recovery-1.3.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": ">=3.7.0 <3.11.0"
+            }
+          },
           "1.3.0": {
             "version": "1.3.0",
             "name": "com.nickel-jp.avatar-recovery",
             "displayName": "Avatar Recovery",
             "description": "Unity Editor tools for recovering VRChat avatar, world, and prop assets from VRCA/VRCW/VRCP files.",
-            "url": "https://raw.githubusercontent.com/Nickel-JP/avatar-recovery-unity/main/packages/com.nickel-jp.avatar-recovery-1.3.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": ">=3.7.0 <3.11.0"
-            }
-          },
-          "1.2.10": {
-            "version": "1.2.10",
-            "name": "com.nickel-jp.avatar-recovery",
-            "displayName": "Avatar Recovery",
-            "description": "Unity Editor tools for recovering VRChat avatar, world, and prop assets from VRCA/VRCW/VRCP files.",
-            "url": "https://raw.githubusercontent.com/Nickel-JP/avatar-recovery-unity/main/packages/com.nickel-jp.avatar-recovery-1.2.10.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": ">=3.7.0 <3.11.0"
-            }
-          },
-          "1.2.9": {
-            "version": "1.2.9",
-            "name": "com.nickel-jp.avatar-recovery",
-            "displayName": "Avatar Recovery",
-            "description": "Unity Editor tools for recovering VRChat avatar, world, and prop assets from VRCA/VRCW/VRCP files.",
-            "url": "https://raw.githubusercontent.com/Nickel-JP/avatar-recovery-unity/main/packages/com.nickel-jp.avatar-recovery-1.2.9.zip",
+            "url": "https://nickel-jp.github.io/avatar-recovery-unity/packages/com.nickel-jp.avatar-recovery-1.3.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -56235,7 +56259,7 @@
     "id": "com.nidonocu.virtual-gryphon-packages",
     "author": "Nidonocu",
     "hash": "4f1a4e20ac1e5d3661ae57c8d3353f05d769b8999754be537975ece981b322cc",
-    "last_updated": "2026-07-03T16:56:23.000Z",
+    "last_updated": "2026-07-03T16:56:22.000Z",
     "packageCount": 1,
     "packages": {
       "com.nidonocu.vrcunitytoolbar": {
@@ -72858,7 +72882,7 @@
     "id": "dev.kokoa.vpmPackageRepository",
     "author": "kokoa",
     "hash": "c23d8dc23386252afb97257909c6c654bd76a10f7ed52535906733f1dbc9f41f",
-    "last_updated": "2026-08-21T23:23:00.000Z",
+    "last_updated": "2026-08-22T23:20:01.000Z",
     "packageCount": 7,
     "packages": {
       "dev.kokoa.upload-notification": {
@@ -79963,13 +79987,203 @@
   },
   {
     "url": "https://scarlet-crystal.github.io/VCC-Package-Listing/index.json",
-    "name": "scarlet-crystal - VCC Package Listing",
-    "id": "scarlet-crystal.vcc-package-listing",
+    "name": "Scarlet-Crystal's VCC Package Listing",
+    "id": "com.vrchat.users.scarlet-crystal.vcclisting",
     "author": "Scarlet-Crystal",
-    "hash": null,
+    "hash": "79bf33550c06e320fd2694d75a662433dcdcf6d65cc88240cd4d2af9b9f778e4",
     "last_updated": "2024-10-26T21:50:22.000Z",
-    "packageCount": 0,
-    "packages": {}
+    "packageCount": 2,
+    "packages": {
+      "com.vrchat.users.scarlet-crystal.asu": {
+        "id": "com.vrchat.users.scarlet-crystal.asu",
+        "name": "com.vrchat.users.scarlet-crystal.asu",
+        "displayName": "Avatar Scaling Utilities",
+        "description": "A collection of utilities for building VRChat worlds which interact with VRChat's avatar scaling system.",
+        "latestVersion": "0.3.3",
+        "versionCount": 7,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "Scarlet Crystal"
+        },
+        "versions": {
+          "0.3.3": {
+            "version": "0.3.3",
+            "name": "com.vrchat.users.scarlet-crystal.asu",
+            "displayName": "Avatar Scaling Utilities",
+            "description": "A collection of utilities for building VRChat worlds which interact with VRChat's avatar scaling system.",
+            "url": "https://github.com/Scarlet-Crystal/Avatar-Scaling-Utilities/releases/download/0.3.3/com.vrchat.users.scarlet-crystal.asu-0.3.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.7.x"
+            }
+          },
+          "0.3.2": {
+            "version": "0.3.2",
+            "name": "com.vrchat.users.scarlet-crystal.asu",
+            "displayName": "Avatar Scaling Utilities",
+            "description": "A collection of utilities for building VRChat worlds which interact with VRChat's avatar scaling system.",
+            "url": "https://github.com/Scarlet-Crystal/Avatar-Scaling-Utilities/releases/download/0.3.2/com.vrchat.users.scarlet-crystal.asu-0.3.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.6.x"
+            }
+          },
+          "0.3.1": {
+            "version": "0.3.1",
+            "name": "com.vrchat.users.scarlet-crystal.asu",
+            "displayName": "Avatar Scaling Utilities",
+            "description": "A collection of utilities for building VRChat worlds which interact with VRChat's avatar scaling system.",
+            "url": "https://github.com/Scarlet-Crystal/Avatar-Scaling-Utilities/releases/download/0.3.1/com.vrchat.users.scarlet-crystal.asu-0.3.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.5.x"
+            }
+          },
+          "0.3.0": {
+            "version": "0.3.0",
+            "name": "com.vrchat.users.scarlet-crystal.asu",
+            "displayName": "Avatar Scaling Utilities",
+            "description": "A collection of utilities for building VRChat worlds which interact with VRChat's avatar scaling system.",
+            "url": "https://github.com/Scarlet-Crystal/Avatar-Scaling-Utilities/releases/download/0.3.0/com.vrchat.users.scarlet-crystal.asu-0.3.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.5.x"
+            }
+          },
+          "0.2.0": {
+            "version": "0.2.0",
+            "name": "com.vrchat.users.scarlet-crystal.asu",
+            "displayName": "Avatar Scaling Utilities",
+            "description": "A collection of utilities for building VRChat worlds which interact with VRChat's avatar scaling system.",
+            "url": "https://github.com/Scarlet-Crystal/Avatar-Scaling-Utilities/releases/download/0.2.0/com.vrchat.users.scarlet-crystal.asu-0.2.0.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.2.2",
+              "com.vrchat.udonsharp": "^1.1.9"
+            }
+          },
+          "0.1.0": {
+            "version": "0.1.0",
+            "name": "com.vrchat.users.scarlet-crystal.asu",
+            "displayName": "Avatar Scaling Utilities",
+            "description": "A collection of utilities for building VRChat worlds which interact with VRChat's avatar scaling system.",
+            "url": "https://github.com/Scarlet-Crystal/Avatar-Scaling-Utilities/releases/download/0.1.0/com.vrchat.users.scarlet-crystal.asu-0.1.0.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.2.2",
+              "com.vrchat.udonsharp": "^1.1.9"
+            }
+          },
+          "0.0.3": {
+            "version": "0.0.3",
+            "name": "com.vrchat.users.scarlet-crystal.asu",
+            "displayName": "Avatar Scaling Utilities",
+            "description": "A collection of utilities for building VRChat worlds which interact with VRChat's avatar scaling system.",
+            "url": "https://github.com/Scarlet-Crystal/Avatar-Scaling-Utilities/releases/download/0.0.3/com.vrchat.users.scarlet-crystal.asu-0.0.3.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.2.2",
+              "com.vrchat.udonsharp": "^1.1.9"
+            }
+          }
+        }
+      },
+      "com.vrchat.users.scarlet-crystal.thumbnailcreator": {
+        "id": "com.vrchat.users.scarlet-crystal.thumbnailcreator",
+        "name": "com.vrchat.users.scarlet-crystal.thumbnailcreator",
+        "displayName": "Thumbnail Creator",
+        "description": "A simple tool for creating thumbnails for VRChat avatars and worlds.",
+        "latestVersion": "2.0.1",
+        "versionCount": 6,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "Scarlet Crystal"
+        },
+        "versions": {
+          "2.0.1": {
+            "version": "2.0.1",
+            "name": "com.vrchat.users.scarlet-crystal.thumbnailcreator",
+            "displayName": "Thumbnail Creator",
+            "description": "A simple tool for creating thumbnails for VRChat avatars and worlds.",
+            "url": "https://github.com/Scarlet-Crystal/Thumbnail-Creator/releases/download/2.0.1/com.vrchat.users.scarlet-crystal.thumbnailcreator-2.0.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.x"
+            }
+          },
+          "2.0.0": {
+            "version": "2.0.0",
+            "name": "com.vrchat.users.scarlet-crystal.thumbnailcreator",
+            "displayName": "Thumbnail Creator",
+            "description": "A simple tool for creating thumbnails for VRChat avatars and worlds.",
+            "url": "https://github.com/Scarlet-Crystal/Thumbnail-Creator/releases/download/2.0.0/com.vrchat.users.scarlet-crystal.thumbnailcreator-2.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.x"
+            }
+          },
+          "1.1.1": {
+            "version": "1.1.1",
+            "name": "com.vrchat.users.scarlet-crystal.thumbnailcreator",
+            "displayName": "Thumbnail Creator",
+            "description": "A simple tool for creating thumbnails for VRChat avatars and worlds.",
+            "url": "https://github.com/Scarlet-Crystal/Thumbnail-Creator/releases/download/1.1.1/com.vrchat.users.scarlet-crystal.thumbnailcreator-1.1.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.6.x"
+            }
+          },
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "com.vrchat.users.scarlet-crystal.thumbnailcreator",
+            "displayName": "Thumbnail Creator",
+            "description": "A simple tool for creating thumbnails for VRChat avatars and worlds.",
+            "url": "https://github.com/Scarlet-Crystal/Thumbnail-Creator/releases/download/1.1.0/com.vrchat.users.scarlet-crystal.thumbnailcreator-1.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.5.x"
+            }
+          },
+          "1.0.1": {
+            "version": "1.0.1",
+            "name": "com.vrchat.users.scarlet-crystal.thumbnailcreator",
+            "displayName": "Thumbnail Creator",
+            "description": "A simple tool for creating thumbnails for VRChat avatars and worlds.",
+            "url": "https://github.com/Scarlet-Crystal/Thumbnail-Creator/releases/download/1.0.1/com.vrchat.users.scarlet-crystal.thumbnailcreator-1.0.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.5.x"
+            }
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.vrchat.users.scarlet-crystal.thumbnailcreator",
+            "displayName": "Thumbnail Creator",
+            "description": "A simple tool for creating thumbnails for VRChat avatars and worlds.",
+            "url": "https://github.com/Scarlet-Crystal/Thumbnail-Creator/releases/download/1.0.0/com.vrchat.users.scarlet-crystal.thumbnailcreator-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.4.x"
+            }
+          }
+        }
+      }
+    }
   },
   {
     "url": "https://SemmieDev.github.io/vpm-listing/index.json",
@@ -82022,646 +82236,13 @@
   },
   {
     "url": "https://spsndmf.vpm.nrzk.net/index.json",
-    "name": "SPSNDMF VPM Listing",
-    "id": "net.nrzk.vpm.spsndmf",
+    "name": "Nrzk VPM",
+    "id": "spsndmf.vpm.nrzk.net",
     "author": "niriziki",
-    "hash": "a99b1123b7d38ab201527deb446f00f9c32381c662b9b60b1ba53f0a4e681646",
+    "hash": null,
     "last_updated": "2026-08-20T16:15:58.000Z",
-    "packageCount": 3,
-    "packages": {
-      "net.nrzk.spsndmf": {
-        "id": "net.nrzk.spsndmf",
-        "name": "net.nrzk.spsndmf",
-        "displayName": "SPS for NDMF",
-        "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-        "latestVersion": "1.1419.0",
-        "versionCount": 20,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "niriziki"
-        },
-        "versions": {
-          "1.1419.0": {
-            "version": "1.1419.0",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1419.0/net.nrzk.spsndmf-1.1419.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "com.unity.nuget.newtonsoft-json": "2.0.0",
-              "nadena.dev.modular-avatar": "^1.15.0",
-              "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
-            }
-          },
-          "1.1408.2": {
-            "version": "1.1408.2",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1408.2/net.nrzk.spsndmf-1.1408.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "1.1416.1": {
-            "version": "1.1416.1",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1416.1/net.nrzk.spsndmf-1.1416.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "com.unity.nuget.newtonsoft-json": "2.0.0",
-              "nadena.dev.modular-avatar": "^1.15.0",
-              "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
-            }
-          },
-          "1.1416.0": {
-            "version": "1.1416.0",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1416.0/net.nrzk.spsndmf-1.1416.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "1.1408.0": {
-            "version": "1.1408.0",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1408.0/net.nrzk.spsndmf-1.1408.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.2.0-beta.12": {
-            "version": "0.2.0-beta.12",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.12/net.nrzk.spsndmf-0.2.0-beta.12.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.2.0-beta.13": {
-            "version": "0.2.0-beta.13",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.13/net.nrzk.spsndmf-0.2.0-beta.13.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.2.0-beta.10": {
-            "version": "0.2.0-beta.10",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.10/net.nrzk.spsndmf-0.2.0-beta.10.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.2.0-beta.11": {
-            "version": "0.2.0-beta.11",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.11/net.nrzk.spsndmf-0.2.0-beta.11.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.2.0-beta.9": {
-            "version": "0.2.0-beta.9",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.9/net.nrzk.spsndmf-0.2.0-beta.9.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.2.0-beta.7": {
-            "version": "0.2.0-beta.7",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.7/net.nrzk.spsndmf-0.2.0-beta.7.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.2.0-beta.8": {
-            "version": "0.2.0-beta.8",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.8/net.nrzk.spsndmf-0.2.0-beta.8.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.2.0-beta.5": {
-            "version": "0.2.0-beta.5",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.5/net.nrzk.spsndmf-0.2.0-beta.5.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.2.0-beta.6": {
-            "version": "0.2.0-beta.6",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.6/net.nrzk.spsndmf-0.2.0-beta.6.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "1.1408.1": {
-            "version": "1.1408.1",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1408.1/net.nrzk.spsndmf-1.1408.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.2.0-beta.3": {
-            "version": "0.2.0-beta.3",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.3/net.nrzk.spsndmf-0.2.0-beta.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.1.0-beta.3": {
-            "version": "0.1.0-beta.3",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.1.0-beta.3/net.nrzk.spsndmf-0.1.0-beta.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.0.1-beta.0": {
-            "version": "0.0.1-beta.0",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.0.1-beta.0/net.nrzk.spsndmf-0.0.1-beta.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.0.1-beta.1": {
-            "version": "0.0.1-beta.1",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.0.1-beta.1/net.nrzk.spsndmf-0.0.1-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.0.1-beta.2": {
-            "version": "0.0.1-beta.2",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.0.1-beta.2/net.nrzk.spsndmf-0.0.1-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          }
-        }
-      },
-      "net.nrzk.vfstub": {
-        "id": "net.nrzk.vfstub",
-        "name": "net.nrzk.vfstub",
-        "displayName": "VRCFury Stub",
-        "description": "Type-only stub of VRCFury's Runtime assembly. Preserves VRCFury component types (VF.* namespace, same GUIDs) so existing scenes deserialize without the full VRCFury package. No editor logic or build processing is included.",
-        "latestVersion": "1.1416.0",
-        "versionCount": 12,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "niriziki"
-        },
-        "versions": {
-          "1.1416.0": {
-            "version": "1.1416.0",
-            "name": "net.nrzk.vfstub",
-            "displayName": "VRCFury Stub",
-            "description": "Type-only stub of VRCFury's Runtime assembly. Preserves VRCFury component types (VF.* namespace, same GUIDs) so existing scenes deserialize without the full VRCFury package. No editor logic or build processing is included.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/vfstub/1.1416.0/net.nrzk.vfstub-1.1416.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6"
-            }
-          },
-          "1.1408.0": {
-            "version": "1.1408.0",
-            "name": "net.nrzk.vfstub",
-            "displayName": "VRCFury Stub",
-            "description": "Type-only stub of VRCFury's Runtime assembly. Preserves VRCFury component types (VF.* namespace, same GUIDs) so existing scenes deserialize without the full VRCFury package. No editor logic or build processing is included.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/vfstub/1.1408.0/net.nrzk.vfstub-1.1408.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6"
-            }
-          },
-          "0.2.0-beta.13": {
-            "version": "0.2.0-beta.13",
-            "name": "net.nrzk.vfstub",
-            "displayName": "VRCFury Stub",
-            "description": "Type-only stub of VRCFury's Runtime assembly. Preserves VRCFury component types (VF.* namespace, same GUIDs) so existing scenes deserialize without the full VRCFury package. No editor logic or build processing is included.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/vfstub/0.2.0-beta.13/net.nrzk.vfstub-0.2.0-beta.13.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6"
-            }
-          },
-          "0.2.0-beta.12": {
-            "version": "0.2.0-beta.12",
-            "name": "net.nrzk.vfstub",
-            "displayName": "VRCFury Stub",
-            "description": "Type-only stub of VRCFury's Runtime assembly. Preserves VRCFury component types (VF.* namespace, same GUIDs) so existing scenes deserialize without the full VRCFury package. No editor logic or build processing is included.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/vfstub/0.2.0-beta.12/net.nrzk.vfstub-0.2.0-beta.12.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6"
-            }
-          },
-          "0.2.0-beta.11": {
-            "version": "0.2.0-beta.11",
-            "name": "net.nrzk.vfstub",
-            "displayName": "VRCFury Stub",
-            "description": "Type-only stub of VRCFury's Runtime assembly. Preserves VRCFury component types (VF.* namespace, same GUIDs) so existing scenes deserialize without the full VRCFury package. No editor logic or build processing is included.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/vfstub/0.2.0-beta.11/net.nrzk.vfstub-0.2.0-beta.11.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6"
-            }
-          },
-          "0.2.0-beta.8": {
-            "version": "0.2.0-beta.8",
-            "name": "net.nrzk.vfstub",
-            "displayName": "VRCFury Stub",
-            "description": "Type-only stub of VRCFury's Runtime assembly. Preserves VRCFury component types (VF.* namespace, same GUIDs) so existing scenes deserialize without the full VRCFury package. No editor logic or build processing is included.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/vfstub/0.2.0-beta.8/net.nrzk.vfstub-0.2.0-beta.8.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6"
-            }
-          },
-          "0.2.0-beta.7": {
-            "version": "0.2.0-beta.7",
-            "name": "net.nrzk.vfstub",
-            "displayName": "VRCFury Stub",
-            "description": "Type-only stub of VRCFury's Runtime assembly. Preserves VRCFury component types (VF.* namespace, same GUIDs) so existing scenes deserialize without the full VRCFury package. No editor logic or build processing is included.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/vfstub/0.2.0-beta.7/net.nrzk.vfstub-0.2.0-beta.7.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6"
-            }
-          },
-          "0.2.0-beta.6": {
-            "version": "0.2.0-beta.6",
-            "name": "net.nrzk.vfstub",
-            "displayName": "VRCFury Stub",
-            "description": "Type-only stub of VRCFury's Runtime assembly. Preserves VRCFury component types (VF.* namespace, same GUIDs) so existing scenes deserialize without the full VRCFury package. No editor logic or build processing is included.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/vfstub/0.2.0-beta.6/net.nrzk.vfstub-0.2.0-beta.6.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6"
-            }
-          },
-          "0.2.0-beta.5": {
-            "version": "0.2.0-beta.5",
-            "name": "net.nrzk.vfstub",
-            "displayName": "VRCFury Stub",
-            "description": "Type-only stub of VRCFury's Runtime assembly. Preserves VRCFury component types (VF.* namespace, same GUIDs) so existing scenes deserialize without the full VRCFury package. No editor logic or build processing is included.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/vfstub/0.2.0-beta.5/net.nrzk.vfstub-0.2.0-beta.5.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6"
-            }
-          },
-          "0.2.0-beta.3": {
-            "version": "0.2.0-beta.3",
-            "name": "net.nrzk.vfstub",
-            "displayName": "VRCFury Stub",
-            "description": "Type-only stub of VRCFury's Runtime assembly. Preserves VRCFury component types (VF.* namespace, same GUIDs) so existing scenes deserialize without the full VRCFury package. No editor logic or build processing is included.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/vfstub/0.2.0-beta.3/net.nrzk.vfstub-0.2.0-beta.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6"
-            }
-          },
-          "0.1.0-beta.3": {
-            "version": "0.1.0-beta.3",
-            "name": "net.nrzk.vfstub",
-            "displayName": "VRCFury Stub",
-            "description": "Type-only stub of VRCFury's Runtime assembly. Preserves VRCFury component types (VF.* namespace, same GUIDs) so existing scenes deserialize without the full VRCFury package. No editor logic or build processing is included.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/vfstub/0.1.0-beta.3/net.nrzk.vfstub-0.1.0-beta.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6"
-            }
-          },
-          "0.0.1-beta.0": {
-            "version": "0.0.1-beta.0",
-            "name": "net.nrzk.vfstub",
-            "displayName": "VRCFury Stub",
-            "description": "Type-only stub of VRCFury's Runtime assembly. Preserves VRCFury component types (VF.* namespace, same GUIDs) so existing scenes deserialize without the full VRCFury package. No editor logic or build processing is included.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/vfstub/0.0.1-beta.0/net.nrzk.vfstub-0.0.1-beta.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6"
-            }
-          }
-        }
-      },
-      "net.nrzk.spsndmf-migrator": {
-        "id": "net.nrzk.spsndmf-migrator",
-        "name": "net.nrzk.spsndmf-migrator",
-        "displayName": "SPSNDMF Migrator",
-        "description": "Convert SPS components between VRCFury, SPSNDMF, Modular Avatar and VRChat Contacts.",
-        "latestVersion": "1.0.0",
-        "versionCount": 13,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "niriziki"
-        },
-        "versions": {
-          "1.0.0": {
-            "version": "1.0.0",
-            "name": "net.nrzk.spsndmf-migrator",
-            "displayName": "SPSNDMF Migrator",
-            "description": "Convert SPS components between VRCFury, SPSNDMF, Modular Avatar and VRChat Contacts.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/1.0.0/net.nrzk.spsndmf-migrator-1.0.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0",
-              "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
-            }
-          },
-          "0.2.0-beta.13": {
-            "version": "0.2.0-beta.13",
-            "name": "net.nrzk.spsndmf-migrator",
-            "displayName": "SPSNDMF Migrator",
-            "description": "Convert SPS components between VRCFury, SPSNDMF, Modular Avatar and VRChat Contacts.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.2.0-beta.13/net.nrzk.spsndmf-migrator-0.2.0-beta.13.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0",
-              "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
-            }
-          },
-          "0.2.0-beta.12": {
-            "version": "0.2.0-beta.12",
-            "name": "net.nrzk.spsndmf-migrator",
-            "displayName": "SPSNDMF Migrator",
-            "description": "Convert SPS components between VRCFury, SPSNDMF, Modular Avatar and VRChat Contacts.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.2.0-beta.12/net.nrzk.spsndmf-migrator-0.2.0-beta.12.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0",
-              "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
-            }
-          },
-          "0.2.0-beta.11": {
-            "version": "0.2.0-beta.11",
-            "name": "net.nrzk.spsndmf-migrator",
-            "displayName": "SPSNDMF Migrator",
-            "description": "Convert SPS components between VRCFury, SPSNDMF, Modular Avatar and VRChat Contacts.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.2.0-beta.11/net.nrzk.spsndmf-migrator-0.2.0-beta.11.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0",
-              "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
-            }
-          },
-          "0.2.0-beta.8": {
-            "version": "0.2.0-beta.8",
-            "name": "net.nrzk.spsndmf-migrator",
-            "displayName": "SPSNDMF Migrator",
-            "description": "Convert SPS components between VRCFury, SPSNDMF, Modular Avatar and VRChat Contacts.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.2.0-beta.8/net.nrzk.spsndmf-migrator-0.2.0-beta.8.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0",
-              "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
-            }
-          },
-          "0.2.0-beta.7": {
-            "version": "0.2.0-beta.7",
-            "name": "net.nrzk.spsndmf-migrator",
-            "displayName": "SPSNDMF Migrator",
-            "description": "Convert SPS components between VRCFury, SPSNDMF, Modular Avatar and VRChat Contacts.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.2.0-beta.7/net.nrzk.spsndmf-migrator-0.2.0-beta.7.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0",
-              "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
-            }
-          },
-          "0.2.0-beta.6": {
-            "version": "0.2.0-beta.6",
-            "name": "net.nrzk.spsndmf-migrator",
-            "displayName": "SPSNDMF Migrator",
-            "description": "Convert SPS components between VRCFury, SPSNDMF, Modular Avatar and VRChat Contacts.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.2.0-beta.6/net.nrzk.spsndmf-migrator-0.2.0-beta.6.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0",
-              "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
-            }
-          },
-          "0.2.0-beta.5": {
-            "version": "0.2.0-beta.5",
-            "name": "net.nrzk.spsndmf-migrator",
-            "displayName": "SPSNDMF Migrator",
-            "description": "Convert SPS components between VRCFury, SPSNDMF, Modular Avatar and VRChat Contacts.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.2.0-beta.5/net.nrzk.spsndmf-migrator-0.2.0-beta.5.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0",
-              "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
-            }
-          },
-          "0.2.0-beta.4": {
-            "version": "0.2.0-beta.4",
-            "name": "net.nrzk.spsndmf-migrator",
-            "displayName": "SPSNDMF Migrator",
-            "description": "Convert SPS components between VRCFury, SPSNDMF, Modular Avatar and VRChat Contacts.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.2.0-beta.4/net.nrzk.spsndmf-migrator-0.2.0-beta.4.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0",
-              "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
-            }
-          },
-          "0.2.0-beta.3": {
-            "version": "0.2.0-beta.3",
-            "name": "net.nrzk.spsndmf-migrator",
-            "displayName": "SPSNDMF Migrator",
-            "description": "Convert SPS components between VRCFury, SPSNDMF, Modular Avatar and VRChat Contacts.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.2.0-beta.3/net.nrzk.spsndmf-migrator-0.2.0-beta.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.1.0-beta.4": {
-            "version": "0.1.0-beta.4",
-            "name": "net.nrzk.spsndmf-migrator",
-            "displayName": "SPSNDMF Migrator",
-            "description": "Convert SPS components between VRCFury, SPSNDMF, Modular Avatar and VRChat Contacts.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.1.0-beta.4/net.nrzk.spsndmf-migrator-0.1.0-beta.4.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0",
-              "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
-            }
-          },
-          "0.1.0-beta.3": {
-            "version": "0.1.0-beta.3",
-            "name": "net.nrzk.spsndmf-migrator",
-            "displayName": "SPSNDMF Migrator",
-            "description": "Convert SPS components between VRCFury, SPSNDMF, Modular Avatar and VRChat Contacts.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.1.0-beta.3/net.nrzk.spsndmf-migrator-0.1.0-beta.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.0.1-beta.0": {
-            "version": "0.0.1-beta.0",
-            "name": "net.nrzk.spsndmf-migrator",
-            "displayName": "SPSNDMF Migrator",
-            "description": "Convert SPS components between VRCFury, SPSNDMF, Modular Avatar and VRChat Contacts.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.0.1-beta.0/net.nrzk.spsndmf-migrator-0.0.1-beta.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          }
-        }
-      }
-    }
+    "packageCount": 0,
+    "packages": {}
   },
   {
     "url": "https://suzufactory.github.io/vpm-repos/vpm.json",
@@ -90585,7 +90166,7 @@
     "id": "io.github.tp-jp.vpm",
     "author": "tp.jp",
     "hash": "da473ccdc75356cd14e6c77e54e8be663bb1621108df5f980248e75789e4c3aa",
-    "last_updated": "2026-07-13T13:46:47.000Z",
+    "last_updated": "2026-07-13T13:46:48.000Z",
     "packageCount": 9,
     "packages": {
       "com.tp.jp.iwa-sync3-color-changer": {
@@ -93066,8 +92647,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "0c1ecd0f3afcb7de6ccb14c8c10699cc248ba617de6eeeeb8cf65c798fe18efd",
-    "last_updated": "2026-08-22T01:01:42.000Z",
+    "hash": "3639d4083b22f88aad809626122dcfa236fa87103f72aed4c904f819fe1b2cf1",
+    "last_updated": "2026-08-23T01:06:13.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -93075,14 +92656,34 @@
         "name": "com.vrcfury.vrcfury",
         "displayName": "VRCFury",
         "description": "Non-Destructive Tools for VRChat Avatars",
-        "latestVersion": "1.1421.0",
-        "versionCount": 1403,
+        "latestVersion": "1.1423.0",
+        "versionCount": 1405,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "VRCFury"
         },
         "versions": {
+          "1.1423.0": {
+            "version": "1.1423.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1423.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1422.0": {
+            "version": "1.1422.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1422.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.1421.0": {
             "version": "1.1421.0",
             "name": "com.vrcfury.vrcfury",
@@ -107067,7 +106668,7 @@
     "name": "32ba VPM repository",
     "id": "net.32ba.vpm",
     "author": "32ba",
-    "hash": "6c7f419c2409a65874e81ba5934ffdb354afed796efb7e03a22c995db43c077b",
+    "hash": "496ad50da27fc94f6821567edd5b926c4306ee23aa5f44a5f0039476fbed5e7c",
     "last_updated": "2026-08-01T16:09:51.341Z",
     "packageCount": 10,
     "packages": {
@@ -107168,14 +106769,26 @@
         "name": "net.32ba.lattice-deformation-tool",
         "displayName": "Lattice Deformation Tool",
         "description": "Non-destructive layered mesh deformation for MeshRenderer and SkinnedMeshRenderer, with lattice, brush, vertex editing, BlendShape I/O, and NDMF Preview/Bake. Formerly known as Mesh Deformation Tool.",
-        "latestVersion": "1.4.4",
-        "versionCount": 31,
+        "latestVersion": "1.4.5-rc.1",
+        "versionCount": 32,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "32ba"
         },
         "versions": {
+          "1.4.5-rc.1": {
+            "version": "1.4.5-rc.1",
+            "name": "net.32ba.lattice-deformation-tool",
+            "displayName": "Lattice Deformation Tool",
+            "description": "Non-destructive layered mesh deformation for MeshRenderer and SkinnedMeshRenderer, with lattice, brush, vertex editing, BlendShape I/O, and NDMF Preview/Bake. Formerly known as Mesh Deformation Tool.",
+            "url": "https://github.com/32ba/VRC-lattice-deformation-tool/releases/download/1.4.5-rc.1/net.32ba.lattice-deformation-tool-1.4.5-rc.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.9.0"
+            }
+          },
           "1.4.4": {
             "version": "1.4.4",
             "name": "net.32ba.lattice-deformation-tool",
@@ -108272,7 +107885,7 @@
     "name": "anatawa12",
     "id": "com.anatawa12.main",
     "author": "anatawa12",
-    "hash": "339aa199e020a01e7adcc402cfd8a9844a32444e4c506e09942ad34d52685d1c",
+    "hash": "5ed2bded220ee8492e38f64755c9f0cd2269836a9829ea8309952812c0690996",
     "last_updated": "2026-08-01T16:09:51.342Z",
     "packageCount": 14,
     "packages": {
@@ -114566,7 +114179,7 @@
         "displayName": "Non-Destructive Modular Framework",
         "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
         "latestVersion": "1.0.1",
-        "versionCount": 67,
+        "versionCount": 68,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -115281,6 +114894,20 @@
             "displayName": "Non-Destructive Modular Framework",
             "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
             "url": "https://github.com/bdunderscore/ndmf/releases/download/1.14.4/nadena.dev.ndmf-1.14.4.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.unity.collections": "2.1.4",
+              "com.unity.mathematics": "1.2.6",
+              "com.unity.modules.animation": "1.0.0"
+            }
+          },
+          "1.14.6": {
+            "version": "1.14.6",
+            "name": "nadena.dev.ndmf",
+            "displayName": "Non-Destructive Modular Framework",
+            "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
+            "url": "https://packages.vpm.nadena.dev/repositories/nadena.dev/packages/nadena.dev.ndmf/1.14.6/9eb5734b50a838aaa6b246526e3f86bc0f881a32e4cbe294d6ff5d1000368e37.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -119148,8 +118775,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "9017b2b7cdf9f7ce1e88d719b49c4edfeb64f9ffc9957466641ce8fd2b7603b6",
-    "last_updated": "2026-08-21T11:07:40.000Z",
+    "hash": "5f65df43a87ddeed12a79c3cd3cfe18882a29d816b2b47a29c53bb3b91327287",
+    "last_updated": "2026-08-22T22:54:07.000Z",
     "packageCount": 12,
     "packages": {
       "com.poiyomi.pro": {
@@ -120019,8 +119646,8 @@
         "name": "hackebein.objecttracking.host",
         "displayName": "Hackebein's Object Tracking Host",
         "description": "ObjectTracking App for Hackebein's Object Tracking.",
-        "latestVersion": "1.0.0-beta.13",
-        "versionCount": 9,
+        "latestVersion": "1.0.0-beta.14",
+        "versionCount": 10,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -120029,6 +119656,16 @@
           "url": "https://hackebein.de"
         },
         "versions": {
+          "1.0.0-beta.14": {
+            "version": "1.0.0-beta.14",
+            "name": "hackebein.objecttracking.host",
+            "displayName": "Hackebein's Object Tracking Host",
+            "description": "ObjectTracking App for Hackebein's Object Tracking.",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking.host/1.0.0-beta.14/c11393c8da9d71ae6a45874229a9ccdf7b7bc37123533c427a1db05d726637c2",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.0.0-beta.13": {
             "version": "1.0.0-beta.13",
             "name": "hackebein.objecttracking.host",
@@ -120231,8 +119868,8 @@
         "name": "nadena.dev.ndmf",
         "displayName": "Non-Destructive Modular Framework",
         "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
-        "latestVersion": "1.14.4",
-        "versionCount": 147,
+        "latestVersion": "1.14.6",
+        "versionCount": 148,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -120241,6 +119878,20 @@
           "url": "https://github.com/bdunderscore/ndmf"
         },
         "versions": {
+          "1.14.6": {
+            "version": "1.14.6",
+            "name": "nadena.dev.ndmf",
+            "displayName": "Non-Destructive Modular Framework",
+            "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
+            "url": "https://vpmm.dev/files/nadena.dev.ndmf/1.14.6/9eb5734b50a838aaa6b246526e3f86bc0f881a32e4cbe294d6ff5d1000368e37",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.unity.collections": "2.1.4",
+              "com.unity.mathematics": "1.2.6",
+              "com.unity.modules.animation": "1.0.0"
+            }
+          },
           "1.14.4": {
             "version": "1.14.4",
             "name": "nadena.dev.ndmf",
@@ -129959,7 +129610,7 @@
     "id": "com.micksam7.vpm",
     "author": "Micca",
     "hash": "28148f3419e38143920ae19b3a3dd4a57a632a36728aa26382a61c71e69f2550",
-    "last_updated": "2026-07-03T02:20:28.000Z",
+    "last_updated": "2026-07-03T02:20:29.000Z",
     "packageCount": 1,
     "packages": {
       "com.micksam7.mididmx": {
@@ -132919,8 +132570,8 @@
     "name": "bd_",
     "id": "dev.nadena.vpm",
     "author": "bd_",
-    "hash": "34dac59aeb8cce173991ad245713e54b95b49699ae25c4169dba7fe6502a4cf6",
-    "last_updated": "2026-08-21T02:41:03.000Z",
+    "hash": "cd409ed8a8405eb05a2451aee37c53c08bca3bb4d91b5126f5d7c88572eaa172",
+    "last_updated": "2026-08-22T04:30:02.000Z",
     "packageCount": 4,
     "packages": {
       "nadena.dev.misc-vrc-tools": {
@@ -135879,7 +135530,7 @@
         "displayName": "Non-Destructive Modular Framework - なでもふ",
         "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
         "latestVersion": "0.1.0",
-        "versionCount": 147,
+        "versionCount": 148,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -136192,6 +135843,20 @@
             "displayName": "Non-Destructive Modular Framework",
             "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
             "url": "https://packages.vpm.nadena.dev/repositories/nadena.dev/packages/nadena.dev.ndmf/1.14.4/2b2ad36097b140e840e5171cacb08937f5848e90d1e09f4c3e1bb164c205a9e5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.unity.collections": "2.1.4",
+              "com.unity.mathematics": "1.2.6",
+              "com.unity.modules.animation": "1.0.0"
+            }
+          },
+          "1.14.6": {
+            "version": "1.14.6",
+            "name": "nadena.dev.ndmf",
+            "displayName": "Non-Destructive Modular Framework",
+            "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
+            "url": "https://packages.vpm.nadena.dev/repositories/nadena.dev/packages/nadena.dev.ndmf/1.14.6/9eb5734b50a838aaa6b246526e3f86bc0f881a32e4cbe294d6ff5d1000368e37.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -153739,8 +153404,8 @@
     "name": "WhyKnot Tools",
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
-    "hash": "4d2081d1407c25262a6d8f23bb15bc4a00531cb7d1281963b992795edec92c90",
-    "last_updated": "2026-08-21T06:28:02.000Z",
+    "hash": "67bb5cebc3d669db055dd75de61d29c54c6cb971857173958a5dd4feecd063d4",
+    "last_updated": "2026-08-22T06:21:41.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -162666,12 +162331,1035 @@
   {
     "url": "https://whiteflare.github.io/vpm-repos/vpm.json",
     "name": "whiteflare",
-    "id": "whiteflare",
+    "id": "jp.whiteflare.vpm",
     "author": "whiteflare",
-    "hash": null,
+    "hash": "cd81b4754097eb8f378ae15a4c42fd43a1523f7ff7553543fd05009f907ab3b5",
     "last_updated": "2026-08-02T04:55:12.000Z",
-    "packageCount": 0,
-    "packages": {}
+    "packageCount": 4,
+    "packages": {
+      "jp.whiteflare.unlitwf": {
+        "id": "jp.whiteflare.unlitwf",
+        "name": "jp.whiteflare.unlitwf",
+        "displayName": "UnlitWF Shader",
+        "description": "General Shader Pack for VRChat, Unity.",
+        "latestVersion": "1.0.0",
+        "versionCount": 35,
+        "keywords": [],
+        "unity": "2019.1",
+        "author": "whiteflare",
+        "versions": {
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20230506/jp.whiteflare.unlitwf-1.0.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.0.0"
+            }
+          },
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20230603/jp.whiteflare.unlitwf-1.1.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.0.0"
+            }
+          },
+          "1.2.0": {
+            "version": "1.2.0",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20230625/jp.whiteflare.unlitwf-1.2.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.0.0"
+            }
+          },
+          "1.3.0": {
+            "version": "1.3.0",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20230710/jp.whiteflare.unlitwf-1.3.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.0.0"
+            }
+          },
+          "1.4.0": {
+            "version": "1.4.0",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20230827/jp.whiteflare.unlitwf-1.4.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.0.0"
+            }
+          },
+          "1.5.0": {
+            "version": "1.5.0",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20231011/jp.whiteflare.unlitwf-1.5.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.0.0"
+            }
+          },
+          "1.6.0": {
+            "version": "1.6.0",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20231105/jp.whiteflare.unlitwf-1.6.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.0.0"
+            }
+          },
+          "1.6.1": {
+            "version": "1.6.1",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20231106/jp.whiteflare.unlitwf-1.6.1.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.0.0"
+            }
+          },
+          "1.7.0": {
+            "version": "1.7.0",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20231210/jp.whiteflare.unlitwf-1.7.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.1.0"
+            }
+          },
+          "1.8.0": {
+            "version": "1.8.0",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20240101/jp.whiteflare.unlitwf-1.8.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.1.0"
+            }
+          },
+          "1.9.0": {
+            "version": "1.9.0",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20240128/jp.whiteflare.unlitwf-1.9.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.1.0"
+            }
+          },
+          "1.10.0": {
+            "version": "1.10.0",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20240212/jp.whiteflare.unlitwf-1.10.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.1.0"
+            }
+          },
+          "1.11.0": {
+            "version": "1.11.0",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20240310/jp.whiteflare.unlitwf-1.11.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.1.0"
+            }
+          },
+          "1.12.0": {
+            "version": "1.12.0",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20240316/jp.whiteflare.unlitwf-1.12.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.1.0"
+            }
+          },
+          "1.12.1": {
+            "version": "1.12.1",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20240407/jp.whiteflare.unlitwf-1.12.1.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.1.0"
+            }
+          },
+          "2.0.0": {
+            "version": "2.0.0",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20240525/jp.whiteflare.unlitwf-2.0.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.1.0"
+            }
+          },
+          "2.1.0": {
+            "version": "2.1.0",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20240612/jp.whiteflare.unlitwf-2.1.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.1.0"
+            }
+          },
+          "2.2.0": {
+            "version": "2.2.0",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20240721/jp.whiteflare.unlitwf-2.2.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.1.0"
+            }
+          },
+          "2.2.1": {
+            "version": "2.2.1",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20240727/jp.whiteflare.unlitwf-2.2.1.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.1.0"
+            }
+          },
+          "2.3.0": {
+            "version": "2.3.0",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20240907/jp.whiteflare.unlitwf-2.3.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.1.0"
+            }
+          },
+          "2.4.0": {
+            "version": "2.4.0",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20241014/jp.whiteflare.unlitwf-2.4.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.1.0"
+            }
+          },
+          "2.5.0": {
+            "version": "2.5.0",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20241123/jp.whiteflare.unlitwf-2.5.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.1.0"
+            }
+          },
+          "2.6.0": {
+            "version": "2.6.0",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20241215/jp.whiteflare.unlitwf-2.6.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.1.0"
+            }
+          },
+          "2.6.1": {
+            "version": "2.6.1",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20241217/jp.whiteflare.unlitwf-2.6.1.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.1.0"
+            }
+          },
+          "2.7.0": {
+            "version": "2.7.0",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20250128/jp.whiteflare.unlitwf-2.7.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.1.0"
+            }
+          },
+          "2.8.0": {
+            "version": "2.8.0",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20250323/jp.whiteflare.unlitwf-2.8.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.1.0"
+            }
+          },
+          "2.8.1": {
+            "version": "2.8.1",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20250323/jp.whiteflare.unlitwf-2.8.1.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.1.0"
+            }
+          },
+          "2.9.0": {
+            "version": "2.9.0",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20250528/jp.whiteflare.unlitwf-2.9.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.1.0"
+            }
+          },
+          "2.10.0": {
+            "version": "2.10.0",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20250803/jp.whiteflare.unlitwf-2.10.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.1.0"
+            }
+          },
+          "2.10.1": {
+            "version": "2.10.1",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20250816/jp.whiteflare.unlitwf-2.10.1.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.1.0"
+            }
+          },
+          "2.11.0": {
+            "version": "2.11.0",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20250906/jp.whiteflare.unlitwf-2.11.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.1.0"
+            }
+          },
+          "2.11.1": {
+            "version": "2.11.1",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20250921/jp.whiteflare.unlitwf-2.11.1.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.1.0"
+            }
+          },
+          "2.12.0": {
+            "version": "2.12.0",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20260101/jp.whiteflare.unlitwf-2.12.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.1.0"
+            }
+          },
+          "2.13.0": {
+            "version": "2.13.0",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20260208/jp.whiteflare.unlitwf-2.13.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.1.0"
+            }
+          },
+          "2.14.0": {
+            "version": "2.14.0",
+            "name": "jp.whiteflare.unlitwf",
+            "displayName": "UnlitWF Shader",
+            "description": "General Shader Pack for VRChat, Unity.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20260802/jp.whiteflare.unlitwf-2.14.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "jp.whiteflare.unlitwf.texpack": "^1.1.0"
+            }
+          }
+        }
+      },
+      "jp.whiteflare.unlitwf.texpack": {
+        "id": "jp.whiteflare.unlitwf.texpack",
+        "name": "jp.whiteflare.unlitwf.texpack",
+        "displayName": "UnlitWF TexturePack",
+        "description": "Texture material pack for UnlitWF shaders.",
+        "latestVersion": "1.0.0",
+        "versionCount": 7,
+        "keywords": [],
+        "unity": "2019.1",
+        "author": "whiteflare",
+        "versions": {
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "jp.whiteflare.unlitwf.texpack",
+            "displayName": "UnlitWF TexturePack",
+            "description": "Texture material pack for UnlitWF shaders.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20230506/jp.whiteflare.unlitwf.texpack-1.0.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {}
+          },
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "jp.whiteflare.unlitwf.texpack",
+            "displayName": "UnlitWF TexturePack",
+            "description": "Texture material pack for UnlitWF shaders.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20231210/jp.whiteflare.unlitwf.texpack-1.1.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {}
+          },
+          "1.1.1": {
+            "version": "1.1.1",
+            "name": "jp.whiteflare.unlitwf.texpack",
+            "displayName": "UnlitWF TexturePack",
+            "description": "Texture material pack for UnlitWF shaders.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20240101/jp.whiteflare.unlitwf.texpack-1.1.1.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {}
+          },
+          "1.1.2": {
+            "version": "1.1.2",
+            "name": "jp.whiteflare.unlitwf.texpack",
+            "displayName": "UnlitWF TexturePack",
+            "description": "Texture material pack for UnlitWF shaders.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20240212/jp.whiteflare.unlitwf.texpack-1.1.2.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {}
+          },
+          "1.1.3": {
+            "version": "1.1.3",
+            "name": "jp.whiteflare.unlitwf.texpack",
+            "displayName": "UnlitWF TexturePack",
+            "description": "Texture material pack for UnlitWF shaders.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20240310/jp.whiteflare.unlitwf.texpack-1.1.3.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {}
+          },
+          "1.2.0": {
+            "version": "1.2.0",
+            "name": "jp.whiteflare.unlitwf.texpack",
+            "displayName": "UnlitWF TexturePack",
+            "description": "Texture material pack for UnlitWF shaders.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20241014/jp.whiteflare.unlitwf.texpack-1.2.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {}
+          },
+          "1.3.0": {
+            "version": "1.3.0",
+            "name": "jp.whiteflare.unlitwf.texpack",
+            "displayName": "UnlitWF TexturePack",
+            "description": "Texture material pack for UnlitWF shaders.",
+            "url": "https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/UnlitWF_Shader_20241215/jp.whiteflare.unlitwf.texpack-1.3.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {}
+          }
+        }
+      },
+      "jp.whiteflare.avatartools": {
+        "id": "jp.whiteflare.avatartools",
+        "name": "jp.whiteflare.avatartools",
+        "displayName": "Flare's Avatar Tools",
+        "description": "Flare's Avatar Tools",
+        "latestVersion": "1.1.0",
+        "versionCount": 21,
+        "keywords": [],
+        "unity": "2019.1",
+        "author": "whiteflare",
+        "versions": {
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "jp.whiteflare.avatartools",
+            "displayName": "Flare's Avatar Tools",
+            "description": "Flare's Avatar Tools",
+            "url": "https://github.com/whiteflare/vpm-repos/releases/download/REL_TOOL_1.1.0/jp.whiteflare.avatartools-1.1.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.1.13"
+            }
+          },
+          "1.2.0": {
+            "version": "1.2.0",
+            "name": "jp.whiteflare.avatartools",
+            "displayName": "Flare's Avatar Tools",
+            "description": "Flare's Avatar Tools",
+            "url": "https://github.com/whiteflare/vpm-repos/releases/download/REL_TOOL_1.2.0/jp.whiteflare.avatartools-1.2.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.1.13"
+            }
+          },
+          "1.3.0": {
+            "version": "1.3.0",
+            "name": "jp.whiteflare.avatartools",
+            "displayName": "Flare's Avatar Tools",
+            "description": "Flare's Avatar Tools",
+            "url": "https://github.com/whiteflare/vpm-repos/releases/download/REL_TOOL_1.3.0/jp.whiteflare.avatartools-1.3.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.1.13"
+            }
+          },
+          "1.4.0": {
+            "version": "1.4.0",
+            "name": "jp.whiteflare.avatartools",
+            "displayName": "Flare's Avatar Tools",
+            "description": "Flare's Avatar Tools",
+            "url": "https://github.com/whiteflare/vpm-repos/releases/download/REL_TOOL_1.4.0/jp.whiteflare.avatartools-1.4.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.1.13"
+            }
+          },
+          "1.4.1": {
+            "version": "1.4.1",
+            "name": "jp.whiteflare.avatartools",
+            "displayName": "Flare's Avatar Tools",
+            "description": "Flare's Avatar Tools",
+            "url": "https://github.com/whiteflare/vpm-repos/releases/download/REL_TOOL_1.4.1/jp.whiteflare.avatartools-1.4.1.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.1.13"
+            }
+          },
+          "1.4.2": {
+            "version": "1.4.2",
+            "name": "jp.whiteflare.avatartools",
+            "displayName": "Flare's Avatar Tools",
+            "description": "Flare's Avatar Tools",
+            "url": "https://github.com/whiteflare/vpm-repos/releases/download/REL_TOOL_1.4.2/jp.whiteflare.avatartools-1.4.2.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.1.13"
+            }
+          },
+          "1.5.0": {
+            "version": "1.5.0",
+            "name": "jp.whiteflare.avatartools",
+            "displayName": "Flare's Avatar Tools",
+            "description": "Flare's Avatar Tools",
+            "url": "https://github.com/whiteflare/vpm-repos/releases/download/REL_TOOL_1.5.0/jp.whiteflare.avatartools-1.5.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.1.13"
+            }
+          },
+          "1.6.0": {
+            "version": "1.6.0",
+            "name": "jp.whiteflare.avatartools",
+            "displayName": "Flare's Avatar Tools",
+            "description": "Flare's Avatar Tools",
+            "url": "https://github.com/whiteflare/vpm-repos/releases/download/REL_TOOL_1.6.0/jp.whiteflare.avatartools-1.6.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.1.13"
+            }
+          },
+          "1.6.1": {
+            "version": "1.6.1",
+            "name": "jp.whiteflare.avatartools",
+            "displayName": "Flare's Avatar Tools",
+            "description": "Flare's Avatar Tools",
+            "url": "https://github.com/whiteflare/vpm-repos/releases/download/REL_TOOL_1.6.1/jp.whiteflare.avatartools-1.6.1.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.1.13"
+            }
+          },
+          "1.7.0": {
+            "version": "1.7.0",
+            "name": "jp.whiteflare.avatartools",
+            "displayName": "Flare's Avatar Tools",
+            "description": "Flare's Avatar Tools",
+            "url": "https://github.com/whiteflare/vpm-repos/releases/download/REL_TOOL_1.7.0/jp.whiteflare.avatartools-1.7.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.1.13"
+            }
+          },
+          "1.8.0": {
+            "version": "1.8.0",
+            "name": "jp.whiteflare.avatartools",
+            "displayName": "Flare's Avatar Tools",
+            "description": "Flare's Avatar Tools",
+            "url": "https://github.com/whiteflare/vpm-repos/releases/download/REL_TOOL_1.8.0/jp.whiteflare.avatartools-1.8.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.1.13"
+            }
+          },
+          "1.9.0": {
+            "version": "1.9.0",
+            "name": "jp.whiteflare.avatartools",
+            "displayName": "Flare's Avatar Tools",
+            "description": "Flare's Avatar Tools",
+            "url": "https://github.com/whiteflare/AvatarTools/releases/download/TOOLS_1.9.0/jp.whiteflare.avatartools-1.9.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.1.13"
+            }
+          },
+          "1.9.1": {
+            "version": "1.9.1",
+            "name": "jp.whiteflare.avatartools",
+            "displayName": "Flare's Avatar Tools",
+            "description": "Flare's Avatar Tools",
+            "url": "https://github.com/whiteflare/AvatarTools/releases/download/TOOLS_1.9.1/jp.whiteflare.avatartools-1.9.1.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.1.13"
+            }
+          },
+          "1.10.0": {
+            "version": "1.10.0",
+            "name": "jp.whiteflare.avatartools",
+            "displayName": "Flare's Avatar Tools",
+            "description": "Flare's Avatar Tools",
+            "url": "https://github.com/whiteflare/AvatarTools/releases/download/TOOLS_1.10.0/jp.whiteflare.avatartools-1.10.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.1.13"
+            }
+          },
+          "1.11.0": {
+            "version": "1.11.0",
+            "name": "jp.whiteflare.avatartools",
+            "displayName": "Flare's Avatar Tools",
+            "description": "Flare's Avatar Tools",
+            "url": "https://github.com/whiteflare/AvatarTools/releases/download/TOOLS_1.11.0/jp.whiteflare.avatartools-1.11.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.1.13"
+            }
+          },
+          "1.12.0": {
+            "version": "1.12.0",
+            "name": "jp.whiteflare.avatartools",
+            "displayName": "Flare's Avatar Tools",
+            "description": "Flare's Avatar Tools",
+            "url": "https://github.com/whiteflare/AvatarTools/releases/download/TOOLS_1.12.0/jp.whiteflare.avatartools-1.12.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.1.13"
+            }
+          },
+          "1.13.0": {
+            "version": "1.13.0",
+            "name": "jp.whiteflare.avatartools",
+            "displayName": "Flare's Avatar Tools",
+            "description": "Flare's Avatar Tools",
+            "url": "https://github.com/whiteflare/AvatarTools/releases/download/TOOLS_1.13.0/jp.whiteflare.avatartools-1.13.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.1.13"
+            }
+          },
+          "1.14.0": {
+            "version": "1.14.0",
+            "name": "jp.whiteflare.avatartools",
+            "displayName": "Flare's Avatar Tools",
+            "description": "Flare's Avatar Tools",
+            "url": "https://github.com/whiteflare/AvatarTools/releases/download/TOOLS_1.14.0/jp.whiteflare.avatartools-1.14.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.1.13"
+            }
+          },
+          "1.14.1": {
+            "version": "1.14.1",
+            "name": "jp.whiteflare.avatartools",
+            "displayName": "Flare's Avatar Tools",
+            "description": "Flare's Avatar Tools",
+            "url": "https://github.com/whiteflare/AvatarTools/releases/download/TOOLS_1.14.1/jp.whiteflare.avatartools-1.14.1.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.1.13"
+            }
+          },
+          "1.14.2": {
+            "version": "1.14.2",
+            "name": "jp.whiteflare.avatartools",
+            "displayName": "Flare's Avatar Tools",
+            "description": "Flare's Avatar Tools",
+            "url": "https://github.com/whiteflare/AvatarTools/releases/download/TOOLS_1.14.2/jp.whiteflare.avatartools-1.14.2.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.1.13"
+            }
+          },
+          "1.15.0": {
+            "version": "1.15.0",
+            "name": "jp.whiteflare.avatartools",
+            "displayName": "Flare's Avatar Tools",
+            "description": "Flare's Avatar Tools",
+            "url": "https://github.com/whiteflare/AvatarTools/releases/download/TOOLS_1.15.0/jp.whiteflare.avatartools-1.15.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.1.13"
+            }
+          }
+        }
+      },
+      "jp.whiteflare.worldtools": {
+        "id": "jp.whiteflare.worldtools",
+        "name": "jp.whiteflare.worldtools",
+        "displayName": "Flare's World Tools",
+        "description": "Flare's World Tools",
+        "latestVersion": "1.1.0",
+        "versionCount": 19,
+        "keywords": [],
+        "unity": "2019.1",
+        "author": "whiteflare",
+        "versions": {
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "jp.whiteflare.worldtools",
+            "displayName": "Flare's World Tools",
+            "description": "Flare's World Tools",
+            "url": "https://github.com/whiteflare/vpm-repos/releases/download/REL_TOOL_1.1.0/jp.whiteflare.worldtools-1.1.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.clientsim": "^1.2.2"
+            }
+          },
+          "1.2.0": {
+            "version": "1.2.0",
+            "name": "jp.whiteflare.worldtools",
+            "displayName": "Flare's World Tools",
+            "description": "Flare's World Tools",
+            "url": "https://github.com/whiteflare/vpm-repos/releases/download/REL_TOOL_1.2.0/jp.whiteflare.worldtools-1.2.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.clientsim": "^1.2.2"
+            }
+          },
+          "1.3.0": {
+            "version": "1.3.0",
+            "name": "jp.whiteflare.worldtools",
+            "displayName": "Flare's World Tools",
+            "description": "Flare's World Tools",
+            "url": "https://github.com/whiteflare/vpm-repos/releases/download/REL_TOOL_1.3.0/jp.whiteflare.worldtools-1.3.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.clientsim": "^1.2.2"
+            }
+          },
+          "1.4.0": {
+            "version": "1.4.0",
+            "name": "jp.whiteflare.worldtools",
+            "displayName": "Flare's World Tools",
+            "description": "Flare's World Tools",
+            "url": "https://github.com/whiteflare/vpm-repos/releases/download/REL_TOOL_1.4.0/jp.whiteflare.worldtools-1.4.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.1.13"
+            }
+          },
+          "1.4.1": {
+            "version": "1.4.1",
+            "name": "jp.whiteflare.worldtools",
+            "displayName": "Flare's World Tools",
+            "description": "Flare's World Tools",
+            "url": "https://github.com/whiteflare/vpm-repos/releases/download/REL_TOOL_1.4.1/jp.whiteflare.worldtools-1.4.1.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.1.13"
+            }
+          },
+          "1.4.2": {
+            "version": "1.4.2",
+            "name": "jp.whiteflare.worldtools",
+            "displayName": "Flare's World Tools",
+            "description": "Flare's World Tools",
+            "url": "https://github.com/whiteflare/vpm-repos/releases/download/REL_TOOL_1.4.2/jp.whiteflare.worldtools-1.4.2.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.1.13"
+            }
+          },
+          "1.5.0": {
+            "version": "1.5.0",
+            "name": "jp.whiteflare.worldtools",
+            "displayName": "Flare's World Tools",
+            "description": "Flare's World Tools",
+            "url": "https://github.com/whiteflare/vpm-repos/releases/download/REL_TOOL_1.5.0/jp.whiteflare.worldtools-1.5.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.1.13"
+            }
+          },
+          "1.6.0": {
+            "version": "1.6.0",
+            "name": "jp.whiteflare.worldtools",
+            "displayName": "Flare's World Tools",
+            "description": "Flare's World Tools",
+            "url": "https://github.com/whiteflare/vpm-repos/releases/download/REL_TOOL_1.6.0/jp.whiteflare.worldtools-1.6.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.1.13"
+            }
+          },
+          "1.6.1": {
+            "version": "1.6.1",
+            "name": "jp.whiteflare.worldtools",
+            "displayName": "Flare's World Tools",
+            "description": "Flare's World Tools",
+            "url": "https://github.com/whiteflare/vpm-repos/releases/download/REL_TOOL_1.6.1/jp.whiteflare.worldtools-1.6.1.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.1.13"
+            }
+          },
+          "1.7.0": {
+            "version": "1.7.0",
+            "name": "jp.whiteflare.worldtools",
+            "displayName": "Flare's World Tools",
+            "description": "Flare's World Tools",
+            "url": "https://github.com/whiteflare/vpm-repos/releases/download/REL_TOOL_1.7.0/jp.whiteflare.worldtools-1.7.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.1.13"
+            }
+          },
+          "1.9.0": {
+            "version": "1.9.0",
+            "name": "jp.whiteflare.worldtools",
+            "displayName": "Flare's World Tools",
+            "description": "Flare's World Tools",
+            "url": "https://github.com/whiteflare/WorldTools/releases/download/TOOLS_1.9.0/jp.whiteflare.worldtools-1.9.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.1.13"
+            }
+          },
+          "1.9.1": {
+            "version": "1.9.1",
+            "name": "jp.whiteflare.worldtools",
+            "displayName": "Flare's World Tools",
+            "description": "Flare's World Tools",
+            "url": "https://github.com/whiteflare/WorldTools/releases/download/TOOLS_1.9.1/jp.whiteflare.worldtools-1.9.1.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.1.13"
+            }
+          },
+          "1.11.0": {
+            "version": "1.11.0",
+            "name": "jp.whiteflare.worldtools",
+            "displayName": "Flare's World Tools",
+            "description": "Flare's World Tools",
+            "url": "https://github.com/whiteflare/WorldTools/releases/download/TOOLS_1.11.0/jp.whiteflare.worldtools-1.11.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.1.13"
+            }
+          },
+          "1.12.0": {
+            "version": "1.12.0",
+            "name": "jp.whiteflare.worldtools",
+            "displayName": "Flare's World Tools",
+            "description": "Flare's World Tools",
+            "url": "https://github.com/whiteflare/WorldTools/releases/download/TOOLS_1.12.0/jp.whiteflare.worldtools-1.12.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.1.13"
+            }
+          },
+          "1.13.0": {
+            "version": "1.13.0",
+            "name": "jp.whiteflare.worldtools",
+            "displayName": "Flare's World Tools",
+            "description": "Flare's World Tools",
+            "url": "https://github.com/whiteflare/WorldTools/releases/download/TOOLS_1.13.0/jp.whiteflare.worldtools-1.13.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.1.13"
+            }
+          },
+          "1.14.0": {
+            "version": "1.14.0",
+            "name": "jp.whiteflare.worldtools",
+            "displayName": "Flare's World Tools",
+            "description": "Flare's World Tools",
+            "url": "https://github.com/whiteflare/WorldTools/releases/download/TOOLS_1.14.0/jp.whiteflare.worldtools-1.14.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.1.13"
+            }
+          },
+          "1.14.1": {
+            "version": "1.14.1",
+            "name": "jp.whiteflare.worldtools",
+            "displayName": "Flare's World Tools",
+            "description": "Flare's World Tools",
+            "url": "https://github.com/whiteflare/WorldTools/releases/download/TOOLS_1.14.1/jp.whiteflare.worldtools-1.14.1.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.1.13"
+            }
+          },
+          "1.14.2": {
+            "version": "1.14.2",
+            "name": "jp.whiteflare.worldtools",
+            "displayName": "Flare's World Tools",
+            "description": "Flare's World Tools",
+            "url": "https://github.com/whiteflare/WorldTools/releases/download/TOOLS_1.14.2/jp.whiteflare.worldtools-1.14.2.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.1.13"
+            }
+          },
+          "1.15.0": {
+            "version": "1.15.0",
+            "name": "jp.whiteflare.worldtools",
+            "displayName": "Flare's World Tools",
+            "description": "Flare's World Tools",
+            "url": "https://github.com/whiteflare/WorldTools/releases/download/TOOLS_1.15.0/jp.whiteflare.worldtools-1.15.0.zip?",
+            "zipSha256": null,
+            "unity": "2019.1",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.1.13"
+            }
+          }
+        }
+      }
+    }
   },
   {
     "url": "https://wholesomevr.github.io/SPS-Configurator/index.json",
@@ -163918,8 +164606,8 @@
     "name": "Explosive Theorem Lab. Metaverse Division",
     "id": "idv.jlchntoz.xtlcdn-listing",
     "author": "Jeremy Lam aka. Vistanz",
-    "hash": "50c75f7dc30d9862609213b25cc9bcbb7abf3f9957b1531f78c238b351b80616",
-    "last_updated": "2026-08-01T08:40:12.000Z",
+    "hash": "f30887ce534027cc30d95ab2db4eaae904947e8ba85db7afee6cc768f3c9e387",
+    "last_updated": "2026-08-22T09:39:02.000Z",
     "packageCount": 14,
     "packages": {
       "idv.jlchntoz.vrcw-foundation": {
@@ -163927,8 +164615,8 @@
         "name": "idv.jlchntoz.vrcw-foundation",
         "displayName": "Vistanz's Foundation Package for VRChat Worlds",
         "description": "Foundation framework enhances VRChat World developments with Udon(sharp).",
-        "latestVersion": "0.0.63",
-        "versionCount": 63,
+        "latestVersion": "0.0.64",
+        "versionCount": 64,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -163937,6 +164625,18 @@
           "url": "https://xtl.booth.pm"
         },
         "versions": {
+          "0.0.64": {
+            "version": "0.0.64",
+            "name": "idv.jlchntoz.vrcw-foundation",
+            "displayName": "Vistanz's Foundation Package for VRChat Worlds",
+            "description": "Foundation framework enhances VRChat World developments with Udon(sharp).",
+            "url": "https://github.com/JLChnToZ/vrcw-foundation/releases/download/0.0.64/idv.jlchntoz.vrcw-foundation-0.0.64.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.x.x >=3.9.0"
+            }
+          },
           "0.0.63": {
             "version": "0.0.63",
             "name": "idv.jlchntoz.vrcw-foundation",
@@ -169269,7 +169969,7 @@
     "id": "io.github.z3y.vpm-package-listing",
     "author": "z3y",
     "hash": "83546c2594481c417ebacf2d4f8c14361bf94b42217d407ccb6709980f2fa2e3",
-    "last_updated": "2026-08-21T17:50:50.000Z",
+    "last_updated": "2026-08-21T17:50:48.000Z",
     "packageCount": 8,
     "packages": {
       "com.z3y.graphlit": {
@@ -172873,8 +173573,8 @@
     "name": "bd_",
     "id": "dev.nadena.vpm",
     "author": "bd_",
-    "hash": "34dac59aeb8cce173991ad245713e54b95b49699ae25c4169dba7fe6502a4cf6",
-    "last_updated": "2026-08-21T02:41:03.000Z",
+    "hash": "cd409ed8a8405eb05a2451aee37c53c08bca3bb4d91b5126f5d7c88572eaa172",
+    "last_updated": "2026-08-22T04:30:02.000Z",
     "packageCount": 4,
     "packages": {
       "nadena.dev.misc-vrc-tools": {
@@ -175833,7 +176533,7 @@
         "displayName": "Non-Destructive Modular Framework - なでもふ",
         "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
         "latestVersion": "0.1.0",
-        "versionCount": 147,
+        "versionCount": 148,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -176146,6 +176846,20 @@
             "displayName": "Non-Destructive Modular Framework",
             "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
             "url": "https://packages.vpm.nadena.dev/repositories/nadena.dev/packages/nadena.dev.ndmf/1.14.4/2b2ad36097b140e840e5171cacb08937f5848e90d1e09f4c3e1bb164c205a9e5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.unity.collections": "2.1.4",
+              "com.unity.mathematics": "1.2.6",
+              "com.unity.modules.animation": "1.0.0"
+            }
+          },
+          "1.14.6": {
+            "version": "1.14.6",
+            "name": "nadena.dev.ndmf",
+            "displayName": "Non-Destructive Modular Framework",
+            "description": "A framework for building non-destructive plugins for VRChat Avatar 3.0",
+            "url": "https://packages.vpm.nadena.dev/repositories/nadena.dev/packages/nadena.dev.ndmf/1.14.6/9eb5734b50a838aaa6b246526e3f86bc0f881a32e4cbe294d6ff5d1000368e37.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
