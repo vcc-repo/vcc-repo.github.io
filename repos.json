@@ -567,8 +567,8 @@
     "name": "Akiiray VPM Repository",
     "id": "com.akiiray.vpm",
     "author": "akiiray",
-    "hash": "8cd220e9097a825c0e7e025fe0431d71dd6e20129ceaad4f384ca0b044605115",
-    "last_updated": "2026-08-16T03:51:49.000Z",
+    "hash": "af100947a2314e5c973793db02b14b68f54f81827df5e2b7496aac444bdf197e",
+    "last_updated": "2026-08-24T07:02:20.000Z",
     "packageCount": 2,
     "packages": {
       "com.akiiray.vrc-avatar-toolkit-plus": {
@@ -832,7 +832,7 @@
         "displayName": "VRC Avatar LiteKit Plus",
         "description": "VRChat avatar optimization and mobile conversion toolkit.",
         "latestVersion": "0.1.0",
-        "versionCount": 3,
+        "versionCount": 4,
         "keywords": [
           "vrchat",
           "avatar",
@@ -874,6 +874,19 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {}
+          },
+          "0.2.0": {
+            "version": "0.2.0",
+            "name": "com.akiiray.vrc-avatar-litekit-plus",
+            "displayName": "VRC Avatar LiteKit Plus",
+            "description": "VRChat avatar diagnostics, parameter compression, and mobile conversion toolkit.",
+            "url": "https://github.com/Akiiray/vrc-avatar-litekit-plus/releases/download/v0.2.0/com.akiiray.vrc-avatar-litekit-plus-v0.2.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "3.7.0",
+              "nadena.dev.ndmf": "1.5.0"
+            }
           }
         }
       }
@@ -1708,8 +1721,8 @@
     "name": "An-Labo NailTool",
     "id": "world.anlabo.mdnailtool.vpm",
     "author": "An-Labo",
-    "hash": "9b11c4a2d9283fcf183a9df363707036ed9fbb2e77fc95f109438bec577f28dc",
-    "last_updated": "2026-08-17T20:18:33.000Z",
+    "hash": "a18fc65f6602fa1d8f2712b2eb6a5201aaa98cbfe88fd58608f2651ffb1df8ee",
+    "last_updated": "2026-08-24T12:00:19.000Z",
     "packageCount": 1,
     "packages": {
       "world.anlabo.mdnailtool": {
@@ -1718,7 +1731,7 @@
         "displayName": "An-Labo NailTool",
         "description": "An-Labo NailTool",
         "latestVersion": "0.9.141",
-        "versionCount": 567,
+        "versionCount": 568,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -8530,6 +8543,18 @@
             "vpmDependencies": {
               "com.vrchat.avatars": ">=3.5.0"
             }
+          },
+          "0.10.54": {
+            "version": "0.10.54",
+            "name": "world.anlabo.mdnailtool",
+            "displayName": "An-Labo NailTool",
+            "description": "An-Labo NailTool",
+            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.10.54/world.anlabo.mdnailtool-0.10.54.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.5.0"
+            }
           }
         }
       }
@@ -14300,7 +14325,7 @@
     "id": "ooo.beko.vpm-repos",
     "author": "Bekosan",
     "hash": "e5b0fe31df398d40a65e0469bd9f199b84f62ec0bb62531a8a1b024a93ea25b7",
-    "last_updated": "2025-12-15T09:31:13.000Z",
+    "last_updated": "2026-08-24T04:27:38.000Z",
     "packageCount": 1,
     "packages": {
       "ooo.beko.vrc-heart-rate": {
@@ -16622,7 +16647,7 @@
     "id": "com.chill.vpm",
     "author": "chill",
     "hash": "218dd1fd125e7194ca6c8140e63ca3d013b40ed5b78b42e79e1ff1e1d5cd5b05",
-    "last_updated": "2026-05-21T13:11:01.000Z",
+    "last_updated": "2026-05-21T13:11:02.000Z",
     "packageCount": 1,
     "packages": {
       "com.chill.avatarscope": {
@@ -29154,8 +29179,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "0265e577e0025622435da2f85f0431eb539b1502141a574962fc95258148e476",
-    "last_updated": "2026-08-23T16:05:54.000Z",
+    "hash": "ca9c6bcb4edcafe4560b7d5ba4b4710569e40f6f98875c45fd444a797d6d105d",
+    "last_updated": "2026-08-24T21:53:10.000Z",
     "packageCount": 12,
     "packages": {
       "com.poiyomi.pro": {
@@ -29518,8 +29543,8 @@
         "name": "com.ygdr.mdv",
         "displayName": "YGDR Markdown Viewer",
         "description": "Unity in Editor markdown renderer and editor",
-        "latestVersion": "1.2.0",
-        "versionCount": 3,
+        "latestVersion": "1.2.1",
+        "versionCount": 4,
         "keywords": [],
         "unity": null,
         "author": {
@@ -29527,6 +29552,15 @@
           "name": "YerGodDamnRight"
         },
         "versions": {
+          "1.2.1": {
+            "version": "1.2.1",
+            "name": "com.ygdr.mdv",
+            "displayName": "YGDR Markdown Viewer",
+            "description": "Unity in Editor markdown renderer and editor",
+            "url": "https://vpmm.dev/files/com.ygdr.mdv/1.2.1/5347456b1a02e4c26232b072b0c8adb517e6efe113709783c115897e641fc97c",
+            "zipSha256": null,
+            "vpmDependencies": {}
+          },
           "1.2.0": {
             "version": "1.2.0",
             "name": "com.ygdr.mdv",
@@ -37862,6 +37896,53 @@
     }
   },
   {
+    "url": "https://hinzka.github.io/NK-Installer/index.json",
+    "name": "hinzka's VPM Repository",
+    "id": "com.hinzka.vpm",
+    "author": "hinzka",
+    "hash": "6594046ac7c4e4264dab2248512f93f571c5008dacfc0dfad751b3b874840a03",
+    "last_updated": "2026-08-15T11:16:24.000Z",
+    "packageCount": 1,
+    "packages": {
+      "com.hinzka.nkinstaller": {
+        "id": "com.hinzka.nkinstaller",
+        "name": "com.hinzka.nkinstaller",
+        "displayName": "NK Installer - Native Key FaceTracking Installer",
+        "description": "アバター作者がつくった表情で、そのままフェイストラッキング。ARKit標準シェイプキーを非破壊で活用するVRCFaceTracking導入ツールです。",
+        "latestVersion": "1.0.8",
+        "versionCount": 1,
+        "keywords": [
+          "vrchat",
+          "facetracking",
+          "vrcft",
+          "arkit",
+          "modular-avatar"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "hinzka",
+          "url": "https://twitter.com/hinzka"
+        },
+        "versions": {
+          "1.0.8": {
+            "version": "1.0.8",
+            "name": "com.hinzka.nkinstaller",
+            "displayName": "NK Installer - Native Key FaceTracking Installer",
+            "description": "アバター作者がつくった表情で、そのままフェイストラッキング。ARKit標準シェイプキーを非破壊で活用するVRCFaceTracking導入ツールです。",
+            "url": "https://github.com/hinzka/NK-Installer/releases/download/v1.0.8/com.hinzka.nkinstaller-1.0.8.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "nadena.dev.modular-avatar": ">=1.10.0",
+              "nadena.dev.ndmf": ">=1.4.0"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
     "url": "https://hisacat.github.io/VCCListing/index.json",
     "name": "HisaCat’s VCC Listing",
     "id": "cat.hisa.vpm",
@@ -38599,7 +38680,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "680029c772846cb5e5b7331c6f399296d7c3d340058c68c9f48e255a6fa8e65e",
-    "last_updated": "2026-08-23T04:03:51.000Z",
+    "last_updated": "2026-08-24T04:08:28.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -40452,7 +40533,7 @@
     "id": "com.vrsive.avatar-exporter.listing",
     "author": "VRSive",
     "hash": "6e4fddf38f8f4986ffa38df8646ea79db089e58aa357f4991002a8cab32a4717",
-    "last_updated": "2026-06-12T12:24:23.000Z",
+    "last_updated": "2026-06-12T12:24:24.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrsive.avatar-exporter": {
@@ -40657,7 +40738,7 @@
     "id": "dev.kaefibot.listing",
     "author": "WoweePaw",
     "hash": "0f954512e7a69a442d27394f918fc68614873d3db3706347e1e36e0acde01244",
-    "last_updated": "2026-07-05T15:03:28.000Z",
+    "last_updated": "2026-07-05T15:03:29.000Z",
     "packageCount": 1,
     "packages": {
       "dev.kaefibot.kaefibot-controller": {
@@ -43387,7 +43468,7 @@
     "id": "com.kie.vpm",
     "author": "Kie",
     "hash": "9c720b21a0d472446cbcefecd3ffddfe48df0b160a1cc2d716f8020dfadddb34",
-    "last_updated": "2026-08-23T15:24:01.000Z",
+    "last_updated": "2026-08-24T15:41:54.000Z",
     "packageCount": 3,
     "packages": {
       "com.kie.kie-mergeable-toggle": {
@@ -44240,8 +44321,8 @@
     "name": "KOZ39",
     "id": "io.github.koz39.vpm-listing",
     "author": "KOZ39",
-    "hash": "35cf3e82d8f7c78cb80a58ec3c268b95b91effd2e30f136db9bad525ed63c001",
-    "last_updated": "2026-08-21T15:53:58.000Z",
+    "hash": "7622bef32501b39b48d5ebf510f63d683e4a9f98081198370a89f1f23003225d",
+    "last_updated": "2026-08-24T15:57:40.000Z",
     "packageCount": 1,
     "packages": {
       "dev.koz39.knee-fixer": {
@@ -44249,8 +44330,8 @@
         "name": "dev.koz39.knee-fixer",
         "displayName": "Knee Fixer",
         "description": null,
-        "latestVersion": "2.1.0",
-        "versionCount": 1,
+        "latestVersion": "2.1.1",
+        "versionCount": 2,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -44259,6 +44340,18 @@
           "url": "https://github.com/KOZ39"
         },
         "versions": {
+          "2.1.1": {
+            "version": "2.1.1",
+            "name": "dev.koz39.knee-fixer",
+            "displayName": "Knee Fixer",
+            "url": "https://github.com/KOZ39/Knee-Fixer/releases/download/2.1.1/dev.koz39.knee-fixer-2.1.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.3 <4.0.0",
+              "nadena.dev.ndmf": ">=1.5.0 <2.0.0"
+            }
+          },
           "2.1.0": {
             "version": "2.1.0",
             "name": "dev.koz39.knee-fixer",
@@ -47270,7 +47363,7 @@
     "id": "lereldarion",
     "author": "Lereldarion",
     "hash": "fa9cc79e70fb00eb2aa70863c05e008271c255affd1e14192f26540239c3a213",
-    "last_updated": "2026-06-25T19:36:14.000Z",
+    "last_updated": "2026-06-25T19:36:15.000Z",
     "packageCount": 2,
     "packages": {
       "lereldarion.unity-shaders": {
@@ -51718,7 +51811,7 @@
     "id": "com.mattshark.openflight.repo",
     "author": "Mattshark89, Happyrobot33",
     "hash": "2659e37b23cc128e891c29a39e5bccda5a60665b585cf2406941eca4e5123520",
-    "last_updated": "2026-08-10T04:25:29.000Z",
+    "last_updated": "2026-08-10T04:25:27.000Z",
     "packageCount": 1,
     "packages": {
       "com.mattshark.openflight": {
@@ -55569,8 +55662,8 @@
     "name": "Nekoare VPM Packages（同梱版）",
     "id": "com.nekoare.vpm.bundled",
     "author": "nekoare",
-    "hash": "aede3ee987eb78c609580e74c101c77515e8ecbcb757185f13f58f8d8724f3bf",
-    "last_updated": "2026-08-14T00:27:20.000Z",
+    "hash": "f5e5998818bba164063a43c11533dbc8f42419a800d48a7bbdfb952c0c2ede6b",
+    "last_updated": "2026-08-24T03:24:37.000Z",
     "packageCount": 2,
     "packages": {
       "com.nekoare.chimera-hair-master": {
@@ -55578,8 +55671,8 @@
         "name": "com.nekoare.chimera-hair-master",
         "displayName": "キメラヘアマスター",
         "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-        "latestVersion": "1.5.11",
-        "versionCount": 40,
+        "latestVersion": "1.5.12",
+        "versionCount": 41,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -55587,6 +55680,18 @@
           "url": "https://neko-to-same.booth.pm/"
         },
         "versions": {
+          "1.5.12": {
+            "version": "1.5.12",
+            "name": "com.nekoare.chimera-hair-master",
+            "displayName": "キメラヘアマスター",
+            "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
+            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.5.12/com.nekoare.chimera-hair-master-1.5.12.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.7.0"
+            }
+          },
           "1.5.11": {
             "version": "1.5.11",
             "name": "com.nekoare.chimera-hair-master",
@@ -56218,8 +56323,8 @@
     "name": "Avatar Recovery Unity",
     "id": "com.nickel-jp.repos.avatar-recovery",
     "author": "Nickel-JP",
-    "hash": "152cb05aaf9bbcdef1cad8fc0eb2e85a8db39fafa5344ae47b32be57d881b0d6",
-    "last_updated": "2026-08-23T15:34:23.000Z",
+    "hash": "9caa4f6b8a61381e5da946ee3b2e56bfdc1c274695c5c3f1fb62e24ccd270666",
+    "last_updated": "2026-08-24T10:18:17.000Z",
     "packageCount": 1,
     "packages": {
       "com.nickel-jp.avatar-recovery": {
@@ -56227,7 +56332,7 @@
         "name": "com.nickel-jp.avatar-recovery",
         "displayName": "Avatar Recovery",
         "description": "Unity Editor tools for recovering VRChat avatar, world, and prop assets from VRCA/VRCW/VRCP files.",
-        "latestVersion": "1.3.6",
+        "latestVersion": "1.2.12",
         "versionCount": 3,
         "keywords": [
           "vrchat",
@@ -56246,36 +56351,38 @@
           "url": "https://github.com/Nickel-JP"
         },
         "versions": {
-          "1.3.6": {
-            "version": "1.3.6",
+          "1.2.12": {
+            "version": "1.2.12",
             "name": "com.nickel-jp.avatar-recovery",
             "displayName": "Avatar Recovery",
             "description": "Unity Editor tools for recovering VRChat avatar, world, and prop assets from VRCA/VRCW/VRCP files.",
-            "url": "https://nickel-jp.github.io/avatar-recovery-unity/packages/com.nickel-jp.avatar-recovery-1.3.6.zip",
+            "url": "https://nickel-jp.github.io/avatar-recovery-unity/packages/com.nickel-jp.avatar-recovery-1.2.12.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "com.vrchat.base": ">=3.10.4 <3.11.0"
+              "com.vrchat.base": ">=3.7.0 <3.11.0",
+              "com.vrchat.avatars": ">=3.10.2 <3.11.0"
             }
           },
-          "1.3.5": {
-            "version": "1.3.5",
+          "1.2.11": {
+            "version": "1.2.11",
             "name": "com.nickel-jp.avatar-recovery",
             "displayName": "Avatar Recovery",
             "description": "Unity Editor tools for recovering VRChat avatar, world, and prop assets from VRCA/VRCW/VRCP files.",
-            "url": "https://nickel-jp.github.io/avatar-recovery-unity/packages/com.nickel-jp.avatar-recovery-1.3.5.zip",
+            "url": "https://nickel-jp.github.io/avatar-recovery-unity/packages/com.nickel-jp.avatar-recovery-1.2.11.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "com.vrchat.base": ">=3.10.4 <3.11.0"
+              "com.vrchat.base": ">=3.7.0 <3.11.0",
+              "com.vrchat.avatars": ">=3.10.2 <3.11.0"
             }
           },
-          "1.3.4": {
-            "version": "1.3.4",
+          "1.2.10": {
+            "version": "1.2.10",
             "name": "com.nickel-jp.avatar-recovery",
             "displayName": "Avatar Recovery",
             "description": "Unity Editor tools for recovering VRChat avatar, world, and prop assets from VRCA/VRCW/VRCP files.",
-            "url": "https://nickel-jp.github.io/avatar-recovery-unity/packages/com.nickel-jp.avatar-recovery-1.3.4.zip",
+            "url": "https://nickel-jp.github.io/avatar-recovery-unity/packages/com.nickel-jp.avatar-recovery-1.2.10.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -56650,7 +56757,7 @@
     "id": "com.puddingkc.vpm-listing",
     "author": "PuddingKC",
     "hash": "f240f36289d0cc5747481bc9b789e2732c1ec1f494a82fe81e90c798c0fde67c",
-    "last_updated": "2026-07-04T04:18:32.000Z",
+    "last_updated": "2026-07-04T04:18:33.000Z",
     "packageCount": 3,
     "packages": {
       "com.puddingkc.ma-radial-control": {
@@ -72915,7 +73022,7 @@
     "id": "dev.kokoa.vpmPackageRepository",
     "author": "kokoa",
     "hash": "c23d8dc23386252afb97257909c6c654bd76a10f7ed52535906733f1dbc9f41f",
-    "last_updated": "2026-08-23T23:20:27.000Z",
+    "last_updated": "2026-08-24T23:21:38.000Z",
     "packageCount": 7,
     "packages": {
       "dev.kokoa.upload-notification": {
@@ -74043,7 +74150,7 @@
     "id": "chirp.reava.listings",
     "author": "Reava_",
     "hash": "741ef16424995b0c841b5b1ea6be385df118c35462b94b7bc8782c0634ab8585",
-    "last_updated": "2026-05-15T12:22:07.000Z",
+    "last_updated": "2026-05-15T12:22:06.000Z",
     "packageCount": 4,
     "packages": {
       "chirp.reava.uwutils": {
@@ -77746,9 +77853,9 @@
     "url": "https://rlist.arch-linux.pro/index.json",
     "name": "Redline List",
     "id": "dev.redline-team.redlinelist",
-    "author": "LoonieLoonz",
-    "hash": "a8cd7dcde92420b0ebf6cb6651b1355ea3e4bf3a9f884212c27d6b0298a8ab01",
-    "last_updated": "2026-03-25T01:07:43.000Z",
+    "author": "RozeThorns",
+    "hash": "7d6af532745475c63ce57af3bce07294ee3137aae1a48270ce1b75d1b0e0160d",
+    "last_updated": "2026-08-25T00:29:28.000Z",
     "packageCount": 5,
     "packages": {
       "dev.redline-team.rpm": {
@@ -78237,7 +78344,7 @@
     "id": "jp.rroki.vpm",
     "author": "rroki-0u0",
     "hash": "842c482dcb0925dc36f99ba648d5191a7246b5ee657c75c1ab8f80680027bdce",
-    "last_updated": "2026-07-16T09:06:06.000Z",
+    "last_updated": "2026-07-16T09:06:07.000Z",
     "packageCount": 5,
     "packages": {
       "jp.rroki.poiyomi-to-nontoon": {
@@ -82915,8 +83022,8 @@
     "name": "suzufactory",
     "id": "com.suzufactory.vpm",
     "author": "suzufactory",
-    "hash": "705aecc5fa76c50c12e5cac55d4812b3f9e4b6fba47394888b7edd3d47adfa30",
-    "last_updated": "2026-08-18T23:53:06.000Z",
+    "hash": "f811137c9fa8e90ca52c8ce24bbc8364fc109b80ef1e648f8c1619fdc8267749",
+    "last_updated": "2026-08-24T07:41:22.000Z",
     "packageCount": 2,
     "packages": {
       "com.suzufactory.hikari": {
@@ -82924,8 +83031,8 @@
         "name": "com.suzufactory.hikari",
         "displayName": "Hikari",
         "description": null,
-        "latestVersion": "1.9.2",
-        "versionCount": 21,
+        "latestVersion": "1.10.12",
+        "versionCount": 22,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -82933,6 +83040,15 @@
           "url": "https://suzufactory.com"
         },
         "versions": {
+          "1.10.12": {
+            "version": "1.10.12",
+            "name": "com.suzufactory.hikari",
+            "displayName": "Hikari",
+            "url": "https://github.com/suzufactory/vpm-repos/releases/download/hikari-1.10.12/com.suzufactory.hikari.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.9.2": {
             "version": "1.9.2",
             "name": "com.suzufactory.hikari",
@@ -89722,7 +89838,7 @@
     "id": "com.aoyon.vpm",
     "author": "Ao_425",
     "hash": "58296e8554ee93c5b94112b2cd5c2c3a134fc09f857332b407825ce44eb29801",
-    "last_updated": "2026-05-17T15:19:52.000Z",
+    "last_updated": "2026-08-24T13:50:53.000Z",
     "packageCount": 8,
     "packages": {
       "com.aoyon.module-creator": {
@@ -90694,8 +90810,8 @@
     "name": "Fur Grooming Tool Listing",
     "id": "com.furgrooming.tool.listing",
     "author": "ToffelsKater",
-    "hash": "7a408c8c626abe1ba7c3309748b1d497b7557040a77798ad75fffad305c4fbba",
-    "last_updated": "2026-07-09T19:07:50.000Z",
+    "hash": "90e0036c84943edcb8b448975e302aa067d1fb0dc57d5dbfbd51d976fa9ca003",
+    "last_updated": "2026-08-24T21:29:29.000Z",
     "packageCount": 1,
     "packages": {
       "com.furgrooming.tool": {
@@ -90703,8 +90819,8 @@
         "name": "com.furgrooming.tool",
         "displayName": "Fur Grooming Tool",
         "description": "Paint fur direction, length, and presence over a UV layout and export liltoon-ready normal/length/alpha textures. Editor-only.",
-        "latestVersion": "1.0.3",
-        "versionCount": 4,
+        "latestVersion": "1.1.0-beta.2",
+        "versionCount": 5,
         "keywords": [
           "liltoon",
           "fur",
@@ -90718,6 +90834,16 @@
           "name": "ToffelsKater"
         },
         "versions": {
+          "1.1.0-beta.2": {
+            "version": "1.1.0-beta.2",
+            "name": "com.furgrooming.tool",
+            "displayName": "Fur Grooming Tool",
+            "description": "Paint fur direction, length, and presence over a UV layout and export liltoon-ready normal/length/alpha textures. Editor-only.",
+            "url": "https://github.com/ToffelsKater/fur-grooming-tool/releases/download/1.1.0-beta.2/com.furgrooming.tool-1.1.0-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
+          },
           "1.0.3": {
             "version": "1.0.3",
             "name": "com.furgrooming.tool",
@@ -90832,7 +90958,7 @@
     "id": "io.github.tp-jp.vpm",
     "author": "tp.jp",
     "hash": "da473ccdc75356cd14e6c77e54e8be663bb1621108df5f980248e75789e4c3aa",
-    "last_updated": "2026-07-13T13:46:47.000Z",
+    "last_updated": "2026-07-13T13:46:48.000Z",
     "packageCount": 9,
     "packages": {
       "com.tp.jp.iwa-sync3-color-changer": {
@@ -91403,7 +91529,7 @@
     "id": "com.triturbo.blendshare.listing",
     "author": "Triturbo",
     "hash": "8d43fe402736de6cd2621406d3b850107d5fa9a6bc801a1a5857547ed262526d",
-    "last_updated": "2026-07-05T12:32:45.000Z",
+    "last_updated": "2026-07-05T12:32:46.000Z",
     "packageCount": 1,
     "packages": {
       "com.triturbo.blendshare": {
@@ -93313,8 +93439,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "849c079f7cc76effa4f682ddadcec729070bef8a03e5082d16601881cfe70170",
-    "last_updated": "2026-08-24T01:04:12.000Z",
+    "hash": "a30884154a04eb9faaee4be8c42dce90db22718b46fc3a3c9d6ea7118dc1ed64",
+    "last_updated": "2026-08-25T01:02:10.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -93322,14 +93448,24 @@
         "name": "com.vrcfury.vrcfury",
         "displayName": "VRCFury",
         "description": "Non-Destructive Tools for VRChat Avatars",
-        "latestVersion": "1.1425.0",
-        "versionCount": 1407,
+        "latestVersion": "1.1426.0",
+        "versionCount": 1408,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "VRCFury"
         },
         "versions": {
+          "1.1426.0": {
+            "version": "1.1426.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1426.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.1425.0": {
             "version": "1.1425.0",
             "name": "com.vrcfury.vrcfury",
@@ -106742,7 +106878,7 @@
     "id": "com.vixencreations.vixens-toolbox.listing",
     "author": "Vixenlicous",
     "hash": "5b9a1940f00ef1d07d3cbdfed9a66a7f251dae66b1c383a27791ccd8e4c85689",
-    "last_updated": "2026-08-23T09:13:43.000Z",
+    "last_updated": "2026-08-24T14:37:16.000Z",
     "packageCount": 1,
     "packages": {
       "com.vixencreations.vixens-toolbox": {
@@ -108607,7 +108743,7 @@
     "name": "anatawa12",
     "id": "com.anatawa12.main",
     "author": "anatawa12",
-    "hash": "5ed2bded220ee8492e38f64755c9f0cd2269836a9829ea8309952812c0690996",
+    "hash": "52389723ac8e799ada013a79249266fe6c17ec258131fd5c22b270dcaba9d9ce",
     "last_updated": "2026-08-01T16:09:51.342Z",
     "packageCount": 14,
     "packages": {
@@ -108617,7 +108753,7 @@
         "displayName": "Anatawa12's AvatarOpitmizer",
         "description": "Set of Anatawa12's Small Avatar Optimization Utilities",
         "latestVersion": "0.0.1",
-        "versionCount": 345,
+        "versionCount": 347,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -113158,6 +113294,32 @@
             "displayName": "AAO: Avatar Optimizer",
             "description": "Set of Anatawa12's Small Avatar Optimization Utilities",
             "url": "https://vpm.anatawa12.com/avatar-optimizer/package-1.9.18-beta.1.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.8.0 <2.0.0",
+              "com.vrchat.avatars": ">=3.7.0 <3.11.0"
+            }
+          },
+          "1.9.18-beta.2": {
+            "version": "1.9.18-beta.2",
+            "name": "com.anatawa12.avatar-optimizer",
+            "displayName": "AAO: Avatar Optimizer",
+            "description": "Set of Anatawa12's Small Avatar Optimization Utilities",
+            "url": "https://vpm.anatawa12.com/avatar-optimizer/package-1.9.18-beta.2.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.8.0 <2.0.0",
+              "com.vrchat.avatars": ">=3.7.0 <3.11.0"
+            }
+          },
+          "1.9.18-beta.3": {
+            "version": "1.9.18-beta.3",
+            "name": "com.anatawa12.avatar-optimizer",
+            "displayName": "AAO: Avatar Optimizer",
+            "description": "Set of Anatawa12's Small Avatar Optimization Utilities",
+            "url": "https://vpm.anatawa12.com/avatar-optimizer/package-1.9.18-beta.3.zip?",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -118948,6 +119110,390 @@
     }
   },
   {
+    "url": "https://vpm.gokoukotori.com/index.json",
+    "name": "GokouKotori's VRChat Package Listing",
+    "id": "com.gokoukotori.vpm",
+    "author": "GokouKotori",
+    "hash": "8cc3f3aae03e5c7c7483a010fca55d17ebdd453607e542c53b692b271ea70a05",
+    "last_updated": "2026-08-24T21:54:31.000Z",
+    "packageCount": 5,
+    "packages": {
+      "com.gokoukotori.posetune": {
+        "id": "com.gokoukotori.posetune",
+        "name": "com.gokoukotori.posetune",
+        "displayName": "PoseTune",
+        "description": "Non-destructive VRChat avatar body pose authoring and compiler tool.",
+        "latestVersion": "0.2.0",
+        "versionCount": 5,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "gokoukotori"
+        },
+        "versions": {
+          "0.2.0": {
+            "version": "0.2.0",
+            "name": "com.gokoukotori.posetune",
+            "displayName": "PoseTune",
+            "description": "Non-destructive VRChat avatar body pose authoring and compiler tool.",
+            "url": "https://github.com/gokoukotori/PoseTune/releases/download/0.2.0/com.gokoukotori.posetune-0.2.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.3",
+              "nadena.dev.ndmf": ">=1.13.1",
+              "nadena.dev.modular-avatar": ">=1.17.1"
+            }
+          },
+          "0.1.3": {
+            "version": "0.1.3",
+            "name": "com.gokoukotori.posetune",
+            "displayName": "PoseTune",
+            "description": "Non-destructive VRChat avatar body pose authoring and compiler tool.",
+            "url": "https://github.com/gokoukotori/PoseTune/releases/download/0.1.3/com.gokoukotori.posetune-0.1.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.3",
+              "nadena.dev.ndmf": ">=1.13.1",
+              "nadena.dev.modular-avatar": ">=1.17.1"
+            }
+          },
+          "0.1.2": {
+            "version": "0.1.2",
+            "name": "com.gokoukotori.posetune",
+            "displayName": "PoseTune",
+            "description": "Non-destructive VRChat avatar body pose authoring and compiler tool.",
+            "url": "https://github.com/gokoukotori/PoseTune/releases/download/0.1.2/com.gokoukotori.posetune-0.1.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.3",
+              "nadena.dev.ndmf": ">=1.13.1",
+              "nadena.dev.modular-avatar": ">=1.17.1"
+            }
+          },
+          "0.1.1": {
+            "version": "0.1.1",
+            "name": "com.gokoukotori.posetune",
+            "displayName": "PoseTune",
+            "description": "Non-destructive VRChat avatar body pose authoring and compiler tool.",
+            "url": "https://github.com/gokoukotori/PoseTune/releases/download/0.1.1/com.gokoukotori.posetune-0.1.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.3",
+              "nadena.dev.ndmf": ">=1.13.1",
+              "nadena.dev.modular-avatar": ">=1.17.1"
+            }
+          },
+          "0.1.0": {
+            "version": "0.1.0",
+            "name": "com.gokoukotori.posetune",
+            "displayName": "PoseTune",
+            "description": "Non-destructive VRChat avatar body pose authoring and compiler tool.",
+            "url": "https://github.com/gokoukotori/PoseTune/releases/download/0.1.0/com.gokoukotori.posetune-0.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.3",
+              "nadena.dev.ndmf": ">=1.13.1",
+              "nadena.dev.modular-avatar": ">=1.17.1"
+            }
+          }
+        }
+      },
+      "com.gokoukotori.setup-outfit-component": {
+        "id": "com.gokoukotori.setup-outfit-component",
+        "name": "com.gokoukotori.setup-outfit-component",
+        "displayName": "Setup Outfit Component",
+        "description": "Editor tools for setting up avatar outfit components.",
+        "latestVersion": "0.2.8",
+        "versionCount": 8,
+        "keywords": [
+          "vrchat",
+          "modular-avatar",
+          "avatar",
+          "outfit",
+          "editor"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "Gokoukotori"
+        },
+        "versions": {
+          "0.2.8": {
+            "version": "0.2.8",
+            "name": "com.gokoukotori.setup-outfit-component",
+            "displayName": "Setup Outfit Component",
+            "description": "Editor tools for setting up avatar outfit components.",
+            "url": "https://github.com/gokoukotori/SetupOutfitComponent/releases/download/0.2.8/com.gokoukotori.setup-outfit-component-0.2.8.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.4",
+              "nadena.dev.modular-avatar": ">=1.18.0-beta.1",
+              "nadena.dev.ndmf": ">=1.14.1"
+            }
+          },
+          "0.2.7": {
+            "version": "0.2.7",
+            "name": "com.gokoukotori.setup-outfit-component",
+            "displayName": "Setup Outfit Component",
+            "description": "Editor tools for setting up avatar outfit components.",
+            "url": "https://github.com/gokoukotori/SetupOutfitComponent/releases/download/0.2.7/com.gokoukotori.setup-outfit-component-0.2.7.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.4",
+              "nadena.dev.modular-avatar": ">=1.18.0-beta.1",
+              "nadena.dev.ndmf": ">=1.14.1"
+            }
+          },
+          "0.2.6": {
+            "version": "0.2.6",
+            "name": "com.gokoukotori.setup-outfit-component",
+            "displayName": "Setup Outfit Component",
+            "description": "Editor tools for setting up avatar outfit components.",
+            "url": "https://github.com/gokoukotori/SetupOutfitComponent/releases/download/0.2.6/com.gokoukotori.setup-outfit-component-0.2.6.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.4",
+              "nadena.dev.modular-avatar": ">=1.18.0-beta.1",
+              "nadena.dev.ndmf": ">=1.14.1"
+            }
+          },
+          "0.2.5": {
+            "version": "0.2.5",
+            "name": "com.gokoukotori.setup-outfit-component",
+            "displayName": "Setup Outfit Component",
+            "description": "Editor tools for setting up avatar outfit components.",
+            "url": "https://github.com/gokoukotori/SetupOutfitComponent/releases/download/0.2.5/com.gokoukotori.setup-outfit-component-0.2.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.4",
+              "nadena.dev.modular-avatar": ">=1.18.0-beta.1",
+              "nadena.dev.ndmf": ">=1.14.1"
+            }
+          },
+          "0.2.4": {
+            "version": "0.2.4",
+            "name": "com.gokoukotori.setup-outfit-component",
+            "displayName": "Setup Outfit Component",
+            "description": "Editor tools for setting up avatar outfit components.",
+            "url": "https://github.com/gokoukotori/SetupOutfitComponent/releases/download/0.2.4/com.gokoukotori.setup-outfit-component-0.2.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.4",
+              "nadena.dev.modular-avatar": ">=1.18.0-beta.1",
+              "nadena.dev.ndmf": ">=1.14.1"
+            }
+          },
+          "0.2.1": {
+            "version": "0.2.1",
+            "name": "com.gokoukotori.setup-outfit-component",
+            "displayName": "Setup Outfit Component",
+            "description": "Editor tools for setting up avatar outfit components.",
+            "url": "https://github.com/gokoukotori/SetupOutfitComponent/releases/download/0.2.1/com.gokoukotori.setup-outfit-component-0.2.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.4",
+              "nadena.dev.modular-avatar": ">=1.18.0-beta.1",
+              "nadena.dev.ndmf": ">=1.14.1"
+            }
+          },
+          "0.1.1": {
+            "version": "0.1.1",
+            "name": "com.gokoukotori.setup-outfit-component",
+            "displayName": "Setup Outfit Component",
+            "description": "Editor tools for setting up avatar outfit components.",
+            "url": "https://github.com/gokoukotori/SetupOutfitComponent/releases/download/0.1.1/com.gokoukotori.setup-outfit-component-0.1.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.4",
+              "nadena.dev.modular-avatar": ">=1.18.0-beta.1"
+            }
+          },
+          "0.1.0": {
+            "version": "0.1.0",
+            "name": "com.gokoukotori.setup-outfit-component",
+            "displayName": "Setup Outfit Component",
+            "description": "Editor tools for setting up avatar outfit components.",
+            "url": "https://github.com/gokoukotori/SetupOutfitComponent/releases/download/0.1.0/com.gokoukotori.setup-outfit-component-0.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "3.10.4",
+              "nadena.dev.modular-avatar": "1.18.0-beta.1"
+            }
+          }
+        }
+      },
+      "com.gokoukotori.position-scale-correction": {
+        "id": "com.gokoukotori.position-scale-correction",
+        "name": "com.gokoukotori.position-scale-correction",
+        "displayName": "Position Scale Correction",
+        "description": "Editor-only X, Y, and Z position correction for GameObjects whose corresponding scale axis changes.",
+        "latestVersion": "0.1.0",
+        "versionCount": 1,
+        "keywords": [
+          "vrchat",
+          "ndmf",
+          "editor",
+          "transform",
+          "scale"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "Gokoukotori"
+        },
+        "versions": {
+          "0.1.0": {
+            "version": "0.1.0",
+            "name": "com.gokoukotori.position-scale-correction",
+            "displayName": "Position Scale Correction",
+            "description": "Editor-only X, Y, and Z position correction for GameObjects whose corresponding scale axis changes.",
+            "url": "https://github.com/gokoukotori/PositionScaleCorrection/releases/download/0.1.0/com.gokoukotori.position-scale-correction-0.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.14.3 <2.0.0-a"
+            }
+          }
+        }
+      },
+      "com.gokoukotori.fbx-uv-texture-transfer": {
+        "id": "com.gokoukotori.fbx-uv-texture-transfer",
+        "name": "com.gokoukotori.fbx-uv-texture-transfer",
+        "displayName": "FBX UV Texture Transfer",
+        "description": "A Unity Editor extension that transfers textures between FBX UV islands for VRChat avatars and applies them non-destructively as external layers in TexTransTool MultiLayerImageCanvas.",
+        "latestVersion": "0.1.3",
+        "versionCount": 3,
+        "keywords": [
+          "VRChat",
+          "TexTransTool",
+          "UV",
+          "Texture"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "gokoukotori"
+        },
+        "versions": {
+          "0.1.3": {
+            "version": "0.1.3",
+            "name": "com.gokoukotori.fbx-uv-texture-transfer",
+            "displayName": "FBX UV Texture Transfer",
+            "description": "A Unity Editor extension that transfers textures between FBX UV islands for VRChat avatars and applies them non-destructively as external layers in TexTransTool MultiLayerImageCanvas.",
+            "url": "https://github.com/gokoukotori/FbxUVTextureTransferForUnity/releases/download/0.1.3/com.gokoukotori.fbx-uv-texture-transfer-0.1.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "net.rs64.tex-trans-tool": ">=1.1.0-beta.9",
+              "nadena.dev.ndmf": ">=1.14.4",
+              "com.vrchat.avatars": ">=3.10.4"
+            }
+          },
+          "0.1.2": {
+            "version": "0.1.2",
+            "name": "com.gokoukotori.fbx-uv-texture-transfer",
+            "displayName": "FBX UV Texture Transfer",
+            "description": "A Unity Editor extension that transfers textures between FBX UV islands for VRChat avatars and applies them non-destructively as external layers in TexTransTool MultiLayerImageCanvas.",
+            "url": "https://github.com/gokoukotori/FbxUVTextureTransferForUnity/releases/download/0.1.2/com.gokoukotori.fbx-uv-texture-transfer-0.1.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "net.rs64.tex-trans-tool": ">=1.1.0-beta.9",
+              "nadena.dev.ndmf": ">=1.14.4",
+              "com.vrchat.avatars": ">=3.10.4"
+            }
+          },
+          "0.1.0": {
+            "version": "0.1.0",
+            "name": "com.gokoukotori.fbx-uv-texture-transfer",
+            "displayName": "FBX UV Texture Transfer",
+            "description": "A Unity Editor extension that transfers textures between FBX UV islands for VRChat avatars and applies them non-destructively as external layers in TexTransTool MultiLayerImageCanvas.",
+            "url": "https://github.com/gokoukotori/FbxUVTextureTransferForUnity/releases/download/0.1.0/com.gokoukotori.fbx-uv-texture-transfer-0.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "net.rs64.tex-trans-tool": ">=1.1.0-beta.9",
+              "nadena.dev.ndmf": ">=1.14.4",
+              "com.vrchat.avatars": ">=3.10.4"
+            }
+          }
+        }
+      },
+      "com.gokoukotori.ttt-material-modifier-to-aome": {
+        "id": "com.gokoukotori.ttt-material-modifier-to-aome",
+        "name": "com.gokoukotori.ttt-material-modifier-to-aome",
+        "displayName": "TTT MaterialModifier to AO Material Editor",
+        "description": "Migrates TexTransTool MaterialModifier components to AO Material Editor while preserving prefab variant overrides.",
+        "latestVersion": "0.3.0",
+        "versionCount": 3,
+        "keywords": [
+          "VRChat",
+          "TexTransTool",
+          "AO Material Editor",
+          "Migration"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "gokoukotori"
+        },
+        "versions": {
+          "0.3.0": {
+            "version": "0.3.0",
+            "name": "com.gokoukotori.ttt-material-modifier-to-aome",
+            "displayName": "TTT MaterialModifier to AO Material Editor",
+            "description": "Migrates TexTransTool MaterialModifier components to AO Material Editor while preserving prefab variant overrides.",
+            "url": "https://github.com/gokoukotori/TTTMaterialModifierToAOMaterialEditor/releases/download/0.3.0/com.gokoukotori.ttt-material-modifier-to-aome-0.3.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "net.rs64.tex-trans-tool": ">=1.1.0-beta.9",
+              "aoyon.material-editor": ">=0.1.0-beta.16",
+              "nadena.dev.ndmf": ">=1.13.0"
+            }
+          },
+          "0.2.0": {
+            "version": "0.2.0",
+            "name": "com.gokoukotori.ttt-material-modifier-to-aome",
+            "displayName": "TTT MaterialModifier to AO Material Editor",
+            "description": "Migrates TexTransTool MaterialModifier components to AO Material Editor while preserving prefab variant overrides.",
+            "url": "https://github.com/gokoukotori/TTTMaterialModifierToAOMaterialEditor/releases/download/0.2.0/com.gokoukotori.ttt-material-modifier-to-aome-0.2.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "net.rs64.tex-trans-tool": ">=1.1.0-beta.9",
+              "aoyon.material-editor": ">=0.1.0-beta.16",
+              "nadena.dev.ndmf": ">=1.13.0"
+            }
+          },
+          "0.1.0": {
+            "version": "0.1.0",
+            "name": "com.gokoukotori.ttt-material-modifier-to-aome",
+            "displayName": "TTT MaterialModifier to AO Material Editor",
+            "description": "Migrates TexTransTool MaterialModifier components to AO Material Editor while preserving prefab variant overrides.",
+            "url": "https://github.com/gokoukotori/TTTMaterialModifierToAOMaterialEditor/releases/download/0.1.0/com.gokoukotori.ttt-material-modifier-to-aome-0.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "net.rs64.tex-trans-tool": ">=1.1.0-beta.9",
+              "aoyon.material-editor": ">=0.1.0-beta.16",
+              "nadena.dev.ndmf": ">=1.13.0"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
     "url": "https://vpm.gyoku.tech/vpm.json",
     "name": "gyokute",
     "id": "tech.gyoku.main",
@@ -119497,8 +120043,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "0265e577e0025622435da2f85f0431eb539b1502141a574962fc95258148e476",
-    "last_updated": "2026-08-23T16:05:54.000Z",
+    "hash": "ca9c6bcb4edcafe4560b7d5ba4b4710569e40f6f98875c45fd444a797d6d105d",
+    "last_updated": "2026-08-24T21:53:10.000Z",
     "packageCount": 12,
     "packages": {
       "com.poiyomi.pro": {
@@ -119861,8 +120407,8 @@
         "name": "com.ygdr.mdv",
         "displayName": "YGDR Markdown Viewer",
         "description": "Unity in Editor markdown renderer and editor",
-        "latestVersion": "1.2.0",
-        "versionCount": 3,
+        "latestVersion": "1.2.1",
+        "versionCount": 4,
         "keywords": [],
         "unity": null,
         "author": {
@@ -119870,6 +120416,15 @@
           "name": "YerGodDamnRight"
         },
         "versions": {
+          "1.2.1": {
+            "version": "1.2.1",
+            "name": "com.ygdr.mdv",
+            "displayName": "YGDR Markdown Viewer",
+            "description": "Unity in Editor markdown renderer and editor",
+            "url": "https://vpmm.dev/files/com.ygdr.mdv/1.2.1/5347456b1a02e4c26232b072b0c8adb517e6efe113709783c115897e641fc97c",
+            "zipSha256": null,
+            "vpmDependencies": {}
+          },
           "1.2.0": {
             "version": "1.2.0",
             "name": "com.ygdr.mdv",
@@ -122173,7 +122728,7 @@
     "id": "com.hoshinolabs.vpm",
     "author": "ikuko",
     "hash": "82ab28127d5aa83add258cc0e9b7b73e9c595cf8a4111d54c20e08e7e905f4af",
-    "last_updated": "2026-07-14T06:51:58.000Z",
+    "last_updated": "2026-07-14T06:51:59.000Z",
     "packageCount": 8,
     "packages": {
       "com.unity.scriptablebuildpipeline": {
@@ -123733,8 +124288,8 @@
     "name": "THE_cattail",
     "id": "com.the-cattail.vpm",
     "author": "THE_cattail",
-    "hash": "d5be95dd9358938a0d49844b12734e340c9ff70a34d0d479c6a08e56cacfa931",
-    "last_updated": "2026-08-13T03:39:43.000Z",
+    "hash": "a7454c66e8b68210c056167a8e61228ffae72bcbc63d86880f949b57daf56a94",
+    "last_updated": "2026-08-24T04:16:48.000Z",
     "packageCount": 1,
     "packages": {
       "com.the-cattail.afk-motion-patcher": {
@@ -129020,8 +129575,8 @@
     "name": "Poyo's VPM Repo",
     "id": "net.maaaaa.vpm",
     "author": "Poyotoron",
-    "hash": "b859ab73b917d8c369c48d2f549670e572401af877d69ec9fae9372f73cd112a",
-    "last_updated": "2026-08-18T14:12:18.000Z",
+    "hash": "89f81fa888c3fb7ef776220b1b4c2cda65a9a5ab0326ec1bb59cadc699f0cd70",
+    "last_updated": "2026-08-24T15:24:14.000Z",
     "packageCount": 4,
     "packages": {
       "net.maaaaa.asset-keshichaumon-nator": {
@@ -129209,8 +129764,8 @@
         "name": "net.maaaaa.candy-box",
         "displayName": "Candy Box",
         "description": "アバター改変向けの小さなエディタ拡張をまとめたパッケージです。使うツールだけを有効にできます。",
-        "latestVersion": "0.6.1",
-        "versionCount": 7,
+        "latestVersion": "0.7.0",
+        "versionCount": 8,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -129218,6 +129773,16 @@
           "url": "https://github.com/Poyotoron"
         },
         "versions": {
+          "0.7.0": {
+            "version": "0.7.0",
+            "name": "net.maaaaa.candy-box",
+            "displayName": "Candy Box",
+            "description": "アバター改変向けの小さなエディタ拡張をまとめたパッケージです。使うツールだけを有効にできます。",
+            "url": "https://github.com/Poyotoron/Candy-Box/releases/download/0.7.0/net.maaaaa.candy-box-0.7.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "0.6.1": {
             "version": "0.6.1",
             "name": "net.maaaaa.candy-box",
@@ -130332,7 +130897,7 @@
     "id": "com.micksam7.vpm",
     "author": "Micca",
     "hash": "28148f3419e38143920ae19b3a3dd4a57a632a36728aa26382a61c71e69f2550",
-    "last_updated": "2026-07-03T02:20:28.000Z",
+    "last_updated": "2026-07-03T02:20:29.000Z",
     "packageCount": 1,
     "packages": {
       "com.micksam7.mididmx": {
@@ -145988,7 +146553,7 @@
     "id": "net.nekobako.vpm-listing",
     "author": "nekobako",
     "hash": "7812d30ef6ad60f49dca232138ea8a7f4878b3a3c612180b6cab7ff45c8da43a",
-    "last_updated": "2026-07-03T05:49:49.000Z",
+    "last_updated": "2026-07-03T05:49:50.000Z",
     "packageCount": 6,
     "packages": {
       "net.nekobako.gesture-weight-smoothing": {
@@ -154166,8 +154731,8 @@
     "name": "WhyKnot Tools",
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
-    "hash": "35bcd5e58e445d86ead416f436fce5265bd5d2e4cb866379d9584fe54c72f931",
-    "last_updated": "2026-08-23T06:23:14.000Z",
+    "hash": "9138b2adb0d893664bcde4851fc121e9e2e1c286ec266e833439ceec4b2969a4",
+    "last_updated": "2026-08-24T06:36:01.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -154282,8 +154847,8 @@
     "name": "YozoLab-VPMRepository listing",
     "id": "net.yozolab.vpmrepository-listing",
     "author": "YozoraKurage",
-    "hash": "1f74b29710fce79b71b64d4b5ba4413aa49fbbd5bdfdef232e1fc80a2b821213",
-    "last_updated": "2026-08-19T04:49:19.000Z",
+    "hash": "6bdcaae2a79141128254577da1f861220a710a97c0f99b0f4be168d50042b118",
+    "last_updated": "2026-08-24T03:40:12.000Z",
     "packageCount": 4,
     "packages": {
       "net.yozolab.daerd": {
@@ -154521,14 +155086,24 @@
         "name": "net.yozolab.yozolab-utils",
         "displayName": "yozolab-utils",
         "description": "YozoLab's utility package for Unity",
-        "latestVersion": "0.4.1",
-        "versionCount": 13,
+        "latestVersion": "0.4.2",
+        "versionCount": 14,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "Yozolab"
         },
         "versions": {
+          "0.4.2": {
+            "version": "0.4.2",
+            "name": "net.yozolab.yozolab-utils",
+            "displayName": "yozolab-utils",
+            "description": "YozoLab's utility package for Unity",
+            "url": "https://github.com/YozoraKurage/YozoLab-Utils/releases/download/0.4.2/net.yozolab.yozolab-utils.0.4.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "0.4.1": {
             "version": "0.4.1",
             "name": "net.yozolab.yozolab-utils",
@@ -169517,8 +170092,8 @@
     "name": "YGDR VPM Repo",
     "id": "com.ygdr.vpm-listing",
     "author": "YerGodDamnRight",
-    "hash": "490473b4904c11fc2087b86d939b968298ae36480a27f3586317300c5ffcd19d",
-    "last_updated": "2026-08-09T21:18:24.000Z",
+    "hash": "c3caa22ec133814ded64e9540f873534380c69058dd94086eb463357a95f70de",
+    "last_updated": "2026-08-24T20:23:04.000Z",
     "packageCount": 2,
     "packages": {
       "com.ygdr.animator": {
@@ -169526,8 +170101,8 @@
         "name": "com.ygdr.animator",
         "displayName": "YGDR Animator Editor",
         "description": "Powerful Unity Editor tool for advanced animator controller editing. Extends Animator window with multi-transition editing, state property management, VRC-specific features, and graph enhancements.",
-        "latestVersion": "1.2.0",
-        "versionCount": 18,
+        "latestVersion": "1.2.1",
+        "versionCount": 19,
         "keywords": [],
         "unity": null,
         "author": {
@@ -169536,6 +170111,17 @@
           "url": ""
         },
         "versions": {
+          "1.2.1": {
+            "version": "1.2.1",
+            "name": "com.ygdr.animator",
+            "displayName": "YGDR Animator Editor",
+            "description": "Powerful Unity Editor tool for advanced animator controller editing. Extends Animator window with multi-transition editing, state property management, VRC-specific features, and graph enhancements.",
+            "url": "https://github.com/YerGodDamnRight/YGDR-Animator-Editor/releases/download/1.2.1/com.ygdr.animator-1.2.1.zip",
+            "zipSha256": null,
+            "vpmDependencies": {
+              "com.ygdr.mdv": "^1.2.1"
+            }
+          },
           "1.2.0": {
             "version": "1.2.0",
             "name": "com.ygdr.animator",
@@ -169749,8 +170335,8 @@
         "name": "com.ygdr.mdv",
         "displayName": "YGDR Markdown Viewer",
         "description": "Unity in Editor markdown renderer and editor",
-        "latestVersion": "1.2.0",
-        "versionCount": 3,
+        "latestVersion": "1.2.1",
+        "versionCount": 4,
         "keywords": [],
         "unity": null,
         "author": {
@@ -169759,6 +170345,15 @@
           "url": ""
         },
         "versions": {
+          "1.2.1": {
+            "version": "1.2.1",
+            "name": "com.ygdr.mdv",
+            "displayName": "YGDR Markdown Viewer",
+            "description": "Unity in Editor markdown renderer and editor",
+            "url": "https://github.com/YerGodDamnRight/YGDR-MDViewer/releases/download/1.2.1/com.ygdr.mdv-1.2.1.zip",
+            "zipSha256": null,
+            "vpmDependencies": {}
+          },
           "1.2.0": {
             "version": "1.2.0",
             "name": "com.ygdr.mdv",
@@ -170730,8 +171325,8 @@
     "name": "z3y's packages",
     "id": "io.github.z3y.vpm-package-listing",
     "author": "z3y",
-    "hash": "83546c2594481c417ebacf2d4f8c14361bf94b42217d407ccb6709980f2fa2e3",
-    "last_updated": "2026-08-21T17:50:48.000Z",
+    "hash": "b5bc9e290ceaf390410a2977ee74e9498e291bb1bb4d08530ce9c415d9595560",
+    "last_updated": "2026-08-24T10:03:27.000Z",
     "packageCount": 8,
     "packages": {
       "com.z3y.graphlit": {
@@ -172432,8 +173027,8 @@
         "name": "io.github.z3y.glim",
         "displayName": "Glim Lightmapper",
         "description": "Lightmap Baker",
-        "latestVersion": "0.6.0",
-        "versionCount": 8,
+        "latestVersion": "0.6.1",
+        "versionCount": 9,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -172441,6 +173036,16 @@
           "url": "https://github.com/z3y"
         },
         "versions": {
+          "0.6.1": {
+            "version": "0.6.1",
+            "name": "io.github.z3y.glim",
+            "displayName": "Glim Lightmapper",
+            "description": "Lightmap Baker",
+            "url": "https://github.com/z3y/glim/releases/download/v0.6.1/io.github.z3y.glim-0.6.1.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "0.6.0": {
             "version": "0.6.0",
             "name": "io.github.z3y.glim",
