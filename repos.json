@@ -1024,8 +1024,8 @@
     "name": "AmariNoa's vpm repo",
     "id": "com.amari-noa.vpm",
     "author": "Amari Noa",
-    "hash": "963ccad95d5e19dba69fe0e4804d593a2074c30f95e89541a2a4573134fbb34f",
-    "last_updated": "2026-08-19T02:02:07.000Z",
+    "hash": "7d8f0fc22b351a8eed7dd1c62335df97b914dd94e240c821fd1281d4acdf7d65",
+    "last_updated": "2026-08-31T11:27:45.000Z",
     "packageCount": 6,
     "packages": {
       "com.amari-noa.avatar-modular-assistant": {
@@ -1241,8 +1241,8 @@
         "name": "com.amari-noa.blm-integration-core",
         "displayName": "BLM Integration Core",
         "description": "Unofficial Unity package for reading and integrating local data used by BOOTH Library Manager.",
-        "latestVersion": "1.3.0-beta.1",
-        "versionCount": 13,
+        "latestVersion": "1.3.0",
+        "versionCount": 14,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -1250,6 +1250,20 @@
           "url": "https://amari-noa.com/"
         },
         "versions": {
+          "1.3.0": {
+            "version": "1.3.0",
+            "name": "com.amari-noa.blm-integration-core",
+            "displayName": "BLM Integration Core",
+            "description": "Unofficial Unity package for reading and integrating local data used by BOOTH Library Manager.",
+            "url": "https://github.com/AmariNoa/BLM-Integration-Core/releases/download/1.3.0/com.amari-noa.blm-integration-core-1.3.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.amari-noa.sqlite-net-vpm": "^1.0.0",
+              "com.amari-noa.unitypackage-pipeline-core": "^1.3.0",
+              "com.amari-noa.unity-editor-localization-core": "^1.0.0"
+            }
+          },
           "1.3.0-beta.1": {
             "version": "1.3.0-beta.1",
             "name": "com.amari-noa.blm-integration-core",
@@ -1721,8 +1735,8 @@
     "name": "An-Labo NailTool",
     "id": "world.anlabo.mdnailtool.vpm",
     "author": "An-Labo",
-    "hash": "edb14d0917ced611f08b89599bc03fdb5527f290cdc36eba6d106a5bc37ea0cc",
-    "last_updated": "2026-08-30T07:11:37.000Z",
+    "hash": "1afbd87683e0f325881f8746a830c4d442501389c3b750b3166437959e624a5d",
+    "last_updated": "2026-08-31T15:51:00.000Z",
     "packageCount": 1,
     "packages": {
       "world.anlabo.mdnailtool": {
@@ -1731,7 +1745,7 @@
         "displayName": "An-Labo NailTool",
         "description": "An-Labo NailTool",
         "latestVersion": "0.9.141",
-        "versionCount": 573,
+        "versionCount": 575,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -8610,6 +8624,30 @@
             "displayName": "An-Labo NailTool",
             "description": "An-Labo NailTool",
             "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.10.59/world.anlabo.mdnailtool-0.10.59.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.5.0"
+            }
+          },
+          "0.10.60": {
+            "version": "0.10.60",
+            "name": "world.anlabo.mdnailtool",
+            "displayName": "An-Labo NailTool",
+            "description": "An-Labo NailTool",
+            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.10.60/world.anlabo.mdnailtool-0.10.60.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.5.0"
+            }
+          },
+          "0.10.61": {
+            "version": "0.10.61",
+            "name": "world.anlabo.mdnailtool",
+            "displayName": "An-Labo NailTool",
+            "description": "An-Labo NailTool",
+            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.10.61/world.anlabo.mdnailtool-0.10.61.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -19548,8 +19586,8 @@
     "name": "DrBlackRat's VPM Listing",
     "id": "xyz.drblackrat.vpm",
     "author": "DrBlackRat",
-    "hash": "2134b95d85cfde6b833996a8afd833af4d67bb203164d12ffd65bbfa3e46df0b",
-    "last_updated": "2026-08-30T19:36:50.000Z",
+    "hash": "c1644e3b24e5a2798623513e87ab90bb61a5afa88565a0239b11b525ed3cfee8",
+    "last_updated": "2026-08-31T21:29:03.000Z",
     "packageCount": 4,
     "packages": {
       "xyz.drblackrat.vrc.securenetworking": {
@@ -19557,8 +19595,8 @@
         "name": "xyz.drblackrat.vrc.securenetworking",
         "displayName": "Secure Networking",
         "description": "A secure VRChat networking system that validates network event senders to prevent unauthorized players from modifying synced data.",
-        "latestVersion": "1.0.1",
-        "versionCount": 2,
+        "latestVersion": "1.1.0",
+        "versionCount": 3,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -19567,6 +19605,18 @@
           "url": "https://drblackrat.xyz"
         },
         "versions": {
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "xyz.drblackrat.vrc.securenetworking",
+            "displayName": "Secure Networking",
+            "description": "A secure VRChat networking system that validates network event senders to prevent unauthorized players from modifying synced data.",
+            "url": "https://github.com/DrBlackRat/VRC-Secure-Networking/releases/download/1.1.0/xyz.drblackrat.vrc.securenetworking-1.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.10.4 <4.0.0"
+            }
+          },
           "1.0.1": {
             "version": "1.0.1",
             "name": "xyz.drblackrat.vrc.securenetworking",
@@ -26101,7 +26151,7 @@
     "id": "com.gabsith.wft",
     "author": "GabSith",
     "hash": "ed31c2beeb60c2322e47d329a9b0cbe8b2c319649ebd2c252945be2fceacc184",
-    "last_updated": "2026-05-03T07:30:54.000Z",
+    "last_updated": "2026-05-03T07:30:55.000Z",
     "packageCount": 1,
     "packages": {
       "com.gabsith.wft": {
@@ -31000,8 +31050,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "80b39fc731c51c48b552f5ecedf847110542314f22f68af0e1048efaea37c5bb",
-    "last_updated": "2026-08-30T16:03:55.000Z",
+    "hash": "8c5c33f377ee9318d826f1c23d7ad6f2804d6945fec5e6ca6b2af8ec3515c0ca",
+    "last_updated": "2026-09-01T01:29:30.000Z",
     "packageCount": 12,
     "packages": {
       "com.poiyomi.pro": {
@@ -31416,8 +31466,8 @@
         "name": "hackebein.objecttracking",
         "displayName": "Hackebein's Object Tracking",
         "description": "Hackebein's setup for Object Tracking in VRChat",
-        "latestVersion": "1.0.0-beta.14",
-        "versionCount": 28,
+        "latestVersion": "1.0.0-beta.17",
+        "versionCount": 30,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -31426,6 +31476,34 @@
           "url": "https://hackebein.de"
         },
         "versions": {
+          "1.0.0-beta.17": {
+            "version": "1.0.0-beta.17",
+            "name": "hackebein.objecttracking",
+            "displayName": "Hackebein's Object Tracking",
+            "description": "Hackebein's setup for Object Tracking in VRChat",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking/1.0.0-beta.17/eccc9148e09af27ddb46487893c457c1527d00d4863c681bc970cc819bd98afc",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.9.0",
+              "com.ygdr.mdv": ">=1.2.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0"
+            }
+          },
+          "1.0.0-beta.16": {
+            "version": "1.0.0-beta.16",
+            "name": "hackebein.objecttracking",
+            "displayName": "Hackebein's Object Tracking",
+            "description": "Hackebein's setup for Object Tracking in VRChat",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking/1.0.0-beta.16/f7ae2ef19b90ce642717068950dcb09339a4f5b0e5e5aab91b419465b73c1ea2",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.9.0",
+              "com.ygdr.mdv": ">=1.2.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0"
+            }
+          },
           "1.0.0-beta.14": {
             "version": "1.0.0-beta.14",
             "name": "hackebein.objecttracking",
@@ -31894,8 +31972,8 @@
         "name": "hackebein.objecttracking.host",
         "displayName": "Hackebein's Object Tracking Host",
         "description": "ObjectTracking App for Hackebein's Object Tracking.",
-        "latestVersion": "1.0.0-beta.14",
-        "versionCount": 10,
+        "latestVersion": "1.0.0-beta.17",
+        "versionCount": 13,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -31904,6 +31982,36 @@
           "url": "https://hackebein.de"
         },
         "versions": {
+          "1.0.0-beta.17": {
+            "version": "1.0.0-beta.17",
+            "name": "hackebein.objecttracking.host",
+            "displayName": "Hackebein's Object Tracking Host",
+            "description": "ObjectTracking App for Hackebein's Object Tracking.",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking.host/1.0.0-beta.17/185ff914c5fd73a2c7e28e2eb37ab196602d08a917cc07a15191d36f1e6d140b",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.0.0-beta.16": {
+            "version": "1.0.0-beta.16",
+            "name": "hackebein.objecttracking.host",
+            "displayName": "Hackebein's Object Tracking Host",
+            "description": "ObjectTracking App for Hackebein's Object Tracking.",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking.host/1.0.0-beta.16/8006e6f4f40bd7fa0b960e3f7481e35e4eff5b555230b0f790df8a7c7067c453",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.0.0-beta.15": {
+            "version": "1.0.0-beta.15",
+            "name": "hackebein.objecttracking.host",
+            "displayName": "Hackebein's Object Tracking Host",
+            "description": "ObjectTracking App for Hackebein's Object Tracking.",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking.host/1.0.0-beta.15/acc8bf568cf8152d5e607cc2d3be2d7d75f61438a392ba9c3ed1efc7d50a7785",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.0.0-beta.14": {
             "version": "1.0.0-beta.14",
             "name": "hackebein.objecttracking.host",
@@ -37747,7 +37855,7 @@
     "id": "io.github.helpinghandsvr.vpm",
     "author": "Helping Hands",
     "hash": "d3cba140edcf3cb5c17c4b6034085a4238c0dbbd2ce98b5f097b608968bff8fb",
-    "last_updated": "2026-07-03T13:20:29.000Z",
+    "last_updated": "2026-07-03T13:20:30.000Z",
     "packageCount": 2,
     "packages": {
       "io.github.helpinghandsvr.helpinghands-vrchat-avatar-accessories": {
@@ -39992,7 +40100,7 @@
     "id": "com.github.hkrn",
     "author": "hkrn",
     "hash": "66afe02e940c091d4b955f7a758659dfa28c963b53e571fc1c24147280761b5f",
-    "last_updated": "2026-07-12T08:29:09.000Z",
+    "last_updated": "2026-07-12T08:29:10.000Z",
     "packageCount": 1,
     "packages": {
       "com.github.hkrn.ndmf-vrm-exporter": {
@@ -40563,7 +40671,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "680029c772846cb5e5b7331c6f399296d7c3d340058c68c9f48e255a6fa8e65e",
-    "last_updated": "2026-08-30T09:18:19.000Z",
+    "last_updated": "2026-08-31T09:50:58.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -42120,7 +42228,7 @@
     "id": "dev.jetees.vpm-listing",
     "author": "JeTeeS",
     "hash": "c43d1d46596697e66705b99d7740a062daf269bacdf077d0810963cb05d466da",
-    "last_updated": "2024-05-22T15:17:51.000Z",
+    "last_updated": "2024-05-22T15:17:52.000Z",
     "packageCount": 1,
     "packages": {
       "dev.jetees.memoryoptimizer": {
@@ -42416,7 +42524,7 @@
     "id": "com.vrsive.avatar-exporter.listing",
     "author": "VRSive",
     "hash": "6e4fddf38f8f4986ffa38df8646ea79db089e58aa357f4991002a8cab32a4717",
-    "last_updated": "2026-06-12T12:24:24.000Z",
+    "last_updated": "2026-06-12T12:24:23.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrsive.avatar-exporter": {
@@ -50027,7 +50135,7 @@
     "id": "com.kie.vpm",
     "author": "Kie",
     "hash": "9c720b21a0d472446cbcefecd3ffddfe48df0b160a1cc2d716f8020dfadddb34",
-    "last_updated": "2026-08-30T18:28:16.000Z",
+    "last_updated": "2026-08-31T20:42:05.000Z",
     "packageCount": 3,
     "packages": {
       "com.kie.kie-mergeable-toggle": {
@@ -53829,7 +53937,7 @@
     "id": "net.euan.lazyoptimiser.listing",
     "author": "euan142",
     "hash": "6a0b4ea94d87ae345649306e6fda40f7bd86325206e58e1a4c5943450a9fe4ee",
-    "last_updated": "2025-02-20T10:25:22.000Z",
+    "last_updated": "2025-02-20T10:25:21.000Z",
     "packageCount": 1,
     "packages": {
       "net.euan.lazyoptimiser": {
@@ -53934,7 +54042,7 @@
     "id": "lereldarion",
     "author": "Lereldarion",
     "hash": "fa9cc79e70fb00eb2aa70863c05e008271c255affd1e14192f26540239c3a213",
-    "last_updated": "2026-06-25T19:36:15.000Z",
+    "last_updated": "2026-06-25T19:36:14.000Z",
     "packageCount": 2,
     "packages": {
       "lereldarion.unity-shaders": {
@@ -58238,7 +58346,7 @@
     "id": "com.mame8.vpm",
     "author": "mame8",
     "hash": "880c4bc843e71444652593ac77a1a92bd04b01453281fbe2f51c3cd1ea8bf95a",
-    "last_updated": "2026-07-02T19:27:30.000Z",
+    "last_updated": "2026-07-02T19:27:29.000Z",
     "packageCount": 3,
     "packages": {
       "com.mame8.animator-controller-context": {
@@ -58392,7 +58500,7 @@
     "id": "com.mattshark.openflight.repo",
     "author": "Mattshark89, Happyrobot33",
     "hash": "2659e37b23cc128e891c29a39e5bccda5a60665b585cf2406941eca4e5123520",
-    "last_updated": "2026-08-10T04:25:27.000Z",
+    "last_updated": "2026-08-10T04:25:29.000Z",
     "packageCount": 1,
     "packages": {
       "com.mattshark.openflight": {
@@ -63209,8 +63317,8 @@
     "name": "Avatar Recovery Unity",
     "id": "com.nickel-jp.repos.avatar-recovery",
     "author": "Nickel-JP",
-    "hash": "922ee64d589acf55ee859a0d44629998411ad0fc42b97eec9c99b94bd8f8628c",
-    "last_updated": "2026-08-25T10:46:02.000Z",
+    "hash": "e90347733101fbcc4140a8249b50a8708254aa9aa4d2ae437571fedb9e598ecf",
+    "last_updated": "2026-08-31T12:55:35.000Z",
     "packageCount": 1,
     "packages": {
       "com.nickel-jp.avatar-recovery": {
@@ -63218,7 +63326,7 @@
         "name": "com.nickel-jp.avatar-recovery",
         "displayName": "Avatar Recovery",
         "description": "Unity Editor tools for recovering VRChat avatar, world, and prop assets from VRCA/VRCW/VRCP files.",
-        "latestVersion": "1.2.13",
+        "latestVersion": "1.2.14",
         "versionCount": 3,
         "keywords": [
           "vrchat",
@@ -63237,6 +63345,18 @@
           "url": "https://github.com/Nickel-JP"
         },
         "versions": {
+          "1.2.14": {
+            "version": "1.2.14",
+            "name": "com.nickel-jp.avatar-recovery",
+            "displayName": "Avatar Recovery",
+            "description": "Unity Editor tools for recovering VRChat avatar, world, and prop assets from VRCA/VRCW/VRCP files.",
+            "url": "https://nickel-jp.github.io/avatar-recovery-unity/packages/com.nickel-jp.avatar-recovery-1.2.14.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": ">=3.7.0 <3.11.0"
+            }
+          },
           "1.2.13": {
             "version": "1.2.13",
             "name": "com.nickel-jp.avatar-recovery",
@@ -63256,19 +63376,6 @@
             "displayName": "Avatar Recovery",
             "description": "Unity Editor tools for recovering VRChat avatar, world, and prop assets from VRCA/VRCW/VRCP files.",
             "url": "https://nickel-jp.github.io/avatar-recovery-unity/packages/com.nickel-jp.avatar-recovery-1.2.12.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": ">=3.7.0 <3.11.0",
-              "com.vrchat.avatars": ">=3.10.2 <3.11.0"
-            }
-          },
-          "1.2.11": {
-            "version": "1.2.11",
-            "name": "com.nickel-jp.avatar-recovery",
-            "displayName": "Avatar Recovery",
-            "description": "Unity Editor tools for recovering VRChat avatar, world, and prop assets from VRCA/VRCW/VRCP files.",
-            "url": "https://nickel-jp.github.io/avatar-recovery-unity/packages/com.nickel-jp.avatar-recovery-1.2.11.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -81120,7 +81227,7 @@
     "id": "chirp.reava.listings",
     "author": "Reava_",
     "hash": "741ef16424995b0c841b5b1ea6be385df118c35462b94b7bc8782c0634ab8585",
-    "last_updated": "2026-05-15T12:22:07.000Z",
+    "last_updated": "2026-05-15T12:22:06.000Z",
     "packageCount": 4,
     "packages": {
       "chirp.reava.uwutils": {
@@ -81556,8 +81663,8 @@
     "name": "RED_SIM VRChat Assets",
     "id": "red.sim.vpm",
     "author": "RED_SIM",
-    "hash": "9c083d088becd22bcd6a0ea13c74d027d76347ccc73b90b8e685dd6c37e2bb08",
-    "last_updated": "2026-08-27T20:23:18.000Z",
+    "hash": "528e751e7984ac0d200c5fd55fed84bdaa1cc4c7990157fa7dd27595af1c5e4f",
+    "last_updated": "2026-08-31T16:37:10.000Z",
     "packageCount": 3,
     "packages": {
       "red.sim.flexicurve": {
@@ -81643,7 +81750,7 @@
         "displayName": "VRC Light Volumes",
         "description": "Nextgen voxel based light probes replacement for VRChat",
         "latestVersion": "0.5.1",
-        "versionCount": 41,
+        "versionCount": 42,
         "keywords": [
           "shaders",
           "lighting",
@@ -82129,6 +82236,18 @@
             "displayName": "VRC Light Volumes",
             "description": "Nextgen voxel based light probes replacement and analytic lighting solution for VRChat",
             "url": "https://github.com/REDSIM/VRCLightVolumes/releases/download/v.3.0.0-dev.16/VRCLightVolumes_3.0.0-dev.16.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.unity.editorcoroutines": "1.0.0"
+            }
+          },
+          "3.0.0-dev.17": {
+            "version": "3.0.0-dev.17",
+            "name": "red.sim.lightvolumes",
+            "displayName": "VRC Light Volumes",
+            "description": "Nextgen voxel based light probes replacement and analytic lighting solution for VRChat",
+            "url": "https://github.com/REDSIM/VRCLightVolumes/releases/download/v.3.0.0-dev.17/VRCLightVolumes_3.0.0-dev.17.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -84837,7 +84956,7 @@
     "id": "dev.redline-team.redlinelist",
     "author": "RozeThorns",
     "hash": "8c61e41bc845ad48ac8b2df4fbc0df5b38f713805c599141762b5c54f4e92f8c",
-    "last_updated": "2026-08-31T01:49:05.000Z",
+    "last_updated": "2026-09-01T02:12:29.000Z",
     "packageCount": 5,
     "packages": {
       "dev.redline-team.rpm": {
@@ -85336,7 +85455,7 @@
     "id": "jp.rroki.vpm",
     "author": "rroki-0u0",
     "hash": "842c482dcb0925dc36f99ba648d5191a7246b5ee657c75c1ab8f80680027bdce",
-    "last_updated": "2026-07-16T09:06:07.000Z",
+    "last_updated": "2026-07-16T09:06:06.000Z",
     "packageCount": 5,
     "packages": {
       "jp.rroki.poiyomi-to-nontoon": {
@@ -87401,7 +87520,7 @@
     "id": "semmiedev.listing",
     "author": "SemmieDev",
     "hash": "764b234bce8d42c19ee898db4f726192706cfc034cfa348a8593e2579a2d0091",
-    "last_updated": "2026-07-06T07:55:29.000Z",
+    "last_updated": "2026-07-06T07:55:28.000Z",
     "packageCount": 2,
     "packages": {
       "semmiedev.friend-pov": {
@@ -90134,8 +90253,8 @@
     "name": "suzufactory",
     "id": "com.suzufactory.vpm",
     "author": "suzufactory",
-    "hash": "31c61c15ef5d4ad236a2b51029eaf47e2166ad5e8b8483cf322d53dbac7bd49b",
-    "last_updated": "2026-08-27T01:00:48.000Z",
+    "hash": "79c712dd59d76f74890a226892a7436c43729241801125caf5539b155fffc09f",
+    "last_updated": "2026-09-01T00:02:49.000Z",
     "packageCount": 2,
     "packages": {
       "com.suzufactory.hikari": {
@@ -90143,8 +90262,8 @@
         "name": "com.suzufactory.hikari",
         "displayName": "Hikari",
         "description": null,
-        "latestVersion": "2.0.0",
-        "versionCount": 23,
+        "latestVersion": "2.0.7",
+        "versionCount": 24,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -90152,6 +90271,15 @@
           "url": "https://suzufactory.com"
         },
         "versions": {
+          "2.0.7": {
+            "version": "2.0.7",
+            "name": "com.suzufactory.hikari",
+            "displayName": "Hikari",
+            "url": "https://github.com/suzufactory/vpm-repos/releases/download/hikari-2.0.7/com.suzufactory.hikari.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "2.0.0": {
             "version": "2.0.0",
             "name": "com.suzufactory.hikari",
@@ -98090,7 +98218,7 @@
     "id": "jp.toh.package-listing",
     "author": "toh",
     "hash": "cc3967c59f319ff5c3910acb82ddac984aa9ad35b5aaec5e395d6ab2cf0dfd4f",
-    "last_updated": "2025-04-28T14:28:14.000Z",
+    "last_updated": "2025-04-28T14:28:15.000Z",
     "packageCount": 1,
     "packages": {
       "jp.toh.easy-object-switch": {
@@ -100647,8 +100775,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "af9fc3729160a32886a71b551f6ec6bfbc6557c19a52a7826bb863b14c06e5f7",
-    "last_updated": "2026-08-31T03:27:25.000Z",
+    "hash": "dcd1c2f34253d3e190a99be2a733f1fd99899b8a03658ef3f5f4308dde7e907f",
+    "last_updated": "2026-09-01T03:25:26.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -127402,8 +127530,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "80b39fc731c51c48b552f5ecedf847110542314f22f68af0e1048efaea37c5bb",
-    "last_updated": "2026-08-30T16:03:55.000Z",
+    "hash": "8c5c33f377ee9318d826f1c23d7ad6f2804d6945fec5e6ca6b2af8ec3515c0ca",
+    "last_updated": "2026-09-01T01:29:30.000Z",
     "packageCount": 12,
     "packages": {
       "com.poiyomi.pro": {
@@ -127818,8 +127946,8 @@
         "name": "hackebein.objecttracking",
         "displayName": "Hackebein's Object Tracking",
         "description": "Hackebein's setup for Object Tracking in VRChat",
-        "latestVersion": "1.0.0-beta.14",
-        "versionCount": 28,
+        "latestVersion": "1.0.0-beta.17",
+        "versionCount": 30,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -127828,6 +127956,34 @@
           "url": "https://hackebein.de"
         },
         "versions": {
+          "1.0.0-beta.17": {
+            "version": "1.0.0-beta.17",
+            "name": "hackebein.objecttracking",
+            "displayName": "Hackebein's Object Tracking",
+            "description": "Hackebein's setup for Object Tracking in VRChat",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking/1.0.0-beta.17/eccc9148e09af27ddb46487893c457c1527d00d4863c681bc970cc819bd98afc",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.9.0",
+              "com.ygdr.mdv": ">=1.2.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0"
+            }
+          },
+          "1.0.0-beta.16": {
+            "version": "1.0.0-beta.16",
+            "name": "hackebein.objecttracking",
+            "displayName": "Hackebein's Object Tracking",
+            "description": "Hackebein's setup for Object Tracking in VRChat",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking/1.0.0-beta.16/f7ae2ef19b90ce642717068950dcb09339a4f5b0e5e5aab91b419465b73c1ea2",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.9.0",
+              "com.ygdr.mdv": ">=1.2.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0"
+            }
+          },
           "1.0.0-beta.14": {
             "version": "1.0.0-beta.14",
             "name": "hackebein.objecttracking",
@@ -128296,8 +128452,8 @@
         "name": "hackebein.objecttracking.host",
         "displayName": "Hackebein's Object Tracking Host",
         "description": "ObjectTracking App for Hackebein's Object Tracking.",
-        "latestVersion": "1.0.0-beta.14",
-        "versionCount": 10,
+        "latestVersion": "1.0.0-beta.17",
+        "versionCount": 13,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -128306,6 +128462,36 @@
           "url": "https://hackebein.de"
         },
         "versions": {
+          "1.0.0-beta.17": {
+            "version": "1.0.0-beta.17",
+            "name": "hackebein.objecttracking.host",
+            "displayName": "Hackebein's Object Tracking Host",
+            "description": "ObjectTracking App for Hackebein's Object Tracking.",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking.host/1.0.0-beta.17/185ff914c5fd73a2c7e28e2eb37ab196602d08a917cc07a15191d36f1e6d140b",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.0.0-beta.16": {
+            "version": "1.0.0-beta.16",
+            "name": "hackebein.objecttracking.host",
+            "displayName": "Hackebein's Object Tracking Host",
+            "description": "ObjectTracking App for Hackebein's Object Tracking.",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking.host/1.0.0-beta.16/8006e6f4f40bd7fa0b960e3f7481e35e4eff5b555230b0f790df8a7c7067c453",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.0.0-beta.15": {
+            "version": "1.0.0-beta.15",
+            "name": "hackebein.objecttracking.host",
+            "displayName": "Hackebein's Object Tracking Host",
+            "description": "ObjectTracking App for Hackebein's Object Tracking.",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking.host/1.0.0-beta.15/acc8bf568cf8152d5e607cc2d3be2d7d75f61438a392ba9c3ed1efc7d50a7785",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.0.0-beta.14": {
             "version": "1.0.0-beta.14",
             "name": "hackebein.objecttracking.host",
@@ -138619,7 +138805,7 @@
     "id": "com.micksam7.vpm",
     "author": "Micca",
     "hash": "28148f3419e38143920ae19b3a3dd4a57a632a36728aa26382a61c71e69f2550",
-    "last_updated": "2026-07-03T02:20:28.000Z",
+    "last_updated": "2026-07-03T02:20:29.000Z",
     "packageCount": 1,
     "packages": {
       "com.micksam7.mididmx": {
@@ -141579,8 +141765,8 @@
     "name": "bd_",
     "id": "dev.nadena.vpm",
     "author": "bd_",
-    "hash": "6cab7cf3289c7d649cae3af26cd5f0a6abb9c93d874613a04b7e10b4283746dd",
-    "last_updated": "2026-08-30T20:20:36.000Z",
+    "hash": "1a3642d806342591bb8ecf9b1d82bfd9db7371271499a60178bd52c40f928b7a",
+    "last_updated": "2026-09-01T02:24:42.000Z",
     "packageCount": 4,
     "packages": {
       "nadena.dev.misc-vrc-tools": {
@@ -141616,7 +141802,7 @@
         "displayName": "Modular Avatar",
         "description": null,
         "latestVersion": "0.8.0",
-        "versionCount": 190,
+        "versionCount": 191,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -143135,6 +143321,18 @@
             "displayName": "Modular Avatar",
             "description": "A suite of tools for assembling your avatar out of reusable components",
             "url": "https://packages.vpm.nadena.dev/repositories/nadena.dev/packages/nadena.dev.modular-avatar/1.18.6/fb091defcfe0092166cf47424f9e58078f53b74aa1a880d997d72c9b0867328c.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.14.7 <2.0.0-a"
+            }
+          },
+          "1.18.7": {
+            "version": "1.18.7",
+            "name": "nadena.dev.modular-avatar",
+            "displayName": "Modular Avatar",
+            "description": "A suite of tools for assembling your avatar out of reusable components",
+            "url": "https://packages.vpm.nadena.dev/repositories/nadena.dev/packages/nadena.dev.modular-avatar/1.18.7/a627cb84ac6012ecff719566e7f57cdda6452d74193922dffd01d19e7bf31ed9.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -162005,7 +162203,7 @@
     "id": "dev.thry.vpm",
     "author": "Thryrallo",
     "hash": "0189583cd590af92f6337bf072cfea3211c6a3ca90738536d8f30bcd5fab82cb",
-    "last_updated": "2024-08-05T22:13:01.000Z",
+    "last_updated": "2024-08-05T22:13:00.000Z",
     "packageCount": 1,
     "packages": {
       "de.thryrallo.vrc.avatar-performance-tools": {
@@ -162739,8 +162937,8 @@
     "name": "WhyKnot Tools",
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
-    "hash": "da83a8557b73c68da6edf5e650e7af6fc108ac53b52973f0c19ad0b9d7eaeeb6",
-    "last_updated": "2026-08-30T10:54:11.000Z",
+    "hash": "7c310ec245c5589a15cd3c9a58f8ae4aed2547f622c4a0ee3286e53de5e46b41",
+    "last_updated": "2026-08-31T12:08:24.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -169843,8 +170041,8 @@
     "name": "TXL Prefab VPM Packages",
     "id": "com.texelsaur.vpm",
     "author": "Texelsaur",
-    "hash": "246b2d4c8d531fc134d709808b954b7e206ca898959d4e720e83e205af6bc75b",
-    "last_updated": "2026-07-19T12:52:54.000Z",
+    "hash": "c3b899b9eed93d79d172b4e9ef90dff2719751b38eb7d69994eca09bc92b6445",
+    "last_updated": "2026-08-31T06:50:53.000Z",
     "packageCount": 7,
     "packages": {
       "com.texelsaur.access": {
@@ -170036,8 +170234,8 @@
         "name": "com.texelsaur.common",
         "displayName": "TXL - CommonTXL",
         "description": "Common components and base classes for TXL projects",
-        "latestVersion": "2.0.1",
-        "versionCount": 30,
+        "latestVersion": "2.1.0",
+        "versionCount": 31,
         "keywords": [],
         "unity": null,
         "author": {
@@ -170046,6 +170244,17 @@
           "url": "https://texelsaurus.com"
         },
         "versions": {
+          "2.1.0": {
+            "version": "2.1.0",
+            "name": "com.texelsaur.common",
+            "displayName": "TXL - CommonTXL",
+            "description": "Common components and base classes for TXL projects",
+            "url": "https://github.com/vrctxl/CommonTXL/releases/download/2.1.0/com.texelsaur.common-2.1.0.zip",
+            "zipSha256": null,
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.8.0"
+            }
+          },
           "2.0.1": {
             "version": "2.0.1",
             "name": "com.texelsaur.common",
@@ -170581,8 +170790,8 @@
         "name": "com.texelsaur.video",
         "displayName": "TXL - VideoTXL",
         "description": "Highly configurable general purpose sync and non-sync video players.",
-        "latestVersion": "2.5.1",
-        "versionCount": 64,
+        "latestVersion": "2.6.0-beta.1",
+        "versionCount": 65,
         "keywords": [],
         "unity": null,
         "author": {
@@ -170591,6 +170800,17 @@
           "url": "https://texelsaurus.com"
         },
         "versions": {
+          "2.6.0-beta.1": {
+            "version": "2.6.0-beta.1",
+            "name": "com.texelsaur.video",
+            "displayName": "TXL - VideoTXL",
+            "description": "Highly configurable general purpose sync and non-sync video players.",
+            "url": "https://github.com/vrctxl/VideoTXL/releases/download/2.6.0-beta.1/com.texelsaur.video-2.6.0-beta.1.zip",
+            "zipSha256": null,
+            "vpmDependencies": {
+              "com.texelsaur.common": "^2.1.0"
+            }
+          },
           "2.5.1": {
             "version": "2.5.1",
             "name": "com.texelsaur.video",
@@ -174074,8 +174294,8 @@
     "name": "Explosive Theorem Lab. Metaverse Division",
     "id": "idv.jlchntoz.xtlcdn-listing",
     "author": "Jeremy Lam aka. Vistanz",
-    "hash": "f30887ce534027cc30d95ab2db4eaae904947e8ba85db7afee6cc768f3c9e387",
-    "last_updated": "2026-08-22T09:39:02.000Z",
+    "hash": "904255c115cb0179bd98e9290a5cd0986614b1bfaf8e7f6321ac0b0c0a6d930b",
+    "last_updated": "2026-08-31T16:41:44.000Z",
     "packageCount": 14,
     "packages": {
       "idv.jlchntoz.vrcw-foundation": {
@@ -174083,8 +174303,8 @@
         "name": "idv.jlchntoz.vrcw-foundation",
         "displayName": "Vistanz's Foundation Package for VRChat Worlds",
         "description": "Foundation framework enhances VRChat World developments with Udon(sharp).",
-        "latestVersion": "0.0.64",
-        "versionCount": 64,
+        "latestVersion": "0.0.65",
+        "versionCount": 65,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -174093,6 +174313,18 @@
           "url": "https://xtl.booth.pm"
         },
         "versions": {
+          "0.0.65": {
+            "version": "0.0.65",
+            "name": "idv.jlchntoz.vrcw-foundation",
+            "displayName": "Vistanz's Foundation Package for VRChat Worlds",
+            "description": "Foundation framework enhances VRChat World developments with Udon(sharp).",
+            "url": "https://github.com/JLChnToZ/vrcw-foundation/releases/download/0.0.65/idv.jlchntoz.vrcw-foundation-0.0.65.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.x.x >=3.9.0"
+            }
+          },
           "0.0.64": {
             "version": "0.0.64",
             "name": "idv.jlchntoz.vrcw-foundation",
@@ -181469,8 +181701,8 @@
     "name": "浊鸷 VPM Listing",
     "id": "com.zhuozhi.vpm-listing",
     "author": "浊鸷",
-    "hash": "6b8176b2ac951fdeb9aefbc53b5d84b7b9ab04efd792fc17b09ad29fe0623433",
-    "last_updated": "2026-08-30T18:29:14.000Z",
+    "hash": "e190e06fcccb9846e41af19a9c803c7547ec4a1333c3d6bb9ddfc044a9d9c3aa",
+    "last_updated": "2026-08-31T13:51:36.000Z",
     "packageCount": 3,
     "packages": {
       "com.zhuozhi.lyumashader-extended": {
@@ -181830,7 +182062,7 @@
         "name": "com.zhuozhi.liltoon-distance-visibility",
         "displayName": "lilToon 距离显示",
         "description": "为指定的 lilToon 材质添加可配置的近端、远端和区间距离显示，并支持抖动过渡与一键还原。",
-        "latestVersion": "0.1.0",
+        "latestVersion": "0.1.1",
         "versionCount": 1,
         "keywords": [
           "liltoon",
@@ -181844,12 +182076,12 @@
           "url": "https://github.com/zhuozhi233/lilToon-Distance-Visibility"
         },
         "versions": {
-          "0.1.0": {
-            "version": "0.1.0",
+          "0.1.1": {
+            "version": "0.1.1",
             "name": "com.zhuozhi.liltoon-distance-visibility",
             "displayName": "lilToon 距离显示",
             "description": "为指定的 lilToon 材质添加可配置的近端、远端和区间距离显示，并支持抖动过渡与一键还原。",
-            "url": "https://github.com/zhuozhi233/lilToon-Distance-Visibility/releases/download/v0.1.0/com.zhuozhi.liltoon-distance-visibility-0.1.0.zip",
+            "url": "https://github.com/zhuozhi233/lilToon-Distance-Visibility/releases/download/v0.1.1/com.zhuozhi.liltoon-distance-visibility-0.1.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {}
@@ -183184,8 +183416,8 @@
     "name": "bd_",
     "id": "dev.nadena.vpm",
     "author": "bd_",
-    "hash": "6cab7cf3289c7d649cae3af26cd5f0a6abb9c93d874613a04b7e10b4283746dd",
-    "last_updated": "2026-08-30T20:20:36.000Z",
+    "hash": "1a3642d806342591bb8ecf9b1d82bfd9db7371271499a60178bd52c40f928b7a",
+    "last_updated": "2026-09-01T02:24:42.000Z",
     "packageCount": 4,
     "packages": {
       "nadena.dev.misc-vrc-tools": {
@@ -183221,7 +183453,7 @@
         "displayName": "Modular Avatar",
         "description": null,
         "latestVersion": "0.8.0",
-        "versionCount": 190,
+        "versionCount": 191,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -184740,6 +184972,18 @@
             "displayName": "Modular Avatar",
             "description": "A suite of tools for assembling your avatar out of reusable components",
             "url": "https://packages.vpm.nadena.dev/repositories/nadena.dev/packages/nadena.dev.modular-avatar/1.18.6/fb091defcfe0092166cf47424f9e58078f53b74aa1a880d997d72c9b0867328c.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.14.7 <2.0.0-a"
+            }
+          },
+          "1.18.7": {
+            "version": "1.18.7",
+            "name": "nadena.dev.modular-avatar",
+            "displayName": "Modular Avatar",
+            "description": "A suite of tools for assembling your avatar out of reusable components",
+            "url": "https://packages.vpm.nadena.dev/repositories/nadena.dev/packages/nadena.dev.modular-avatar/1.18.7/a627cb84ac6012ecff719566e7f57cdda6452d74193922dffd01d19e7bf31ed9.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
