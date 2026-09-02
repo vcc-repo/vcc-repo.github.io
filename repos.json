@@ -25588,7 +25588,7 @@
     "id": "com.furality.repos.official",
     "author": "Furality, Inc.",
     "hash": "1f058d849e3d6f8fbf1320164b63cd1f1019b43a7993a1adfa11f274f8288e49",
-    "last_updated": "2026-08-08T02:49:10.000Z",
+    "last_updated": "2026-08-08T02:49:09.000Z",
     "packageCount": 3,
     "packages": {
       "com.furality.sylvashader": {
@@ -26151,7 +26151,7 @@
     "id": "com.gabsith.wft",
     "author": "GabSith",
     "hash": "ed31c2beeb60c2322e47d329a9b0cbe8b2c319649ebd2c252945be2fceacc184",
-    "last_updated": "2026-05-03T07:30:55.000Z",
+    "last_updated": "2026-05-03T07:30:54.000Z",
     "packageCount": 1,
     "packages": {
       "com.gabsith.wft": {
@@ -31050,8 +31050,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "8c5c33f377ee9318d826f1c23d7ad6f2804d6945fec5e6ca6b2af8ec3515c0ca",
-    "last_updated": "2026-09-01T01:29:30.000Z",
+    "hash": "85bb73e2a2ba7ba0378f9b26e951826fae885b4967be4ea78a999761427e831f",
+    "last_updated": "2026-09-01T19:57:19.000Z",
     "packageCount": 12,
     "packages": {
       "com.poiyomi.pro": {
@@ -31466,8 +31466,8 @@
         "name": "hackebein.objecttracking",
         "displayName": "Hackebein's Object Tracking",
         "description": "Hackebein's setup for Object Tracking in VRChat",
-        "latestVersion": "1.0.0-beta.17",
-        "versionCount": 30,
+        "latestVersion": "1.0.0-beta.18",
+        "versionCount": 31,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -31476,6 +31476,20 @@
           "url": "https://hackebein.de"
         },
         "versions": {
+          "1.0.0-beta.18": {
+            "version": "1.0.0-beta.18",
+            "name": "hackebein.objecttracking",
+            "displayName": "Hackebein's Object Tracking",
+            "description": "Hackebein's setup for Object Tracking in VRChat",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking/1.0.0-beta.18/39ca42790f79bfc46fb2d9ddad2d80d955dff1574c8b19af655472ae44a698a7",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.9.0",
+              "com.ygdr.mdv": ">=1.2.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0"
+            }
+          },
           "1.0.0-beta.17": {
             "version": "1.0.0-beta.17",
             "name": "hackebein.objecttracking",
@@ -31972,8 +31986,8 @@
         "name": "hackebein.objecttracking.host",
         "displayName": "Hackebein's Object Tracking Host",
         "description": "ObjectTracking App for Hackebein's Object Tracking.",
-        "latestVersion": "1.0.0-beta.17",
-        "versionCount": 13,
+        "latestVersion": "1.0.0-beta.18",
+        "versionCount": 14,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -31982,6 +31996,16 @@
           "url": "https://hackebein.de"
         },
         "versions": {
+          "1.0.0-beta.18": {
+            "version": "1.0.0-beta.18",
+            "name": "hackebein.objecttracking.host",
+            "displayName": "Hackebein's Object Tracking Host",
+            "description": "ObjectTracking App for Hackebein's Object Tracking.",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking.host/1.0.0-beta.18/34555a4a31aa32cc02f22b31224913ba136170204a2aeb3025227c8851dba7bb",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.0.0-beta.17": {
             "version": "1.0.0-beta.17",
             "name": "hackebein.objecttracking.host",
@@ -37855,7 +37879,7 @@
     "id": "io.github.helpinghandsvr.vpm",
     "author": "Helping Hands",
     "hash": "d3cba140edcf3cb5c17c4b6034085a4238c0dbbd2ce98b5f097b608968bff8fb",
-    "last_updated": "2026-07-03T13:20:30.000Z",
+    "last_updated": "2026-07-03T13:20:29.000Z",
     "packageCount": 2,
     "packages": {
       "io.github.helpinghandsvr.helpinghands-vrchat-avatar-accessories": {
@@ -40671,7 +40695,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "680029c772846cb5e5b7331c6f399296d7c3d340058c68c9f48e255a6fa8e65e",
-    "last_updated": "2026-08-31T09:50:58.000Z",
+    "last_updated": "2026-09-01T08:43:23.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -42228,7 +42252,7 @@
     "id": "dev.jetees.vpm-listing",
     "author": "JeTeeS",
     "hash": "c43d1d46596697e66705b99d7740a062daf269bacdf077d0810963cb05d466da",
-    "last_updated": "2024-05-22T15:17:52.000Z",
+    "last_updated": "2024-05-22T15:17:51.000Z",
     "packageCount": 1,
     "packages": {
       "dev.jetees.memoryoptimizer": {
@@ -50135,7 +50159,7 @@
     "id": "com.kie.vpm",
     "author": "Kie",
     "hash": "9c720b21a0d472446cbcefecd3ffddfe48df0b160a1cc2d716f8020dfadddb34",
-    "last_updated": "2026-08-31T20:42:05.000Z",
+    "last_updated": "2026-09-01T18:13:40.000Z",
     "packageCount": 3,
     "packages": {
       "com.kie.kie-mergeable-toggle": {
@@ -58346,7 +58370,7 @@
     "id": "com.mame8.vpm",
     "author": "mame8",
     "hash": "880c4bc843e71444652593ac77a1a92bd04b01453281fbe2f51c3cd1ea8bf95a",
-    "last_updated": "2026-07-02T19:27:29.000Z",
+    "last_updated": "2026-07-02T19:27:30.000Z",
     "packageCount": 3,
     "packages": {
       "com.mame8.animator-controller-context": {
@@ -63393,7 +63417,7 @@
     "id": "com.nidonocu.virtual-gryphon-packages",
     "author": "Nidonocu",
     "hash": "4f1a4e20ac1e5d3661ae57c8d3353f05d769b8999754be537975ece981b322cc",
-    "last_updated": "2026-07-03T16:56:23.000Z",
+    "last_updated": "2026-07-03T16:56:22.000Z",
     "packageCount": 1,
     "packages": {
       "com.nidonocu.vrcunitytoolbar": {
@@ -81227,7 +81251,7 @@
     "id": "chirp.reava.listings",
     "author": "Reava_",
     "hash": "741ef16424995b0c841b5b1ea6be385df118c35462b94b7bc8782c0634ab8585",
-    "last_updated": "2026-05-15T12:22:06.000Z",
+    "last_updated": "2026-05-15T12:22:07.000Z",
     "packageCount": 4,
     "packages": {
       "chirp.reava.uwutils": {
@@ -84956,7 +84980,7 @@
     "id": "dev.redline-team.redlinelist",
     "author": "RozeThorns",
     "hash": "8c61e41bc845ad48ac8b2df4fbc0df5b38f713805c599141762b5c54f4e92f8c",
-    "last_updated": "2026-09-01T02:12:29.000Z",
+    "last_updated": "2026-09-02T01:35:20.000Z",
     "packageCount": 5,
     "packages": {
       "dev.redline-team.rpm": {
@@ -85455,7 +85479,7 @@
     "id": "jp.rroki.vpm",
     "author": "rroki-0u0",
     "hash": "842c482dcb0925dc36f99ba648d5191a7246b5ee657c75c1ab8f80680027bdce",
-    "last_updated": "2026-07-16T09:06:06.000Z",
+    "last_updated": "2026-07-16T09:06:07.000Z",
     "packageCount": 5,
     "packages": {
       "jp.rroki.poiyomi-to-nontoon": {
@@ -89568,10 +89592,334 @@
     "name": "SPSNDMF VPM Listing",
     "id": "net.nrzk.vpm.spsndmf",
     "author": "niriziki",
-    "hash": "3dde34060a9dff6db5db6057a7aaeaf4dca2e0bc66a617cd58642ae986fd9717",
-    "last_updated": "2026-08-27T17:10:04.000Z",
+    "hash": "405fa7c0b774f326dd2ad90d31d56656fc871119cc00c1191b280f07711303c8",
+    "last_updated": "2026-09-01T13:35:27.000Z",
     "packageCount": 3,
     "packages": {
+      "net.nrzk.spsndmf": {
+        "id": "net.nrzk.spsndmf",
+        "name": "net.nrzk.spsndmf",
+        "displayName": "SPS for NDMF",
+        "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+        "latestVersion": "1.1419.0",
+        "versionCount": 23,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "niriziki"
+        },
+        "versions": {
+          "1.1419.0": {
+            "version": "1.1419.0",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1419.0/net.nrzk.spsndmf-1.1419.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "com.unity.nuget.newtonsoft-json": "2.0.0",
+              "nadena.dev.modular-avatar": "^1.15.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
+            }
+          },
+          "1.1426.3": {
+            "version": "1.1426.3",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1426.3/net.nrzk.spsndmf-1.1426.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "com.unity.nuget.newtonsoft-json": "2.0.0",
+              "nadena.dev.modular-avatar": "^1.15.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
+            }
+          },
+          "1.1416.1": {
+            "version": "1.1416.1",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1416.1/net.nrzk.spsndmf-1.1416.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "com.unity.nuget.newtonsoft-json": "2.0.0",
+              "nadena.dev.modular-avatar": "^1.15.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
+            }
+          },
+          "1.1426.2": {
+            "version": "1.1426.2",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1426.2/net.nrzk.spsndmf-1.1426.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "com.unity.nuget.newtonsoft-json": "2.0.0",
+              "nadena.dev.modular-avatar": "^1.15.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
+            }
+          },
+          "1.1408.1": {
+            "version": "1.1408.1",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1408.1/net.nrzk.spsndmf-1.1408.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "nadena.dev.modular-avatar": "^1.15.0"
+            }
+          },
+          "1.1419.1": {
+            "version": "1.1419.1",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1419.1/net.nrzk.spsndmf-1.1419.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "com.unity.nuget.newtonsoft-json": "2.0.0",
+              "nadena.dev.modular-avatar": "^1.15.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
+            }
+          },
+          "1.1408.2": {
+            "version": "1.1408.2",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1408.2/net.nrzk.spsndmf-1.1408.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "nadena.dev.modular-avatar": "^1.15.0"
+            }
+          },
+          "1.1416.0": {
+            "version": "1.1416.0",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1416.0/net.nrzk.spsndmf-1.1416.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "nadena.dev.modular-avatar": "^1.15.0"
+            }
+          },
+          "1.1408.0": {
+            "version": "1.1408.0",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1408.0/net.nrzk.spsndmf-1.1408.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "nadena.dev.modular-avatar": "^1.15.0"
+            }
+          },
+          "0.2.0-beta.13": {
+            "version": "0.2.0-beta.13",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.13/net.nrzk.spsndmf-0.2.0-beta.13.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "nadena.dev.modular-avatar": "^1.15.0"
+            }
+          },
+          "0.2.0-beta.12": {
+            "version": "0.2.0-beta.12",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.12/net.nrzk.spsndmf-0.2.0-beta.12.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "nadena.dev.modular-avatar": "^1.15.0"
+            }
+          },
+          "0.2.0-beta.10": {
+            "version": "0.2.0-beta.10",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.10/net.nrzk.spsndmf-0.2.0-beta.10.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "nadena.dev.modular-avatar": "^1.15.0"
+            }
+          },
+          "0.2.0-beta.11": {
+            "version": "0.2.0-beta.11",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.11/net.nrzk.spsndmf-0.2.0-beta.11.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "nadena.dev.modular-avatar": "^1.15.0"
+            }
+          },
+          "0.2.0-beta.9": {
+            "version": "0.2.0-beta.9",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.9/net.nrzk.spsndmf-0.2.0-beta.9.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "nadena.dev.modular-avatar": "^1.15.0"
+            }
+          },
+          "0.2.0-beta.8": {
+            "version": "0.2.0-beta.8",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.8/net.nrzk.spsndmf-0.2.0-beta.8.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "nadena.dev.modular-avatar": "^1.15.0"
+            }
+          },
+          "0.2.0-beta.7": {
+            "version": "0.2.0-beta.7",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.7/net.nrzk.spsndmf-0.2.0-beta.7.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "nadena.dev.modular-avatar": "^1.15.0"
+            }
+          },
+          "0.2.0-beta.6": {
+            "version": "0.2.0-beta.6",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.6/net.nrzk.spsndmf-0.2.0-beta.6.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "nadena.dev.modular-avatar": "^1.15.0"
+            }
+          },
+          "0.2.0-beta.5": {
+            "version": "0.2.0-beta.5",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.5/net.nrzk.spsndmf-0.2.0-beta.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "nadena.dev.modular-avatar": "^1.15.0"
+            }
+          },
+          "0.2.0-beta.3": {
+            "version": "0.2.0-beta.3",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.3/net.nrzk.spsndmf-0.2.0-beta.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "nadena.dev.modular-avatar": "^1.15.0"
+            }
+          },
+          "0.1.0-beta.3": {
+            "version": "0.1.0-beta.3",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.1.0-beta.3/net.nrzk.spsndmf-0.1.0-beta.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "nadena.dev.modular-avatar": "^1.15.0"
+            }
+          },
+          "0.0.1-beta.1": {
+            "version": "0.0.1-beta.1",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.0.1-beta.1/net.nrzk.spsndmf-0.0.1-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "nadena.dev.modular-avatar": "^1.15.0"
+            }
+          },
+          "0.0.1-beta.0": {
+            "version": "0.0.1-beta.0",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.0.1-beta.0/net.nrzk.spsndmf-0.0.1-beta.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "nadena.dev.modular-avatar": "^1.15.0"
+            }
+          },
+          "0.0.1-beta.2": {
+            "version": "0.0.1-beta.2",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.0.1-beta.2/net.nrzk.spsndmf-0.0.1-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "nadena.dev.modular-avatar": "^1.15.0"
+            }
+          }
+        }
+      },
       "net.nrzk.vfstub": {
         "id": "net.nrzk.vfstub",
         "name": "net.nrzk.vfstub",
@@ -89705,24 +90053,24 @@
               "com.vrchat.avatars": ">=3.7.6"
             }
           },
-          "0.1.0-beta.3": {
-            "version": "0.1.0-beta.3",
-            "name": "net.nrzk.vfstub",
-            "displayName": "VRCFury Stub",
-            "description": "Type-only stub of VRCFury's Runtime assembly. Preserves VRCFury component types (VF.* namespace, same GUIDs) so existing scenes deserialize without the full VRCFury package. No editor logic or build processing is included.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/vfstub/0.1.0-beta.3/net.nrzk.vfstub-0.1.0-beta.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6"
-            }
-          },
           "0.2.0-beta.3": {
             "version": "0.2.0-beta.3",
             "name": "net.nrzk.vfstub",
             "displayName": "VRCFury Stub",
             "description": "Type-only stub of VRCFury's Runtime assembly. Preserves VRCFury component types (VF.* namespace, same GUIDs) so existing scenes deserialize without the full VRCFury package. No editor logic or build processing is included.",
             "url": "https://github.com/niriziki/VRCFury/releases/download/vfstub/0.2.0-beta.3/net.nrzk.vfstub-0.2.0-beta.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6"
+            }
+          },
+          "0.1.0-beta.3": {
+            "version": "0.1.0-beta.3",
+            "name": "net.nrzk.vfstub",
+            "displayName": "VRCFury Stub",
+            "description": "Type-only stub of VRCFury's Runtime assembly. Preserves VRCFury component types (VF.* namespace, same GUIDs) so existing scenes deserialize without the full VRCFury package. No editor logic or build processing is included.",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/vfstub/0.1.0-beta.3/net.nrzk.vfstub-0.1.0-beta.3.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -89739,315 +90087,6 @@
             "unity": "2022.3",
             "vpmDependencies": {
               "com.vrchat.avatars": ">=3.7.6"
-            }
-          }
-        }
-      },
-      "net.nrzk.spsndmf": {
-        "id": "net.nrzk.spsndmf",
-        "name": "net.nrzk.spsndmf",
-        "displayName": "SPS for NDMF",
-        "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-        "latestVersion": "1.1426.2",
-        "versionCount": 22,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "niriziki"
-        },
-        "versions": {
-          "1.1426.2": {
-            "version": "1.1426.2",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1426.2/net.nrzk.spsndmf-1.1426.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "com.unity.nuget.newtonsoft-json": "2.0.0",
-              "nadena.dev.modular-avatar": "^1.15.0",
-              "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
-            }
-          },
-          "1.1419.0": {
-            "version": "1.1419.0",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1419.0/net.nrzk.spsndmf-1.1419.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "com.unity.nuget.newtonsoft-json": "2.0.0",
-              "nadena.dev.modular-avatar": "^1.15.0",
-              "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
-            }
-          },
-          "1.1416.1": {
-            "version": "1.1416.1",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1416.1/net.nrzk.spsndmf-1.1416.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "com.unity.nuget.newtonsoft-json": "2.0.0",
-              "nadena.dev.modular-avatar": "^1.15.0",
-              "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
-            }
-          },
-          "1.1416.0": {
-            "version": "1.1416.0",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1416.0/net.nrzk.spsndmf-1.1416.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "1.1419.1": {
-            "version": "1.1419.1",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1419.1/net.nrzk.spsndmf-1.1419.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "com.unity.nuget.newtonsoft-json": "2.0.0",
-              "nadena.dev.modular-avatar": "^1.15.0",
-              "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
-            }
-          },
-          "1.1408.1": {
-            "version": "1.1408.1",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1408.1/net.nrzk.spsndmf-1.1408.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "1.1408.2": {
-            "version": "1.1408.2",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1408.2/net.nrzk.spsndmf-1.1408.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "1.1408.0": {
-            "version": "1.1408.0",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1408.0/net.nrzk.spsndmf-1.1408.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.2.0-beta.13": {
-            "version": "0.2.0-beta.13",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.13/net.nrzk.spsndmf-0.2.0-beta.13.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.2.0-beta.12": {
-            "version": "0.2.0-beta.12",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.12/net.nrzk.spsndmf-0.2.0-beta.12.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.2.0-beta.10": {
-            "version": "0.2.0-beta.10",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.10/net.nrzk.spsndmf-0.2.0-beta.10.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.2.0-beta.9": {
-            "version": "0.2.0-beta.9",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.9/net.nrzk.spsndmf-0.2.0-beta.9.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.2.0-beta.11": {
-            "version": "0.2.0-beta.11",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.11/net.nrzk.spsndmf-0.2.0-beta.11.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.2.0-beta.8": {
-            "version": "0.2.0-beta.8",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.8/net.nrzk.spsndmf-0.2.0-beta.8.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.2.0-beta.7": {
-            "version": "0.2.0-beta.7",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.7/net.nrzk.spsndmf-0.2.0-beta.7.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.2.0-beta.6": {
-            "version": "0.2.0-beta.6",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.6/net.nrzk.spsndmf-0.2.0-beta.6.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.2.0-beta.5": {
-            "version": "0.2.0-beta.5",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.5/net.nrzk.spsndmf-0.2.0-beta.5.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.2.0-beta.3": {
-            "version": "0.2.0-beta.3",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.3/net.nrzk.spsndmf-0.2.0-beta.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.0.1-beta.1": {
-            "version": "0.0.1-beta.1",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.0.1-beta.1/net.nrzk.spsndmf-0.0.1-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.1.0-beta.3": {
-            "version": "0.1.0-beta.3",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.1.0-beta.3/net.nrzk.spsndmf-0.1.0-beta.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.0.1-beta.0": {
-            "version": "0.0.1-beta.0",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.0.1-beta.0/net.nrzk.spsndmf-0.0.1-beta.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
-          "0.0.1-beta.2": {
-            "version": "0.0.1-beta.2",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.0.1-beta.2/net.nrzk.spsndmf-0.0.1-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
             }
           }
         }
@@ -90149,12 +90188,12 @@
               "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
             }
           },
-          "0.2.0-beta.4": {
-            "version": "0.2.0-beta.4",
+          "0.2.0-beta.6": {
+            "version": "0.2.0-beta.6",
             "name": "net.nrzk.spsndmf-migrator",
             "displayName": "SPSNDMF Migrator",
             "description": "Convert SPS components between VRCFury, SPSNDMF, Modular Avatar and VRChat Contacts.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.2.0-beta.4/net.nrzk.spsndmf-migrator-0.2.0-beta.4.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.2.0-beta.6/net.nrzk.spsndmf-migrator-0.2.0-beta.6.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -90177,12 +90216,12 @@
               "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
             }
           },
-          "0.2.0-beta.6": {
-            "version": "0.2.0-beta.6",
+          "0.2.0-beta.4": {
+            "version": "0.2.0-beta.4",
             "name": "net.nrzk.spsndmf-migrator",
             "displayName": "SPSNDMF Migrator",
             "description": "Convert SPS components between VRCFury, SPSNDMF, Modular Avatar and VRChat Contacts.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.2.0-beta.6/net.nrzk.spsndmf-migrator-0.2.0-beta.6.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.2.0-beta.4/net.nrzk.spsndmf-migrator-0.2.0-beta.4.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -98218,7 +98257,7 @@
     "id": "jp.toh.package-listing",
     "author": "toh",
     "hash": "cc3967c59f319ff5c3910acb82ddac984aa9ad35b5aaec5e395d6ab2cf0dfd4f",
-    "last_updated": "2025-04-28T14:28:15.000Z",
+    "last_updated": "2025-04-28T14:28:14.000Z",
     "packageCount": 1,
     "packages": {
       "jp.toh.easy-object-switch": {
@@ -98282,7 +98321,7 @@
     "id": "io.github.tp-jp.vpm",
     "author": "tp.jp",
     "hash": "da473ccdc75356cd14e6c77e54e8be663bb1621108df5f980248e75789e4c3aa",
-    "last_updated": "2026-07-13T13:46:47.000Z",
+    "last_updated": "2026-07-13T13:46:48.000Z",
     "packageCount": 9,
     "packages": {
       "com.tp.jp.iwa-sync3-color-changer": {
@@ -100250,7 +100289,7 @@
     "id": "net.pawlygon.vcc-packages",
     "author": "Pawlygon",
     "hash": "ffddfc1a87cdf9aed91a660cbaca0e51f7f86152c9a6f89bfce1276d0295a790",
-    "last_updated": "2026-07-01T04:45:50.000Z",
+    "last_updated": "2026-07-01T04:45:49.000Z",
     "packageCount": 2,
     "packages": {
       "net.pawlygon.vrc-facetracking": {
@@ -100775,8 +100814,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "dcd1c2f34253d3e190a99be2a733f1fd99899b8a03658ef3f5f4308dde7e907f",
-    "last_updated": "2026-09-01T03:25:26.000Z",
+    "hash": "2a829315ec38ecf3d315bd85c8491d6b9ce6d18e1c94f418295fd604083ac846",
+    "last_updated": "2026-09-02T02:44:26.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -114838,7 +114877,7 @@
     "name": "32ba VPM repository",
     "id": "net.32ba.vpm",
     "author": "32ba",
-    "hash": "a0398d54c263929fa4140c55c377f9b9312f0854528d0ff7dd2f8db410bd26ed",
+    "hash": "a12f0f0c7099359012265da0a9b99408cb50b4c812418293ed6216976aa0a1c0",
     "last_updated": "2026-08-01T16:09:51.341Z",
     "packageCount": 10,
     "packages": {
@@ -114939,14 +114978,38 @@
         "name": "net.32ba.lattice-deformation-tool",
         "displayName": "Lattice Deformation Tool",
         "description": "Non-destructive layered mesh deformation for MeshRenderer and SkinnedMeshRenderer, with lattice, brush, vertex editing, BlendShape I/O, and NDMF Preview/Bake. Formerly known as Mesh Deformation Tool.",
-        "latestVersion": "1.4.5-beta.5",
-        "versionCount": 40,
+        "latestVersion": "1.4.6-beta.1",
+        "versionCount": 42,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "32ba"
         },
         "versions": {
+          "1.4.6-beta.1": {
+            "version": "1.4.6-beta.1",
+            "name": "net.32ba.lattice-deformation-tool",
+            "displayName": "Lattice Deformation Tool",
+            "description": "Non-destructive layered mesh deformation for MeshRenderer and SkinnedMeshRenderer, with lattice, brush, vertex editing, BlendShape I/O, and NDMF Preview/Bake. Formerly known as Mesh Deformation Tool.",
+            "url": "https://github.com/32ba/VRC-lattice-deformation-tool/releases/download/1.4.6-beta.1/net.32ba.lattice-deformation-tool-1.4.6-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.9.0"
+            }
+          },
+          "1.4.5": {
+            "version": "1.4.5",
+            "name": "net.32ba.lattice-deformation-tool",
+            "displayName": "Lattice Deformation Tool",
+            "description": "Non-destructive layered mesh deformation for MeshRenderer and SkinnedMeshRenderer, with lattice, brush, vertex editing, BlendShape I/O, and NDMF Preview/Bake. Formerly known as Mesh Deformation Tool.",
+            "url": "https://github.com/32ba/VRC-lattice-deformation-tool/releases/download/1.4.5/net.32ba.lattice-deformation-tool-1.4.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.9.0"
+            }
+          },
           "1.4.5-beta.5": {
             "version": "1.4.5-beta.5",
             "name": "net.32ba.lattice-deformation-tool",
@@ -127530,8 +127593,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "8c5c33f377ee9318d826f1c23d7ad6f2804d6945fec5e6ca6b2af8ec3515c0ca",
-    "last_updated": "2026-09-01T01:29:30.000Z",
+    "hash": "e99b693be9674004f20d205effe89977771d538c91bca149267f299e1e613e82",
+    "last_updated": "2026-09-02T02:40:01.000Z",
     "packageCount": 12,
     "packages": {
       "com.poiyomi.pro": {
@@ -127946,8 +128009,8 @@
         "name": "hackebein.objecttracking",
         "displayName": "Hackebein's Object Tracking",
         "description": "Hackebein's setup for Object Tracking in VRChat",
-        "latestVersion": "1.0.0-beta.17",
-        "versionCount": 30,
+        "latestVersion": "1.0.0-beta.19",
+        "versionCount": 32,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -127956,6 +128019,34 @@
           "url": "https://hackebein.de"
         },
         "versions": {
+          "1.0.0-beta.19": {
+            "version": "1.0.0-beta.19",
+            "name": "hackebein.objecttracking",
+            "displayName": "Hackebein's Object Tracking",
+            "description": "Hackebein's setup for Object Tracking in VRChat",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking/1.0.0-beta.19/ab8a449a3097a17b17d7d0e3ba0e88690b0fa84bb7d051cb1baa6563a8192850",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.9.0",
+              "com.ygdr.mdv": ">=1.2.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0"
+            }
+          },
+          "1.0.0-beta.18": {
+            "version": "1.0.0-beta.18",
+            "name": "hackebein.objecttracking",
+            "displayName": "Hackebein's Object Tracking",
+            "description": "Hackebein's setup for Object Tracking in VRChat",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking/1.0.0-beta.18/39ca42790f79bfc46fb2d9ddad2d80d955dff1574c8b19af655472ae44a698a7",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.9.0",
+              "com.ygdr.mdv": ">=1.2.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0"
+            }
+          },
           "1.0.0-beta.17": {
             "version": "1.0.0-beta.17",
             "name": "hackebein.objecttracking",
@@ -128452,8 +128543,8 @@
         "name": "hackebein.objecttracking.host",
         "displayName": "Hackebein's Object Tracking Host",
         "description": "ObjectTracking App for Hackebein's Object Tracking.",
-        "latestVersion": "1.0.0-beta.17",
-        "versionCount": 13,
+        "latestVersion": "1.0.0-beta.19",
+        "versionCount": 15,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -128462,6 +128553,26 @@
           "url": "https://hackebein.de"
         },
         "versions": {
+          "1.0.0-beta.19": {
+            "version": "1.0.0-beta.19",
+            "name": "hackebein.objecttracking.host",
+            "displayName": "Hackebein's Object Tracking Host",
+            "description": "ObjectTracking App for Hackebein's Object Tracking.",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking.host/1.0.0-beta.19/e846d89d6cf157fc8cea7205f3209d86b33aaa05b96c9811644c42204b8aaeb7",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.0.0-beta.18": {
+            "version": "1.0.0-beta.18",
+            "name": "hackebein.objecttracking.host",
+            "displayName": "Hackebein's Object Tracking Host",
+            "description": "ObjectTracking App for Hackebein's Object Tracking.",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking.host/1.0.0-beta.18/34555a4a31aa32cc02f22b31224913ba136170204a2aeb3025227c8851dba7bb",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.0.0-beta.17": {
             "version": "1.0.0-beta.17",
             "name": "hackebein.objecttracking.host",
@@ -141765,8 +141876,8 @@
     "name": "bd_",
     "id": "dev.nadena.vpm",
     "author": "bd_",
-    "hash": "1a3642d806342591bb8ecf9b1d82bfd9db7371271499a60178bd52c40f928b7a",
-    "last_updated": "2026-09-01T02:24:42.000Z",
+    "hash": "1aafbed9034ae76870f63fb9091ebc0ab85ec1740ff208580272be2e822f89c3",
+    "last_updated": "2026-09-01T04:31:32.000Z",
     "packageCount": 4,
     "packages": {
       "nadena.dev.misc-vrc-tools": {
@@ -141802,7 +141913,7 @@
         "displayName": "Modular Avatar",
         "description": null,
         "latestVersion": "0.8.0",
-        "versionCount": 191,
+        "versionCount": 192,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -143333,6 +143444,18 @@
             "displayName": "Modular Avatar",
             "description": "A suite of tools for assembling your avatar out of reusable components",
             "url": "https://packages.vpm.nadena.dev/repositories/nadena.dev/packages/nadena.dev.modular-avatar/1.18.7/a627cb84ac6012ecff719566e7f57cdda6452d74193922dffd01d19e7bf31ed9.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.14.7 <2.0.0-a"
+            }
+          },
+          "1.19.0-alpha.0": {
+            "version": "1.19.0-alpha.0",
+            "name": "nadena.dev.modular-avatar",
+            "displayName": "Modular Avatar",
+            "description": "A suite of tools for assembling your avatar out of reusable components",
+            "url": "https://packages.vpm.nadena.dev/repositories/nadena.dev/packages/nadena.dev.modular-avatar/1.19.0-alpha.0/a8f1f074f41aed3e31e9ae6346f88765b24af2907cfffce991f5f618feb4c024.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -162203,7 +162326,7 @@
     "id": "dev.thry.vpm",
     "author": "Thryrallo",
     "hash": "0189583cd590af92f6337bf072cfea3211c6a3ca90738536d8f30bcd5fab82cb",
-    "last_updated": "2024-08-05T22:13:00.000Z",
+    "last_updated": "2024-08-05T22:13:01.000Z",
     "packageCount": 1,
     "packages": {
       "de.thryrallo.vrc.avatar-performance-tools": {
@@ -162937,8 +163060,8 @@
     "name": "WhyKnot Tools",
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
-    "hash": "7c310ec245c5589a15cd3c9a58f8ae4aed2547f622c4a0ee3286e53de5e46b41",
-    "last_updated": "2026-08-31T12:08:24.000Z",
+    "hash": "6a38048d2a6d1b4b44bf8ff2bf8caad3acd495583022ab9214ed0283b2c8fbd5",
+    "last_updated": "2026-09-01T10:45:44.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -169963,7 +170086,7 @@
     "id": "io.github.vrclearn.filamented",
     "author": "VRCLearn",
     "hash": "d95bfd61bdae0c13d0f4641ce418f9df0a7144adfd8887aaf25614cc41896ac7",
-    "last_updated": "2026-08-24T09:39:05.000Z",
+    "last_updated": "2026-09-02T00:57:45.000Z",
     "packageCount": 1,
     "packages": {
       "s-ilent.filamented": {
@@ -170041,8 +170164,8 @@
     "name": "TXL Prefab VPM Packages",
     "id": "com.texelsaur.vpm",
     "author": "Texelsaur",
-    "hash": "c3b899b9eed93d79d172b4e9ef90dff2719751b38eb7d69994eca09bc92b6445",
-    "last_updated": "2026-08-31T06:50:53.000Z",
+    "hash": "387a2807f7542fda2ec61fc7d7413a5cd178939f86ae5a3f7763f37128c7fadd",
+    "last_updated": "2026-09-01T04:35:17.000Z",
     "packageCount": 7,
     "packages": {
       "com.texelsaur.access": {
@@ -170234,8 +170357,8 @@
         "name": "com.texelsaur.common",
         "displayName": "TXL - CommonTXL",
         "description": "Common components and base classes for TXL projects",
-        "latestVersion": "2.1.0",
-        "versionCount": 31,
+        "latestVersion": "2.1.1",
+        "versionCount": 32,
         "keywords": [],
         "unity": null,
         "author": {
@@ -170244,6 +170367,17 @@
           "url": "https://texelsaurus.com"
         },
         "versions": {
+          "2.1.1": {
+            "version": "2.1.1",
+            "name": "com.texelsaur.common",
+            "displayName": "TXL - CommonTXL",
+            "description": "Common components and base classes for TXL projects",
+            "url": "https://github.com/vrctxl/CommonTXL/releases/download/2.1.1/com.texelsaur.common-2.1.1.zip",
+            "zipSha256": null,
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.8.0"
+            }
+          },
           "2.1.0": {
             "version": "2.1.0",
             "name": "com.texelsaur.common",
@@ -170790,8 +170924,8 @@
         "name": "com.texelsaur.video",
         "displayName": "TXL - VideoTXL",
         "description": "Highly configurable general purpose sync and non-sync video players.",
-        "latestVersion": "2.6.0-beta.1",
-        "versionCount": 65,
+        "latestVersion": "2.6.0-beta.2",
+        "versionCount": 66,
         "keywords": [],
         "unity": null,
         "author": {
@@ -170800,6 +170934,17 @@
           "url": "https://texelsaurus.com"
         },
         "versions": {
+          "2.6.0-beta.2": {
+            "version": "2.6.0-beta.2",
+            "name": "com.texelsaur.video",
+            "displayName": "TXL - VideoTXL",
+            "description": "Highly configurable general purpose sync and non-sync video players.",
+            "url": "https://github.com/vrctxl/VideoTXL/releases/download/2.6.0-beta.2/com.texelsaur.video-2.6.0-beta.2.zip",
+            "zipSha256": null,
+            "vpmDependencies": {
+              "com.texelsaur.common": "^2.1.1"
+            }
+          },
           "2.6.0-beta.1": {
             "version": "2.6.0-beta.1",
             "name": "com.texelsaur.video",
@@ -178875,9 +179020,9 @@
     "name": "you5248 VPM Listing",
     "id": "com.you5248.vpm",
     "author": "you5248",
-    "hash": "3aeb1b8ecab168010299d1f52f51a9db9e961db32d9f158737297dbc0d00ab37",
-    "last_updated": "2026-08-22T17:25:15.000Z",
-    "packageCount": 1,
+    "hash": "e53f5e67ea2765b0b3481bdb5799c0e9a920410328c39e525fcdebd4ba55cd7a",
+    "last_updated": "2026-09-02T02:33:38.000Z",
+    "packageCount": 2,
     "packages": {
       "com.you5248.dhk-shaders": {
         "id": "com.you5248.dhk-shaders",
@@ -178901,6 +179046,46 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {}
+          }
+        }
+      },
+      "com.you5248.tools": {
+        "id": "com.you5248.tools",
+        "name": "com.you5248.tools",
+        "displayName": "you5248 Tools",
+        "description": "VRChatワールド制作用ツール集。LOD生成、メッシュ結合・アトラス化、Quest移植支援、オブジェクトペインタ、シーン→プレハブ一括化などのエディタ拡張と、自動ドア・ピックアップキット・ループテレポート等のUdonギミック、植生・Quest向けシェーダー（Built-in RP用）を含む。",
+        "latestVersion": "1.0.2",
+        "versionCount": 2,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "you5248"
+        },
+        "versions": {
+          "1.0.2": {
+            "version": "1.0.2",
+            "name": "com.you5248.tools",
+            "displayName": "you5248 Tools",
+            "description": "VRChatワールド制作用ツール集。LOD生成、メッシュ結合・アトラス化、Quest移植支援、オブジェクトペインタ、シーン→プレハブ一括化などのエディタ拡張と、自動ドア・ピックアップキット・ループテレポート等のUdonギミック、植生・Quest向けシェーダー（Built-in RP用）を含む。",
+            "url": "https://github.com/you5248/you5248-tools/releases/download/v1.0.2/com.you5248.tools-1.0.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.4",
+              "com.you5248.dhk-shaders": "^1.4.1"
+            }
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.you5248.tools",
+            "displayName": "you5248 Tools",
+            "description": "VRChatワールド制作用の自作ツール群。LOD生成、メッシュ結合・アトラス化、Quest移植支援、オブジェクトペインタ、シーン→プレハブ一括化などのエディタツールと、自動ドア・ピックアップキット・シームレスループテレポート等のUdonギミックを含む。",
+            "url": "https://github.com/you5248/you5248-tools/releases/download/v1.0.0/com.you5248.tools-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.you5248.dhk-shaders": "^1.4.1"
+            }
           }
         }
       }
@@ -183416,8 +183601,8 @@
     "name": "bd_",
     "id": "dev.nadena.vpm",
     "author": "bd_",
-    "hash": "1a3642d806342591bb8ecf9b1d82bfd9db7371271499a60178bd52c40f928b7a",
-    "last_updated": "2026-09-01T02:24:42.000Z",
+    "hash": "1aafbed9034ae76870f63fb9091ebc0ab85ec1740ff208580272be2e822f89c3",
+    "last_updated": "2026-09-01T04:31:32.000Z",
     "packageCount": 4,
     "packages": {
       "nadena.dev.misc-vrc-tools": {
@@ -183453,7 +183638,7 @@
         "displayName": "Modular Avatar",
         "description": null,
         "latestVersion": "0.8.0",
-        "versionCount": 191,
+        "versionCount": 192,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -184984,6 +185169,18 @@
             "displayName": "Modular Avatar",
             "description": "A suite of tools for assembling your avatar out of reusable components",
             "url": "https://packages.vpm.nadena.dev/repositories/nadena.dev/packages/nadena.dev.modular-avatar/1.18.7/a627cb84ac6012ecff719566e7f57cdda6452d74193922dffd01d19e7bf31ed9.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.14.7 <2.0.0-a"
+            }
+          },
+          "1.19.0-alpha.0": {
+            "version": "1.19.0-alpha.0",
+            "name": "nadena.dev.modular-avatar",
+            "displayName": "Modular Avatar",
+            "description": "A suite of tools for assembling your avatar out of reusable components",
+            "url": "https://packages.vpm.nadena.dev/repositories/nadena.dev/packages/nadena.dev.modular-avatar/1.19.0-alpha.0/a8f1f074f41aed3e31e9ae6346f88765b24af2907cfffce991f5f618feb4c024.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
