@@ -14937,8 +14937,8 @@
     "name": "PBReplacer",
     "id": "jp.colloid.pbreplacer",
     "author": "colloid",
-    "hash": "d4a6c68e3d0c6aedb2d9b1bbc1f62e9fada7578d6095947dbf16466133dacbf4",
-    "last_updated": "2026-07-21T03:13:53.000Z",
+    "hash": "aa93be5494c04551540dc846ce65b8367e49d3ceae227649fb74c178f34d2715",
+    "last_updated": "2026-09-02T17:35:55.000Z",
     "packageCount": 1,
     "packages": {
       "jp.colloid.pbreplacer": {
@@ -14946,14 +14946,25 @@
         "name": "jp.colloid.pbreplacer",
         "displayName": "PBReplacer",
         "description": "PhysBoneとPhysBoneColliderを整理するUnity拡張。\n1オブジェクト＝1コンポーネントに置換。",
-        "latestVersion": "3.0.0-beta.7",
-        "versionCount": 35,
+        "latestVersion": "3.0.0-beta.8",
+        "versionCount": 36,
         "keywords": [],
         "unity": null,
         "author": {
           "name": "ｺﾛｲﾄﾞ"
         },
         "versions": {
+          "3.0.0-beta.8": {
+            "version": "3.0.0-beta.8",
+            "name": "jp.colloid.pbreplacer",
+            "displayName": "PBReplacer",
+            "description": "PhysBoneとPhysBoneColliderを整理するUnity拡張。\n1オブジェクト＝1コンポーネントに置換。",
+            "url": "https://github.com/c-colloid/PBReplacer-VPM/releases/download/3.0.0-beta.8/PBReplacer_v3.0.0-beta.8.zip",
+            "zipSha256": null,
+            "vpmDependencies": {
+              "com.vrchat.avatars": ""
+            }
+          },
           "3.0.0-beta.7": {
             "version": "3.0.0-beta.7",
             "name": "jp.colloid.pbreplacer",
@@ -25588,7 +25599,7 @@
     "id": "com.furality.repos.official",
     "author": "Furality, Inc.",
     "hash": "1f058d849e3d6f8fbf1320164b63cd1f1019b43a7993a1adfa11f274f8288e49",
-    "last_updated": "2026-08-08T02:49:09.000Z",
+    "last_updated": "2026-08-08T02:49:10.000Z",
     "packageCount": 3,
     "packages": {
       "com.furality.sylvashader": {
@@ -29277,8 +29288,8 @@
     "name": "Guribo's VPM Listing",
     "id": "tlp.vcc-listing",
     "author": "Guribo",
-    "hash": "846e8a095a840a051a278224e9830dd9bb7b9a0cb26a55dcac82e8211e1bc8e4",
-    "last_updated": "2026-08-30T22:56:26.000Z",
+    "hash": "4bf65063ef2b89d79311483c131800ea8fcbfff7e40769121f305241914dd708",
+    "last_updated": "2026-09-02T17:02:15.000Z",
     "packageCount": 8,
     "packages": {
       "tlp.udonavltree": {
@@ -29620,8 +29631,8 @@
         "name": "tlp.udonutils",
         "displayName": "TLP UdonUtils",
         "description": "Contains the base scripts/tools for TLP packages as well as prefabs and potentially helpful scripts for VRChat worlds.",
-        "latestVersion": "15.0.2",
-        "versionCount": 58,
+        "latestVersion": "15.0.3",
+        "versionCount": 59,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -29629,6 +29640,18 @@
           "url": "https://github.com/Guribo"
         },
         "versions": {
+          "15.0.3": {
+            "version": "15.0.3",
+            "name": "tlp.udonutils",
+            "displayName": "TLP UdonUtils",
+            "description": "Contains the base scripts/tools for TLP packages as well as prefabs and potentially helpful scripts for VRChat worlds.",
+            "url": "https://github.com/Guribo/UdonUtils/releases/download/15.0.3/tlp.udonutils-15.0.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.3"
+            }
+          },
           "15.0.2": {
             "version": "15.0.2",
             "name": "tlp.udonutils",
@@ -30378,8 +30401,8 @@
         "name": "tlp.udonvoiceutils",
         "displayName": "TLP UdonVoiceUtils",
         "description": "Contains a collection of player voice related scripts/components for VRChat worlds.",
-        "latestVersion": "6.0.0",
-        "versionCount": 23,
+        "latestVersion": "7.0.0",
+        "versionCount": 24,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -30387,6 +30410,19 @@
           "url": "https://github.com/Guribo"
         },
         "versions": {
+          "7.0.0": {
+            "version": "7.0.0",
+            "name": "tlp.udonvoiceutils",
+            "displayName": "TLP UdonVoiceUtils",
+            "description": "Contains a collection of player voice related scripts/components for VRChat worlds.",
+            "url": "https://github.com/Guribo/UdonVoiceUtils/releases/download/7.0.0/tlp.udonvoiceutils-7.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "tlp.udonutils": "^15.0.3",
+              "tlp.udonavltree": "^2.0.0"
+            }
+          },
           "6.0.0": {
             "version": "6.0.0",
             "name": "tlp.udonvoiceutils",
@@ -31050,8 +31086,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "85bb73e2a2ba7ba0378f9b26e951826fae885b4967be4ea78a999761427e831f",
-    "last_updated": "2026-09-01T19:57:19.000Z",
+    "hash": "e99b693be9674004f20d205effe89977771d538c91bca149267f299e1e613e82",
+    "last_updated": "2026-09-02T02:40:01.000Z",
     "packageCount": 12,
     "packages": {
       "com.poiyomi.pro": {
@@ -31466,8 +31502,8 @@
         "name": "hackebein.objecttracking",
         "displayName": "Hackebein's Object Tracking",
         "description": "Hackebein's setup for Object Tracking in VRChat",
-        "latestVersion": "1.0.0-beta.18",
-        "versionCount": 31,
+        "latestVersion": "1.0.0-beta.19",
+        "versionCount": 32,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -31476,6 +31512,20 @@
           "url": "https://hackebein.de"
         },
         "versions": {
+          "1.0.0-beta.19": {
+            "version": "1.0.0-beta.19",
+            "name": "hackebein.objecttracking",
+            "displayName": "Hackebein's Object Tracking",
+            "description": "Hackebein's setup for Object Tracking in VRChat",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking/1.0.0-beta.19/ab8a449a3097a17b17d7d0e3ba0e88690b0fa84bb7d051cb1baa6563a8192850",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.9.0",
+              "com.ygdr.mdv": ">=1.2.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0"
+            }
+          },
           "1.0.0-beta.18": {
             "version": "1.0.0-beta.18",
             "name": "hackebein.objecttracking",
@@ -31986,8 +32036,8 @@
         "name": "hackebein.objecttracking.host",
         "displayName": "Hackebein's Object Tracking Host",
         "description": "ObjectTracking App for Hackebein's Object Tracking.",
-        "latestVersion": "1.0.0-beta.18",
-        "versionCount": 14,
+        "latestVersion": "1.0.0-beta.19",
+        "versionCount": 15,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -31996,6 +32046,16 @@
           "url": "https://hackebein.de"
         },
         "versions": {
+          "1.0.0-beta.19": {
+            "version": "1.0.0-beta.19",
+            "name": "hackebein.objecttracking.host",
+            "displayName": "Hackebein's Object Tracking Host",
+            "description": "ObjectTracking App for Hackebein's Object Tracking.",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking.host/1.0.0-beta.19/e846d89d6cf157fc8cea7205f3209d86b33aaa05b96c9811644c42204b8aaeb7",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.0.0-beta.18": {
             "version": "1.0.0-beta.18",
             "name": "hackebein.objecttracking.host",
@@ -37879,7 +37939,7 @@
     "id": "io.github.helpinghandsvr.vpm",
     "author": "Helping Hands",
     "hash": "d3cba140edcf3cb5c17c4b6034085a4238c0dbbd2ce98b5f097b608968bff8fb",
-    "last_updated": "2026-07-03T13:20:29.000Z",
+    "last_updated": "2026-07-03T13:20:30.000Z",
     "packageCount": 2,
     "packages": {
       "io.github.helpinghandsvr.helpinghands-vrchat-avatar-accessories": {
@@ -40695,7 +40755,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "680029c772846cb5e5b7331c6f399296d7c3d340058c68c9f48e255a6fa8e65e",
-    "last_updated": "2026-09-01T08:43:23.000Z",
+    "last_updated": "2026-09-02T07:58:09.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -42548,7 +42608,7 @@
     "id": "com.vrsive.avatar-exporter.listing",
     "author": "VRSive",
     "hash": "6e4fddf38f8f4986ffa38df8646ea79db089e58aa357f4991002a8cab32a4717",
-    "last_updated": "2026-06-12T12:24:23.000Z",
+    "last_updated": "2026-06-12T12:24:24.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrsive.avatar-exporter": {
@@ -50159,7 +50219,7 @@
     "id": "com.kie.vpm",
     "author": "Kie",
     "hash": "9c720b21a0d472446cbcefecd3ffddfe48df0b160a1cc2d716f8020dfadddb34",
-    "last_updated": "2026-09-01T18:13:40.000Z",
+    "last_updated": "2026-09-02T18:28:13.000Z",
     "packageCount": 3,
     "packages": {
       "com.kie.kie-mergeable-toggle": {
@@ -50401,7 +50461,7 @@
     "id": "com.kikurage1989.utilsscript",
     "author": "kikurage1989_",
     "hash": "a479bbbb44186c8db52473fa68813010d0cde6afd082f97f0ee93a79ee10ca50",
-    "last_updated": "2026-07-30T11:03:58.000Z",
+    "last_updated": "2026-07-30T11:03:57.000Z",
     "packageCount": 2,
     "packages": {
       "com.kikurage1989.utilsscript": {
@@ -53961,7 +54021,7 @@
     "id": "net.euan.lazyoptimiser.listing",
     "author": "euan142",
     "hash": "6a0b4ea94d87ae345649306e6fda40f7bd86325206e58e1a4c5943450a9fe4ee",
-    "last_updated": "2025-02-20T10:25:21.000Z",
+    "last_updated": "2025-02-20T10:25:22.000Z",
     "packageCount": 1,
     "packages": {
       "net.euan.lazyoptimiser": {
@@ -54066,7 +54126,7 @@
     "id": "lereldarion",
     "author": "Lereldarion",
     "hash": "fa9cc79e70fb00eb2aa70863c05e008271c255affd1e14192f26540239c3a213",
-    "last_updated": "2026-06-25T19:36:14.000Z",
+    "last_updated": "2026-06-25T19:36:15.000Z",
     "packageCount": 2,
     "packages": {
       "lereldarion.unity-shaders": {
@@ -58370,7 +58430,7 @@
     "id": "com.mame8.vpm",
     "author": "mame8",
     "hash": "880c4bc843e71444652593ac77a1a92bd04b01453281fbe2f51c3cd1ea8bf95a",
-    "last_updated": "2026-07-02T19:27:30.000Z",
+    "last_updated": "2026-07-02T19:27:29.000Z",
     "packageCount": 3,
     "packages": {
       "com.mame8.animator-controller-context": {
@@ -58524,7 +58584,7 @@
     "id": "com.mattshark.openflight.repo",
     "author": "Mattshark89, Happyrobot33",
     "hash": "2659e37b23cc128e891c29a39e5bccda5a60665b585cf2406941eca4e5123520",
-    "last_updated": "2026-08-10T04:25:29.000Z",
+    "last_updated": "2026-08-10T04:25:27.000Z",
     "packageCount": 1,
     "packages": {
       "com.mattshark.openflight": {
@@ -63417,7 +63477,7 @@
     "id": "com.nidonocu.virtual-gryphon-packages",
     "author": "Nidonocu",
     "hash": "4f1a4e20ac1e5d3661ae57c8d3353f05d769b8999754be537975ece981b322cc",
-    "last_updated": "2026-07-03T16:56:22.000Z",
+    "last_updated": "2026-07-03T16:56:21.000Z",
     "packageCount": 1,
     "packages": {
       "com.nidonocu.vrcunitytoolbar": {
@@ -77997,7 +78057,7 @@
     "id": "com.fracfloor.vpm-listing",
     "author": "raii",
     "hash": "bb8a1fb4b6497e28d58d8f4ed220692da23d2202d1dad6f3725f0921d2c66b57",
-    "last_updated": "2026-07-03T11:55:03.000Z",
+    "last_updated": "2026-07-03T11:55:04.000Z",
     "packageCount": 1,
     "packages": {
       "com.fracfloor.timeline-beat-marker": {
@@ -81250,8 +81310,8 @@
     "name": "Reava's listings",
     "id": "chirp.reava.listings",
     "author": "Reava_",
-    "hash": "741ef16424995b0c841b5b1ea6be385df118c35462b94b7bc8782c0634ab8585",
-    "last_updated": "2026-05-15T12:22:07.000Z",
+    "hash": "8822d25c4ffe64978f57747e51edffaebe046a83c53695650690954ff6bde515",
+    "last_updated": "2026-09-02T15:01:09.000Z",
     "packageCount": 4,
     "packages": {
       "chirp.reava.uwutils": {
@@ -81259,8 +81319,8 @@
         "name": "chirp.reava.uwutils",
         "displayName": "UwUtils",
         "description": "A collection of -almost- niche UdonSharp scripts as an (almost) all in one Toolkit for World Creators with more than 30 scripts, supports persistence and more.",
-        "latestVersion": "1.0.0-pre.23",
-        "versionCount": 22,
+        "latestVersion": "1.0.0-pre.24",
+        "versionCount": 23,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -81269,6 +81329,18 @@
           "url": "https://github.com/Reava"
         },
         "versions": {
+          "1.0.0-pre.24": {
+            "version": "1.0.0-pre.24",
+            "name": "chirp.reava.uwutils",
+            "displayName": "UwUtils",
+            "description": "A collection of -almost- niche UdonSharp scripts as an (almost) all in one Toolkit for World Creators with more than 30 scripts, supports persistence and more.",
+            "url": "https://github.com/Reava/UwUtils/releases/download/1.0.0-pre.24/chirp.reava.uwutils-1.0.0-pre.24.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.7.4"
+            }
+          },
           "1.0.0-pre.23": {
             "version": "1.0.0-pre.23",
             "name": "chirp.reava.uwutils",
@@ -84980,7 +85052,7 @@
     "id": "dev.redline-team.redlinelist",
     "author": "RozeThorns",
     "hash": "8c61e41bc845ad48ac8b2df4fbc0df5b38f713805c599141762b5c54f4e92f8c",
-    "last_updated": "2026-09-02T01:35:20.000Z",
+    "last_updated": "2026-09-03T01:39:07.000Z",
     "packageCount": 5,
     "packages": {
       "dev.redline-team.rpm": {
@@ -85479,7 +85551,7 @@
     "id": "jp.rroki.vpm",
     "author": "rroki-0u0",
     "hash": "842c482dcb0925dc36f99ba648d5191a7246b5ee657c75c1ab8f80680027bdce",
-    "last_updated": "2026-07-16T09:06:07.000Z",
+    "last_updated": "2026-07-16T09:06:06.000Z",
     "packageCount": 5,
     "packages": {
       "jp.rroki.poiyomi-to-nontoon": {
@@ -86136,8 +86208,8 @@
     "name": "SabaShader",
     "id": "io.github.sabas0ba.vpm",
     "author": "sabas0ba",
-    "hash": "32e00af36dd89c9bd85d19cc0f2e2ab89c0f969b4807646e4780c1a60d5404af",
-    "last_updated": "2026-08-28T17:38:19.000Z",
+    "hash": "3f82c52fe2d9aacdda69e320d7c78b785ee0e52fbae7a2e2e614201637b47704",
+    "last_updated": "2026-09-02T10:43:12.000Z",
     "packageCount": 1,
     "packages": {
       "io.github.sabas0ba.sabashader": {
@@ -86145,8 +86217,8 @@
         "name": "io.github.sabas0ba.sabashader",
         "displayName": "SabaShader",
         "description": "Shader Core をベースにした VRChat 向けシェーダー集。第一弾は 2D イラスト風トゥーンシェーダー Illust2D。",
-        "latestVersion": "0.4.0",
-        "versionCount": 3,
+        "latestVersion": "0.5.0",
+        "versionCount": 4,
         "keywords": [
           "vrchat",
           "shader",
@@ -86159,6 +86231,18 @@
           "url": "https://github.com/sabas0ba"
         },
         "versions": {
+          "0.5.0": {
+            "version": "0.5.0",
+            "name": "io.github.sabas0ba.sabashader",
+            "displayName": "SabaShader",
+            "description": "Shader Core をベースにした VRChat 向けシェーダー集。第一弾は 2D イラスト風トゥーンシェーダー Illust2D。",
+            "url": "https://github.com/sabas0ba/vrc_sabashader/releases/download/0.5.0/io.github.sabas0ba.sabashader-0.5.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "jp.lilxyzw.shadercore": ">=0.1.9"
+            }
+          },
           "0.4.0": {
             "version": "0.4.0",
             "name": "io.github.sabas0ba.sabashader",
@@ -87544,7 +87628,7 @@
     "id": "semmiedev.listing",
     "author": "SemmieDev",
     "hash": "764b234bce8d42c19ee898db4f726192706cfc034cfa348a8593e2579a2d0091",
-    "last_updated": "2026-07-06T07:55:28.000Z",
+    "last_updated": "2026-07-06T07:55:29.000Z",
     "packageCount": 2,
     "packages": {
       "semmiedev.friend-pov": {
@@ -88610,7 +88694,7 @@
     "id": "com.mizore-nekoyanagi.vpm-packages",
     "author": "Mizore Nekoyanagi",
     "hash": "df5c206bda4082fc4825f6e0002aea2319d15d80cf9dc71813ef06fb4db812e7",
-    "last_updated": "2026-02-19T08:55:54.000Z",
+    "last_updated": "2026-02-19T08:55:53.000Z",
     "packageCount": 4,
     "packages": {
       "com.mizore-nekoyanagi.utils.apply-prefab-window": {
@@ -98257,7 +98341,7 @@
     "id": "jp.toh.package-listing",
     "author": "toh",
     "hash": "cc3967c59f319ff5c3910acb82ddac984aa9ad35b5aaec5e395d6ab2cf0dfd4f",
-    "last_updated": "2025-04-28T14:28:14.000Z",
+    "last_updated": "2025-04-28T14:28:15.000Z",
     "packageCount": 1,
     "packages": {
       "jp.toh.easy-object-switch": {
@@ -98321,7 +98405,7 @@
     "id": "io.github.tp-jp.vpm",
     "author": "tp.jp",
     "hash": "da473ccdc75356cd14e6c77e54e8be663bb1621108df5f980248e75789e4c3aa",
-    "last_updated": "2026-07-13T13:46:48.000Z",
+    "last_updated": "2026-07-13T13:46:47.000Z",
     "packageCount": 9,
     "packages": {
       "com.tp.jp.iwa-sync3-color-changer": {
@@ -100289,7 +100373,7 @@
     "id": "net.pawlygon.vcc-packages",
     "author": "Pawlygon",
     "hash": "ffddfc1a87cdf9aed91a660cbaca0e51f7f86152c9a6f89bfce1276d0295a790",
-    "last_updated": "2026-07-01T04:45:49.000Z",
+    "last_updated": "2026-07-01T04:45:50.000Z",
     "packageCount": 2,
     "packages": {
       "net.pawlygon.vrc-facetracking": {
@@ -100751,7 +100835,7 @@
     "id": "co.raphii.vpm-listing",
     "author": "Raphiiko",
     "hash": "13d7c0741bdb67306d4706066396ddccd4188238b4335f6b126e26cf84767a0b",
-    "last_updated": "2026-07-03T23:15:32.000Z",
+    "last_updated": "2026-07-03T23:15:31.000Z",
     "packageCount": 1,
     "packages": {
       "co.raphii.vrti.avatarmenu": {
@@ -100814,8 +100898,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "2a829315ec38ecf3d315bd85c8491d6b9ce6d18e1c94f418295fd604083ac846",
-    "last_updated": "2026-09-02T02:44:26.000Z",
+    "hash": "f08607f51c942149fcb595f4865856f6c7306e299154556f0eeacda3007e283f",
+    "last_updated": "2026-09-03T02:49:38.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -114253,7 +114337,7 @@
     "id": "com.vixencreations.vixens-toolbox.listing",
     "author": "Vixenlicous",
     "hash": "3ae07fc50f5be9f3aa6c39e571d7a0ebbfcf2fbc099514a507296028e4d18c7c",
-    "last_updated": "2026-08-30T23:23:50.000Z",
+    "last_updated": "2026-09-02T13:40:01.000Z",
     "packageCount": 1,
     "packages": {
       "com.vixencreations.vixens-toolbox": {
@@ -123627,7 +123711,7 @@
     "id": "org.azuretek.vpm",
     "author": "kobi32768",
     "hash": "9afa17a9cee430b616075de3b61791fa9b017b425564b6b56bd38722425d00db",
-    "last_updated": "2026-08-30T09:30:06.000Z",
+    "last_updated": "2026-09-02T11:46:32.000Z",
     "packageCount": 1,
     "packages": {
       "org.azuretek.copy-transform-shortcut": {
@@ -138916,7 +139000,7 @@
     "id": "com.micksam7.vpm",
     "author": "Micca",
     "hash": "28148f3419e38143920ae19b3a3dd4a57a632a36728aa26382a61c71e69f2550",
-    "last_updated": "2026-07-03T02:20:29.000Z",
+    "last_updated": "2026-07-03T02:20:28.000Z",
     "packageCount": 1,
     "packages": {
       "com.micksam7.mididmx": {
@@ -163060,8 +163144,8 @@
     "name": "WhyKnot Tools",
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
-    "hash": "6a38048d2a6d1b4b44bf8ff2bf8caad3acd495583022ab9214ed0283b2c8fbd5",
-    "last_updated": "2026-09-01T10:45:44.000Z",
+    "hash": "2470cf25282b2b2ec0a95dafc4751feb0093e3f5548677131de0ca76b07e87ad",
+    "last_updated": "2026-09-02T10:10:38.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -170085,8 +170169,8 @@
     "name": "Filamented | VRCLearn",
     "id": "io.github.vrclearn.filamented",
     "author": "VRCLearn",
-    "hash": "d95bfd61bdae0c13d0f4641ce418f9df0a7144adfd8887aaf25614cc41896ac7",
-    "last_updated": "2026-09-02T00:57:45.000Z",
+    "hash": "5a993805406d5aefcfa7f2ff4f23bb073ee78027c71ccca924cb8b04ca7004b1",
+    "last_updated": "2026-09-03T01:37:06.000Z",
     "packageCount": 1,
     "packages": {
       "s-ilent.filamented": {
@@ -170109,7 +170193,7 @@
             "name": "s-ilent.filamented",
             "displayName": "Filamented",
             "description": "A transposal of the shaders from Google's Filament renderer over the framework of Unity's Standard shader to allow for higher quality rendering in Unity.",
-            "url": "https://github.com/VRCLearn/filamented/releases/download/vpm-1.4.0/s-ilent.filamented-1.4.0.zip",
+            "url": "https://github.com/VRCLearn/filamented/releases/download/1.4.0/s-ilent.filamented-1.4.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {}
@@ -170123,8 +170207,8 @@
     "name": "HierarchyDecorator | VRCLearn",
     "id": "io.github.vrclearn.hierarchydecorator",
     "author": "VRCLearn",
-    "hash": "75ad71372fd0598ef63d127e647dc271c15312abbae2f4818ab4c9331bfa696a",
-    "last_updated": "2026-08-24T09:39:10.000Z",
+    "hash": "6c1c0c80c75d86347736a0b52e8182adb87292c37bd1bef0e7b8def28893b58e",
+    "last_updated": "2026-09-03T01:36:23.000Z",
     "packageCount": 1,
     "packages": {
       "com.wooshii.hierarchydecorator": {
@@ -170150,7 +170234,7 @@
             "name": "com.wooshii.hierarchydecorator",
             "displayName": "HierarchyDecorator",
             "description": "HierarchyDecorator is an extension for the Unity Hierarchy that enhances its utility.",
-            "url": "https://github.com/VRCLearn/HierarchyDecorator/releases/download/v0.12.1/com.wooshii.hierarchydecorator-0.12.1.zip",
+            "url": "https://github.com/VRCLearn/HierarchyDecorator/releases/download/0.12.1/com.wooshii.hierarchydecorator-0.12.1.zip",
             "zipSha256": null,
             "unity": "2018.4",
             "vpmDependencies": {}
@@ -179909,8 +179993,8 @@
     "name": "z3y's packages",
     "id": "io.github.z3y.vpm-package-listing",
     "author": "z3y",
-    "hash": "b5bc9e290ceaf390410a2977ee74e9498e291bb1bb4d08530ce9c415d9595560",
-    "last_updated": "2026-08-24T10:03:27.000Z",
+    "hash": "531be78f1f8a6fb86a734c4cc9712bed31ac405ba14baa11777d8d95a05bd983",
+    "last_updated": "2026-09-02T16:36:23.000Z",
     "packageCount": 8,
     "packages": {
       "com.z3y.graphlit": {
@@ -181611,8 +181695,8 @@
         "name": "io.github.z3y.glim",
         "displayName": "Glim Lightmapper",
         "description": "Lightmap Baker",
-        "latestVersion": "0.6.1",
-        "versionCount": 9,
+        "latestVersion": "0.6.2",
+        "versionCount": 10,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -181620,6 +181704,16 @@
           "url": "https://github.com/z3y"
         },
         "versions": {
+          "0.6.2": {
+            "version": "0.6.2",
+            "name": "io.github.z3y.glim",
+            "displayName": "Glim Lightmapper",
+            "description": "Lightmap Baker",
+            "url": "https://github.com/z3y/glim/releases/download/v0.6.2/io.github.z3y.glim-0.6.2.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "0.6.1": {
             "version": "0.6.1",
             "name": "io.github.z3y.glim",
@@ -182640,8 +182734,8 @@
     "name": "Poiyomi's VPM Repo",
     "id": "io.github.poiyomi.vpm",
     "author": "Poiyomi",
-    "hash": "160eec76dabc4a8bd600e4bcf9325c8fc539df3c1e3b2968c224f417683c022d",
-    "last_updated": "2026-08-30T15:52:35.000Z",
+    "hash": "7e430404e9dd9beaf9022c70bf0c5e536356225cffc1706dbefb850b7752ceeb",
+    "last_updated": "2026-09-03T01:17:12.000Z",
     "packageCount": 3,
     "packages": {
       "com.poiyomi.toon": {
@@ -183355,8 +183449,8 @@
         "name": "com.poiyomi.thryeditor",
         "displayName": "ThryEditor",
         "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
-        "latestVersion": "2.73.7",
-        "versionCount": 21,
+        "latestVersion": "2.73.8",
+        "versionCount": 22,
         "keywords": [],
         "unity": "2021.3",
         "author": {
@@ -183364,6 +183458,16 @@
           "url": "https://www.poiyomi.com"
         },
         "versions": {
+          "2.73.8": {
+            "version": "2.73.8",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://github.com/poiyomi/ThryEditor/releases/download/2.73.8/com.poiyomi.thryeditor-2.73.8.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
           "2.73.7": {
             "version": "2.73.7",
             "name": "com.poiyomi.thryeditor",
