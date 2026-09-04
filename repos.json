@@ -1735,8 +1735,8 @@
     "name": "An-Labo NailTool",
     "id": "world.anlabo.mdnailtool.vpm",
     "author": "An-Labo",
-    "hash": "1afbd87683e0f325881f8746a830c4d442501389c3b750b3166437959e624a5d",
-    "last_updated": "2026-08-31T15:51:00.000Z",
+    "hash": "73370185dbf8f60201b96583911258ced2318ae6d86d62052d72973fac8bc389",
+    "last_updated": "2026-09-03T13:35:21.000Z",
     "packageCount": 1,
     "packages": {
       "world.anlabo.mdnailtool": {
@@ -1745,7 +1745,7 @@
         "displayName": "An-Labo NailTool",
         "description": "An-Labo NailTool",
         "latestVersion": "0.9.141",
-        "versionCount": 575,
+        "versionCount": 576,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -8653,6 +8653,18 @@
             "vpmDependencies": {
               "com.vrchat.avatars": ">=3.5.0"
             }
+          },
+          "0.10.62": {
+            "version": "0.10.62",
+            "name": "world.anlabo.mdnailtool",
+            "displayName": "An-Labo NailTool",
+            "description": "An-Labo NailTool",
+            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.10.62/world.anlabo.mdnailtool-0.10.62.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.5.0"
+            }
           }
         }
       }
@@ -14937,8 +14949,8 @@
     "name": "PBReplacer",
     "id": "jp.colloid.pbreplacer",
     "author": "colloid",
-    "hash": "aa93be5494c04551540dc846ce65b8367e49d3ceae227649fb74c178f34d2715",
-    "last_updated": "2026-09-02T17:35:55.000Z",
+    "hash": "4d2740a73e9642806b27979ed0f5649a8d57de0520c9c55a1ac2904432f491ab",
+    "last_updated": "2026-09-03T04:04:24.000Z",
     "packageCount": 1,
     "packages": {
       "jp.colloid.pbreplacer": {
@@ -14946,14 +14958,25 @@
         "name": "jp.colloid.pbreplacer",
         "displayName": "PBReplacer",
         "description": "PhysBoneとPhysBoneColliderを整理するUnity拡張。\n1オブジェクト＝1コンポーネントに置換。",
-        "latestVersion": "3.0.0-beta.8",
-        "versionCount": 36,
+        "latestVersion": "3.0.0-beta.9",
+        "versionCount": 37,
         "keywords": [],
         "unity": null,
         "author": {
           "name": "ｺﾛｲﾄﾞ"
         },
         "versions": {
+          "3.0.0-beta.9": {
+            "version": "3.0.0-beta.9",
+            "name": "jp.colloid.pbreplacer",
+            "displayName": "PBReplacer",
+            "description": "PhysBoneとPhysBoneColliderを整理するUnity拡張。\n1オブジェクト＝1コンポーネントに置換。",
+            "url": "https://github.com/c-colloid/PBReplacer-VPM/releases/download/3.0.0-beta.9/PBReplacer_v3.0.0-beta.9.zip",
+            "zipSha256": null,
+            "vpmDependencies": {
+              "com.vrchat.avatars": ""
+            }
+          },
           "3.0.0-beta.8": {
             "version": "3.0.0-beta.8",
             "name": "jp.colloid.pbreplacer",
@@ -16769,7 +16792,7 @@
     "id": "com.chill.vpm",
     "author": "chill",
     "hash": "218dd1fd125e7194ca6c8140e63ca3d013b40ed5b78b42e79e1ff1e1d5cd5b05",
-    "last_updated": "2026-05-21T13:11:01.000Z",
+    "last_updated": "2026-05-21T13:11:02.000Z",
     "packageCount": 1,
     "packages": {
       "com.chill.avatarscope": {
@@ -17416,7 +17439,7 @@
     "id": "com.cyan.cyantrigger.vcc-listing",
     "author": "CyanLaser",
     "hash": "a6d67a91e3c26d4b2575f25029cc6f6fea9441c11451fdd533128d76b3ba3e61",
-    "last_updated": "2026-07-03T00:44:10.000Z",
+    "last_updated": "2026-07-03T00:44:09.000Z",
     "packageCount": 2,
     "packages": {
       "com.cyan.cyantrigger": {
@@ -26162,7 +26185,7 @@
     "id": "com.gabsith.wft",
     "author": "GabSith",
     "hash": "ed31c2beeb60c2322e47d329a9b0cbe8b2c319649ebd2c252945be2fceacc184",
-    "last_updated": "2026-05-03T07:30:54.000Z",
+    "last_updated": "2026-09-03T15:37:35.000Z",
     "packageCount": 1,
     "packages": {
       "com.gabsith.wft": {
@@ -38319,7 +38342,7 @@
     "id": "com.hhotatea.avatar-pose-library.listing",
     "author": "HhotateA",
     "hash": "605123390e97c96003b2c8c9e876e27df9bbcd475812d763d35528df5b9d4daa",
-    "last_updated": "2026-08-21T08:07:18.000Z",
+    "last_updated": "2026-08-21T08:07:17.000Z",
     "packageCount": 1,
     "packages": {
       "com.hhotatea.avatar-pose-library": {
@@ -40184,7 +40207,7 @@
     "id": "com.github.hkrn",
     "author": "hkrn",
     "hash": "66afe02e940c091d4b955f7a758659dfa28c963b53e571fc1c24147280761b5f",
-    "last_updated": "2026-07-12T08:29:10.000Z",
+    "last_updated": "2026-07-12T08:29:09.000Z",
     "packageCount": 1,
     "packages": {
       "com.github.hkrn.ndmf-vrm-exporter": {
@@ -40755,7 +40778,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "680029c772846cb5e5b7331c6f399296d7c3d340058c68c9f48e255a6fa8e65e",
-    "last_updated": "2026-09-02T07:58:09.000Z",
+    "last_updated": "2026-09-03T08:07:14.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -42312,7 +42335,7 @@
     "id": "dev.jetees.vpm-listing",
     "author": "JeTeeS",
     "hash": "c43d1d46596697e66705b99d7740a062daf269bacdf077d0810963cb05d466da",
-    "last_updated": "2024-05-22T15:17:51.000Z",
+    "last_updated": "2024-05-22T15:17:52.000Z",
     "packageCount": 1,
     "packages": {
       "dev.jetees.memoryoptimizer": {
@@ -42608,7 +42631,7 @@
     "id": "com.vrsive.avatar-exporter.listing",
     "author": "VRSive",
     "hash": "6e4fddf38f8f4986ffa38df8646ea79db089e58aa357f4991002a8cab32a4717",
-    "last_updated": "2026-06-12T12:24:24.000Z",
+    "last_updated": "2026-06-12T12:24:23.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrsive.avatar-exporter": {
@@ -50219,7 +50242,7 @@
     "id": "com.kie.vpm",
     "author": "Kie",
     "hash": "9c720b21a0d472446cbcefecd3ffddfe48df0b160a1cc2d716f8020dfadddb34",
-    "last_updated": "2026-09-02T18:28:13.000Z",
+    "last_updated": "2026-09-03T18:23:32.000Z",
     "packageCount": 3,
     "packages": {
       "com.kie.kie-mergeable-toggle": {
@@ -50461,7 +50484,7 @@
     "id": "com.kikurage1989.utilsscript",
     "author": "kikurage1989_",
     "hash": "a479bbbb44186c8db52473fa68813010d0cde6afd082f97f0ee93a79ee10ca50",
-    "last_updated": "2026-07-30T11:03:57.000Z",
+    "last_updated": "2026-07-30T11:03:58.000Z",
     "packageCount": 2,
     "packages": {
       "com.kikurage1989.utilsscript": {
@@ -54021,7 +54044,7 @@
     "id": "net.euan.lazyoptimiser.listing",
     "author": "euan142",
     "hash": "6a0b4ea94d87ae345649306e6fda40f7bd86325206e58e1a4c5943450a9fe4ee",
-    "last_updated": "2025-02-20T10:25:22.000Z",
+    "last_updated": "2025-02-20T10:25:21.000Z",
     "packageCount": 1,
     "packages": {
       "net.euan.lazyoptimiser": {
@@ -54126,7 +54149,7 @@
     "id": "lereldarion",
     "author": "Lereldarion",
     "hash": "fa9cc79e70fb00eb2aa70863c05e008271c255affd1e14192f26540239c3a213",
-    "last_updated": "2026-06-25T19:36:15.000Z",
+    "last_updated": "2026-06-25T19:36:14.000Z",
     "packageCount": 2,
     "packages": {
       "lereldarion.unity-shaders": {
@@ -58430,7 +58453,7 @@
     "id": "com.mame8.vpm",
     "author": "mame8",
     "hash": "880c4bc843e71444652593ac77a1a92bd04b01453281fbe2f51c3cd1ea8bf95a",
-    "last_updated": "2026-07-02T19:27:29.000Z",
+    "last_updated": "2026-07-02T19:27:30.000Z",
     "packageCount": 3,
     "packages": {
       "com.mame8.animator-controller-context": {
@@ -58584,7 +58607,7 @@
     "id": "com.mattshark.openflight.repo",
     "author": "Mattshark89, Happyrobot33",
     "hash": "2659e37b23cc128e891c29a39e5bccda5a60665b585cf2406941eca4e5123520",
-    "last_updated": "2026-08-10T04:25:27.000Z",
+    "last_updated": "2026-08-10T04:25:29.000Z",
     "packageCount": 1,
     "packages": {
       "com.mattshark.openflight": {
@@ -63477,7 +63500,7 @@
     "id": "com.nidonocu.virtual-gryphon-packages",
     "author": "Nidonocu",
     "hash": "4f1a4e20ac1e5d3661ae57c8d3353f05d769b8999754be537975ece981b322cc",
-    "last_updated": "2026-07-03T16:56:21.000Z",
+    "last_updated": "2026-07-03T16:56:22.000Z",
     "packageCount": 1,
     "packages": {
       "com.nidonocu.vrcunitytoolbar": {
@@ -85052,7 +85075,7 @@
     "id": "dev.redline-team.redlinelist",
     "author": "RozeThorns",
     "hash": "8c61e41bc845ad48ac8b2df4fbc0df5b38f713805c599141762b5c54f4e92f8c",
-    "last_updated": "2026-09-03T01:39:07.000Z",
+    "last_updated": "2026-09-04T01:32:51.000Z",
     "packageCount": 5,
     "packages": {
       "dev.redline-team.rpm": {
@@ -87628,7 +87651,7 @@
     "id": "semmiedev.listing",
     "author": "SemmieDev",
     "hash": "764b234bce8d42c19ee898db4f726192706cfc034cfa348a8593e2579a2d0091",
-    "last_updated": "2026-07-06T07:55:29.000Z",
+    "last_updated": "2026-07-06T07:55:28.000Z",
     "packageCount": 2,
     "packages": {
       "semmiedev.friend-pov": {
@@ -88694,7 +88717,7 @@
     "id": "com.mizore-nekoyanagi.vpm-packages",
     "author": "Mizore Nekoyanagi",
     "hash": "df5c206bda4082fc4825f6e0002aea2319d15d80cf9dc71813ef06fb4db812e7",
-    "last_updated": "2026-02-19T08:55:53.000Z",
+    "last_updated": "2026-02-19T08:55:54.000Z",
     "packageCount": 4,
     "packages": {
       "com.mizore-nekoyanagi.utils.apply-prefab-window": {
@@ -98341,7 +98364,7 @@
     "id": "jp.toh.package-listing",
     "author": "toh",
     "hash": "cc3967c59f319ff5c3910acb82ddac984aa9ad35b5aaec5e395d6ab2cf0dfd4f",
-    "last_updated": "2025-04-28T14:28:15.000Z",
+    "last_updated": "2025-04-28T14:28:14.000Z",
     "packageCount": 1,
     "packages": {
       "jp.toh.easy-object-switch": {
@@ -98405,7 +98428,7 @@
     "id": "io.github.tp-jp.vpm",
     "author": "tp.jp",
     "hash": "da473ccdc75356cd14e6c77e54e8be663bb1621108df5f980248e75789e4c3aa",
-    "last_updated": "2026-07-13T13:46:47.000Z",
+    "last_updated": "2026-07-13T13:46:48.000Z",
     "packageCount": 9,
     "packages": {
       "com.tp.jp.iwa-sync3-color-changer": {
@@ -98976,7 +98999,7 @@
     "id": "com.triturbo.blendshare.listing",
     "author": "Triturbo",
     "hash": "8d43fe402736de6cd2621406d3b850107d5fa9a6bc801a1a5857547ed262526d",
-    "last_updated": "2026-07-05T12:32:46.000Z",
+    "last_updated": "2026-07-05T12:32:45.000Z",
     "packageCount": 1,
     "packages": {
       "com.triturbo.blendshare": {
@@ -100373,7 +100396,7 @@
     "id": "net.pawlygon.vcc-packages",
     "author": "Pawlygon",
     "hash": "ffddfc1a87cdf9aed91a660cbaca0e51f7f86152c9a6f89bfce1276d0295a790",
-    "last_updated": "2026-07-01T04:45:50.000Z",
+    "last_updated": "2026-07-01T04:45:49.000Z",
     "packageCount": 2,
     "packages": {
       "net.pawlygon.vrc-facetracking": {
@@ -100835,7 +100858,7 @@
     "id": "co.raphii.vpm-listing",
     "author": "Raphiiko",
     "hash": "13d7c0741bdb67306d4706066396ddccd4188238b4335f6b126e26cf84767a0b",
-    "last_updated": "2026-07-03T23:15:31.000Z",
+    "last_updated": "2026-07-03T23:15:32.000Z",
     "packageCount": 1,
     "packages": {
       "co.raphii.vrti.avatarmenu": {
@@ -100898,8 +100921,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "f08607f51c942149fcb595f4865856f6c7306e299154556f0eeacda3007e283f",
-    "last_updated": "2026-09-03T02:49:38.000Z",
+    "hash": "879fa5a4d28b758bdef770ec1cca7c05bbed887184c4c67c9871be08472990cc",
+    "last_updated": "2026-09-04T02:48:13.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -131973,7 +131996,7 @@
     "id": "si.iwa.packages",
     "author": "chiugame",
     "hash": "a7741801320eb339850e009eff4bf042a6f831d7e6912ab5dc305902ab939057",
-    "last_updated": "2024-02-14T07:42:30.000Z",
+    "last_updated": "2026-09-04T00:47:32.000Z",
     "packageCount": 1,
     "packages": {
       "si.iwa.udontask": {
@@ -163144,8 +163167,8 @@
     "name": "WhyKnot Tools",
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
-    "hash": "2470cf25282b2b2ec0a95dafc4751feb0093e3f5548677131de0ca76b07e87ad",
-    "last_updated": "2026-09-02T10:10:38.000Z",
+    "hash": "01d8c32e3c419ed1fda3b5ee0950c22b61d0590e9ce17201396be50ed2f38d43",
+    "last_updated": "2026-09-03T10:22:28.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -174523,8 +174546,8 @@
     "name": "Explosive Theorem Lab. Metaverse Division",
     "id": "idv.jlchntoz.xtlcdn-listing",
     "author": "Jeremy Lam aka. Vistanz",
-    "hash": "904255c115cb0179bd98e9290a5cd0986614b1bfaf8e7f6321ac0b0c0a6d930b",
-    "last_updated": "2026-08-31T16:41:44.000Z",
+    "hash": "01a131a1e7a78381fb319f631121bd1363a730d2380ac782551dc480c685996a",
+    "last_updated": "2026-09-03T13:04:36.000Z",
     "packageCount": 14,
     "packages": {
       "idv.jlchntoz.vrcw-foundation": {
@@ -175334,8 +175357,8 @@
         "name": "idv.jlchntoz.vvmw",
         "displayName": "VizVid",
         "description": "Modular, feature-rich video player frontend for VRChat.",
-        "latestVersion": "1.7.6-beta.4",
-        "versionCount": 112,
+        "latestVersion": "1.8.0",
+        "versionCount": 113,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -175344,6 +175367,20 @@
           "url": "https://xtl.booth.pm"
         },
         "versions": {
+          "1.8.0": {
+            "version": "1.8.0",
+            "name": "idv.jlchntoz.vvmw",
+            "displayName": "VizVid",
+            "description": "Modular, feature-rich video player frontend for VRChat.",
+            "url": "https://github.com/JLChnToZ/VVMW/releases/download/1.8.0/idv.jlchntoz.vvmw-1.8.0.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.x.x >=3.10.2",
+              "idv.jlchntoz.vrcw-foundation": "0.x.x >=0.0.65",
+              "idv.jlchntoz.lazyswitch": "0.x.x >=0.8.3"
+            }
+          },
           "1.7.6-beta.4": {
             "version": "1.7.6-beta.4",
             "name": "idv.jlchntoz.vvmw",
@@ -179994,7 +180031,7 @@
     "id": "io.github.z3y.vpm-package-listing",
     "author": "z3y",
     "hash": "531be78f1f8a6fb86a734c4cc9712bed31ac405ba14baa11777d8d95a05bd983",
-    "last_updated": "2026-09-02T16:36:23.000Z",
+    "last_updated": "2026-09-02T16:36:25.000Z",
     "packageCount": 8,
     "packages": {
       "com.z3y.graphlit": {
