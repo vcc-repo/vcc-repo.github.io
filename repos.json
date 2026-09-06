@@ -1735,8 +1735,8 @@
     "name": "An-Labo NailTool",
     "id": "world.anlabo.mdnailtool.vpm",
     "author": "An-Labo",
-    "hash": "87e702396ffdcc8372cd13df1de680f3553bc6ef837655f5ee8ac2023da087b5",
-    "last_updated": "2026-09-04T10:02:29.000Z",
+    "hash": "f1d954d3d71ecbc6b78cc8af282210929bcad4f9c1bf46e026a232f3970d248b",
+    "last_updated": "2026-09-05T13:21:54.000Z",
     "packageCount": 1,
     "packages": {
       "world.anlabo.mdnailtool": {
@@ -1745,7 +1745,7 @@
         "displayName": "An-Labo NailTool",
         "description": "An-Labo NailTool",
         "latestVersion": "0.9.141",
-        "versionCount": 577,
+        "versionCount": 579,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -8672,6 +8672,30 @@
             "displayName": "An-Labo NailTool",
             "description": "An-Labo NailTool",
             "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.10.63/world.anlabo.mdnailtool-0.10.63.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.5.0"
+            }
+          },
+          "0.10.64": {
+            "version": "0.10.64",
+            "name": "world.anlabo.mdnailtool",
+            "displayName": "An-Labo NailTool",
+            "description": "An-Labo NailTool",
+            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.10.64/world.anlabo.mdnailtool-0.10.64.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.5.0"
+            }
+          },
+          "0.10.65": {
+            "version": "0.10.65",
+            "name": "world.anlabo.mdnailtool",
+            "displayName": "An-Labo NailTool",
+            "description": "An-Labo NailTool",
+            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.10.65/world.anlabo.mdnailtool-0.10.65.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -25710,7 +25734,7 @@
     "id": "com.furality.repos.official",
     "author": "Furality, Inc.",
     "hash": "1f058d849e3d6f8fbf1320164b63cd1f1019b43a7993a1adfa11f274f8288e49",
-    "last_updated": "2026-08-08T02:49:10.000Z",
+    "last_updated": "2026-08-08T02:49:09.000Z",
     "packageCount": 3,
     "packages": {
       "com.furality.sylvashader": {
@@ -31197,8 +31221,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "4057270a6f64689dcf0d876c06c6cf81399a72bdbd2cbcaf19cebbfe530287b7",
-    "last_updated": "2026-09-04T09:17:45.000Z",
+    "hash": "53c02ba58b668abe4a8c6aa0f9ad39f7cb48342242086d94751f37fc8a4adcb5",
+    "last_updated": "2026-09-05T20:53:36.000Z",
     "packageCount": 12,
     "packages": {
       "com.poiyomi.pro": {
@@ -31625,8 +31649,8 @@
         "name": "hackebein.objecttracking",
         "displayName": "Hackebein's Object Tracking",
         "description": "Hackebein's setup for Object Tracking in VRChat",
-        "latestVersion": "1.0.0-beta.20",
-        "versionCount": 33,
+        "latestVersion": "1.0.0-beta.22",
+        "versionCount": 34,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -31635,6 +31659,20 @@
           "url": "https://hackebein.de"
         },
         "versions": {
+          "1.0.0-beta.22": {
+            "version": "1.0.0-beta.22",
+            "name": "hackebein.objecttracking",
+            "displayName": "Hackebein's Object Tracking",
+            "description": "Hackebein's setup for Object Tracking in VRChat",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking/1.0.0-beta.22/a6fee68811b7d24183feeddc696aad20fe9090378672aafa673cf54bab9f611f",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.9.0",
+              "com.ygdr.mdv": ">=1.2.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0"
+            }
+          },
           "1.0.0-beta.20": {
             "version": "1.0.0-beta.20",
             "name": "hackebein.objecttracking",
@@ -40170,7 +40208,7 @@
     "id": "cat.hisa.vpm",
     "author": "HisaCat",
     "hash": "164e0ed610f0a593fb9eb5867230becff0831ebe47d88f25397692d3bbae92c4",
-    "last_updated": "2026-07-03T05:26:13.000Z",
+    "last_updated": "2026-07-03T05:26:12.000Z",
     "packageCount": 3,
     "packages": {
       "cat.hisa.asset-patcher": {
@@ -40331,7 +40369,7 @@
     "id": "com.github.hkrn",
     "author": "hkrn",
     "hash": "66afe02e940c091d4b955f7a758659dfa28c963b53e571fc1c24147280761b5f",
-    "last_updated": "2026-07-12T08:29:09.000Z",
+    "last_updated": "2026-07-12T08:29:10.000Z",
     "packageCount": 1,
     "packages": {
       "com.github.hkrn.ndmf-vrm-exporter": {
@@ -40902,7 +40940,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "680029c772846cb5e5b7331c6f399296d7c3d340058c68c9f48e255a6fa8e65e",
-    "last_updated": "2026-09-04T08:02:17.000Z",
+    "last_updated": "2026-09-05T07:43:18.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -42459,7 +42497,7 @@
     "id": "dev.jetees.vpm-listing",
     "author": "JeTeeS",
     "hash": "c43d1d46596697e66705b99d7740a062daf269bacdf077d0810963cb05d466da",
-    "last_updated": "2024-05-22T15:17:52.000Z",
+    "last_updated": "2024-05-22T15:17:51.000Z",
     "packageCount": 1,
     "packages": {
       "dev.jetees.memoryoptimizer": {
@@ -50467,7 +50505,7 @@
     "id": "com.kie.vpm",
     "author": "Kie",
     "hash": "9c720b21a0d472446cbcefecd3ffddfe48df0b160a1cc2d716f8020dfadddb34",
-    "last_updated": "2026-09-04T18:11:18.000Z",
+    "last_updated": "2026-09-05T17:12:00.000Z",
     "packageCount": 3,
     "packages": {
       "com.kie.kie-mergeable-toggle": {
@@ -54374,7 +54412,7 @@
     "id": "lereldarion",
     "author": "Lereldarion",
     "hash": "fa9cc79e70fb00eb2aa70863c05e008271c255affd1e14192f26540239c3a213",
-    "last_updated": "2026-06-25T19:36:14.000Z",
+    "last_updated": "2026-06-25T19:36:15.000Z",
     "packageCount": 2,
     "packages": {
       "lereldarion.unity-shaders": {
@@ -58678,7 +58716,7 @@
     "id": "com.mame8.vpm",
     "author": "mame8",
     "hash": "880c4bc843e71444652593ac77a1a92bd04b01453281fbe2f51c3cd1ea8bf95a",
-    "last_updated": "2026-07-02T19:27:29.000Z",
+    "last_updated": "2026-07-02T19:27:30.000Z",
     "packageCount": 3,
     "packages": {
       "com.mame8.animator-controller-context": {
@@ -58832,7 +58870,7 @@
     "id": "com.mattshark.openflight.repo",
     "author": "Mattshark89, Happyrobot33",
     "hash": "2659e37b23cc128e891c29a39e5bccda5a60665b585cf2406941eca4e5123520",
-    "last_updated": "2026-08-10T04:25:27.000Z",
+    "last_updated": "2026-08-10T04:25:29.000Z",
     "packageCount": 1,
     "packages": {
       "com.mattshark.openflight": {
@@ -62976,8 +63014,8 @@
     "name": "Nekoare VPM Packages（同梱版）",
     "id": "com.nekoare.vpm.bundled",
     "author": "nekoare",
-    "hash": "f8d63be6d08877961e42956e06f2c04db7fbdfc5db5350f8c2af849ee3a62fae",
-    "last_updated": "2026-09-04T20:24:39.000Z",
+    "hash": "91c7ec181578e89effa57eb9b579621e91902e44d2ed4a572ffadabda424c371",
+    "last_updated": "2026-09-05T18:06:50.000Z",
     "packageCount": 2,
     "packages": {
       "com.nekoare.chimera-hair-master": {
@@ -62985,8 +63023,8 @@
         "name": "com.nekoare.chimera-hair-master",
         "displayName": "キメラヘアマスター",
         "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-        "latestVersion": "1.5.14",
-        "versionCount": 43,
+        "latestVersion": "1.5.15",
+        "versionCount": 44,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -62994,6 +63032,18 @@
           "url": "https://neko-to-same.booth.pm/"
         },
         "versions": {
+          "1.5.15": {
+            "version": "1.5.15",
+            "name": "com.nekoare.chimera-hair-master",
+            "displayName": "キメラヘアマスター",
+            "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
+            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.5.15/com.nekoare.chimera-hair-master-1.5.15.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.7.0"
+            }
+          },
           "1.5.14": {
             "version": "1.5.14",
             "name": "com.nekoare.chimera-hair-master",
@@ -63737,7 +63787,7 @@
     "id": "com.nidonocu.virtual-gryphon-packages",
     "author": "Nidonocu",
     "hash": "4f1a4e20ac1e5d3661ae57c8d3353f05d769b8999754be537975ece981b322cc",
-    "last_updated": "2026-07-03T16:56:23.000Z",
+    "last_updated": "2026-07-03T16:56:21.000Z",
     "packageCount": 1,
     "packages": {
       "com.nidonocu.vrcunitytoolbar": {
@@ -67617,7 +67667,7 @@
     "id": "dev.omelette_ak.vpm",
     "author": "omeletteak",
     "hash": "87cd6506aa825e26b64761abbbe030e0e11ea7ac963a055d927af38e95a30b11",
-    "last_updated": "2026-06-23T11:45:39.000Z",
+    "last_updated": "2026-06-23T11:45:38.000Z",
     "packageCount": 1,
     "packages": {
       "dev.omelette_ak.vrcloth-declipper": {
@@ -85312,7 +85362,7 @@
     "id": "dev.redline-team.redlinelist",
     "author": "RozeThorns",
     "hash": "8c61e41bc845ad48ac8b2df4fbc0df5b38f713805c599141762b5c54f4e92f8c",
-    "last_updated": "2026-09-05T01:33:58.000Z",
+    "last_updated": "2026-09-06T01:28:35.000Z",
     "packageCount": 5,
     "packages": {
       "dev.redline-team.rpm": {
@@ -85807,242 +85857,13 @@
   },
   {
     "url": "https://rroki-0u0.github.io/vpm-repos/index.json",
-    "name": "rroki-0u0 VPM Packages",
-    "id": "jp.rroki.vpm",
+    "name": "rroki-0u0",
+    "id": "rroki-0u0",
     "author": "rroki-0u0",
-    "hash": "842c482dcb0925dc36f99ba648d5191a7246b5ee657c75c1ab8f80680027bdce",
+    "hash": null,
     "last_updated": "2026-07-16T09:06:06.000Z",
-    "packageCount": 5,
-    "packages": {
-      "jp.rroki.poiyomi-to-nontoon": {
-        "id": "jp.rroki.poiyomi-to-nontoon",
-        "name": "jp.rroki.poiyomi-to-nontoon",
-        "displayName": "Poiyomi to NonToon Converter",
-        "description": "Poiyomi Toon/Pro のマテリアルを lilxyzw NonToon マテリアルへ変換するエディタ拡張。ロック済みマテリアルにも対応し、影色のグラデーションベイク・マスクのチャンネルパック・メインカラーのテクスチャベイクを行います。",
-        "latestVersion": "0.2.2",
-        "versionCount": 4,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "rroki-0u0",
-          "url": "https://github.com/rroki-0u0"
-        },
-        "versions": {
-          "0.2.2": {
-            "version": "0.2.2",
-            "name": "jp.rroki.poiyomi-to-nontoon",
-            "displayName": "Poiyomi to NonToon Converter",
-            "description": "Poiyomi Toon/Pro のマテリアルを lilxyzw NonToon マテリアルへ変換するエディタ拡張。ロック済みマテリアルにも対応し、影色のグラデーションベイク・マスクのチャンネルパック・メインカラーのテクスチャベイクを行います。",
-            "url": "https://github.com/rroki-0u0/vpm-repos/releases/download/jp.rroki.poiyomi-to-nontoon-v0.2.2/jp.rroki.poiyomi-to-nontoon-0.2.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "jp.lilxyzw.shadercore": "^0.1.5"
-            }
-          },
-          "0.2.1": {
-            "version": "0.2.1",
-            "name": "jp.rroki.poiyomi-to-nontoon",
-            "displayName": "Poiyomi to NonToon Converter",
-            "description": "Poiyomi Toon/Pro のマテリアルを lilxyzw NonToon マテリアルへ変換するエディタ拡張。ロック済みマテリアルにも対応し、影色のグラデーションベイク・マスクのチャンネルパック・メインカラーのテクスチャベイクを行います。",
-            "url": "https://github.com/rroki-0u0/vpm-repos/releases/download/jp.rroki.poiyomi-to-nontoon-v0.2.1/jp.rroki.poiyomi-to-nontoon-0.2.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "jp.lilxyzw.shadercore": "^0.1.5"
-            }
-          },
-          "0.2.0": {
-            "version": "0.2.0",
-            "name": "jp.rroki.poiyomi-to-nontoon",
-            "displayName": "Poiyomi to NonToon Converter",
-            "description": "Poiyomi Toon/Pro のマテリアルを lilxyzw NonToon マテリアルへ変換するエディタ拡張。ロック済みマテリアルにも対応し、影色のグラデーションベイク・マスクのチャンネルパック・メインカラーのテクスチャベイクを行います。",
-            "url": "https://github.com/rroki-0u0/vpm-repos/releases/download/jp.rroki.poiyomi-to-nontoon-v0.2.0/jp.rroki.poiyomi-to-nontoon-0.2.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "jp.lilxyzw.shadercore": "^0.1.5"
-            }
-          },
-          "0.1.0": {
-            "version": "0.1.0",
-            "name": "jp.rroki.poiyomi-to-nontoon",
-            "displayName": "Poiyomi to NonToon Converter",
-            "description": "Poiyomi Toon/Pro のマテリアルを lilxyzw NonToon マテリアルへ変換するエディタ拡張。ロック済みマテリアルにも対応し、影色のグラデーションベイク・マスクのチャンネルパック・メインカラーのテクスチャベイクを行います。",
-            "url": "https://github.com/rroki-0u0/vpm-repos/releases/download/jp.rroki.poiyomi-to-nontoon-v0.1.0/jp.rroki.poiyomi-to-nontoon-0.1.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "jp.lilxyzw.shadercore": "^0.1.5"
-            }
-          }
-        }
-      },
-      "jp.rroki.nontoon-extra-modules": {
-        "id": "jp.rroki.nontoon-extra-modules",
-        "name": "jp.rroki.nontoon-extra-modules",
-        "displayName": "NonToon Extra Modules",
-        "description": "lilxyzw NonToon に エミッション / 色調整 / グリッター モジュールを追加する Shader Core モジュール集。Poiyomi to NonToon Converter と併用すると Poiyomi マテリアルからの設定引き継ぎにも対応します (単体でも使用可能)。",
-        "latestVersion": "0.2.2",
-        "versionCount": 4,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "rroki-0u0",
-          "url": "https://github.com/rroki-0u0"
-        },
-        "versions": {
-          "0.2.2": {
-            "version": "0.2.2",
-            "name": "jp.rroki.nontoon-extra-modules",
-            "displayName": "NonToon Extra Modules",
-            "description": "lilxyzw NonToon に エミッション / 色調整 / グリッター モジュールを追加する Shader Core モジュール集。Poiyomi to NonToon Converter と併用すると Poiyomi マテリアルからの設定引き継ぎにも対応します (単体でも使用可能)。",
-            "url": "https://github.com/rroki-0u0/vpm-repos/releases/download/jp.rroki.nontoon-extra-modules-v0.2.2/jp.rroki.nontoon-extra-modules-0.2.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "jp.lilxyzw.shadercore": "^0.1.5"
-            }
-          },
-          "0.2.1": {
-            "version": "0.2.1",
-            "name": "jp.rroki.nontoon-extra-modules",
-            "displayName": "NonToon Extra Modules",
-            "description": "lilxyzw NonToon に エミッション / 色調整 / グリッター モジュールを追加する Shader Core モジュール集。Poiyomi to NonToon Converter と併用すると Poiyomi マテリアルからの設定引き継ぎにも対応します (単体でも使用可能)。",
-            "url": "https://github.com/rroki-0u0/vpm-repos/releases/download/jp.rroki.nontoon-extra-modules-v0.2.1/jp.rroki.nontoon-extra-modules-0.2.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "jp.lilxyzw.shadercore": "^0.1.5"
-            }
-          },
-          "0.2.0": {
-            "version": "0.2.0",
-            "name": "jp.rroki.nontoon-extra-modules",
-            "displayName": "NonToon Extra Modules",
-            "description": "lilxyzw NonToon に エミッション / 色調整 / グリッター モジュールを追加する Shader Core モジュール集。Poiyomi to NonToon Converter と併用すると Poiyomi マテリアルからの設定引き継ぎにも対応します (単体でも使用可能)。",
-            "url": "https://github.com/rroki-0u0/vpm-repos/releases/download/jp.rroki.nontoon-extra-modules-v0.2.0/jp.rroki.nontoon-extra-modules-0.2.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "jp.lilxyzw.shadercore": "^0.1.5"
-            }
-          },
-          "0.1.0": {
-            "version": "0.1.0",
-            "name": "jp.rroki.nontoon-extra-modules",
-            "displayName": "NonToon Extra Modules",
-            "description": "lilxyzw NonToon に エミッション / 色調整 / グリッター モジュールを追加する Shader Core モジュール集。Poiyomi to NonToon Converter と併用すると Poiyomi マテリアルからの設定引き継ぎにも対応します (単体でも使用可能)。",
-            "url": "https://github.com/rroki-0u0/vpm-repos/releases/download/jp.rroki.nontoon-extra-modules-v0.1.0/jp.rroki.nontoon-extra-modules-0.1.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "jp.lilxyzw.shadercore": "^0.1.5"
-            }
-          }
-        }
-      },
-      "jp.rroki.submesh-mask-baker": {
-        "id": "jp.rroki.submesh-mask-baker",
-        "name": "jp.rroki.submesh-mask-baker",
-        "displayName": "Submesh Mask Baker",
-        "description": "Bakes the triangles of a selected submesh (material slot) into a black-and-white UV-space mask PNG, with dilation padding for UV seams. Useful for fur masks, feature masks, atlas masks, etc.",
-        "latestVersion": "1.0.1",
-        "versionCount": 2,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "rroki-0u0",
-          "url": "https://github.com/rroki-0u0"
-        },
-        "versions": {
-          "1.0.1": {
-            "version": "1.0.1",
-            "name": "jp.rroki.submesh-mask-baker",
-            "displayName": "Submesh Mask Baker",
-            "description": "Bakes the triangles of a selected submesh (material slot) into a black-and-white UV-space mask PNG, with dilation padding for UV seams. Useful for fur masks, feature masks, atlas masks, etc.",
-            "url": "https://github.com/rroki-0u0/vpm-repos/releases/download/jp.rroki.submesh-mask-baker-v1.0.1/jp.rroki.submesh-mask-baker-1.0.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {}
-          },
-          "1.0.0": {
-            "version": "1.0.0",
-            "name": "jp.rroki.submesh-mask-baker",
-            "displayName": "Submesh Mask Baker",
-            "description": "Bakes the triangles of a selected submesh (material slot) into a black-and-white UV-space mask PNG, with dilation padding for UV seams. Useful for fur masks, feature masks, atlas masks, etc.",
-            "url": "https://github.com/rroki-0u0/vpm-repos/releases/download/jp.rroki.submesh-mask-baker-v1.0.0/jp.rroki.submesh-mask-baker-1.0.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {}
-          }
-        }
-      },
-      "jp.rroki.ttt-nontoon-support": {
-        "id": "jp.rroki.ttt-nontoon-support",
-        "name": "jp.rroki.ttt-nontoon-support",
-        "displayName": "TexTransTool NonToon Support",
-        "description": "lilxyzw NonToon / NonToonFur (と jp.rroki.nontoon-extra-modules のモジュール群) のテクスチャ UV 使用情報を TexTransTool の AtlasTexture へ提供します。モジュール構成の変更 (シェーダー再生成) にも追従します。",
-        "latestVersion": "0.1.0",
-        "versionCount": 1,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "rroki-0u0",
-          "url": "https://github.com/rroki-0u0"
-        },
-        "versions": {
-          "0.1.0": {
-            "version": "0.1.0",
-            "name": "jp.rroki.ttt-nontoon-support",
-            "displayName": "TexTransTool NonToon Support",
-            "description": "lilxyzw NonToon / NonToonFur (と jp.rroki.nontoon-extra-modules のモジュール群) のテクスチャ UV 使用情報を TexTransTool の AtlasTexture へ提供します。モジュール構成の変更 (シェーダー再生成) にも追従します。",
-            "url": "https://github.com/rroki-0u0/vpm-repos/releases/download/jp.rroki.ttt-nontoon-support-v0.1.0/jp.rroki.ttt-nontoon-support-0.1.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "net.rs64.tex-trans-tool": "^1.0.0"
-            }
-          }
-        }
-      },
-      "jp.rroki.ttt-poiyomi-support": {
-        "id": "jp.rroki.ttt-poiyomi-support",
-        "name": "jp.rroki.ttt-poiyomi-support",
-        "displayName": "TexTransTool Poiyomi Support",
-        "description": "Provides Poiyomi Toon/Pro texture UV usage information to TexTransTool's AtlasTexture so that all texture slots (alpha maps, matcap masks, etc.) are atlased correctly. Locked shaders are supported.",
-        "latestVersion": "0.1.0",
-        "versionCount": 1,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "rroki-0u0",
-          "url": "https://github.com/rroki-0u0"
-        },
-        "versions": {
-          "0.1.0": {
-            "version": "0.1.0",
-            "name": "jp.rroki.ttt-poiyomi-support",
-            "displayName": "TexTransTool Poiyomi Support",
-            "description": "Provides Poiyomi Toon/Pro texture UV usage information to TexTransTool's AtlasTexture so that all texture slots (alpha maps, matcap masks, etc.) are atlased correctly. Locked shaders are supported.",
-            "url": "https://github.com/rroki-0u0/vpm-repos/releases/download/jp.rroki.ttt-poiyomi-support-v0.1.0/jp.rroki.ttt-poiyomi-support-0.1.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "net.rs64.tex-trans-tool": "^1.0.0"
-            }
-          }
-        }
-      }
-    }
+    "packageCount": 0,
+    "packages": {}
   },
   {
     "url": "https://rurre.github.io/vpm/index.json",
@@ -98601,7 +98422,7 @@
     "id": "jp.toh.package-listing",
     "author": "toh",
     "hash": "cc3967c59f319ff5c3910acb82ddac984aa9ad35b5aaec5e395d6ab2cf0dfd4f",
-    "last_updated": "2025-04-28T14:28:14.000Z",
+    "last_updated": "2025-04-28T14:28:15.000Z",
     "packageCount": 1,
     "packages": {
       "jp.toh.easy-object-switch": {
@@ -98665,7 +98486,7 @@
     "id": "io.github.tp-jp.vpm",
     "author": "tp.jp",
     "hash": "da473ccdc75356cd14e6c77e54e8be663bb1621108df5f980248e75789e4c3aa",
-    "last_updated": "2026-07-13T13:46:48.000Z",
+    "last_updated": "2026-07-13T13:46:47.000Z",
     "packageCount": 9,
     "packages": {
       "com.tp.jp.iwa-sync3-color-changer": {
@@ -100633,7 +100454,7 @@
     "id": "net.pawlygon.vcc-packages",
     "author": "Pawlygon",
     "hash": "ffddfc1a87cdf9aed91a660cbaca0e51f7f86152c9a6f89bfce1276d0295a790",
-    "last_updated": "2026-07-01T04:45:49.000Z",
+    "last_updated": "2026-07-01T04:45:50.000Z",
     "packageCount": 2,
     "packages": {
       "net.pawlygon.vrc-facetracking": {
@@ -101158,8 +100979,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "f2a6aa1cc303ed05ef3e4e9c5d64ac797828942b16414c1aef0cd7cc16034e05",
-    "last_updated": "2026-09-05T02:49:34.000Z",
+    "hash": "c4530db3f227ec6519dee0495eac293c322a85ebfa8c8707ddd08e2d64fc08f4",
+    "last_updated": "2026-09-06T02:48:02.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -114606,8 +114427,8 @@
     "name": "Vixens Toolbox",
     "id": "com.vixencreations.vixens-toolbox.listing",
     "author": "Vixenlicous",
-    "hash": "3ae07fc50f5be9f3aa6c39e571d7a0ebbfcf2fbc099514a507296028e4d18c7c",
-    "last_updated": "2026-09-04T14:03:42.000Z",
+    "hash": "159a3ba0df5eb598fb1f203c2ade1919a999c94ab66ebe9b6ac0b805f586225a",
+    "last_updated": "2026-09-06T00:44:34.000Z",
     "packageCount": 1,
     "packages": {
       "com.vixencreations.vixens-toolbox": {
@@ -114615,8 +114436,8 @@
         "name": "com.vixencreations.vixens-toolbox",
         "displayName": "Vixen Tool Box",
         "description": "A VPM-native, cyber-noir suite of Unity Editor tools for VRChat creators, hand-built by VixForge Interactive. Four flagship tools lead it: a non-destructive Quest Conversion Engine, a full Avatar Optimization Suite with real QEM mesh decimation, a multi-ecosystem World Engine auditor (ProTV, AudioLink, LTCGI, VRSL, Light Volumes and more), and Animation Workbench Pro. Also includes Animator Forge, PhysBone blueprints, an Accessory Mounting Engine and a convention Badge Studio. Engineered to eliminate human error, enforce project consistency, and push Unity 2022.3 to its limits. Trusted by 1,500+ creators.",
-        "latestVersion": "2.16.0",
-        "versionCount": 48,
+        "latestVersion": "2.17.0",
+        "versionCount": 49,
         "keywords": [
           "vrchat",
           "editor",
@@ -114638,6 +114459,18 @@
           "url": "https://x.com/VixForge"
         },
         "versions": {
+          "2.17.0": {
+            "version": "2.17.0",
+            "name": "com.vixencreations.vixens-toolbox",
+            "displayName": "Vixen Tool Box",
+            "description": "A VPM-native, cyber-noir suite of Unity Editor tools for VRChat creators, hand-built by VixForge Interactive. Four flagship tools lead it: a non-destructive Quest Conversion Engine, a full Avatar Optimization Suite with real QEM mesh decimation, a multi-ecosystem World Engine auditor (ProTV, AudioLink, LTCGI, VRSL, Light Volumes and more), and Animation Workbench Pro. Also includes Animator Forge, PhysBone blueprints, an Accessory Mounting Engine and a convention Badge Studio. Engineered to eliminate human error, enforce project consistency, and push Unity 2022.3 to its limits. Trusted by 1,500+ creators.",
+            "url": "https://github.com/VixenCreations/VixenToolBox/releases/download/2.17.0/com.vixen.tools-2.17.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "^3.10.3"
+            }
+          },
           "2.16.0": {
             "version": "2.16.0",
             "name": "com.vixencreations.vixens-toolbox",
@@ -127947,8 +127780,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "4057270a6f64689dcf0d876c06c6cf81399a72bdbd2cbcaf19cebbfe530287b7",
-    "last_updated": "2026-09-04T09:17:45.000Z",
+    "hash": "53c02ba58b668abe4a8c6aa0f9ad39f7cb48342242086d94751f37fc8a4adcb5",
+    "last_updated": "2026-09-05T20:53:36.000Z",
     "packageCount": 12,
     "packages": {
       "com.poiyomi.pro": {
@@ -128375,8 +128208,8 @@
         "name": "hackebein.objecttracking",
         "displayName": "Hackebein's Object Tracking",
         "description": "Hackebein's setup for Object Tracking in VRChat",
-        "latestVersion": "1.0.0-beta.20",
-        "versionCount": 33,
+        "latestVersion": "1.0.0-beta.22",
+        "versionCount": 34,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -128385,6 +128218,20 @@
           "url": "https://hackebein.de"
         },
         "versions": {
+          "1.0.0-beta.22": {
+            "version": "1.0.0-beta.22",
+            "name": "hackebein.objecttracking",
+            "displayName": "Hackebein's Object Tracking",
+            "description": "Hackebein's setup for Object Tracking in VRChat",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking/1.0.0-beta.22/a6fee68811b7d24183feeddc696aad20fe9090378672aafa673cf54bab9f611f",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.9.0",
+              "com.ygdr.mdv": ">=1.2.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0"
+            }
+          },
           "1.0.0-beta.20": {
             "version": "1.0.0-beta.20",
             "name": "hackebein.objecttracking",
@@ -162716,7 +162563,7 @@
     "id": "dev.thry.vpm",
     "author": "Thryrallo",
     "hash": "0189583cd590af92f6337bf072cfea3211c6a3ca90738536d8f30bcd5fab82cb",
-    "last_updated": "2024-08-05T22:13:00.000Z",
+    "last_updated": "2024-08-05T22:13:01.000Z",
     "packageCount": 1,
     "packages": {
       "de.thryrallo.vrc.avatar-performance-tools": {
@@ -163450,8 +163297,8 @@
     "name": "WhyKnot Tools",
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
-    "hash": "213fa28c41300f100d957cb493b62f2fb15a9edb8694511afa8b7b8ccd173037",
-    "last_updated": "2026-09-04T10:09:40.000Z",
+    "hash": "76c4c6cbe5c80f7acb93541191dce9c326c91929f2cf6ab7b4d4c40885212801",
+    "last_updated": "2026-09-05T09:38:53.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -174873,8 +174720,8 @@
     "name": "Explosive Theorem Lab. Metaverse Division",
     "id": "idv.jlchntoz.xtlcdn-listing",
     "author": "Jeremy Lam aka. Vistanz",
-    "hash": "4efeb444197358ee29571af2ac84bfa701ff59d60c43af4bea6fc7b2767cc556",
-    "last_updated": "2026-09-04T15:32:38.000Z",
+    "hash": "a470e6de88e9cff7fbef0a3c4414366ffb8c0243c34afa914217adb37180d85b",
+    "last_updated": "2026-09-05T10:19:23.000Z",
     "packageCount": 14,
     "packages": {
       "idv.jlchntoz.vrcw-foundation": {
@@ -174882,8 +174729,8 @@
         "name": "idv.jlchntoz.vrcw-foundation",
         "displayName": "Vistanz's Foundation Package for VRChat Worlds",
         "description": "Foundation framework enhances VRChat World developments with Udon(sharp).",
-        "latestVersion": "0.0.65",
-        "versionCount": 65,
+        "latestVersion": "0.0.66",
+        "versionCount": 66,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -174892,6 +174739,18 @@
           "url": "https://xtl.booth.pm"
         },
         "versions": {
+          "0.0.66": {
+            "version": "0.0.66",
+            "name": "idv.jlchntoz.vrcw-foundation",
+            "displayName": "Vistanz's Foundation Package for VRChat Worlds",
+            "description": "Foundation framework enhances VRChat World developments with Udon(sharp).",
+            "url": "https://github.com/JLChnToZ/vrcw-foundation/releases/download/0.0.66/idv.jlchntoz.vrcw-foundation-0.0.66.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.x.x >=3.9.0"
+            }
+          },
           "0.0.65": {
             "version": "0.0.65",
             "name": "idv.jlchntoz.vrcw-foundation",
@@ -180371,7 +180230,7 @@
     "id": "io.github.z3y.vpm-package-listing",
     "author": "z3y",
     "hash": "531be78f1f8a6fb86a734c4cc9712bed31ac405ba14baa11777d8d95a05bd983",
-    "last_updated": "2026-09-02T16:36:23.000Z",
+    "last_updated": "2026-09-02T16:36:25.000Z",
     "packageCount": 8,
     "packages": {
       "com.z3y.graphlit": {
