@@ -1,5 +1,294 @@
 [
   {
+    "url": "http://vpm.yuna0x0.com/index.json",
+    "name": "yuna0x0's VPM Repo",
+    "id": "com.yuna0x0.vpm",
+    "author": "yuna0x0",
+    "hash": "ee93b7c1ec05b07c1fc04200c92a4ad95af9286bc542a0068e918aaffdebaa73",
+    "last_updated": "2026-09-06T18:39:03.000Z",
+    "packageCount": 1,
+    "packages": {
+      "com.yuna0x0.basis.convert": {
+        "id": "com.yuna0x0.basis.convert",
+        "name": "com.yuna0x0.basis.convert",
+        "displayName": "Watari (Converter for Basis)",
+        "description": "Converts VRChat, VRM and Dynamic Bone components on an avatar into their Basis equivalents: jiggle physics, constraints, the avatar descriptor, HVR Vixxy controls and authored motion.",
+        "latestVersion": "0.5.8",
+        "versionCount": 18,
+        "keywords": [
+          "basis",
+          "basisvr",
+          "avatar",
+          "migration",
+          "converter",
+          "editor-tool",
+          "vrchat",
+          "vrm",
+          "vroid"
+        ],
+        "unity": "6000.5",
+        "author": {
+          "name": "yuna0x0",
+          "url": "https://github.com/yuna0x0"
+        },
+        "versions": {
+          "0.5.8": {
+            "version": "0.5.8",
+            "name": "com.yuna0x0.basis.convert",
+            "displayName": "Watari (Converter for Basis)",
+            "description": "Converts VRChat, VRM and Dynamic Bone components on an avatar into their Basis equivalents: jiggle physics, constraints, the avatar descriptor, HVR Vixxy controls and authored motion.",
+            "url": "https://github.com/yuna0x0/watari-basis/releases/download/v0.5.8/com.yuna0x0.basis.convert-0.5.8.zip",
+            "zipSha256": null,
+            "unity": "6000.5",
+            "vpmDependencies": {
+              "com.basis.sdk": "0.0.1",
+              "com.gator-dragon-games.jigglephysics": "16.0.0",
+              "dev.hai-vr.basis.comms": "0.0.1"
+            }
+          },
+          "0.5.7": {
+            "version": "0.5.7",
+            "name": "com.yuna0x0.basis.convert",
+            "displayName": "Watari (Converter for Basis)",
+            "description": "Converts VRChat, VRM and Dynamic Bone components on an avatar into their Basis equivalents: jiggle physics, constraints, the avatar descriptor, HVR Vixxy controls and authored motion.",
+            "url": "https://github.com/yuna0x0/watari-basis/releases/download/v0.5.7/com.yuna0x0.basis.convert-0.5.7.zip",
+            "zipSha256": null,
+            "unity": "6000.5",
+            "vpmDependencies": {
+              "com.basis.sdk": "0.0.1",
+              "com.gator-dragon-games.jigglephysics": "16.0.0",
+              "dev.hai-vr.basis.comms": "0.0.1"
+            }
+          },
+          "0.5.6": {
+            "version": "0.5.6",
+            "name": "com.yuna0x0.basis.convert",
+            "displayName": "Watari (Converter for Basis)",
+            "description": "Converts VRChat, VRM and Dynamic Bone components on an avatar into their Basis equivalents: jiggle physics, constraints, the avatar descriptor, HVR Vixxy controls and authored motion.",
+            "url": "https://github.com/yuna0x0/watari-basis/releases/download/v0.5.6/com.yuna0x0.basis.convert-0.5.6.zip",
+            "zipSha256": null,
+            "unity": "6000.5",
+            "vpmDependencies": {
+              "com.basis.sdk": "0.0.1",
+              "com.gator-dragon-games.jigglephysics": "16.0.0",
+              "dev.hai-vr.basis.comms": "0.0.1"
+            }
+          },
+          "0.5.5": {
+            "version": "0.5.5",
+            "name": "com.yuna0x0.basis.convert",
+            "displayName": "Watari (Converter for Basis)",
+            "description": "Converts VRChat, VRM and Dynamic Bone components on an avatar into their Basis equivalents: jiggle physics, constraints, the avatar descriptor, HVR Vixxy controls and authored motion.",
+            "url": "https://github.com/yuna0x0/watari-basis/releases/download/v0.5.5/com.yuna0x0.basis.convert-0.5.5.zip",
+            "zipSha256": null,
+            "unity": "6000.5",
+            "vpmDependencies": {
+              "com.basis.sdk": "0.0.1",
+              "com.gator-dragon-games.jigglephysics": "16.0.0",
+              "dev.hai-vr.basis.comms": "0.0.1"
+            }
+          },
+          "0.5.4": {
+            "version": "0.5.4",
+            "name": "com.yuna0x0.basis.convert",
+            "displayName": "Watari (Converter for Basis)",
+            "description": "Converts VRChat, VRM and Dynamic Bone components on an avatar into their Basis equivalents: jiggle physics, constraints, the avatar descriptor, HVR Vixxy controls and authored motion.",
+            "url": "https://github.com/yuna0x0/watari-basis/releases/download/v0.5.4/com.yuna0x0.basis.convert-0.5.4.zip",
+            "zipSha256": null,
+            "unity": "6000.5",
+            "vpmDependencies": {
+              "com.basis.sdk": "0.0.1",
+              "com.gator-dragon-games.jigglephysics": "16.0.0",
+              "dev.hai-vr.basis.comms": "0.0.1"
+            }
+          },
+          "0.5.3": {
+            "version": "0.5.3",
+            "name": "com.yuna0x0.basis.convert",
+            "displayName": "Watari (Converter for Basis)",
+            "description": "Converts VRChat, VRM and Dynamic Bone components on an avatar into their Basis equivalents: jiggle physics, constraints, the avatar descriptor, HVR Vixxy controls and authored motion.",
+            "url": "https://github.com/yuna0x0/watari-basis/releases/download/v0.5.3/com.yuna0x0.basis.convert-0.5.3.zip",
+            "zipSha256": null,
+            "unity": "6000.5",
+            "vpmDependencies": {
+              "com.basis.sdk": "0.0.1",
+              "com.gator-dragon-games.jigglephysics": "16.0.0",
+              "dev.hai-vr.basis.comms": "0.0.1"
+            }
+          },
+          "0.5.2": {
+            "version": "0.5.2",
+            "name": "com.yuna0x0.basis.convert",
+            "displayName": "Watari (Converter for Basis)",
+            "description": "Converts VRChat, VRM and Dynamic Bone components on an avatar into their Basis equivalents: jiggle physics, constraints, the avatar descriptor, HVR Vixxy controls and authored motion.",
+            "url": "https://github.com/yuna0x0/watari-basis/releases/download/v0.5.2/com.yuna0x0.basis.convert-0.5.2.zip",
+            "zipSha256": null,
+            "unity": "6000.5",
+            "vpmDependencies": {
+              "com.basis.sdk": "0.0.1",
+              "com.gator-dragon-games.jigglephysics": "16.0.0",
+              "dev.hai-vr.basis.comms": "0.0.1"
+            }
+          },
+          "0.5.1": {
+            "version": "0.5.1",
+            "name": "com.yuna0x0.basis.convert",
+            "displayName": "Watari (Converter for Basis)",
+            "description": "Converts VRChat, VRM and Dynamic Bone components on an avatar into their Basis equivalents: jiggle physics, constraints, the avatar descriptor, HVR Vixxy controls and authored motion.",
+            "url": "https://github.com/yuna0x0/watari-basis/releases/download/v0.5.1/com.yuna0x0.basis.convert-0.5.1.zip",
+            "zipSha256": null,
+            "unity": "6000.5",
+            "vpmDependencies": {
+              "com.basis.sdk": "0.0.1",
+              "com.gator-dragon-games.jigglephysics": "16.0.0",
+              "dev.hai-vr.basis.comms": "0.0.1"
+            }
+          },
+          "0.5.0": {
+            "version": "0.5.0",
+            "name": "com.yuna0x0.basis.convert",
+            "displayName": "Watari (Converter for Basis)",
+            "description": "Converts VRChat, VRM and Dynamic Bone components on an avatar into their Basis equivalents: jiggle physics, constraints, the avatar descriptor, HVR Vixxy controls and authored motion.",
+            "url": "https://github.com/yuna0x0/watari-basis/releases/download/v0.5.0/com.yuna0x0.basis.convert-0.5.0.zip",
+            "zipSha256": null,
+            "unity": "6000.5",
+            "vpmDependencies": {
+              "com.basis.sdk": "0.0.1",
+              "com.gator-dragon-games.jigglephysics": "16.0.0",
+              "dev.hai-vr.basis.comms": "0.0.1"
+            }
+          },
+          "0.4.0": {
+            "version": "0.4.0",
+            "name": "com.yuna0x0.basis.convert",
+            "displayName": "Watari (Converter for Basis)",
+            "description": "Converts VRChat, VRM and Dynamic Bone components on an avatar into their Basis equivalents: jiggle physics, constraints, the avatar descriptor, HVR Vixxy controls and authored motion.",
+            "url": "https://github.com/yuna0x0/watari-basis/releases/download/v0.4.0/com.yuna0x0.basis.convert-0.4.0.zip",
+            "zipSha256": null,
+            "unity": "6000.5",
+            "vpmDependencies": {
+              "com.basis.sdk": "0.0.1",
+              "com.gator-dragon-games.jigglephysics": "16.0.0",
+              "dev.hai-vr.basis.comms": "0.0.1"
+            }
+          },
+          "0.3.3": {
+            "version": "0.3.3",
+            "name": "com.yuna0x0.basis.convert",
+            "displayName": "Watari (Converter for Basis)",
+            "description": "Converts VRChat, VRM and Dynamic Bone components on an avatar into their Basis equivalents: jiggle physics, constraints, the avatar descriptor, HVR Vixxy controls and authored motion.",
+            "url": "https://github.com/yuna0x0/watari-basis/releases/download/v0.3.3/com.yuna0x0.basis.convert-0.3.3.zip",
+            "zipSha256": null,
+            "unity": "6000.5",
+            "vpmDependencies": {
+              "com.basis.sdk": "0.0.1",
+              "com.gator-dragon-games.jigglephysics": "16.0.0",
+              "dev.hai-vr.basis.comms": "0.0.1"
+            }
+          },
+          "0.3.2": {
+            "version": "0.3.2",
+            "name": "com.yuna0x0.basis.convert",
+            "displayName": "Watari (Converter for Basis)",
+            "description": "Converts VRChat, VRM and Dynamic Bone components on an avatar into their Basis equivalents: jiggle physics, constraints, the avatar descriptor, HVR Vixxy controls and authored motion.",
+            "url": "https://github.com/yuna0x0/watari-basis/releases/download/v0.3.2/com.yuna0x0.basis.convert-0.3.2.zip",
+            "zipSha256": null,
+            "unity": "6000.5",
+            "vpmDependencies": {
+              "com.basis.sdk": "0.0.1",
+              "com.gator-dragon-games.jigglephysics": "16.0.0",
+              "dev.hai-vr.basis.comms": "0.0.1"
+            }
+          },
+          "0.3.1": {
+            "version": "0.3.1",
+            "name": "com.yuna0x0.basis.convert",
+            "displayName": "Watari (Converter for Basis)",
+            "description": "Converts VRChat, VRM and Dynamic Bone components on an avatar into their Basis equivalents: jiggle physics, constraints, the avatar descriptor, HVR Vixxy controls and authored motion.",
+            "url": "https://github.com/yuna0x0/watari-basis/releases/download/v0.3.1/com.yuna0x0.basis.convert-0.3.1.zip",
+            "zipSha256": null,
+            "unity": "6000.5",
+            "vpmDependencies": {
+              "com.basis.sdk": "0.0.1",
+              "com.gator-dragon-games.jigglephysics": "16.0.0",
+              "dev.hai-vr.basis.comms": "0.0.1"
+            }
+          },
+          "0.3.0": {
+            "version": "0.3.0",
+            "name": "com.yuna0x0.basis.convert",
+            "displayName": "Watari (Converter for Basis)",
+            "description": "Converts VRChat, VRM and Dynamic Bone components on an avatar into their Basis equivalents: jiggle physics, constraints, the avatar descriptor, HVR Vixxy controls and authored motion.",
+            "url": "https://github.com/yuna0x0/watari-basis/releases/download/v0.3.0/com.yuna0x0.basis.convert-0.3.0.zip",
+            "zipSha256": null,
+            "unity": "6000.5",
+            "vpmDependencies": {
+              "com.basis.sdk": "0.0.1",
+              "com.gator-dragon-games.jigglephysics": "16.0.0",
+              "dev.hai-vr.basis.comms": "0.0.1"
+            }
+          },
+          "0.2.0": {
+            "version": "0.2.0",
+            "name": "com.yuna0x0.basis.convert",
+            "displayName": "Watari (Converter for Basis)",
+            "description": "Converts VRChat, VRM and Dynamic Bone components on an avatar into their Basis equivalents: jiggle physics, constraints, the avatar descriptor, HVR Vixxy controls and authored motion.",
+            "url": "https://github.com/yuna0x0/watari-basis/releases/download/v0.2.0/com.yuna0x0.basis.convert-0.2.0.zip",
+            "zipSha256": null,
+            "unity": "6000.5",
+            "vpmDependencies": {
+              "com.basis.sdk": "0.0.1",
+              "com.gator-dragon-games.jigglephysics": "16.0.0",
+              "dev.hai-vr.basis.comms": "0.0.1"
+            }
+          },
+          "0.1.2": {
+            "version": "0.1.2",
+            "name": "com.yuna0x0.basis.convert",
+            "displayName": "Watari (Converter for Basis)",
+            "description": "Convert avatars and the clothing worn on them from other social VR platforms for use with Basis: physics, constraints, the avatar descriptor and menu toggles.",
+            "url": "https://github.com/yuna0x0/watari-basis/releases/download/v0.1.2/com.yuna0x0.basis.convert-0.1.2.zip",
+            "zipSha256": null,
+            "unity": "6000.5",
+            "vpmDependencies": {
+              "com.basis.sdk": "0.0.1",
+              "com.gator-dragon-games.jigglephysics": "16.0.0",
+              "dev.hai-vr.basis.comms": "0.0.1"
+            }
+          },
+          "0.1.1": {
+            "version": "0.1.1",
+            "name": "com.yuna0x0.basis.convert",
+            "displayName": "Watari (Converter for Basis)",
+            "description": "Convert avatars, clothing and props from other social VR platforms for use with Basis: physics, constraints, the avatar descriptor and menu toggles.",
+            "url": "https://github.com/yuna0x0/watari-basis/releases/download/v0.1.1/com.yuna0x0.basis.convert-0.1.1.zip",
+            "zipSha256": null,
+            "unity": "6000.5",
+            "vpmDependencies": {
+              "com.basis.sdk": "0.0.1",
+              "com.gator-dragon-games.jigglephysics": "16.0.0",
+              "dev.hai-vr.basis.comms": "0.0.1"
+            }
+          },
+          "0.1.0": {
+            "version": "0.1.0",
+            "name": "com.yuna0x0.basis.convert",
+            "displayName": "Basis Convert",
+            "description": "Convert avatars, clothing and props from other social VR platforms for use with Basis: physics, constraints, the avatar descriptor and menu toggles.",
+            "url": "https://github.com/yuna0x0/watari-basis/releases/download/v0.1.0/com.yuna0x0.basis.convert-0.1.0.zip",
+            "zipSha256": null,
+            "unity": "6000.5",
+            "vpmDependencies": {
+              "com.basis.sdk": "0.0.1",
+              "com.gator-dragon-games.jigglephysics": "16.0.0",
+              "dev.hai-vr.basis.comms": "0.0.1"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
     "url": "https://aariyjp.github.io/vpm-repos/index.json",
     "name": "あぁりー",
     "id": "pm.booth.aariyjp.vpm",
@@ -16971,8 +17260,8 @@
     "name": "Club Maul",
     "id": "com.clubmaul.vpm",
     "author": "Club Maul",
-    "hash": "d55cb3f6bd052daa352e10d2d31a433bd1794742003e7dbe20f1703c04c654d2",
-    "last_updated": "2026-07-12T15:40:26.000Z",
+    "hash": "a5827be6fb04458eea613ecb312395b3ed5b08c749f750a75827ba6b4f21a91d",
+    "last_updated": "2026-09-07T18:23:15.000Z",
     "packageCount": 1,
     "packages": {
       "com.clubmaul.staff-scanner": {
@@ -16980,8 +17269,8 @@
         "name": "com.clubmaul.staff-scanner",
         "displayName": "Staff Scanner V2",
         "description": "Staff Scanner V2 for Club Maul. Required for all Beasts and recommended for Trial Beasts. Drop the prefab onto your avatar, pick your role, and on build it generates a decimated, see-through-walls scanner mesh plus the contact senders/receivers and in-game menu toggles compatible worlds react to.",
-        "latestVersion": "2.0.2",
-        "versionCount": 18,
+        "latestVersion": "2.0.3",
+        "versionCount": 19,
         "keywords": [
           "vrchat",
           "avatars",
@@ -16994,6 +17283,19 @@
           "url": "https://github.com/Club-Maul"
         },
         "versions": {
+          "2.0.3": {
+            "version": "2.0.3",
+            "name": "com.clubmaul.staff-scanner",
+            "displayName": "Staff Scanner V2",
+            "description": "Staff Scanner V2 for Club Maul. Required for all Beasts and recommended for Trial Beasts. Drop the prefab onto your avatar, pick your role, and on build it generates a decimated, see-through-walls scanner mesh plus the contact senders/receivers and in-game menu toggles compatible worlds react to.",
+            "url": "https://github.com/Club-Maul/staff-scanner-v2/releases/download/2.0.3/com.clubmaul.staff-scanner-2.0.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "com.vrcfury.vrcfury": ">=1.0.0"
+            }
+          },
           "2.0.2": {
             "version": "2.0.2",
             "name": "com.clubmaul.staff-scanner",
@@ -38602,7 +38904,7 @@
     "id": "com.hhotatea.avatar-pose-library.listing",
     "author": "HhotateA",
     "hash": "605123390e97c96003b2c8c9e876e27df9bbcd475812d763d35528df5b9d4daa",
-    "last_updated": "2026-08-21T08:07:17.000Z",
+    "last_updated": "2026-08-21T08:07:18.000Z",
     "packageCount": 1,
     "packages": {
       "com.hhotatea.avatar-pose-library": {
@@ -40467,7 +40769,7 @@
     "id": "com.github.hkrn",
     "author": "hkrn",
     "hash": "66afe02e940c091d4b955f7a758659dfa28c963b53e571fc1c24147280761b5f",
-    "last_updated": "2026-07-12T08:29:10.000Z",
+    "last_updated": "2026-07-12T08:29:09.000Z",
     "packageCount": 1,
     "packages": {
       "com.github.hkrn.ndmf-vrm-exporter": {
@@ -41038,7 +41340,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "680029c772846cb5e5b7331c6f399296d7c3d340058c68c9f48e255a6fa8e65e",
-    "last_updated": "2026-09-06T07:57:32.000Z",
+    "last_updated": "2026-09-07T08:24:07.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -42595,7 +42897,7 @@
     "id": "dev.jetees.vpm-listing",
     "author": "JeTeeS",
     "hash": "c43d1d46596697e66705b99d7740a062daf269bacdf077d0810963cb05d466da",
-    "last_updated": "2024-05-22T15:17:52.000Z",
+    "last_updated": "2024-05-22T15:17:51.000Z",
     "packageCount": 1,
     "packages": {
       "dev.jetees.memoryoptimizer": {
@@ -42891,7 +43193,7 @@
     "id": "com.vrsive.avatar-exporter.listing",
     "author": "VRSive",
     "hash": "6e4fddf38f8f4986ffa38df8646ea79db089e58aa357f4991002a8cab32a4717",
-    "last_updated": "2026-06-12T12:24:24.000Z",
+    "last_updated": "2026-06-12T12:24:23.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrsive.avatar-exporter": {
@@ -50603,7 +50905,7 @@
     "id": "com.kie.vpm",
     "author": "Kie",
     "hash": "9c720b21a0d472446cbcefecd3ffddfe48df0b160a1cc2d716f8020dfadddb34",
-    "last_updated": "2026-09-06T17:31:51.000Z",
+    "last_updated": "2026-09-07T19:01:49.000Z",
     "packageCount": 3,
     "packages": {
       "com.kie.kie-mergeable-toggle": {
@@ -51446,6 +51748,78 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {}
+          }
+        }
+      }
+    }
+  },
+  {
+    "url": "https://komugi0906.github.io/vpm-repository/index.json",
+    "name": "komugiluck VPM Repository",
+    "id": "com.komugiluck.vpm",
+    "author": "komugiluck",
+    "hash": "46c27d4791778f50d5864f65cb1d3627eabf1d9952f6e8ac20379adb3583fcc8",
+    "last_updated": "2026-09-03T01:44:42.000Z",
+    "packageCount": 1,
+    "packages": {
+      "com.komugiluck.earrings": {
+        "id": "com.komugiluck.earrings",
+        "name": "com.komugiluck.earrings",
+        "displayName": "Moon & Star Earrings",
+        "description": "三日月+星+チェーン+クリスタルチャームのイヤリングアクセサリー(全5色、左右個別プレハブ)。PhysBoneの揺れ不具合を修正。汎用装着対応、PC専用。",
+        "latestVersion": "1.1.1",
+        "versionCount": 4,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": "komugiluck",
+        "versions": {
+          "1.1.1": {
+            "version": "1.1.1",
+            "name": "com.komugiluck.earrings",
+            "displayName": "Moon & Star Earrings",
+            "description": "三日月+星+チェーン+クリスタルチャームのイヤリングアクセサリー(全5色、左右個別プレハブ)。PhysBoneの揺れ不具合を修正。汎用装着対応、PC専用。",
+            "url": "https://komugi0906.github.io/vpm-repository/download/com.komugiluck.earrings-1.1.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.0.0"
+            }
+          },
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "com.komugiluck.earrings",
+            "displayName": "Moon & Star Earrings",
+            "description": "三日月+星+チェーン+クリスタルチャームのイヤリングアクセサリー(全5色、左右個別プレハブ)。汎用装着対応、PC専用。",
+            "url": "https://komugi0906.github.io/vpm-repository/download/com.komugiluck.earrings-1.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.0.0"
+            }
+          },
+          "1.0.1": {
+            "version": "1.0.1",
+            "name": "com.komugiluck.earrings",
+            "displayName": "Moon & Star Earrings",
+            "description": "三日月+星+チェーン+クリスタルチャームのイヤリングアクセサリー(全5色、左右個別プレハブ)。汎用装着対応、PC専用。",
+            "url": "https://komugi0906.github.io/vpm-repository/download/com.komugiluck.earrings-1.0.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.0.0"
+            }
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.komugiluck.earrings",
+            "displayName": "Moon & Star Earrings",
+            "description": "三日月+星+チェーン+クリスタルチャームのイヤリングアクセサリー(全5色)。汎用装着対応、PC専用。",
+            "url": "https://komugi0906.github.io/vpm-repository/download/com.komugiluck.earrings-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.0.0"
+            }
           }
         }
       }
@@ -56771,6 +57145,140 @@
     }
   },
   {
+    "url": "https://lightbulb4.github.io/vpm/index.json",
+    "name": "Lightbulb Packages",
+    "id": "com.lightbulb.vpm",
+    "author": "Lightbulb",
+    "hash": "3caddf92a454fa5c15c70e8ae0004e829383c3ac919195e01fd924a3f7ecce27",
+    "last_updated": "2026-09-07T23:30:10.000Z",
+    "packageCount": 2,
+    "packages": {
+      "com.lightbulb.arealit-occlusion": {
+        "id": "com.lightbulb.arealit-occlusion",
+        "name": "com.lightbulb.arealit-occlusion",
+        "displayName": "AreaLit Occlusion Baker",
+        "description": "AreaLit editor tools: configuration audits with optional texture fixes, safe Bakery occlusion baking, output adjustments, receiver maps, and shared-material UV repair.",
+        "latestVersion": "0.2.1",
+        "versionCount": 3,
+        "keywords": [
+          "VRChat",
+          "AreaLit",
+          "Bakery",
+          "lighting",
+          "occlusion"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "Lightbulb",
+          "email": "nobodysystems@gmail.com",
+          "url": "https://github.com/lightbulb4"
+        },
+        "versions": {
+          "0.2.1": {
+            "version": "0.2.1",
+            "name": "com.lightbulb.arealit-occlusion",
+            "displayName": "AreaLit Occlusion Baker",
+            "description": "AreaLit editor tools: configuration audits with optional texture fixes, safe Bakery occlusion baking, output adjustments, receiver maps, and shared-material UV repair.",
+            "url": "https://github.com/lightbulb4/arealit-occlusion/releases/download/0.2.1/com.lightbulb.arealit-occlusion-0.2.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.x.x"
+            }
+          },
+          "0.2.0": {
+            "version": "0.2.0",
+            "name": "com.lightbulb.arealit-occlusion",
+            "displayName": "AreaLit Occlusion Baker",
+            "description": "AreaLit editor tools: configuration audits with optional texture fixes, safe Bakery occlusion baking, output adjustments, receiver maps, and shared-material UV repair.",
+            "url": "https://github.com/lightbulb4/arealit-occlusion/releases/download/0.2.0/com.lightbulb.arealit-occlusion-0.2.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.x.x"
+            }
+          },
+          "0.1.0": {
+            "version": "0.1.0",
+            "name": "com.lightbulb.arealit-occlusion",
+            "displayName": "AreaLit Occlusion Baker",
+            "description": "Safely bake AreaLit occlusion maps with Bakery, adjust outputs, apply receiver maps, and repair shared-material lightmap UV conflicts.",
+            "url": "https://github.com/lightbulb4/arealit-occlusion/releases/download/0.1.0/com.lightbulb.arealit-occlusion-0.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.x.x"
+            }
+          }
+        }
+      },
+      "com.lightbulb.world-tools": {
+        "id": "com.lightbulb.world-tools",
+        "name": "com.lightbulb.world-tools",
+        "displayName": "Lightbulb World Tools",
+        "description": "Console-first Unity editor tools for GPU instancing, lightmap texel usage, vertex counts, mesh UVs, Mochie Standard texture import fixes, and safe VideoPlayerShim repair.",
+        "latestVersion": "0.1.3",
+        "versionCount": 4,
+        "keywords": [
+          "VRChat",
+          "optimization",
+          "GPU instancing",
+          "lightmaps",
+          "geometry",
+          "UV"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "Lightbulb",
+          "email": "nobodysystems@gmail.com",
+          "url": "https://github.com/lightbulb4"
+        },
+        "versions": {
+          "0.1.3": {
+            "version": "0.1.3",
+            "name": "com.lightbulb.world-tools",
+            "displayName": "Lightbulb World Tools",
+            "description": "Console-first Unity editor tools for GPU instancing, lightmap texel usage, vertex counts, mesh UVs, Mochie Standard texture import fixes, and safe VideoPlayerShim repair.",
+            "url": "https://github.com/lightbulb4/lightbulb-world-tools/releases/download/0.1.3/com.lightbulb.world-tools-0.1.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.1.2": {
+            "version": "0.1.2",
+            "name": "com.lightbulb.world-tools",
+            "displayName": "Lightbulb World Tools",
+            "description": "Console-first Unity editor tools for GPU instancing, lightmap texel usage, vertex counts, mesh UVs, and safe VideoPlayerShim repair.",
+            "url": "https://github.com/lightbulb4/lightbulb-world-tools/releases/download/0.1.2/com.lightbulb.world-tools-0.1.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.1.1": {
+            "version": "0.1.1",
+            "name": "com.lightbulb.world-tools",
+            "displayName": "Lightbulb World Tools",
+            "description": "Console-first Unity editor diagnostics for GPU instancing, lightmap texel usage, vertex counts, and mesh UVs.",
+            "url": "https://github.com/lightbulb4/lightbulb-world-tools/releases/download/0.1.1/com.lightbulb.world-tools-0.1.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.1.0": {
+            "version": "0.1.0",
+            "name": "com.lightbulb.world-tools",
+            "displayName": "Lightbulb World Tools",
+            "description": "Console-first Unity editor diagnostics for GPU instancing, lightmap texel usage, vertex counts, and mesh UVs.",
+            "url": "https://github.com/lightbulb4/lightbulb-world-tools/releases/download/0.1.0/com.lightbulb.world-tools-0.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          }
+        }
+      }
+    }
+  },
+  {
     "url": "https://lilxyzw.github.io/vpm-repos-shadercore-modules/vpm.json",
     "name": "lilxyzw-shadercore-modules",
     "id": "io.github.lilxyzw.vpm-shadercore-modules",
@@ -58821,6 +59329,327 @@
     }
   },
   {
+    "url": "https://MagmaVRC.github.io/VPM/index.json",
+    "name": "Magma's Packages",
+    "id": "net.magma-mc.packages",
+    "author": "MagmaMc",
+    "hash": "4dc0e0bed8165f4f85f2abcb67cbd449cc7f8b8ea3bac4bf42112e4b2963709b",
+    "last_updated": "2026-08-23T07:23:06.000Z",
+    "packageCount": 5,
+    "packages": {
+      "net.magma-mc.shaders": {
+        "id": "net.magma-mc.shaders",
+        "name": "net.magma-mc.shaders",
+        "displayName": "MagmaMc.Shaders",
+        "description": "SRP Shaders That Can Be Useful For VRChat Worlds and Avatars",
+        "latestVersion": "1.6.0",
+        "versionCount": 3,
+        "keywords": [],
+        "unity": "2019.4",
+        "author": {
+          "name": "MagmaMc",
+          "email": "magma.mc@magma-mc.net",
+          "url": "https://magmamcnet.github.io/VPM/"
+        },
+        "versions": {
+          "1.6.0": {
+            "version": "1.6.0",
+            "name": "net.magma-mc.shaders",
+            "displayName": "MagmaMc.Shaders",
+            "description": "SRP Shaders That Can Be Useful For VRChat Worlds and Avatars",
+            "url": "https://github.com/MagmaVRC/Shaders/releases/download/1.6.0/net.magma-mc.shaders.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
+          },
+          "1.5.1": {
+            "version": "1.5.1",
+            "name": "net.magma-mc.shaders",
+            "displayName": "MagmaMc.Shaders",
+            "description": "SRP Shaders That Can Be Useful For VRChat Worlds and Avatars",
+            "url": "https://github.com/MagmaVRC/Shaders/releases/download/1.5.1/net.magma-mc.shaders-1.5.1.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
+          },
+          "1.5.0": {
+            "version": "1.5.0",
+            "name": "net.magma-mc.shaders",
+            "displayName": "MagmaMc.Shaders",
+            "description": "",
+            "url": "https://github.com/MagmaVRC/Shaders/releases/download/1.5.0/1.5.0.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
+          }
+        }
+      },
+      "net.magma-mc.utils": {
+        "id": "net.magma-mc.utils",
+        "name": "net.magma-mc.utils",
+        "displayName": "MagmaMc.Utils",
+        "description": "Useful UdonSharp Scripts For VRChat World Development",
+        "latestVersion": "2.1.0",
+        "versionCount": 8,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "MagmaMc",
+          "email": "magma.mc@magma-mc.net",
+          "url": "https://magmamcnet.github.io/VPM/"
+        },
+        "versions": {
+          "2.1.0": {
+            "version": "2.1.0",
+            "name": "net.magma-mc.utils",
+            "displayName": "MagmaMc.Utils",
+            "description": "Useful UdonSharp Scripts For VRChat World Development",
+            "url": "https://github.com/MagmaVRC/Utils/releases/download/2.1.0/net.magma-mc.utils.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.3.0"
+            }
+          },
+          "2.0.1": {
+            "version": "2.0.1",
+            "name": "net.magma-mc.utils",
+            "displayName": "MagmaMc.Utils",
+            "description": "Useful UdonSharp Scripts For VRChat World Development",
+            "url": "https://github.com/MagmaVRC/Utils/releases/download/2.0.1/net.magma-mc.utils.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.3.0"
+            }
+          },
+          "2.0.0": {
+            "version": "2.0.0",
+            "name": "net.magma-mc.utils",
+            "displayName": "MagmaMc.Utils",
+            "description": "Useful UdonSharp Scripts For VRChat World Development",
+            "url": "https://github.com/MagmaVRC/Utils/releases/download/2.0.0/net.magma-mc.utils.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.3.0"
+            }
+          },
+          "1.3.1": {
+            "version": "1.3.1",
+            "name": "net.magma-mc.utils",
+            "displayName": "MagmaMc.Utils",
+            "description": "Useful UdonSharp Scripts For VRChat World Development",
+            "url": "https://github.com/MagmaVRC/Utils/releases/download/1.3.1/net.magma-mc.utils.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.3.0"
+            }
+          },
+          "1.3.0": {
+            "version": "1.3.0",
+            "name": "net.magma-mc.utils",
+            "displayName": "MagmaMc.Utils",
+            "description": "Useful UdonSharp Scripts For VRChat World Development",
+            "url": "https://github.com/MagmaVRC/Utils/releases/download/1.3.0/net.magma-mc.utils.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.3.0"
+            }
+          },
+          "1.2.0": {
+            "version": "1.2.0",
+            "name": "net.magma-mc.utils",
+            "displayName": "MagmaMc.Utils",
+            "description": "Useful UdonSharp Scripts For VRChat World Development",
+            "url": "https://github.com/MagmaVRC/Utils/releases/download/1.2.0/net.magma-mc.utils.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.3.0"
+            }
+          },
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "net.magma-mc.utils",
+            "displayName": "MagmaMc.Utils",
+            "description": "Useful UdonSharp Scripts For VRChat World Development",
+            "url": "https://github.com/MagmaVRC/Utils/releases/download/1.1.0/MagmaMc.Utils.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.3.0"
+            }
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "net.magma-mc.utils",
+            "displayName": "MagmaMc.Utils",
+            "description": "Useful UdonSharp Scripts For VRChat World Development",
+            "url": "https://github.com/MagmaVRC/Utils/releases/download/1.0.0/MagmaMc.Utils.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.3.0"
+            }
+          }
+        }
+      },
+      "dev.magmamc.permissionmanager": {
+        "id": "dev.magmamc.permissionmanager",
+        "name": "dev.magmamc.permissionmanager",
+        "displayName": "PermissionManager",
+        "description": null,
+        "latestVersion": "2.0.1",
+        "versionCount": 6,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "MagmaMc",
+          "email": "magma.mc@magma-mc.net",
+          "url": "https://vpm.magmamc.dev/"
+        },
+        "versions": {
+          "2.0.1": {
+            "version": "2.0.1",
+            "name": "dev.magmamc.permissionmanager",
+            "displayName": "PermissionManager",
+            "description": "",
+            "url": "https://github.com/MagmaVRC/PermissionManager/releases/download/2.0.1/dev.magmamc.permissionmanager.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.5.0 <4.0.0",
+              "com.varneon.vudon.logger": ">=0.4.0-alpha.5 <0.5.0",
+              "net.magma-mc.utils": "^2.0.0"
+            }
+          },
+          "2.0.0": {
+            "version": "2.0.0",
+            "name": "dev.magmamc.permissionmanager",
+            "displayName": "PermissionManager",
+            "description": "",
+            "url": "https://github.com/MagmaVRC/PermissionManager/releases/download/2.0.0/dev.magmamc.permissionmanager.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.5.0 <4.0.0",
+              "com.varneon.vudon.editors": ">=0.4.0 <0.5.0"
+            }
+          },
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "dev.magmamc.permissionmanager",
+            "displayName": "PermissionManager",
+            "description": "",
+            "url": "https://github.com/MagmaVRC/PermissionManager/releases/download/1.1.0/dev.magmamc.permissionmanager.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.3.0"
+            }
+          },
+          "1.0.2": {
+            "version": "1.0.2",
+            "name": "dev.magmamc.permissionmanager",
+            "displayName": "PermissionManager",
+            "description": "",
+            "url": "https://github.com/MagmaVRC/PermissionManager/releases/download/1.0.2/dev.magmamc.permissionmanager.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.3.0"
+            }
+          },
+          "1.0.1": {
+            "version": "1.0.1",
+            "name": "dev.magmamc.permissionmanager",
+            "displayName": "PermissionManager",
+            "description": "",
+            "url": "https://github.com/MagmaVRC/PermissionManager/releases/download/1.0.1/dev.magmamc.permissionmanager.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.3.0"
+            }
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "dev.magmamc.permissionmanager",
+            "displayName": "PermissionManager",
+            "description": "",
+            "url": "https://github.com/MagmaVRC/PermissionManager/releases/download/1.0.0/dev.magmamc.permissionmanager.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.3.0"
+            }
+          }
+        }
+      },
+      "dev.magmavrc.udonprofiler": {
+        "id": "dev.magmavrc.udonprofiler",
+        "name": "dev.magmavrc.udonprofiler",
+        "displayName": "Udon Profiler",
+        "description": "Editor-only Udon VM profiler: per-event timing, call edges, extern usage.",
+        "latestVersion": "0.1.0",
+        "versionCount": 1,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "MagmaVRC",
+          "email": "magma.mc@magma-mc.net",
+          "url": "https://vpm.magmamc.dev/"
+        },
+        "versions": {
+          "0.1.0": {
+            "version": "0.1.0",
+            "name": "dev.magmavrc.udonprofiler",
+            "displayName": "Udon Profiler",
+            "description": "Editor-only Udon VM profiler: per-event timing, call edges, extern usage.",
+            "url": "https://github.com/MagmaVRC/UdonProfiler/releases/download/v0.1.0/dev.magmavrc.udonprofiler-0.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.7.0 <4.0.0"
+            }
+          }
+        }
+      },
+      "dev.magmavrc.udonvm": {
+        "id": "dev.magmavrc.udonvm",
+        "name": "dev.magmavrc.udonvm",
+        "displayName": "Fast Udon VM",
+        "description": "Editor-only drop-in replacement for the Udon VM with identical semantics and lower dispatch overhead.",
+        "latestVersion": "0.1.0",
+        "versionCount": 1,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "MagmaVRC",
+          "email": "magma.mc@magma-mc.net",
+          "url": "https://vpm.magmamc.dev/"
+        },
+        "versions": {
+          "0.1.0": {
+            "version": "0.1.0",
+            "name": "dev.magmavrc.udonvm",
+            "displayName": "Fast Udon VM",
+            "description": "Editor-only drop-in replacement for the Udon VM with identical semantics and lower dispatch overhead.",
+            "url": "https://github.com/MagmaVRC/FastUdonVM/releases/download/v0.1.0/dev.magmavrc.udonvm-0.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.7.0 <4.0.0"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
     "url": "https://mametsubu8.github.io/vpm-listing/vpm.json",
     "name": "mametsubu",
     "id": "com.mame8.vpm",
@@ -60582,8 +61411,8 @@
     "name": "MinMinMart Listing",
     "id": "minminmean.listing",
     "author": "MinMinMean",
-    "hash": "a98873d161335f861c5943b6fa433dfaa48eeb6ee88801432e0700c908524855",
-    "last_updated": "2026-08-30T14:58:53.000Z",
+    "hash": "1c63919b67ba6830d30d93cbb7f3627a799cc424f4782836d11d04e52157e328",
+    "last_updated": "2026-09-07T16:35:22.000Z",
     "packageCount": 3,
     "packages": {
       "minminmean.supine": {
@@ -60591,8 +61420,8 @@
         "name": "minminmean.supine",
         "displayName": "Gorone System (Supine)",
         "description": "Have a good sleep",
-        "latestVersion": "4.5.0",
-        "versionCount": 11,
+        "latestVersion": "4.5.1",
+        "versionCount": 12,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -60601,6 +61430,19 @@
           "url": "https://github.com/minminmean"
         },
         "versions": {
+          "4.5.1": {
+            "version": "4.5.1",
+            "name": "minminmean.supine",
+            "displayName": "Gorone System (Supine)",
+            "description": "Have a good sleep",
+            "url": "https://github.com/minminmean/Supine/releases/download/4.5.1/minminmean.supine-4.5.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "nadena.dev.modular-avatar": ">=1.12.3"
+            }
+          },
           "4.5.0": {
             "version": "4.5.0",
             "name": "minminmean.supine",
@@ -60751,8 +61593,8 @@
         "name": "minminmean.supine-ex",
         "displayName": "Gorone System EX (Supine EX)",
         "description": "Have a good night",
-        "latestVersion": "4.5.0",
-        "versionCount": 9,
+        "latestVersion": "4.5.1",
+        "versionCount": 10,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -60761,6 +61603,20 @@
           "url": "https://github.com/minminmean"
         },
         "versions": {
+          "4.5.1": {
+            "version": "4.5.1",
+            "name": "minminmean.supine-ex",
+            "displayName": "Gorone System EX (Supine EX)",
+            "description": "Have a good night",
+            "url": "https://github.com/minminmean/Supine-EX/releases/download/4.5.1/minminmean.supine-ex-4.5.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "nadena.dev.modular-avatar": ">=1.12.3",
+              "minminmean.supine": ">=4.5.1"
+            }
+          },
           "4.5.0": {
             "version": "4.5.0",
             "name": "minminmean.supine-ex",
@@ -63124,8 +63980,8 @@
     "name": "Nekoare VPM Packages（同梱版）",
     "id": "com.nekoare.vpm.bundled",
     "author": "nekoare",
-    "hash": "91c7ec181578e89effa57eb9b579621e91902e44d2ed4a572ffadabda424c371",
-    "last_updated": "2026-09-05T18:06:50.000Z",
+    "hash": "682aba7d5d2eb86dd9d81f99a652e15e6af5f82ea0a343c67011e9b1bffc64d8",
+    "last_updated": "2026-09-07T14:33:56.000Z",
     "packageCount": 2,
     "packages": {
       "com.nekoare.chimera-hair-master": {
@@ -63133,8 +63989,8 @@
         "name": "com.nekoare.chimera-hair-master",
         "displayName": "キメラヘアマスター",
         "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-        "latestVersion": "1.5.15",
-        "versionCount": 44,
+        "latestVersion": "1.6.0",
+        "versionCount": 45,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -63142,6 +63998,18 @@
           "url": "https://neko-to-same.booth.pm/"
         },
         "versions": {
+          "1.6.0": {
+            "version": "1.6.0",
+            "name": "com.nekoare.chimera-hair-master",
+            "displayName": "キメラヘアマスター",
+            "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
+            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.6.0/com.nekoare.chimera-hair-master-1.6.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.14.0"
+            }
+          },
           "1.5.15": {
             "version": "1.5.15",
             "name": "com.nekoare.chimera-hair-master",
@@ -63897,7 +64765,7 @@
     "id": "com.nidonocu.virtual-gryphon-packages",
     "author": "Nidonocu",
     "hash": "4f1a4e20ac1e5d3661ae57c8d3353f05d769b8999754be537975ece981b322cc",
-    "last_updated": "2026-07-03T16:56:21.000Z",
+    "last_updated": "2026-07-03T16:56:22.000Z",
     "packageCount": 1,
     "packages": {
       "com.nidonocu.vrcunitytoolbar": {
@@ -64255,7 +65123,7 @@
     "id": "com.puddingkc.vpm-listing",
     "author": "PuddingKC",
     "hash": "f240f36289d0cc5747481bc9b789e2732c1ec1f494a82fe81e90c798c0fde67c",
-    "last_updated": "2026-07-04T04:18:32.000Z",
+    "last_updated": "2026-07-04T04:18:33.000Z",
     "packageCount": 3,
     "packages": {
       "com.puddingkc.ma-radial-control": {
@@ -67777,7 +68645,7 @@
     "id": "dev.omelette_ak.vpm",
     "author": "omeletteak",
     "hash": "87cd6506aa825e26b64761abbbe030e0e11ea7ac963a055d927af38e95a30b11",
-    "last_updated": "2026-06-23T11:45:39.000Z",
+    "last_updated": "2026-06-23T11:45:38.000Z",
     "packageCount": 1,
     "packages": {
       "dev.omelette_ak.vrcloth-declipper": {
@@ -76214,7 +77082,7 @@
     "id": "xyz.misakal.vpm.project-vrcz",
     "author": "project-vrcz",
     "hash": "85d86779ba8f30739b23beb1ccd08db70eae841f6e77709db902b7aea11d9e8f",
-    "last_updated": "2026-08-26T10:34:06.000Z",
+    "last_updated": "2026-08-26T10:34:07.000Z",
     "packageCount": 9,
     "packages": {
       "xyz.misakal.vpm.yet-another-sdk-patch.worlds": {
@@ -78477,7 +79345,7 @@
     "id": "com.fracfloor.vpm-listing",
     "author": "raii",
     "hash": "bb8a1fb4b6497e28d58d8f4ed220692da23d2202d1dad6f3725f0921d2c66b57",
-    "last_updated": "2026-07-03T11:55:03.000Z",
+    "last_updated": "2026-07-03T11:55:04.000Z",
     "packageCount": 1,
     "packages": {
       "com.fracfloor.timeline-beat-marker": {
@@ -79168,8 +80036,8 @@
     "name": "Pichu packages",
     "id": "dev.raspichu.vpm",
     "author": "Pichu",
-    "hash": "f2d9189e8a5b72dbc11c67e8f610ca2a880bc4511ab681225f9dc22020ff927c",
-    "last_updated": "2026-08-11T10:14:36.000Z",
+    "hash": "9a2f82e471fcf06456f855e8c746d6e95e053484b4737bc9a83a7c2fe7bd6b32",
+    "last_updated": "2026-09-07T15:01:36.000Z",
     "packageCount": 2,
     "packages": {
       "dev.raspichu.inspector-enhancements": {
@@ -79673,14 +80541,26 @@
         "name": "dev.raspichu.vrc-tools",
         "displayName": "Pichu VRC tools",
         "description": "Tools for VRC SDK3 avatars",
-        "latestVersion": "0.14.3",
-        "versionCount": 76,
+        "latestVersion": "0.15.1",
+        "versionCount": 77,
         "keywords": [],
         "unity": "2019.4",
         "author": {
           "name": "Pichu"
         },
         "versions": {
+          "0.15.1": {
+            "version": "0.15.1",
+            "name": "dev.raspichu.vrc-tools",
+            "displayName": "Pichu VRC tools",
+            "description": "Tools for VRC SDK3 avatars",
+            "url": "https://github.com/raspichu/VRC-tools/releases/download/0.15.1/dev.raspichu.vrc-tools-0.15.1.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.3.0 <3.11.0"
+            }
+          },
           "0.14.3": {
             "version": "0.14.3",
             "name": "dev.raspichu.vrc-tools",
@@ -85472,7 +86352,7 @@
     "id": "dev.redline-team.redlinelist",
     "author": "RozeThorns",
     "hash": "8c61e41bc845ad48ac8b2df4fbc0df5b38f713805c599141762b5c54f4e92f8c",
-    "last_updated": "2026-09-07T01:26:36.000Z",
+    "last_updated": "2026-09-08T01:36:19.000Z",
     "packageCount": 5,
     "packages": {
       "dev.redline-team.rpm": {
@@ -85981,7 +86861,7 @@
     "id": "io.github.rurre.vpm",
     "author": "Pumkin",
     "hash": "a521b62454534e8ac91259065780938a307d6c87b5fc436008c7dfc95e5da1f4",
-    "last_updated": "2026-08-27T18:55:06.000Z",
+    "last_updated": "2026-08-27T18:55:05.000Z",
     "packageCount": 3,
     "packages": {
       "io.github.rurre.pumkinsavatartools": {
@@ -88885,7 +89765,7 @@
     "id": "com.mizore-nekoyanagi.vpm-packages",
     "author": "Mizore Nekoyanagi",
     "hash": "df5c206bda4082fc4825f6e0002aea2319d15d80cf9dc71813ef06fb4db812e7",
-    "last_updated": "2026-02-19T08:55:54.000Z",
+    "last_updated": "2026-02-19T08:55:53.000Z",
     "packageCount": 4,
     "packages": {
       "com.mizore-nekoyanagi.utils.apply-prefab-window": {
@@ -98541,7 +99421,7 @@
     "id": "jp.toh.package-listing",
     "author": "toh",
     "hash": "cc3967c59f319ff5c3910acb82ddac984aa9ad35b5aaec5e395d6ab2cf0dfd4f",
-    "last_updated": "2025-04-28T14:28:15.000Z",
+    "last_updated": "2025-04-28T14:28:14.000Z",
     "packageCount": 1,
     "packages": {
       "jp.toh.easy-object-switch": {
@@ -99176,7 +100056,7 @@
     "id": "com.triturbo.blendshare.listing",
     "author": "Triturbo",
     "hash": "8d43fe402736de6cd2621406d3b850107d5fa9a6bc801a1a5857547ed262526d",
-    "last_updated": "2026-07-05T12:32:46.000Z",
+    "last_updated": "2026-07-05T12:32:45.000Z",
     "packageCount": 1,
     "packages": {
       "com.triturbo.blendshare": {
@@ -99700,6 +100580,201 @@
             "unity": "2022.3",
             "vpmDependencies": {
               "com.vrchat.avatars": ">=3.5.0"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "url": "https://Udonite.github.io/vpm/index.json",
+    "name": "Udonite",
+    "id": "com.udonite.listing",
+    "author": "Udonite",
+    "hash": "ef99ed3e579428fb8f6323717be14d74f983d99f93fffcc4499ff4e8776754f0",
+    "last_updated": "2026-09-07T20:59:04.000Z",
+    "packageCount": 2,
+    "packages": {
+      "com.udonite.compiler": {
+        "id": "com.udonite.compiler",
+        "name": "com.udonite.compiler",
+        "displayName": "Udonite",
+        "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+        "latestVersion": "1.1.0",
+        "versionCount": 2,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "Udonite",
+          "url": "https://github.com/Udonite/Udonite"
+        },
+        "versions": {
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://github.com/Udonite/Udonite/releases/download/v1.1.0/com.udonite.compiler-1.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
+          "1.0.12": {
+            "version": "1.0.12",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://github.com/Udonite/Udonite/releases/download/v1.0.12/com.udonite.compiler-1.0.12.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          }
+        }
+      },
+      "com.udonite.observables": {
+        "id": "com.udonite.observables",
+        "name": "com.udonite.observables",
+        "displayName": "Udonite Observables",
+        "description": "A value that tells its subscribers when it changes. Ordinary C# events for VRChat worlds, compiled to Udon.",
+        "latestVersion": "1.0.0",
+        "versionCount": 1,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "Udonite",
+          "url": "https://github.com/Udonite"
+        },
+        "versions": {
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.udonite.observables",
+            "displayName": "Udonite Observables",
+            "description": "A value that tells its subscribers when it changes. Ordinary C# events for VRChat worlds, compiled to Udon.",
+            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.observables-1.0.0/com.udonite.observables-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x",
+              "com.udonite.compiler": "^1.0.10"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "url": "https://URektMe.github.io/rainywithin-vpm/index.json",
+    "name": "Rainywithin's Packages",
+    "id": "com.rainywithin.vpm",
+    "author": "rainywithin",
+    "hash": "bf2ef557cc4eaa3bb8c5ee1475964a0a88a8aa938c5f2d45edcfce7d819607b1",
+    "last_updated": "2026-08-28T21:10:53.000Z",
+    "packageCount": 3,
+    "packages": {
+      "com.rainywithin.outfitlinker": {
+        "id": "com.rainywithin.outfitlinker",
+        "name": "com.rainywithin.outfitlinker",
+        "displayName": "Outfit Linker",
+        "description": "Automatically generates VRCFury toggles. now in tools > rainy tools > outfitlinker.",
+        "latestVersion": "1.0.2",
+        "versionCount": 3,
+        "keywords": [],
+        "unity": null,
+        "author": {
+          "name": "rainywithin"
+        },
+        "versions": {
+          "1.0.2": {
+            "version": "1.0.2",
+            "name": "com.rainywithin.outfitlinker",
+            "displayName": "Outfit Linker",
+            "description": "Automatically generates VRCFury toggles. now in tools > rainy tools > outfitlinker.",
+            "url": "https://github.com/URektMe/OutfitLinker/releases/download/v1.0.2/com.rainywithin.outfitlinker-1.0.2.zip",
+            "zipSha256": null,
+            "vpmDependencies": {
+              "com.vrcfury.vrcfury": "^1.0.0"
+            }
+          },
+          "1.0.1": {
+            "version": "1.0.1",
+            "name": "com.rainywithin.outfitlinker",
+            "displayName": "Outfit Linker",
+            "description": "Automatically generates VRCFury toggles. Now checks for existing Outfits container.",
+            "url": "https://github.com/URektMe/OutfitLinker/releases/download/v1.0.1/com.rainywithin.outfitlinker-1.0.1.zip",
+            "zipSha256": null,
+            "vpmDependencies": {
+              "com.vrcfury.vrcfury": "^1.0.0"
+            }
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.rainywithin.outfitlinker",
+            "displayName": "Outfit Linker",
+            "description": "Automatically generates VRCFury toggles and links avatar outfits.",
+            "url": "https://github.com/URektMe/OutfitLinker/releases/download/v1.0.0/com.rainywithin.outfitlinker-1.0.0.zip",
+            "zipSha256": null,
+            "vpmDependencies": {
+              "com.vrcfury.vrcfury": "^1.0.0"
+            }
+          }
+        }
+      },
+      "com.rainywithin.hairlinker": {
+        "id": "com.rainywithin.hairlinker",
+        "name": "com.rainywithin.hairlinker",
+        "displayName": "Hair Linker",
+        "description": "Automatically generates VRCFury toggles and links avatar hair.",
+        "latestVersion": "1.0.0",
+        "versionCount": 1,
+        "keywords": [],
+        "unity": null,
+        "author": {
+          "name": "rainywithin"
+        },
+        "versions": {
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.rainywithin.hairlinker",
+            "displayName": "Hair Linker",
+            "description": "Automatically generates VRCFury toggles and links avatar hair.",
+            "url": "https://github.com/URektMe/HairLinker/releases/download/v1.0.0/com.rainywithin.hairlinker-1.0.0.zip",
+            "zipSha256": null,
+            "vpmDependencies": {
+              "com.vrcfury.vrcfury": "^1.0.0"
+            }
+          }
+        }
+      },
+      "com.rainywithin.optimizertools": {
+        "id": "com.rainywithin.optimizertools",
+        "name": "com.rainywithin.optimizertools",
+        "displayName": "Optimize Tools",
+        "description": "A set of tools for optimizing avatars because i was lazy.",
+        "latestVersion": "1.0.0",
+        "versionCount": 1,
+        "keywords": [],
+        "unity": null,
+        "author": {
+          "name": "rainywithin"
+        },
+        "versions": {
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.rainywithin.optimizertools",
+            "displayName": "Optimize Tools",
+            "description": "A set of tools for optimizing avatars because i was lazy.",
+            "url": "https://github.com/URektMe/Rainy-s-ToolBox/releases/download/v1.0.0/com.rainywithin.optimizertools-1.0.0.zip",
+            "zipSha256": null,
+            "vpmDependencies": {
+              "d4rkpl4y3r.d4rkavataroptimizer": "^4.5.4",
+              "com.anatawa12.avatar-optimizer": "^1.9.0",
+              "de.thryrallo.vrc.avatar-performance-tools": "^1.0.0",
+              "com.vrcfury.vrcfury": "^1.0.0",
+              "com.ramtype0.meshia.mesh-simplification": "^3.2.0"
             }
           }
         }
@@ -101098,8 +102173,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "73b06adbef5b173554fcdc411b8dfc52102efdbb1913ebd9f6cac3c6e2130972",
-    "last_updated": "2026-09-07T02:46:15.000Z",
+    "hash": "0cb7ba3eec33e5666da62d4a19e53bc6a0b4f49e1c3e5cdd6b79a726d5e4833f",
+    "last_updated": "2026-09-08T02:55:52.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -101107,14 +102182,34 @@
         "name": "com.vrcfury.vrcfury",
         "displayName": "VRCFury",
         "description": "Non-Destructive Tools for VRChat Avatars",
-        "latestVersion": "1.1427.0",
-        "versionCount": 1409,
+        "latestVersion": "1.1429.0",
+        "versionCount": 1411,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "VRCFury"
         },
         "versions": {
+          "1.1429.0": {
+            "version": "1.1429.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1429.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1428.0": {
+            "version": "1.1428.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1428.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.1427.0": {
             "version": "1.1427.0",
             "name": "com.vrcfury.vrcfury",
@@ -114547,7 +115642,7 @@
     "id": "com.vixencreations.vixens-toolbox.listing",
     "author": "Vixenlicous",
     "hash": "159a3ba0df5eb598fb1f203c2ade1919a999c94ab66ebe9b6ac0b805f586225a",
-    "last_updated": "2026-09-06T22:02:21.000Z",
+    "last_updated": "2026-09-07T19:40:18.000Z",
     "packageCount": 1,
     "packages": {
       "com.vixencreations.vixens-toolbox": {
@@ -116520,7 +117615,7 @@
     "name": "anatawa12",
     "id": "com.anatawa12.main",
     "author": "anatawa12",
-    "hash": "e8a4ef8b68d49c1b455f9f04c27f779d692f21978f43c519374d570f92d4629e",
+    "hash": "8fde9e934eb04ce3f0fdde5dd94793102e58ff064cfef07ddbdc0263d5c8d791",
     "last_updated": "2026-08-01T16:09:51.342Z",
     "packageCount": 14,
     "packages": {
@@ -116530,7 +117625,7 @@
         "displayName": "Anatawa12's AvatarOpitmizer",
         "description": "Set of Anatawa12's Small Avatar Optimization Utilities",
         "latestVersion": "0.0.1",
-        "versionCount": 348,
+        "versionCount": 349,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -121110,6 +122205,19 @@
             "displayName": "AAO: Avatar Optimizer",
             "description": "Set of Anatawa12's Small Avatar Optimization Utilities",
             "url": "https://vpm.anatawa12.com/avatar-optimizer/package-1.9.18.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.8.0 <2.0.0",
+              "com.vrchat.avatars": ">=3.7.0 <3.11.0"
+            }
+          },
+          "1.9.19-beta.1": {
+            "version": "1.9.19-beta.1",
+            "name": "com.anatawa12.avatar-optimizer",
+            "displayName": "AAO: Avatar Optimizer",
+            "description": "Set of Anatawa12's Small Avatar Optimization Utilities",
+            "url": "https://vpm.anatawa12.com/avatar-optimizer/package-1.9.19-beta.1.zip?",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -126942,8 +128050,8 @@
     "name": "GokouKotori's VRChat Package Listing",
     "id": "com.gokoukotori.vpm",
     "author": "GokouKotori",
-    "hash": "1ca9ea0de13245289cc3259b43e9b9e66e8008740af77c07f240522d39c7ea7b",
-    "last_updated": "2026-08-31T01:50:54.000Z",
+    "hash": "23d9d1092ac5f978eba0b15e401ee1789fbaaa699534c59ce3f72fda6f548787",
+    "last_updated": "2026-09-08T01:07:47.000Z",
     "packageCount": 5,
     "packages": {
       "com.gokoukotori.posetune": {
@@ -127228,8 +128336,8 @@
         "name": "com.gokoukotori.fbx-uv-texture-transfer",
         "displayName": "FBX UV Texture Transfer",
         "description": "A Unity Editor extension that transfers textures between FBX UV islands for VRChat avatars and applies them non-destructively as external layers in TexTransTool MultiLayerImageCanvas.",
-        "latestVersion": "0.1.3",
-        "versionCount": 3,
+        "latestVersion": "0.2.0-beta.1",
+        "versionCount": 4,
         "keywords": [
           "VRChat",
           "TexTransTool",
@@ -127241,6 +128349,20 @@
           "name": "gokoukotori"
         },
         "versions": {
+          "0.2.0-beta.1": {
+            "version": "0.2.0-beta.1",
+            "name": "com.gokoukotori.fbx-uv-texture-transfer",
+            "displayName": "FBX UV Texture Transfer",
+            "description": "A Unity Editor extension that transfers textures between FBX UV islands for VRChat avatars and applies them non-destructively as external layers in TexTransTool MultiLayerImageCanvas.",
+            "url": "https://github.com/gokoukotori/FbxUVTextureTransferForUnity/releases/download/0.2.0-beta.1/com.gokoukotori.fbx-uv-texture-transfer-0.2.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "net.rs64.tex-trans-tool": ">=1.1.0-beta.9",
+              "nadena.dev.ndmf": ">=1.14.4",
+              "com.vrchat.avatars": ">=3.10.4"
+            }
+          },
           "0.1.3": {
             "version": "0.1.3",
             "name": "com.gokoukotori.fbx-uv-texture-transfer",
@@ -127351,548 +128473,13 @@
   },
   {
     "url": "https://vpm.gyoku.tech/vpm.json",
-    "name": "gyokute",
-    "id": "tech.gyoku.main",
+    "name": "Gyoku VPM",
+    "id": "vpm.gyoku.tech",
     "author": "gyokute",
-    "hash": "43d5867cb7c14fae342ddcf0e8746bdb040c62e2bc8daa3ae63013315da74a4b",
+    "hash": null,
     "last_updated": "2024-11-23T17:40:13.000Z",
-    "packageCount": 8,
-    "packages": {
-      "tech.gyoku.fdmi.core": {
-        "id": "tech.gyoku.fdmi.core",
-        "name": "tech.gyoku.fdmi.core",
-        "displayName": "FDMi-core",
-        "description": "Flight dynamics module for Udonsharp.",
-        "latestVersion": "2.0.0",
-        "versionCount": 5,
-        "keywords": [
-          "Udonsharp"
-        ],
-        "unity": "2019.4",
-        "author": {
-          "name": "gyokute",
-          "url": "https://vpm.gyoku.tech"
-        },
-        "versions": {
-          "2.0.0": {
-            "version": "2.0.0",
-            "name": "tech.gyoku.fdmi.core",
-            "displayName": "FDMi-core",
-            "description": "Flight dynamics module for Udonsharp.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.0.0/tech.gyoku.fdmi.core-2.0.0.zip?",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {}
-          },
-          "2.0.1": {
-            "version": "2.0.1",
-            "name": "tech.gyoku.fdmi.core",
-            "displayName": "FDMi-core",
-            "description": "Flight dynamics module for Udonsharp.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.0.1/tech.gyoku.fdmi.core-2.0.1.zip?",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {}
-          },
-          "2.1.0": {
-            "version": "2.1.0",
-            "name": "tech.gyoku.fdmi.core",
-            "displayName": "FDMi - Core",
-            "description": "Imprimented variable abstraction and basic animation/transform system for VRChat.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.1.0/tech.gyoku.fdmi.core-2.1.0.zip?",
-            "zipSha256": null,
-            "vpmDependencies": {}
-          },
-          "2.1.1": {
-            "version": "2.1.1",
-            "name": "tech.gyoku.fdmi.core",
-            "displayName": "FDMi - Core",
-            "description": "Imprimented variable abstraction and basic animation/transform system for VRChat.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.1.1/tech.gyoku.fdmi.core-2.1.1.zip?",
-            "zipSha256": null,
-            "vpmDependencies": {}
-          },
-          "2.1.2": {
-            "version": "2.1.2",
-            "name": "tech.gyoku.fdmi.core",
-            "displayName": "FDMi - Core",
-            "description": "Imprimented variable abstraction and basic animation/transform system for VRChat.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.1.2/tech.gyoku.fdmi.core-2.1.2.zip?",
-            "zipSha256": null,
-            "vpmDependencies": {}
-          }
-        }
-      },
-      "tech.gyoku.fdmi.aerodynamics": {
-        "id": "tech.gyoku.fdmi.aerodynamics",
-        "name": "tech.gyoku.fdmi.aerodynamics",
-        "displayName": "FDMi-aerodynamics",
-        "description": "Flight dynamics module for Udonsharp.",
-        "latestVersion": "2.0.0",
-        "versionCount": 5,
-        "keywords": [
-          "Udonsharp"
-        ],
-        "unity": "2019.4",
-        "author": {
-          "name": "gyokute",
-          "url": "https://vpm.gyoku.tech"
-        },
-        "versions": {
-          "2.0.0": {
-            "version": "2.0.0",
-            "name": "tech.gyoku.fdmi.aerodynamics",
-            "displayName": "FDMi-aerodynamics",
-            "description": "Flight dynamics module for Udonsharp.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.0.0/tech.gyoku.fdmi.aerodynamics-2.0.0.zip?",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {}
-          },
-          "2.0.1": {
-            "version": "2.0.1",
-            "name": "tech.gyoku.fdmi.aerodynamics",
-            "displayName": "FDMi-aerodynamics",
-            "description": "Flight dynamics module for Udonsharp.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.0.1/tech.gyoku.fdmi.aerodynamics-2.0.1.zip?",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {}
-          },
-          "2.1.0": {
-            "version": "2.1.0",
-            "name": "tech.gyoku.fdmi.aerodynamics",
-            "displayName": "FDMi - Aerodynamics",
-            "description": "Realistic aerodynamic physics for VRChat.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.1.0/tech.gyoku.fdmi.aerodynamics-2.1.0.zip?",
-            "zipSha256": null,
-            "vpmDependencies": {
-              "tech.gyoku.fdmi.core": "^2.1.0"
-            }
-          },
-          "2.1.1": {
-            "version": "2.1.1",
-            "name": "tech.gyoku.fdmi.aerodynamics",
-            "displayName": "FDMi - Aerodynamics",
-            "description": "Realistic aerodynamic physics for VRChat.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.1.1/tech.gyoku.fdmi.aerodynamics-2.1.1.zip?",
-            "zipSha256": null,
-            "vpmDependencies": {
-              "tech.gyoku.fdmi.core": "^2.1.1"
-            }
-          },
-          "2.1.2": {
-            "version": "2.1.2",
-            "name": "tech.gyoku.fdmi.aerodynamics",
-            "displayName": "FDMi - Aerodynamics",
-            "description": "Realistic aerodynamic physics for VRChat.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.1.2/tech.gyoku.fdmi.aerodynamics-2.1.2.zip?",
-            "zipSha256": null,
-            "vpmDependencies": {
-              "tech.gyoku.fdmi.core": "^2.1.2"
-            }
-          }
-        }
-      },
-      "tech.gyoku.fdmi.avionics": {
-        "id": "tech.gyoku.fdmi.avionics",
-        "name": "tech.gyoku.fdmi.avionics",
-        "displayName": "FDMi-avionics",
-        "description": "Flight dynamics module for Udonsharp.",
-        "latestVersion": "2.0.0",
-        "versionCount": 5,
-        "keywords": [
-          "Udonsharp"
-        ],
-        "unity": "2019.4",
-        "author": {
-          "name": "gyokute",
-          "url": "https://vpm.gyoku.tech"
-        },
-        "versions": {
-          "2.0.0": {
-            "version": "2.0.0",
-            "name": "tech.gyoku.fdmi.avionics",
-            "displayName": "FDMi-avionics",
-            "description": "Flight dynamics module for Udonsharp.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.0.0/tech.gyoku.fdmi.avionics-2.0.0.zip?",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {}
-          },
-          "2.0.1": {
-            "version": "2.0.1",
-            "name": "tech.gyoku.fdmi.avionics",
-            "displayName": "FDMi-avionics",
-            "description": "Flight dynamics module for Udonsharp.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.0.1/tech.gyoku.fdmi.avionics-2.0.1.zip?",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {}
-          },
-          "2.1.0": {
-            "version": "2.1.0",
-            "name": "tech.gyoku.fdmi.avionics",
-            "displayName": "FDMi - Avionics",
-            "description": "Provides basic avionics system for FDMi.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.1.0/tech.gyoku.fdmi.avionics-2.1.0.zip?",
-            "zipSha256": null,
-            "vpmDependencies": {
-              "tech.gyoku.fdmi.core": "^2.1.0"
-            }
-          },
-          "2.1.1": {
-            "version": "2.1.1",
-            "name": "tech.gyoku.fdmi.avionics",
-            "displayName": "FDMi - Avionics",
-            "description": "Provides basic avionics system for FDMi.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.1.1/tech.gyoku.fdmi.avionics-2.1.1.zip?",
-            "zipSha256": null,
-            "vpmDependencies": {
-              "tech.gyoku.fdmi.core": "^2.1.1"
-            }
-          },
-          "2.1.2": {
-            "version": "2.1.2",
-            "name": "tech.gyoku.fdmi.avionics",
-            "displayName": "FDMi - Avionics",
-            "description": "Provides basic avionics system for FDMi.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.1.2/tech.gyoku.fdmi.avionics-2.1.2.zip?",
-            "zipSha256": null,
-            "vpmDependencies": {
-              "tech.gyoku.fdmi.core": "^2.1.2"
-            }
-          }
-        }
-      },
-      "tech.gyoku.fdmi.dynamics": {
-        "id": "tech.gyoku.fdmi.dynamics",
-        "name": "tech.gyoku.fdmi.dynamics",
-        "displayName": "FDMi-dynamics",
-        "description": "Flight dynamics module for Udonsharp.",
-        "latestVersion": "2.0.0",
-        "versionCount": 5,
-        "keywords": [
-          "Udonsharp"
-        ],
-        "unity": "2019.4",
-        "author": {
-          "name": "gyokute",
-          "url": "https://vpm.gyoku.tech"
-        },
-        "versions": {
-          "2.0.0": {
-            "version": "2.0.0",
-            "name": "tech.gyoku.fdmi.dynamics",
-            "displayName": "FDMi-dynamics",
-            "description": "Flight dynamics module for Udonsharp.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.0.0/tech.gyoku.fdmi.dynamics-2.0.0.zip?",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {}
-          },
-          "2.0.1": {
-            "version": "2.0.1",
-            "name": "tech.gyoku.fdmi.dynamics",
-            "displayName": "FDMi-dynamics",
-            "description": "Flight dynamics module for Udonsharp.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.0.1/tech.gyoku.fdmi.dynamics-2.0.1.zip?",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {}
-          },
-          "2.1.0": {
-            "version": "2.1.0",
-            "name": "tech.gyoku.fdmi.dynamics",
-            "displayName": "FDMi - Dynamics",
-            "description": "Physics/ dynamics aids, and internal combustion engine simulations for VRChat",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.1.0/tech.gyoku.fdmi.dynamics-2.1.0.zip?",
-            "zipSha256": null,
-            "vpmDependencies": {
-              "tech.gyoku.fdmi.core": "^2.1.0"
-            }
-          },
-          "2.1.1": {
-            "version": "2.1.1",
-            "name": "tech.gyoku.fdmi.dynamics",
-            "displayName": "FDMi - Dynamics",
-            "description": "Physics/ dynamics aids, and internal combustion engine simulations for VRChat",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.1.1/tech.gyoku.fdmi.dynamics-2.1.1.zip?",
-            "zipSha256": null,
-            "vpmDependencies": {
-              "tech.gyoku.fdmi.core": "^2.1.1"
-            }
-          },
-          "2.1.2": {
-            "version": "2.1.2",
-            "name": "tech.gyoku.fdmi.dynamics",
-            "displayName": "FDMi - Dynamics",
-            "description": "Physics/ dynamics aids, and internal combustion engine simulations for VRChat",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.1.2/tech.gyoku.fdmi.dynamics-2.1.2.zip?",
-            "zipSha256": null,
-            "vpmDependencies": {
-              "tech.gyoku.fdmi.core": "^2.1.2"
-            }
-          }
-        }
-      },
-      "tech.gyoku.fdmi.editor": {
-        "id": "tech.gyoku.fdmi.editor",
-        "name": "tech.gyoku.fdmi.editor",
-        "displayName": "(!DEPRICATED, not to add later FDMi2.1.0!)FDMi-editor",
-        "description": "Flight dynamics module for Udonsharp.",
-        "latestVersion": "2.0.0",
-        "versionCount": 2,
-        "keywords": [
-          "Udonsharp"
-        ],
-        "unity": "2019.4",
-        "author": {
-          "name": "gyokute",
-          "url": "https://vpm.gyoku.tech"
-        },
-        "versions": {
-          "2.0.0": {
-            "version": "2.0.0",
-            "name": "tech.gyoku.fdmi.editor",
-            "displayName": "(!DEPRICATED, not to add later FDMi2.1.0!)FDMi-editor",
-            "description": "Flight dynamics module for Udonsharp.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.0.0/tech.gyoku.fdmi.editor-2.0.0.zip?",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {}
-          },
-          "2.0.1": {
-            "version": "2.0.1",
-            "name": "tech.gyoku.fdmi.editor",
-            "displayName": "(!DEPRICATED, not to add later FDMi2.1.0!)FDMi-editor",
-            "description": "Flight dynamics module for Udonsharp.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.0.1/tech.gyoku.fdmi.editor-2.0.1.zip?",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {}
-          }
-        }
-      },
-      "tech.gyoku.fdmi.example": {
-        "id": "tech.gyoku.fdmi.example",
-        "name": "tech.gyoku.fdmi.example",
-        "displayName": "FDMi-example",
-        "description": "Flight dynamics module for Udonsharp.",
-        "latestVersion": "2.0.0",
-        "versionCount": 5,
-        "keywords": [
-          "Udonsharp"
-        ],
-        "unity": "2019.4",
-        "author": {
-          "name": "gyokute",
-          "url": "https://vpm.gyoku.tech"
-        },
-        "versions": {
-          "2.0.0": {
-            "version": "2.0.0",
-            "name": "tech.gyoku.fdmi.example",
-            "displayName": "FDMi-example",
-            "description": "Flight dynamics module for Udonsharp.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.0.0/tech.gyoku.fdmi.example-2.0.0.zip?",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {}
-          },
-          "2.0.1": {
-            "version": "2.0.1",
-            "name": "tech.gyoku.fdmi.example",
-            "displayName": "FDMi-example",
-            "description": "Flight dynamics module for Udonsharp.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.0.1/tech.gyoku.fdmi.example-2.0.1.zip?",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {}
-          },
-          "2.1.0": {
-            "version": "2.1.0",
-            "name": "tech.gyoku.fdmi.example",
-            "displayName": "FDMi - Example",
-            "description": "Example packages for FDMi.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.1.0/tech.gyoku.fdmi.example-2.1.0.zip?",
-            "zipSha256": null,
-            "vpmDependencies": {
-              "tech.gyoku.fdmi.core": "^2.1.0"
-            }
-          },
-          "2.1.1": {
-            "version": "2.1.1",
-            "name": "tech.gyoku.fdmi.example",
-            "displayName": "FDMi - Example",
-            "description": "Example packages for FDMi.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.1.1/tech.gyoku.fdmi.example-2.1.1.zip?",
-            "zipSha256": null,
-            "vpmDependencies": {
-              "tech.gyoku.fdmi.core": "^2.1.1"
-            }
-          },
-          "2.1.2": {
-            "version": "2.1.2",
-            "name": "tech.gyoku.fdmi.example",
-            "displayName": "FDMi - Example",
-            "description": "Example packages for FDMi.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.1.2/tech.gyoku.fdmi.example-2.1.2.zip?",
-            "zipSha256": null,
-            "vpmDependencies": {
-              "tech.gyoku.fdmi.core": "^2.1.2",
-              "tech.gyoku.fdmi.aerodynamics": "^2.1.2",
-              "tech.gyoku.fdmi.avionics": "^2.1.2",
-              "tech.gyoku.fdmi.dynamics": "^2.1.2",
-              "tech.gyoku.fdmi.input": "^2.1.2",
-              "tech.gyoku.fdmi.sync": "^2.1.2"
-            }
-          }
-        }
-      },
-      "tech.gyoku.fdmi.input": {
-        "id": "tech.gyoku.fdmi.input",
-        "name": "tech.gyoku.fdmi.input",
-        "displayName": "FDMi-input",
-        "description": "Flight dynamics module for Udonsharp.",
-        "latestVersion": "2.0.0",
-        "versionCount": 5,
-        "keywords": [
-          "Udonsharp"
-        ],
-        "unity": "2019.4",
-        "author": {
-          "name": "gyokute",
-          "url": "https://vpm.gyoku.tech"
-        },
-        "versions": {
-          "2.0.0": {
-            "version": "2.0.0",
-            "name": "tech.gyoku.fdmi.input",
-            "displayName": "FDMi-input",
-            "description": "Flight dynamics module for Udonsharp.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.0.0/tech.gyoku.fdmi.input-2.0.0.zip?",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {}
-          },
-          "2.0.1": {
-            "version": "2.0.1",
-            "name": "tech.gyoku.fdmi.input",
-            "displayName": "FDMi-input",
-            "description": "Flight dynamics module for Udonsharp.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.0.1/tech.gyoku.fdmi.input-2.0.1.zip?",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {}
-          },
-          "2.1.0": {
-            "version": "2.1.0",
-            "name": "tech.gyoku.fdmi.input",
-            "displayName": "FDMi - Input",
-            "description": "Advanced full-grabbable interaction inputs for VRChat.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.1.0/tech.gyoku.fdmi.input-2.1.0.zip?",
-            "zipSha256": null,
-            "vpmDependencies": {
-              "tech.gyoku.fdmi.core": "^2.1.0"
-            }
-          },
-          "2.1.1": {
-            "version": "2.1.1",
-            "name": "tech.gyoku.fdmi.input",
-            "displayName": "FDMi - Input",
-            "description": "Advanced full-grabbable interaction inputs for VRChat.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.1.1/tech.gyoku.fdmi.input-2.1.1.zip?",
-            "zipSha256": null,
-            "vpmDependencies": {
-              "tech.gyoku.fdmi.core": "^2.1.1"
-            }
-          },
-          "2.1.2": {
-            "version": "2.1.2",
-            "name": "tech.gyoku.fdmi.input",
-            "displayName": "FDMi - Input",
-            "description": "Advanced full-grabbable interaction inputs for VRChat.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.1.2/tech.gyoku.fdmi.input-2.1.2.zip?",
-            "zipSha256": null,
-            "vpmDependencies": {
-              "tech.gyoku.fdmi.core": "^2.1.2"
-            }
-          }
-        }
-      },
-      "tech.gyoku.fdmi.sync": {
-        "id": "tech.gyoku.fdmi.sync",
-        "name": "tech.gyoku.fdmi.sync",
-        "displayName": "FDMi-sync",
-        "description": "Flight dynamics module for Udonsharp.",
-        "latestVersion": "2.0.0",
-        "versionCount": 5,
-        "keywords": [
-          "Udonsharp"
-        ],
-        "unity": "2019.4",
-        "author": {
-          "name": "gyokute",
-          "url": "https://vpm.gyoku.tech"
-        },
-        "versions": {
-          "2.0.0": {
-            "version": "2.0.0",
-            "name": "tech.gyoku.fdmi.sync",
-            "displayName": "FDMi-sync",
-            "description": "Flight dynamics module for Udonsharp.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.0.0/tech.gyoku.fdmi.sync-2.0.0.zip?",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {}
-          },
-          "2.0.1": {
-            "version": "2.0.1",
-            "name": "tech.gyoku.fdmi.sync",
-            "displayName": "FDMi-sync",
-            "description": "Flight dynamics module for Udonsharp.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.0.1/tech.gyoku.fdmi.sync-2.0.1.zip?",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {}
-          },
-          "2.1.0": {
-            "version": "2.1.0",
-            "name": "tech.gyoku.fdmi.sync",
-            "displayName": "FDMi - Sync",
-            "description": "Allowing planet-scele travel without float-prescision in VRChat.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.1.0/tech.gyoku.fdmi.sync-2.1.0.zip?",
-            "zipSha256": null,
-            "vpmDependencies": {
-              "tech.gyoku.fdmi.core": "^2.1.0"
-            }
-          },
-          "2.1.1": {
-            "version": "2.1.1",
-            "name": "tech.gyoku.fdmi.sync",
-            "displayName": "FDMi - Sync",
-            "description": "Allowing planet-scele travel without float-prescision in VRChat.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.1.1/tech.gyoku.fdmi.sync-2.1.1.zip?",
-            "zipSha256": null,
-            "vpmDependencies": {
-              "tech.gyoku.fdmi.core": "^2.1.1"
-            }
-          },
-          "2.1.2": {
-            "version": "2.1.2",
-            "name": "tech.gyoku.fdmi.sync",
-            "displayName": "FDMi - Sync",
-            "description": "Allowing planet-scele travel without float-prescision in VRChat.",
-            "url": "https://github.com/gyokute/FDMi/releases/download/2.1.2/tech.gyoku.fdmi.sync-2.1.2.zip?",
-            "zipSha256": null,
-            "vpmDependencies": {
-              "tech.gyoku.fdmi.core": "^2.1.2"
-            }
-          }
-        }
-      }
-    }
+    "packageCount": 0,
+    "packages": {}
   },
   {
     "url": "https://vpm.hackebein.dev/index.json",
@@ -138010,327 +138597,6 @@
     }
   },
   {
-    "url": "https://vpm.magmamc.dev/index.json",
-    "name": "Magma's Packages",
-    "id": "net.magma-mc.packages",
-    "author": "MagmaMc",
-    "hash": "4dc0e0bed8165f4f85f2abcb67cbd449cc7f8b8ea3bac4bf42112e4b2963709b",
-    "last_updated": "2026-08-23T07:23:06.000Z",
-    "packageCount": 5,
-    "packages": {
-      "net.magma-mc.shaders": {
-        "id": "net.magma-mc.shaders",
-        "name": "net.magma-mc.shaders",
-        "displayName": "MagmaMc.Shaders",
-        "description": "SRP Shaders That Can Be Useful For VRChat Worlds and Avatars",
-        "latestVersion": "1.6.0",
-        "versionCount": 3,
-        "keywords": [],
-        "unity": "2019.4",
-        "author": {
-          "name": "MagmaMc",
-          "email": "magma.mc@magma-mc.net",
-          "url": "https://magmamcnet.github.io/VPM/"
-        },
-        "versions": {
-          "1.6.0": {
-            "version": "1.6.0",
-            "name": "net.magma-mc.shaders",
-            "displayName": "MagmaMc.Shaders",
-            "description": "SRP Shaders That Can Be Useful For VRChat Worlds and Avatars",
-            "url": "https://github.com/MagmaVRC/Shaders/releases/download/1.6.0/net.magma-mc.shaders.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {}
-          },
-          "1.5.1": {
-            "version": "1.5.1",
-            "name": "net.magma-mc.shaders",
-            "displayName": "MagmaMc.Shaders",
-            "description": "SRP Shaders That Can Be Useful For VRChat Worlds and Avatars",
-            "url": "https://github.com/MagmaVRC/Shaders/releases/download/1.5.1/net.magma-mc.shaders-1.5.1.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {}
-          },
-          "1.5.0": {
-            "version": "1.5.0",
-            "name": "net.magma-mc.shaders",
-            "displayName": "MagmaMc.Shaders",
-            "description": "",
-            "url": "https://github.com/MagmaVRC/Shaders/releases/download/1.5.0/1.5.0.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {}
-          }
-        }
-      },
-      "net.magma-mc.utils": {
-        "id": "net.magma-mc.utils",
-        "name": "net.magma-mc.utils",
-        "displayName": "MagmaMc.Utils",
-        "description": "Useful UdonSharp Scripts For VRChat World Development",
-        "latestVersion": "2.1.0",
-        "versionCount": 8,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "MagmaMc",
-          "email": "magma.mc@magma-mc.net",
-          "url": "https://magmamcnet.github.io/VPM/"
-        },
-        "versions": {
-          "2.1.0": {
-            "version": "2.1.0",
-            "name": "net.magma-mc.utils",
-            "displayName": "MagmaMc.Utils",
-            "description": "Useful UdonSharp Scripts For VRChat World Development",
-            "url": "https://github.com/MagmaVRC/Utils/releases/download/2.1.0/net.magma-mc.utils.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.3.0"
-            }
-          },
-          "2.0.1": {
-            "version": "2.0.1",
-            "name": "net.magma-mc.utils",
-            "displayName": "MagmaMc.Utils",
-            "description": "Useful UdonSharp Scripts For VRChat World Development",
-            "url": "https://github.com/MagmaVRC/Utils/releases/download/2.0.1/net.magma-mc.utils.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.3.0"
-            }
-          },
-          "2.0.0": {
-            "version": "2.0.0",
-            "name": "net.magma-mc.utils",
-            "displayName": "MagmaMc.Utils",
-            "description": "Useful UdonSharp Scripts For VRChat World Development",
-            "url": "https://github.com/MagmaVRC/Utils/releases/download/2.0.0/net.magma-mc.utils.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.3.0"
-            }
-          },
-          "1.3.1": {
-            "version": "1.3.1",
-            "name": "net.magma-mc.utils",
-            "displayName": "MagmaMc.Utils",
-            "description": "Useful UdonSharp Scripts For VRChat World Development",
-            "url": "https://github.com/MagmaVRC/Utils/releases/download/1.3.1/net.magma-mc.utils.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.3.0"
-            }
-          },
-          "1.3.0": {
-            "version": "1.3.0",
-            "name": "net.magma-mc.utils",
-            "displayName": "MagmaMc.Utils",
-            "description": "Useful UdonSharp Scripts For VRChat World Development",
-            "url": "https://github.com/MagmaVRC/Utils/releases/download/1.3.0/net.magma-mc.utils.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.3.0"
-            }
-          },
-          "1.2.0": {
-            "version": "1.2.0",
-            "name": "net.magma-mc.utils",
-            "displayName": "MagmaMc.Utils",
-            "description": "Useful UdonSharp Scripts For VRChat World Development",
-            "url": "https://github.com/MagmaVRC/Utils/releases/download/1.2.0/net.magma-mc.utils.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.3.0"
-            }
-          },
-          "1.1.0": {
-            "version": "1.1.0",
-            "name": "net.magma-mc.utils",
-            "displayName": "MagmaMc.Utils",
-            "description": "Useful UdonSharp Scripts For VRChat World Development",
-            "url": "https://github.com/MagmaVRC/Utils/releases/download/1.1.0/MagmaMc.Utils.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.3.0"
-            }
-          },
-          "1.0.0": {
-            "version": "1.0.0",
-            "name": "net.magma-mc.utils",
-            "displayName": "MagmaMc.Utils",
-            "description": "Useful UdonSharp Scripts For VRChat World Development",
-            "url": "https://github.com/MagmaVRC/Utils/releases/download/1.0.0/MagmaMc.Utils.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.3.0"
-            }
-          }
-        }
-      },
-      "dev.magmamc.permissionmanager": {
-        "id": "dev.magmamc.permissionmanager",
-        "name": "dev.magmamc.permissionmanager",
-        "displayName": "PermissionManager",
-        "description": null,
-        "latestVersion": "2.0.1",
-        "versionCount": 6,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "MagmaMc",
-          "email": "magma.mc@magma-mc.net",
-          "url": "https://vpm.magmamc.dev/"
-        },
-        "versions": {
-          "2.0.1": {
-            "version": "2.0.1",
-            "name": "dev.magmamc.permissionmanager",
-            "displayName": "PermissionManager",
-            "description": "",
-            "url": "https://github.com/MagmaVRC/PermissionManager/releases/download/2.0.1/dev.magmamc.permissionmanager.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": ">=3.5.0 <4.0.0",
-              "com.varneon.vudon.logger": ">=0.4.0-alpha.5 <0.5.0",
-              "net.magma-mc.utils": "^2.0.0"
-            }
-          },
-          "2.0.0": {
-            "version": "2.0.0",
-            "name": "dev.magmamc.permissionmanager",
-            "displayName": "PermissionManager",
-            "description": "",
-            "url": "https://github.com/MagmaVRC/PermissionManager/releases/download/2.0.0/dev.magmamc.permissionmanager.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": ">=3.5.0 <4.0.0",
-              "com.varneon.vudon.editors": ">=0.4.0 <0.5.0"
-            }
-          },
-          "1.1.0": {
-            "version": "1.1.0",
-            "name": "dev.magmamc.permissionmanager",
-            "displayName": "PermissionManager",
-            "description": "",
-            "url": "https://github.com/MagmaVRC/PermissionManager/releases/download/1.1.0/dev.magmamc.permissionmanager.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.3.0"
-            }
-          },
-          "1.0.2": {
-            "version": "1.0.2",
-            "name": "dev.magmamc.permissionmanager",
-            "displayName": "PermissionManager",
-            "description": "",
-            "url": "https://github.com/MagmaVRC/PermissionManager/releases/download/1.0.2/dev.magmamc.permissionmanager.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.3.0"
-            }
-          },
-          "1.0.1": {
-            "version": "1.0.1",
-            "name": "dev.magmamc.permissionmanager",
-            "displayName": "PermissionManager",
-            "description": "",
-            "url": "https://github.com/MagmaVRC/PermissionManager/releases/download/1.0.1/dev.magmamc.permissionmanager.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.3.0"
-            }
-          },
-          "1.0.0": {
-            "version": "1.0.0",
-            "name": "dev.magmamc.permissionmanager",
-            "displayName": "PermissionManager",
-            "description": "",
-            "url": "https://github.com/MagmaVRC/PermissionManager/releases/download/1.0.0/dev.magmamc.permissionmanager.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.3.0"
-            }
-          }
-        }
-      },
-      "dev.magmavrc.udonprofiler": {
-        "id": "dev.magmavrc.udonprofiler",
-        "name": "dev.magmavrc.udonprofiler",
-        "displayName": "Udon Profiler",
-        "description": "Editor-only Udon VM profiler: per-event timing, call edges, extern usage.",
-        "latestVersion": "0.1.0",
-        "versionCount": 1,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "MagmaVRC",
-          "email": "magma.mc@magma-mc.net",
-          "url": "https://vpm.magmamc.dev/"
-        },
-        "versions": {
-          "0.1.0": {
-            "version": "0.1.0",
-            "name": "dev.magmavrc.udonprofiler",
-            "displayName": "Udon Profiler",
-            "description": "Editor-only Udon VM profiler: per-event timing, call edges, extern usage.",
-            "url": "https://github.com/MagmaVRC/UdonProfiler/releases/download/v0.1.0/dev.magmavrc.udonprofiler-0.1.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": ">=3.7.0 <4.0.0"
-            }
-          }
-        }
-      },
-      "dev.magmavrc.udonvm": {
-        "id": "dev.magmavrc.udonvm",
-        "name": "dev.magmavrc.udonvm",
-        "displayName": "Fast Udon VM",
-        "description": "Editor-only drop-in replacement for the Udon VM with identical semantics and lower dispatch overhead.",
-        "latestVersion": "0.1.0",
-        "versionCount": 1,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "MagmaVRC",
-          "email": "magma.mc@magma-mc.net",
-          "url": "https://vpm.magmamc.dev/"
-        },
-        "versions": {
-          "0.1.0": {
-            "version": "0.1.0",
-            "name": "dev.magmavrc.udonvm",
-            "displayName": "Fast Udon VM",
-            "description": "Editor-only drop-in replacement for the Udon VM with identical semantics and lower dispatch overhead.",
-            "url": "https://github.com/MagmaVRC/FastUdonVM/releases/download/v0.1.0/dev.magmavrc.udonvm-0.1.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": ">=3.7.0 <4.0.0"
-            }
-          }
-        }
-      }
-    }
-  },
-  {
     "url": "https://vpm.matcha-soft.com/repos.json",
     "name": "MitarashiDango VPM Repository",
     "id": "com.matcha-soft.vpm",
@@ -139370,7 +139636,7 @@
     "id": "com.micksam7.vpm",
     "author": "Micca",
     "hash": "28148f3419e38143920ae19b3a3dd4a57a632a36728aa26382a61c71e69f2550",
-    "last_updated": "2026-07-03T02:20:29.000Z",
+    "last_updated": "2026-07-03T02:20:28.000Z",
     "packageCount": 1,
     "packages": {
       "com.micksam7.mididmx": {
@@ -162780,7 +163046,7 @@
     "id": "dev.thry.vpm",
     "author": "Thryrallo",
     "hash": "0189583cd590af92f6337bf072cfea3211c6a3ca90738536d8f30bcd5fab82cb",
-    "last_updated": "2024-08-05T22:13:00.000Z",
+    "last_updated": "2024-08-05T22:13:01.000Z",
     "packageCount": 1,
     "packages": {
       "de.thryrallo.vrc.avatar-performance-tools": {
@@ -163514,8 +163780,8 @@
     "name": "WhyKnot Tools",
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
-    "hash": "883d532df50112ca1eaa6c35ccfe9e528fd99854c799b4da166cfcf08fa7d399",
-    "last_updated": "2026-09-06T09:54:27.000Z",
+    "hash": "6975e52fc1e95f024f24ae74646c37088171dcb34d5e128a87c9cf8612110f19",
+    "last_updated": "2026-09-07T11:02:07.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -174938,7 +175204,7 @@
     "id": "idv.jlchntoz.xtlcdn-listing",
     "author": "Jeremy Lam aka. Vistanz",
     "hash": "a470e6de88e9cff7fbef0a3c4414366ffb8c0243c34afa914217adb37180d85b",
-    "last_updated": "2026-09-05T10:19:23.000Z",
+    "last_updated": "2026-09-05T10:19:24.000Z",
     "packageCount": 14,
     "packages": {
       "idv.jlchntoz.vrcw-foundation": {
@@ -180461,7 +180727,7 @@
     "id": "io.github.z3y.vpm-package-listing",
     "author": "z3y",
     "hash": "531be78f1f8a6fb86a734c4cc9712bed31ac405ba14baa11777d8d95a05bd983",
-    "last_updated": "2026-09-02T16:36:25.000Z",
+    "last_updated": "2026-09-02T16:36:23.000Z",
     "packageCount": 8,
     "packages": {
       "com.z3y.graphlit": {
