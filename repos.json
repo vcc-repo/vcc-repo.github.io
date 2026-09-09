@@ -25176,8 +25176,8 @@
     "name": "TohruTheDragon's VPM Packages",
     "id": "dev.tohruthedragon.vpm-listing",
     "author": "TohruTheDragon",
-    "hash": "628395caaffe248474e7c271a1edaf04e4649aa6fe7edeb147e723853162cf95",
-    "last_updated": "2026-07-23T22:33:44.000Z",
+    "hash": "667fc7df40d2b611f7bc65df3373c05b6230b04fce8f334cdb211bfe3be41079",
+    "last_updated": "2026-09-08T15:54:33.000Z",
     "packageCount": 11,
     "packages": {
       "dev.tohruthedragon.animatorwithkeyboard": {
@@ -25479,8 +25479,8 @@
         "name": "com.tohruthedragon.sdkathome",
         "displayName": "TohruTheDragon - SDK at Home",
         "description": "A framework for Unity Editor Harmony patches",
-        "latestVersion": "1.0.8",
-        "versionCount": 9,
+        "latestVersion": "1.0.9",
+        "versionCount": 10,
         "keywords": [
           "TohruTheDragon",
           "VRChat",
@@ -25493,6 +25493,17 @@
           "name": "TohruTheDragon"
         },
         "versions": {
+          "1.0.9": {
+            "version": "1.0.9",
+            "name": "com.tohruthedragon.sdkathome",
+            "displayName": "TohruTheDragon - SDK at Home",
+            "description": "A framework for Unity Editor Harmony patches",
+            "url": "https://github.com/fkrisi11/SDKatHome/releases/download/v1.0.9/com.tohruthedragon.sdkathome_v1.0.9.zip",
+            "zipSha256": null,
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.x.x"
+            }
+          },
           "1.0.8": {
             "version": "1.0.8",
             "name": "com.tohruthedragon.sdkathome",
@@ -28909,7 +28920,7 @@
     "id": "info.glintfraulein.vpm",
     "author": "GlinT Fraulein",
     "hash": "18bb3ea8c22648e666d971da672b24379485d8f7dcb43085137931eb9e1515ce",
-    "last_updated": "2026-08-23T14:57:49.000Z",
+    "last_updated": "2026-08-23T14:57:48.000Z",
     "packageCount": 1,
     "packages": {
       "info.glintfraulein.palasolu": {
@@ -38524,7 +38535,7 @@
     "id": "io.github.helpinghandsvr.vpm",
     "author": "Helping Hands",
     "hash": "d3cba140edcf3cb5c17c4b6034085a4238c0dbbd2ce98b5f097b608968bff8fb",
-    "last_updated": "2026-07-03T13:20:29.000Z",
+    "last_updated": "2026-07-03T13:20:30.000Z",
     "packageCount": 2,
     "packages": {
       "io.github.helpinghandsvr.helpinghands-vrchat-avatar-accessories": {
@@ -40608,7 +40619,7 @@
     "id": "cat.hisa.vpm",
     "author": "HisaCat",
     "hash": "164e0ed610f0a593fb9eb5867230becff0831ebe47d88f25397692d3bbae92c4",
-    "last_updated": "2026-07-03T05:26:12.000Z",
+    "last_updated": "2026-07-03T05:26:13.000Z",
     "packageCount": 3,
     "packages": {
       "cat.hisa.asset-patcher": {
@@ -40769,7 +40780,7 @@
     "id": "com.github.hkrn",
     "author": "hkrn",
     "hash": "66afe02e940c091d4b955f7a758659dfa28c963b53e571fc1c24147280761b5f",
-    "last_updated": "2026-07-12T08:29:09.000Z",
+    "last_updated": "2026-07-12T08:29:10.000Z",
     "packageCount": 1,
     "packages": {
       "com.github.hkrn.ndmf-vrm-exporter": {
@@ -41340,7 +41351,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "680029c772846cb5e5b7331c6f399296d7c3d340058c68c9f48e255a6fa8e65e",
-    "last_updated": "2026-09-07T08:24:07.000Z",
+    "last_updated": "2026-09-08T08:09:15.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -43193,7 +43204,7 @@
     "id": "com.vrsive.avatar-exporter.listing",
     "author": "VRSive",
     "hash": "6e4fddf38f8f4986ffa38df8646ea79db089e58aa357f4991002a8cab32a4717",
-    "last_updated": "2026-06-12T12:24:23.000Z",
+    "last_updated": "2026-06-12T12:24:24.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrsive.avatar-exporter": {
@@ -44146,8 +44157,8 @@
     "name": "kb10uy VRChat Package Repository",
     "id": "org.kb10uy.vrc-repository",
     "author": "kb10uy",
-    "hash": "c43b5ddf1d334dd495948851ed10cb621da412cf7470fa7a18892ab68d20070e",
-    "last_updated": "2026-09-04T19:04:45.000Z",
+    "hash": "2ee3b0ed0f91f0140b689609ffac90fb06f3f702ddfeab68a7d4fcfbc26982e0",
+    "last_updated": "2026-09-08T13:23:21.000Z",
     "packageCount": 9,
     "packages": {
       "jp.lilxyzw.liltoon": {
@@ -49722,8 +49733,8 @@
         "name": "org.kb10uy.zatools",
         "displayName": "Zatools: kb10uy's Various Tools",
         "description": "Various tools developed by kb10uy",
-        "latestVersion": "6.0.0",
-        "versionCount": 77,
+        "latestVersion": "6.0.2",
+        "versionCount": 79,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -49732,6 +49743,32 @@
           "url": "https://kb10uy.org"
         },
         "versions": {
+          "6.0.2": {
+            "version": "6.0.2",
+            "name": "org.kb10uy.zatools",
+            "displayName": "Zatools: kb10uy's Various Tools",
+            "description": "Various tools developed by kb10uy",
+            "url": "https://github.com/kb10uy/kb10uy-zatools/releases/download/6.0.2/org.kb10uy.zatools.6.0.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.13.0",
+              "nadena.dev.modular-avatar": ">=1.15.0"
+            }
+          },
+          "6.0.1": {
+            "version": "6.0.1",
+            "name": "org.kb10uy.zatools",
+            "displayName": "Zatools: kb10uy's Various Tools",
+            "description": "Various tools developed by kb10uy",
+            "url": "https://github.com/kb10uy/kb10uy-zatools/releases/download/6.0.1/org.kb10uy.zatools.6.0.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.13.0",
+              "nadena.dev.modular-avatar": ">=1.15.0"
+            }
+          },
           "6.0.0": {
             "version": "6.0.0",
             "name": "org.kb10uy.zatools",
@@ -50905,7 +50942,7 @@
     "id": "com.kie.vpm",
     "author": "Kie",
     "hash": "9c720b21a0d472446cbcefecd3ffddfe48df0b160a1cc2d716f8020dfadddb34",
-    "last_updated": "2026-09-07T19:01:49.000Z",
+    "last_updated": "2026-09-08T18:22:36.000Z",
     "packageCount": 3,
     "packages": {
       "com.kie.kie-mergeable-toggle": {
@@ -51147,7 +51184,7 @@
     "id": "com.kikurage1989.utilsscript",
     "author": "kikurage1989_",
     "hash": "a479bbbb44186c8db52473fa68813010d0cde6afd082f97f0ee93a79ee10ca50",
-    "last_updated": "2026-07-30T11:03:57.000Z",
+    "last_updated": "2026-07-30T11:03:58.000Z",
     "packageCount": 2,
     "packages": {
       "com.kikurage1989.utilsscript": {
@@ -54896,7 +54933,7 @@
     "id": "lereldarion",
     "author": "Lereldarion",
     "hash": "fa9cc79e70fb00eb2aa70863c05e008271c255affd1e14192f26540239c3a213",
-    "last_updated": "2026-06-25T19:36:14.000Z",
+    "last_updated": "2026-06-25T19:36:15.000Z",
     "packageCount": 2,
     "packages": {
       "lereldarion.unity-shaders": {
@@ -57150,7 +57187,7 @@
     "id": "com.lightbulb.vpm",
     "author": "Lightbulb",
     "hash": "3caddf92a454fa5c15c70e8ae0004e829383c3ac919195e01fd924a3f7ecce27",
-    "last_updated": "2026-09-07T23:30:10.000Z",
+    "last_updated": "2026-09-09T00:15:16.000Z",
     "packageCount": 2,
     "packages": {
       "com.lightbulb.arealit-occlusion": {
@@ -59655,7 +59692,7 @@
     "id": "com.mame8.vpm",
     "author": "mame8",
     "hash": "880c4bc843e71444652593ac77a1a92bd04b01453281fbe2f51c3cd1ea8bf95a",
-    "last_updated": "2026-07-02T19:27:29.000Z",
+    "last_updated": "2026-07-02T19:27:30.000Z",
     "packageCount": 3,
     "packages": {
       "com.mame8.animator-controller-context": {
@@ -59764,7 +59801,7 @@
     "id": "com.marble810.vpmlist",
     "author": "marble810",
     "hash": "4f55ba162464a9b3c9ded1481a98a8dbf5af9dcd51b491d7c0840324732b3662",
-    "last_updated": "2026-05-11T16:05:26.000Z",
+    "last_updated": "2026-09-08T16:29:49.000Z",
     "packageCount": 1,
     "packages": {
       "marble810.marbleavatartoolbox": {
@@ -59809,7 +59846,7 @@
     "id": "com.mattshark.openflight.repo",
     "author": "Mattshark89, Happyrobot33",
     "hash": "2659e37b23cc128e891c29a39e5bccda5a60665b585cf2406941eca4e5123520",
-    "last_updated": "2026-08-10T04:25:29.000Z",
+    "last_updated": "2026-08-10T04:25:27.000Z",
     "packageCount": 1,
     "packages": {
       "com.mattshark.openflight": {
@@ -61411,8 +61448,8 @@
     "name": "MinMinMart Listing",
     "id": "minminmean.listing",
     "author": "MinMinMean",
-    "hash": "1c63919b67ba6830d30d93cbb7f3627a799cc424f4782836d11d04e52157e328",
-    "last_updated": "2026-09-07T16:35:22.000Z",
+    "hash": "e99f3caf8edc31aa23876238ef89d21da4c8cd00d4b042513bc2f1fe89e9fdf8",
+    "last_updated": "2026-09-08T04:56:52.000Z",
     "packageCount": 3,
     "packages": {
       "minminmean.supine": {
@@ -61421,7 +61458,7 @@
         "displayName": "Gorone System (Supine)",
         "description": "Have a good sleep",
         "latestVersion": "4.5.1",
-        "versionCount": 12,
+        "versionCount": 11,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -61436,19 +61473,6 @@
             "displayName": "Gorone System (Supine)",
             "description": "Have a good sleep",
             "url": "https://github.com/minminmean/Supine/releases/download/4.5.1/minminmean.supine-4.5.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.0",
-              "nadena.dev.modular-avatar": ">=1.12.3"
-            }
-          },
-          "4.5.0": {
-            "version": "4.5.0",
-            "name": "minminmean.supine",
-            "displayName": "Gorone System (Supine)",
-            "description": "Have a good sleep",
-            "url": "https://github.com/minminmean/Supine/releases/download/4.5.0/minminmean.supine-4.5.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -61594,7 +61618,7 @@
         "displayName": "Gorone System EX (Supine EX)",
         "description": "Have a good night",
         "latestVersion": "4.5.1",
-        "versionCount": 10,
+        "versionCount": 9,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -61615,20 +61639,6 @@
               "com.vrchat.avatars": ">=3.7.0",
               "nadena.dev.modular-avatar": ">=1.12.3",
               "minminmean.supine": ">=4.5.1"
-            }
-          },
-          "4.5.0": {
-            "version": "4.5.0",
-            "name": "minminmean.supine-ex",
-            "displayName": "Gorone System EX (Supine EX)",
-            "description": "Have a good night",
-            "url": "https://github.com/minminmean/Supine-EX/releases/download/4.5.0/minminmean.supine-ex-4.5.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.0",
-              "nadena.dev.modular-avatar": ">=1.12.3",
-              "minminmean.supine": ">=4.5.0"
             }
           },
           "4.3.5": {
@@ -68645,7 +68655,7 @@
     "id": "dev.omelette_ak.vpm",
     "author": "omeletteak",
     "hash": "87cd6506aa825e26b64761abbbe030e0e11ea7ac963a055d927af38e95a30b11",
-    "last_updated": "2026-06-23T11:45:38.000Z",
+    "last_updated": "2026-06-23T11:45:39.000Z",
     "packageCount": 1,
     "packages": {
       "dev.omelette_ak.vrcloth-declipper": {
@@ -76405,13 +76415,330 @@
   },
   {
     "url": "https://pasocommate.chigiri.tokyo/index.json",
-    "name": "Chigiri VPM",
-    "id": "pasocommate.chigiri.tokyo",
+    "name": "PasocomMate",
+    "id": "tokyo.chigiri.pasocommate.vpm-listing",
     "author": "Chigiri Tsutsumi",
-    "hash": null,
+    "hash": "62afc320c3d18d67779ccc866d10d2829ee1c47e893ae8f05315219639eb80e8",
     "last_updated": "2026-07-22T07:56:26.000Z",
-    "packageCount": 0,
-    "packages": {}
+    "packageCount": 4,
+    "packages": {
+      "tokyo.chigiri.pasocommate.avpvideostub": {
+        "id": "tokyo.chigiri.pasocommate.avpvideostub",
+        "name": "tokyo.chigiri.pasocommate.avpvideostub",
+        "displayName": "AvpVideoStub",
+        "description": "Video player stub utilities for VRChat worlds.",
+        "latestVersion": "1.1.0",
+        "versionCount": 2,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "Chigiri Tsutsumi"
+        },
+        "versions": {
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "tokyo.chigiri.pasocommate.avpvideostub",
+            "displayName": "AvpVideoStub",
+            "description": "Video player stub utilities for VRChat worlds.",
+            "url": "https://github.com/pasocommate/AvpVideoStub/releases/download/1.1.0/tokyo.chigiri.pasocommate.avpvideostub-1.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.10.2"
+            }
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "tokyo.chigiri.pasocommate.avpvideostub",
+            "displayName": "AvpVideoStub",
+            "description": "Video player stub utilities for VRChat worlds.",
+            "url": "https://github.com/pasocommate/AvpVideoStub/releases/download/1.0.0/tokyo.chigiri.pasocommate.avpvideostub-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.10.2"
+            }
+          }
+        }
+      },
+      "tokyo.chigiri.pasocommate.auncast": {
+        "id": "tokyo.chigiri.pasocommate.auncast",
+        "name": "tokyo.chigiri.pasocommate.auncast",
+        "displayName": "AunCast",
+        "description": "Low-latency dual-AVPro live streaming player system with resync controls for VRChat worlds.",
+        "latestVersion": "6.1.0",
+        "versionCount": 12,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "Chigiri Tsutsumi"
+        },
+        "versions": {
+          "6.1.0": {
+            "version": "6.1.0",
+            "name": "tokyo.chigiri.pasocommate.auncast",
+            "displayName": "AunCast",
+            "description": "Low-latency dual-AVPro live streaming player system with resync controls for VRChat worlds.",
+            "url": "https://github.com/pasocommate/AunCast/releases/download/6.1.0/tokyo.chigiri.pasocommate.auncast-6.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.10.2",
+              "com.llealloo.audiolink": ">=3.1.2",
+              "net.narazaka.vrchat.tmp-fallback-fonts-jp": ">=1.0.0",
+              "tokyo.chigiri.pasocommate.rendermate": ">=4.0.0 <5.0.0"
+            }
+          },
+          "6.0.0": {
+            "version": "6.0.0",
+            "name": "tokyo.chigiri.pasocommate.auncast",
+            "displayName": "AunCast",
+            "description": "Low-latency dual-AVPro live streaming player system with resync controls for VRChat worlds.",
+            "url": "https://github.com/pasocommate/AunCast/releases/download/6.0.0/tokyo.chigiri.pasocommate.auncast-6.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.10.2",
+              "com.llealloo.audiolink": ">=3.1.2",
+              "net.narazaka.vrchat.tmp-fallback-fonts-jp": ">=1.0.0",
+              "tokyo.chigiri.pasocommate.rendermate": ">=4.0.0 <5.0.0"
+            }
+          },
+          "5.1.2": {
+            "version": "5.1.2",
+            "name": "tokyo.chigiri.pasocommate.auncast",
+            "displayName": "AunCast",
+            "description": "Low-latency dual-AVPro live streaming player system with resync controls for VRChat worlds.",
+            "url": "https://github.com/pasocommate/AunCast/releases/download/5.1.2/tokyo.chigiri.pasocommate.auncast-5.1.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.10.2",
+              "com.llealloo.audiolink": ">=3.1.2",
+              "net.narazaka.vrchat.tmp-fallback-fonts-jp": ">=1.0.0",
+              "tokyo.chigiri.pasocommate.rendermate": ">=4.0.0 <5.0.0"
+            }
+          },
+          "5.1.1": {
+            "version": "5.1.1",
+            "name": "tokyo.chigiri.pasocommate.auncast",
+            "displayName": "AunCast",
+            "description": "Low-latency dual-AVPro live streaming player system with resync controls for VRChat worlds.",
+            "url": "https://github.com/pasocommate/AunCast/releases/download/5.1.1/tokyo.chigiri.pasocommate.auncast-5.1.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.10.2",
+              "net.narazaka.vrchat.tmp-fallback-fonts-jp": ">=1.0.0",
+              "tokyo.chigiri.pasocommate.rendermate": ">=4.0.0 <5.0.0"
+            }
+          },
+          "5.1.0": {
+            "version": "5.1.0",
+            "name": "tokyo.chigiri.pasocommate.auncast",
+            "displayName": "AunCast",
+            "description": "Low-latency dual-AVPro live streaming player system with resync controls for VRChat worlds.",
+            "url": "https://github.com/pasocommate/AunCast/releases/download/5.1.0/tokyo.chigiri.pasocommate.auncast-5.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.10.2",
+              "net.narazaka.vrchat.tmp-fallback-fonts-jp": ">=1.0.0",
+              "tokyo.chigiri.pasocommate.rendermate": ">=4.0.0 <5.0.0"
+            }
+          },
+          "3.1.0": {
+            "version": "3.1.0",
+            "name": "tokyo.chigiri.pasocommate.auncast",
+            "displayName": "AunCast",
+            "description": "Low-latency dual-AVPro live streaming player system with resync controls for VRChat worlds.",
+            "url": "https://github.com/pasocommate/AunCast/releases/download/3.1.0/tokyo.chigiri.pasocommate.auncast-3.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.10.2",
+              "net.narazaka.vrchat.tmp-fallback-fonts-jp": ">=1.0.0",
+              "tokyo.chigiri.pasocommate.rendermate": ">=3.0.0 <4.0.0"
+            }
+          },
+          "3.0.0": {
+            "version": "3.0.0",
+            "name": "tokyo.chigiri.pasocommate.auncast",
+            "displayName": "AunCast",
+            "description": "Low-latency dual-AVPro live streaming player system with resync controls for VRChat worlds.",
+            "url": "https://github.com/pasocommate/AunCast/releases/download/3.0.0/tokyo.chigiri.pasocommate.auncast-3.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.10.2",
+              "net.narazaka.vrchat.tmp-fallback-fonts-jp": ">=1.0.0",
+              "tokyo.chigiri.pasocommate.rendermate": ">=1.0.0 <2.0.0"
+            }
+          },
+          "2.1.0": {
+            "version": "2.1.0",
+            "name": "tokyo.chigiri.pasocommate.auncast",
+            "displayName": "AunCast",
+            "description": "Low-latency dual-AVPro live streaming player system with resync controls for VRChat worlds.",
+            "url": "https://github.com/pasocommate/AunCast/releases/download/2.1.0/tokyo.chigiri.pasocommate.auncast-2.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.10.2",
+              "net.narazaka.vrchat.tmp-fallback-fonts-jp": ">=1.0.0",
+              "tokyo.chigiri.pasocommate.rendermate": ">=1.0.0 <2.0.0"
+            }
+          },
+          "2.0.0": {
+            "version": "2.0.0",
+            "name": "tokyo.chigiri.pasocommate.auncast",
+            "displayName": "AunCast",
+            "description": "Low-latency dual-AVPro live streaming player system with resync controls for VRChat worlds.",
+            "url": "https://github.com/pasocommate/AunCast/releases/download/2.0.0/tokyo.chigiri.pasocommate.auncast-2.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.10.2",
+              "net.narazaka.vrchat.tmp-fallback-fonts-jp": ">=1.0.0",
+              "tokyo.chigiri.pasocommate.rendermate": ">=1.0.0 <2.0.0"
+            }
+          },
+          "1.5.0": {
+            "version": "1.5.0",
+            "name": "tokyo.chigiri.pasocommate.auncast",
+            "displayName": "AunCast",
+            "description": "Low-latency dual-AVPro live streaming player system with resync controls for VRChat worlds.",
+            "url": "https://github.com/pasocommate/AunCast/releases/download/1.5.0/tokyo.chigiri.pasocommate.auncast-1.5.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.10.2",
+              "net.narazaka.vrchat.tmp-fallback-fonts-jp": ">=1.0.0",
+              "tokyo.chigiri.pasocommate.rendermate": ">=1.0.0 <2.0.0"
+            }
+          },
+          "1.4.0": {
+            "version": "1.4.0",
+            "name": "tokyo.chigiri.pasocommate.auncast",
+            "displayName": "AunCast",
+            "description": "Low-latency dual-AVPro live streaming player system with resync controls for VRChat worlds.",
+            "url": "https://github.com/pasocommate/AunCast/releases/download/1.4.0/tokyo.chigiri.pasocommate.auncast-1.4.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.10.2",
+              "net.narazaka.vrchat.tmp-fallback-fonts-jp": ">=1.0.0",
+              "tokyo.chigiri.pasocommate.rendermate": ">=1.0.0 <2.0.0"
+            }
+          },
+          "1.3.0": {
+            "version": "1.3.0",
+            "name": "tokyo.chigiri.pasocommate.auncast",
+            "displayName": "AunCast",
+            "description": "Low-latency dual-AVPro live streaming player system with resync controls for VRChat worlds.",
+            "url": "https://github.com/pasocommate/AunCast/releases/download/1.3.0/tokyo.chigiri.pasocommate.auncast-1.3.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.10.2",
+              "net.narazaka.vrchat.tmp-fallback-fonts-jp": ">=1.0.0",
+              "tokyo.chigiri.pasocommate.rendermate": ">=1.0.0 <2.0.0"
+            }
+          }
+        }
+      },
+      "tokyo.chigiri.pasocommate.rendermate": {
+        "id": "tokyo.chigiri.pasocommate.rendermate",
+        "name": "tokyo.chigiri.pasocommate.rendermate",
+        "displayName": "RenderMate",
+        "description": "Core shader and material toolkit required by PasocomMate packages for VRChat worlds.",
+        "latestVersion": "4.0.0",
+        "versionCount": 4,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "Chigiri Tsutsumi"
+        },
+        "versions": {
+          "4.0.0": {
+            "version": "4.0.0",
+            "name": "tokyo.chigiri.pasocommate.rendermate",
+            "displayName": "RenderMate",
+            "description": "Core shader and material toolkit required by PasocomMate packages for VRChat worlds.",
+            "url": "https://github.com/pasocommate/RenderMate/releases/download/4.0.0/tokyo.chigiri.pasocommate.rendermate-4.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.llealloo.audiolink": ">=3.1.2"
+            }
+          },
+          "3.0.0": {
+            "version": "3.0.0",
+            "name": "tokyo.chigiri.pasocommate.rendermate",
+            "displayName": "RenderMate",
+            "description": "Core shader and material toolkit required by PasocomMate packages for VRChat worlds.",
+            "url": "https://github.com/pasocommate/RenderMate/releases/download/3.0.0/tokyo.chigiri.pasocommate.rendermate-3.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.llealloo.audiolink": ">=3.1.2"
+            }
+          },
+          "2.0.0": {
+            "version": "2.0.0",
+            "name": "tokyo.chigiri.pasocommate.rendermate",
+            "displayName": "RenderMate",
+            "description": "Core shader and material toolkit required by PasocomMate packages for VRChat worlds.",
+            "url": "https://github.com/pasocommate/RenderMate/releases/download/2.0.0/tokyo.chigiri.pasocommate.rendermate-2.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.llealloo.audiolink": ">=3.1.2"
+            }
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "tokyo.chigiri.pasocommate.rendermate",
+            "displayName": "RenderMate",
+            "description": "Core shader and material toolkit required by PasocomMate packages for VRChat worlds.",
+            "url": "https://github.com/pasocommate/RenderMate/releases/download/1.0.0/tokyo.chigiri.pasocommate.rendermate-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.llealloo.audiolink": ">=3.1.2"
+            }
+          }
+        }
+      },
+      "tokyo.chigiri.pasocommate.vrcavatarlatencyprobe": {
+        "id": "tokyo.chigiri.pasocommate.vrcavatarlatencyprobe",
+        "name": "tokyo.chigiri.pasocommate.vrcavatarlatencyprobe",
+        "displayName": "VRCAvatarLatencyProbe",
+        "description": "Avatar latency measurement booth toolkit for VRChat worlds.",
+        "latestVersion": "1.0.0",
+        "versionCount": 1,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "Chigiri Tsutsumi"
+        },
+        "versions": {
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "tokyo.chigiri.pasocommate.vrcavatarlatencyprobe",
+            "displayName": "VRCAvatarLatencyProbe",
+            "description": "Avatar latency measurement booth toolkit for VRChat worlds.",
+            "url": "https://github.com/pasocommate/VRCAvatarLatencyProbe/releases/download/1.0.0/tokyo.chigiri.pasocommate.vrcavatarlatencyprobe-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.10.2",
+              "net.narazaka.vrchat.tmp-fallback-fonts-jp": ">=1.0.0"
+            }
+          }
+        }
+      }
+    }
   },
   {
     "url": "https://pesky12.github.io/PeskyBox/index.json",
@@ -77082,7 +77409,7 @@
     "id": "xyz.misakal.vpm.project-vrcz",
     "author": "project-vrcz",
     "hash": "85d86779ba8f30739b23beb1ccd08db70eae841f6e77709db902b7aea11d9e8f",
-    "last_updated": "2026-08-26T10:34:07.000Z",
+    "last_updated": "2026-08-26T10:34:06.000Z",
     "packageCount": 9,
     "packages": {
       "xyz.misakal.vpm.yet-another-sdk-patch.worlds": {
@@ -79345,7 +79672,7 @@
     "id": "com.fracfloor.vpm-listing",
     "author": "raii",
     "hash": "bb8a1fb4b6497e28d58d8f4ed220692da23d2202d1dad6f3725f0921d2c66b57",
-    "last_updated": "2026-07-03T11:55:04.000Z",
+    "last_updated": "2026-07-03T11:55:03.000Z",
     "packageCount": 1,
     "packages": {
       "com.fracfloor.timeline-beat-marker": {
@@ -86352,7 +86679,7 @@
     "id": "dev.redline-team.redlinelist",
     "author": "RozeThorns",
     "hash": "8c61e41bc845ad48ac8b2df4fbc0df5b38f713805c599141762b5c54f4e92f8c",
-    "last_updated": "2026-09-08T01:36:19.000Z",
+    "last_updated": "2026-09-09T01:43:48.000Z",
     "packageCount": 5,
     "packages": {
       "dev.redline-team.rpm": {
@@ -88699,7 +89026,7 @@
     "id": "semmiedev.listing",
     "author": "SemmieDev",
     "hash": "764b234bce8d42c19ee898db4f726192706cfc034cfa348a8593e2579a2d0091",
-    "last_updated": "2026-07-06T07:55:28.000Z",
+    "last_updated": "2026-07-06T07:55:29.000Z",
     "packageCount": 2,
     "packages": {
       "semmiedev.friend-pov": {
@@ -99485,7 +99812,7 @@
     "id": "io.github.tp-jp.vpm",
     "author": "tp.jp",
     "hash": "da473ccdc75356cd14e6c77e54e8be663bb1621108df5f980248e75789e4c3aa",
-    "last_updated": "2026-07-13T13:46:47.000Z",
+    "last_updated": "2026-07-13T13:46:48.000Z",
     "packageCount": 9,
     "packages": {
       "com.tp.jp.iwa-sync3-color-changer": {
@@ -100591,17 +100918,17 @@
     "name": "Udonite",
     "id": "com.udonite.listing",
     "author": "Udonite",
-    "hash": "ef99ed3e579428fb8f6323717be14d74f983d99f93fffcc4499ff4e8776754f0",
-    "last_updated": "2026-09-07T20:59:04.000Z",
-    "packageCount": 2,
+    "hash": "6cbcfa8f12216eea2df0d1aa172f9b9b1fa7c8fe7c5c30f7a502c5f046d0fbad",
+    "last_updated": "2026-09-08T14:09:11.000Z",
+    "packageCount": 5,
     "packages": {
       "com.udonite.compiler": {
         "id": "com.udonite.compiler",
         "name": "com.udonite.compiler",
         "displayName": "Udonite",
         "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
-        "latestVersion": "1.1.0",
-        "versionCount": 2,
+        "latestVersion": "1.3.5",
+        "versionCount": 10,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -100609,6 +100936,102 @@
           "url": "https://github.com/Udonite/Udonite"
         },
         "versions": {
+          "1.3.5": {
+            "version": "1.3.5",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://github.com/Udonite/Udonite/releases/download/v1.3.5/com.udonite.compiler-1.3.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
+          "1.3.4": {
+            "version": "1.3.4",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://github.com/Udonite/Udonite/releases/download/v1.3.4/com.udonite.compiler-1.3.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
+          "1.3.3": {
+            "version": "1.3.3",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://github.com/Udonite/Udonite/releases/download/v1.3.3/com.udonite.compiler-1.3.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
+          "1.3.2": {
+            "version": "1.3.2",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://github.com/Udonite/Udonite/releases/download/v1.3.2/com.udonite.compiler-1.3.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
+          "1.3.1": {
+            "version": "1.3.1",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://github.com/Udonite/Udonite/releases/download/v1.3.1/com.udonite.compiler-1.3.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
+          "1.3.0": {
+            "version": "1.3.0",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://github.com/Udonite/Udonite/releases/download/v1.3.0/com.udonite.compiler-1.3.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
+          "1.2.0": {
+            "version": "1.2.0",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://github.com/Udonite/Udonite/releases/download/v1.2.0/com.udonite.compiler-1.2.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
+          "1.1.1": {
+            "version": "1.1.1",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://github.com/Udonite/Udonite/releases/download/v1.1.1/com.udonite.compiler-1.1.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
           "1.1.0": {
             "version": "1.1.0",
             "name": "com.udonite.compiler",
@@ -100635,13 +101058,13 @@
           }
         }
       },
-      "com.udonite.observables": {
-        "id": "com.udonite.observables",
-        "name": "com.udonite.observables",
-        "displayName": "Udonite Observables",
-        "description": "A value that tells its subscribers when it changes. Ordinary C# events for VRChat worlds, compiled to Udon.",
-        "latestVersion": "1.0.0",
-        "versionCount": 1,
+      "com.udonite.persistence": {
+        "id": "com.udonite.persistence",
+        "name": "com.udonite.persistence",
+        "displayName": "Udonite Persistence",
+        "description": "Saving a player's progress without the string keys: two verbs over VRChat PlayerData, and the restore timing handled for you.",
+        "latestVersion": "1.1.1",
+        "versionCount": 3,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -100649,6 +101072,113 @@
           "url": "https://github.com/Udonite"
         },
         "versions": {
+          "1.1.1": {
+            "version": "1.1.1",
+            "name": "com.udonite.persistence",
+            "displayName": "Udonite Persistence",
+            "description": "Saving a player's progress without the string keys: two verbs over VRChat PlayerData, and the restore timing handled for you.",
+            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.persistence-1.1.1/com.udonite.persistence-1.1.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x",
+              "com.udonite.compiler": "^1.3.3"
+            }
+          },
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "com.udonite.persistence",
+            "displayName": "Udonite Persistence",
+            "description": "Saving a player's progress without the string keys: two verbs over VRChat PlayerData, and the restore timing handled for you.",
+            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.persistence-1.1.0/com.udonite.persistence-1.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x",
+              "com.udonite.compiler": "^1.2.0"
+            }
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.udonite.persistence",
+            "displayName": "Udonite Persistence",
+            "description": "Saving a player's progress without the string keys: two verbs over VRChat PlayerData, and the restore timing handled for you.",
+            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.persistence-1.0.0/com.udonite.persistence-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x",
+              "com.udonite.compiler": "^1.2.0"
+            }
+          }
+        }
+      },
+      "com.udonite.observables": {
+        "id": "com.udonite.observables",
+        "name": "com.udonite.observables",
+        "displayName": "Udonite Observables",
+        "description": "A value that tells its subscribers when it changes. Ordinary C# events, compiled to Udon.",
+        "latestVersion": "2.0.2",
+        "versionCount": 5,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "Udonite",
+          "url": "https://github.com/Udonite"
+        },
+        "versions": {
+          "2.0.2": {
+            "version": "2.0.2",
+            "name": "com.udonite.observables",
+            "displayName": "Udonite Observables",
+            "description": "A value that tells its subscribers when it changes. Ordinary C# events, compiled to Udon.",
+            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.observables-2.0.2/com.udonite.observables-2.0.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x",
+              "com.udonite.compiler": "^1.3.3"
+            }
+          },
+          "2.0.1": {
+            "version": "2.0.1",
+            "name": "com.udonite.observables",
+            "displayName": "Udonite Observables",
+            "description": "A value that tells its subscribers when it changes. Ordinary C# events, compiled to Udon.",
+            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.observables-2.0.1/com.udonite.observables-2.0.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x",
+              "com.udonite.compiler": "^1.3.1"
+            }
+          },
+          "2.0.0": {
+            "version": "2.0.0",
+            "name": "com.udonite.observables",
+            "displayName": "Udonite Observables",
+            "description": "A value that tells its subscribers when it changes. Ordinary C# events, compiled to Udon.",
+            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.observables-2.0.0/com.udonite.observables-2.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x",
+              "com.udonite.compiler": "^1.3.0"
+            }
+          },
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "com.udonite.observables",
+            "displayName": "Udonite Observables",
+            "description": "A value that tells its subscribers when it changes. Ordinary C# events, compiled to Udon.",
+            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.observables-1.1.0/com.udonite.observables-1.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x",
+              "com.udonite.compiler": "^1.0.10"
+            }
+          },
           "1.0.0": {
             "version": "1.0.0",
             "name": "com.udonite.observables",
@@ -100660,6 +101190,105 @@
             "vpmDependencies": {
               "com.vrchat.worlds": "^3.10.x",
               "com.udonite.compiler": "^1.0.10"
+            }
+          }
+        }
+      },
+      "com.udonite.logging": {
+        "id": "com.udonite.logging",
+        "name": "com.udonite.logging",
+        "displayName": "Udonite Logging",
+        "description": "Logging that says which type, which method and which line it came from, in the Console and in a live world.",
+        "latestVersion": "1.1.1",
+        "versionCount": 3,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "Udonite",
+          "url": "https://github.com/Udonite"
+        },
+        "versions": {
+          "1.1.1": {
+            "version": "1.1.1",
+            "name": "com.udonite.logging",
+            "displayName": "Udonite Logging",
+            "description": "Logging that says which type, which method and which line it came from, in the Console and in a live world.",
+            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.logging-1.1.1/com.udonite.logging-1.1.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x",
+              "com.udonite.compiler": "^1.3.3"
+            }
+          },
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "com.udonite.logging",
+            "displayName": "Udonite Logging",
+            "description": "Logging that says which type, which method and which line it came from, in the Console and in a live world.",
+            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.logging-1.1.0/com.udonite.logging-1.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x",
+              "com.udonite.compiler": "^1.1.1"
+            }
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.udonite.logging",
+            "displayName": "Udonite Logging",
+            "description": "Logging that says which type, which method and which line it came from. For VRChat worlds, compiled to Udon.",
+            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.logging-1.0.0/com.udonite.logging-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x",
+              "com.udonite.compiler": "^1.1.1"
+            }
+          }
+        }
+      },
+      "com.udonite.binding": {
+        "id": "com.udonite.binding",
+        "name": "com.udonite.binding",
+        "displayName": "Udonite Binding",
+        "description": "Bind an Observable to a UI control, both ways, without writing a handler.",
+        "latestVersion": "1.0.1",
+        "versionCount": 2,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "Udonite",
+          "url": "https://github.com/Udonite"
+        },
+        "versions": {
+          "1.0.1": {
+            "version": "1.0.1",
+            "name": "com.udonite.binding",
+            "displayName": "Udonite Binding",
+            "description": "Bind an Observable to a UI control, both ways, without writing a handler.",
+            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.binding-1.0.1/com.udonite.binding-1.0.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x",
+              "com.udonite.compiler": "^1.3.3",
+              "com.udonite.observables": "^2.0.1"
+            }
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.udonite.binding",
+            "displayName": "Udonite Binding",
+            "description": "Bind an Observable to a UI control, both ways, without writing a handler.",
+            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.binding-1.0.0/com.udonite.binding-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x",
+              "com.udonite.compiler": "^1.3.2",
+              "com.udonite.observables": "^2.0.1"
             }
           }
         }
@@ -101648,7 +102277,7 @@
     "id": "net.pawlygon.vcc-packages",
     "author": "Pawlygon",
     "hash": "ffddfc1a87cdf9aed91a660cbaca0e51f7f86152c9a6f89bfce1276d0295a790",
-    "last_updated": "2026-07-01T04:45:49.000Z",
+    "last_updated": "2026-07-01T04:45:50.000Z",
     "packageCount": 2,
     "packages": {
       "net.pawlygon.vrc-facetracking": {
@@ -102173,8 +102802,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "0cb7ba3eec33e5666da62d4a19e53bc6a0b4f49e1c3e5cdd6b79a726d5e4833f",
-    "last_updated": "2026-09-08T02:55:52.000Z",
+    "hash": "4eda0efa7cdfd8cfda0df9bc5078ec2921d7d36b8bafb763942b2fd850cfbb37",
+    "last_updated": "2026-09-09T02:57:08.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -117615,7 +118244,7 @@
     "name": "anatawa12",
     "id": "com.anatawa12.main",
     "author": "anatawa12",
-    "hash": "8fde9e934eb04ce3f0fdde5dd94793102e58ff064cfef07ddbdc0263d5c8d791",
+    "hash": "cdb65a8ab7467fb6cf1f652e68ebcf3b675d13c7cb595f1ea5aa4ba19c0c66fc",
     "last_updated": "2026-08-01T16:09:51.342Z",
     "packageCount": 14,
     "packages": {
@@ -117625,7 +118254,7 @@
         "displayName": "Anatawa12's AvatarOpitmizer",
         "description": "Set of Anatawa12's Small Avatar Optimization Utilities",
         "latestVersion": "0.0.1",
-        "versionCount": 349,
+        "versionCount": 350,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -122218,6 +122847,19 @@
             "displayName": "AAO: Avatar Optimizer",
             "description": "Set of Anatawa12's Small Avatar Optimization Utilities",
             "url": "https://vpm.anatawa12.com/avatar-optimizer/package-1.9.19-beta.1.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.8.0 <2.0.0",
+              "com.vrchat.avatars": ">=3.7.0 <3.11.0"
+            }
+          },
+          "1.9.19-beta.2": {
+            "version": "1.9.19-beta.2",
+            "name": "com.anatawa12.avatar-optimizer",
+            "displayName": "AAO: Avatar Optimizer",
+            "description": "Set of Anatawa12's Small Avatar Optimization Utilities",
+            "url": "https://vpm.anatawa12.com/avatar-optimizer/package-1.9.19-beta.2.zip?",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -134390,7 +135032,7 @@
     "name": "KIBA Lab. VRChat Packages",
     "id": "com.kibalab.vpm",
     "author": "KIBA",
-    "hash": "376221692ce1fb44290f08b6462bfde95812e64ec7c0b297431b12a3cd0a878f",
+    "hash": "6c9df23f7819071436474fe7da087125480c95a84a29011a9523b76eb451ef58",
     "last_updated": "2026-08-01T16:09:51.678Z",
     "packageCount": 13,
     "packages": {
@@ -134643,7 +135285,7 @@
         "displayName": "TSMP Codec Luma4",
         "description": "Luma4 TSMP codec, Udon handler, shaders, materials, and prefab.",
         "latestVersion": "0.0.1",
-        "versionCount": 2,
+        "versionCount": 3,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -134671,6 +135313,19 @@
             "displayName": "TSMP Codec Luma4",
             "description": "Luma4 TSMP codec, Udon handler, shaders, materials, and prefab.",
             "url": "https://github.com/kibalab/TSMPCodec-Luma4/releases/download/v0.0.3-beta.1/com.kibalab.tsmp.codec.luma4-0.0.3-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.kibalab.tsmp.core": ">=0.0.1",
+              "com.vrchat.worlds": ">=3.9.0"
+            }
+          },
+          "0.0.3-beta.2": {
+            "version": "0.0.3-beta.2",
+            "name": "com.kibalab.tsmp.codec.luma4",
+            "displayName": "TSMP Codec Luma4",
+            "description": "Luma4 TSMP codec, Udon handler, shaders, materials, and prefab.",
+            "url": "https://github.com/kibalab/TSMPCodec-Luma4/releases/download/v0.0.3-beta.2/com.kibalab.tsmp.codec.luma4-0.0.3-beta.2.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -163780,8 +164435,8 @@
     "name": "WhyKnot Tools",
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
-    "hash": "6975e52fc1e95f024f24ae74646c37088171dcb34d5e128a87c9cf8612110f19",
-    "last_updated": "2026-09-07T11:02:07.000Z",
+    "hash": "430f86591bbcd46929245efcd8d055ffa05840d159a49e45b72db870972c8a43",
+    "last_updated": "2026-09-08T10:16:48.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -175204,7 +175859,7 @@
     "id": "idv.jlchntoz.xtlcdn-listing",
     "author": "Jeremy Lam aka. Vistanz",
     "hash": "a470e6de88e9cff7fbef0a3c4414366ffb8c0243c34afa914217adb37180d85b",
-    "last_updated": "2026-09-05T10:19:24.000Z",
+    "last_updated": "2026-09-05T10:19:23.000Z",
     "packageCount": 14,
     "packages": {
       "idv.jlchntoz.vrcw-foundation": {
@@ -183226,8 +183881,8 @@
     "name": "TsukimiCode",
     "id": "dev.tsukimicode.vpm",
     "author": "TsukimiCode",
-    "hash": "cc93d3d538a7bdfa61496e655f31bdd319b74d09b933b70ec1fa60f182b3b372",
-    "last_updated": "2026-08-18T11:36:15.000Z",
+    "hash": "ce12fd3811c35e48de79b4e5f8905b1e57523011858c3afb15fabc26d6b40efe",
+    "last_updated": "2026-09-08T11:37:03.000Z",
     "packageCount": 1,
     "packages": {
       "com.tsukimicode.udon-tools": {
@@ -183236,7 +183891,7 @@
         "displayName": "TsukimiCode Udon Tools",
         "description": "UdonSharp スーパーセットの C# 言語 Tsukimi# のコンパイラ。",
         "latestVersion": "0.1.8",
-        "versionCount": 5,
+        "versionCount": 6,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -183297,6 +183952,18 @@
             "displayName": "TsukimiSharp(T#)",
             "description": "VRChatのUdon向けのC#コンパイラ(interface/ジェネリクス/リアクティブ宣言/GPU実行/ユニットテスト)。extern削減の最適化とAI向け静的解析サーバ(MCP)を同梱。",
             "url": "https://github.com/zz-roba/tsukimi-vpm/releases/download/v0.4.0/com.tsukimicode.udon-tools-0.4.0-vpm.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.10.4"
+            }
+          },
+          "0.5.20": {
+            "version": "0.5.20",
+            "name": "com.tsukimicode.udon-tools",
+            "displayName": "TsukimiSharp(T#)",
+            "description": "VRChatのUdon向けのC#コンパイラ(interface/ジェネリクス/リアクティブ宣言/GPU実行/ユニットテスト)。extern削減の最適化とAI向け静的解析サーバ(MCP)を同梱。",
+            "url": "https://github.com/zz-roba/tsukimi-vpm/releases/download/v0.5.20/com.tsukimicode.udon-tools-0.5.20-vpm.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
