@@ -2024,8 +2024,8 @@
     "name": "An-Labo NailTool",
     "id": "world.anlabo.mdnailtool.vpm",
     "author": "An-Labo",
-    "hash": "f1d954d3d71ecbc6b78cc8af282210929bcad4f9c1bf46e026a232f3970d248b",
-    "last_updated": "2026-09-05T13:21:54.000Z",
+    "hash": "a43cde53cd9bb08704494a401a580e4b9d03c2b3b0eac7a3ff4918a4d97d65b2",
+    "last_updated": "2026-09-12T09:09:30.000Z",
     "packageCount": 1,
     "packages": {
       "world.anlabo.mdnailtool": {
@@ -2034,7 +2034,7 @@
         "displayName": "An-Labo NailTool",
         "description": "An-Labo NailTool",
         "latestVersion": "0.9.141",
-        "versionCount": 579,
+        "versionCount": 581,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -8985,6 +8985,30 @@
             "displayName": "An-Labo NailTool",
             "description": "An-Labo NailTool",
             "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.10.65/world.anlabo.mdnailtool-0.10.65.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.5.0"
+            }
+          },
+          "0.10.66": {
+            "version": "0.10.66",
+            "name": "world.anlabo.mdnailtool",
+            "displayName": "An-Labo NailTool",
+            "description": "An-Labo NailTool",
+            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.10.66/world.anlabo.mdnailtool-0.10.66.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.5.0"
+            }
+          },
+          "0.10.67": {
+            "version": "0.10.67",
+            "name": "world.anlabo.mdnailtool",
+            "displayName": "An-Labo NailTool",
+            "description": "An-Labo NailTool",
+            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.10.67/world.anlabo.mdnailtool-0.10.67.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -20364,6 +20388,73 @@
             "vpmDependencies": {
               "com.vrchat.worlds": "3.x.x"
             }
+          }
+        }
+      }
+    }
+  },
+  {
+    "url": "https://drsakuu.github.io/vpm-listing/index.json",
+    "name": "Sakuu's VRChat Package Listing",
+    "id": "drsakuu.vpm-listing",
+    "author": "Dr. Sakuu Cuddles",
+    "hash": "f953f3e78a5360d37897227e2b3365db6ddff579fae5c371c769d346e1d6bd9a",
+    "last_updated": "2026-09-08T18:00:51.000Z",
+    "packageCount": 1,
+    "packages": {
+      "drsakuu.humr": {
+        "id": "drsakuu.humr",
+        "name": "drsakuu.humr",
+        "displayName": "Hyakuashi Udon Motion Recorder",
+        "description": "HUMR is a motion capture tool that records player's movements into the VRChat log files and then exports them to FBX in a Unity project. This is version 2, which uses a new log format.",
+        "latestVersion": "2.0.0",
+        "versionCount": 4,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "drsakuu",
+          "url": "https://drsakuu.carrd.co"
+        },
+        "versions": {
+          "2.0.0": {
+            "version": "2.0.0",
+            "name": "drsakuu.humr",
+            "displayName": "Hyakuashi Udon Motion Recorder",
+            "description": "HUMR is a motion capture tool that records player's movements into the VRChat log files and then exports them to FBX in a Unity project. This is version 2, which uses a new log format.",
+            "url": "https://github.com/DrSakuu/HyakuashiUdonMotionRecorder/releases/download/v2.0.0/drsakuu.humr-2.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.0.0-beta.5": {
+            "version": "2.0.0-beta.5",
+            "name": "drsakuu.humr",
+            "displayName": "Hyakuashi Udon Motion Recorder",
+            "description": "HUMR is a motion capture tool that records player's movements into the VRChat log files and then reads them in a Unity project. This is version 2, which uses a new log format.",
+            "url": "https://github.com/DrSakuu/HyakuashiUdonMotionRecorder/releases/download/v2.0.0-beta.5/drsakuu.humr-2.0.0-beta.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.0.0-beta.4": {
+            "version": "2.0.0-beta.4",
+            "name": "drsakuu.humr",
+            "displayName": "Hyakuashi Udon Motion Recorder",
+            "description": "HUMR is a motion capture tool that records player's movements into the VRChat log files and then reads them in a Unity project. This is version 2, which uses a new log format.",
+            "url": "https://github.com/DrSakuu/HyakuashiUdonMotionRecorder/releases/download/v2.0.0-beta.4/drsakuu.humr-2.0.0-beta.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.0.0-beta.3": {
+            "version": "2.0.0-beta.3",
+            "name": "drsakuu.humr",
+            "displayName": "Hyakuashi Udon Motion Recorder",
+            "description": "HUMR is a motion capture tool that records player's movements into the VRChat log files and then reads them in a Unity project. This is version 2, which uses a new log format.",
+            "url": "https://github.com/DrSakuu/HyakuashiUdonMotionRecorder/releases/download/v2.0.0-beta.3/drsakuu.humr-2.0.0-beta.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
           }
         }
       }
@@ -38587,7 +38678,7 @@
     "id": "io.github.helpinghandsvr.vpm",
     "author": "Helping Hands",
     "hash": "d3cba140edcf3cb5c17c4b6034085a4238c0dbbd2ce98b5f097b608968bff8fb",
-    "last_updated": "2026-07-03T13:20:30.000Z",
+    "last_updated": "2026-07-03T13:20:29.000Z",
     "packageCount": 2,
     "packages": {
       "io.github.helpinghandsvr.helpinghands-vrchat-avatar-accessories": {
@@ -41403,7 +41494,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "680029c772846cb5e5b7331c6f399296d7c3d340058c68c9f48e255a6fa8e65e",
-    "last_updated": "2026-09-11T08:07:21.000Z",
+    "last_updated": "2026-09-12T07:58:54.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -42884,7 +42975,7 @@
     "id": "dev.jetees.vpm-listing",
     "author": "JeTeeS",
     "hash": "c43d1d46596697e66705b99d7740a062daf269bacdf077d0810963cb05d466da",
-    "last_updated": "2024-05-22T15:17:52.000Z",
+    "last_updated": "2024-05-22T15:17:51.000Z",
     "packageCount": 1,
     "packages": {
       "dev.jetees.memoryoptimizer": {
@@ -43180,7 +43271,7 @@
     "id": "com.vrsive.avatar-exporter.listing",
     "author": "VRSive",
     "hash": "6e4fddf38f8f4986ffa38df8646ea79db089e58aa357f4991002a8cab32a4717",
-    "last_updated": "2026-06-12T12:24:24.000Z",
+    "last_updated": "2026-06-12T12:24:23.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrsive.avatar-exporter": {
@@ -43385,7 +43476,7 @@
     "id": "dev.kaefibot.listing",
     "author": "WoweePaw",
     "hash": "0f954512e7a69a442d27394f918fc68614873d3db3706347e1e36e0acde01244",
-    "last_updated": "2026-07-05T15:03:28.000Z",
+    "last_updated": "2026-07-05T15:03:29.000Z",
     "packageCount": 1,
     "packages": {
       "dev.kaefibot.kaefibot-controller": {
@@ -44006,8 +44097,8 @@
     "name": "VRChatTools",
     "id": "com.kama-boko-vrc.vrchat-tools-repo",
     "author": "kama-boko-vrc",
-    "hash": "2f650b55b855501faf8bc64351ce2ec1147b86af632458192600d0314290d2c1",
-    "last_updated": "2026-08-13T14:51:29.000Z",
+    "hash": "0166308335b11cc02aee13336a1fdcfd48e9dc80f8cc33eb411cdae41a986cab",
+    "last_updated": "2026-09-12T12:27:41.000Z",
     "packageCount": 1,
     "packages": {
       "com.kama-boko-vrc.vrchat-tools": {
@@ -44016,7 +44107,7 @@
         "displayName": "VRChatTools",
         "description": "VRChatアバター制作用のUnityエディタ拡張集",
         "latestVersion": "1.0.0",
-        "versionCount": 10,
+        "versionCount": 11,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -44123,6 +44214,16 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {}
+          },
+          "1.6.0": {
+            "version": "1.6.0",
+            "name": "com.kama-boko-vrc.vrchat-tools",
+            "displayName": "VRChatTools",
+            "description": "VRChatアバター改変用のUnityエディタ拡張集",
+            "url": "https://github.com/kama-boko-vrc/VRChatTools/releases/download/v1.6.0/com.kama-boko-vrc.vrchat-tools-1.6.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
           }
         }
       }
@@ -44133,8 +44234,8 @@
     "name": "kb10uy VRChat Package Repository",
     "id": "org.kb10uy.vrc-repository",
     "author": "kb10uy",
-    "hash": "ccaf4a3ab6a589f471717919824e4199503ccc9e2d4c4c936ac773c5fe653cbe",
-    "last_updated": "2026-09-11T11:24:40.000Z",
+    "hash": "f7971c9c71e2f410ec268dfebcd9560b937afa35f5f85d77b4b07d129d76d674",
+    "last_updated": "2026-09-13T01:42:36.000Z",
     "packageCount": 9,
     "packages": {
       "jp.lilxyzw.liltoon": {
@@ -49709,8 +49810,8 @@
         "name": "org.kb10uy.zatools",
         "displayName": "Zatools: kb10uy's Various Tools",
         "description": "Various tools developed by kb10uy",
-        "latestVersion": "6.1.1",
-        "versionCount": 81,
+        "latestVersion": "6.1.2",
+        "versionCount": 82,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -49719,6 +49820,19 @@
           "url": "https://kb10uy.org"
         },
         "versions": {
+          "6.1.2": {
+            "version": "6.1.2",
+            "name": "org.kb10uy.zatools",
+            "displayName": "Zatools: kb10uy's Various Tools",
+            "description": "Various tools developed by kb10uy",
+            "url": "https://github.com/kb10uy/kb10uy-zatools/releases/download/6.1.2/org.kb10uy.zatools.6.1.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.13.0",
+              "nadena.dev.modular-avatar": ">=1.15.0"
+            }
+          },
           "6.1.1": {
             "version": "6.1.1",
             "name": "org.kb10uy.zatools",
@@ -50944,7 +51058,7 @@
     "id": "com.kie.vpm",
     "author": "Kie",
     "hash": "9c720b21a0d472446cbcefecd3ffddfe48df0b160a1cc2d716f8020dfadddb34",
-    "last_updated": "2026-09-11T18:12:58.000Z",
+    "last_updated": "2026-09-12T17:42:10.000Z",
     "packageCount": 3,
     "packages": {
       "com.kie.kie-mergeable-toggle": {
@@ -51186,7 +51300,7 @@
     "id": "com.kikurage1989.utilsscript",
     "author": "kikurage1989_",
     "hash": "a479bbbb44186c8db52473fa68813010d0cde6afd082f97f0ee93a79ee10ca50",
-    "last_updated": "2026-07-30T11:03:58.000Z",
+    "last_updated": "2026-07-30T11:03:57.000Z",
     "packageCount": 2,
     "packages": {
       "com.kikurage1989.utilsscript": {
@@ -51958,7 +52072,7 @@
     "id": "black.kit.vpm-catalog",
     "author": "Kuroné Kito",
     "hash": "65a6fc49421030bfc30502e5476007e4d5462e1794f81eb1e45a2a26a3dead53",
-    "last_updated": "2025-10-09T03:36:31.000Z",
+    "last_updated": "2026-09-12T22:40:42.000Z",
     "packageCount": 3,
     "packages": {
       "black.kit.launchpadicons": {
@@ -54842,7 +54956,7 @@
     "id": "net.euan.lazyoptimiser.listing",
     "author": "euan142",
     "hash": "6a0b4ea94d87ae345649306e6fda40f7bd86325206e58e1a4c5943450a9fe4ee",
-    "last_updated": "2025-02-20T10:25:22.000Z",
+    "last_updated": "2025-02-20T10:25:21.000Z",
     "packageCount": 1,
     "packages": {
       "net.euan.lazyoptimiser": {
@@ -54947,7 +55061,7 @@
     "id": "lereldarion",
     "author": "Lereldarion",
     "hash": "fa9cc79e70fb00eb2aa70863c05e008271c255affd1e14192f26540239c3a213",
-    "last_updated": "2026-06-25T19:36:15.000Z",
+    "last_updated": "2026-06-25T19:36:14.000Z",
     "packageCount": 2,
     "packages": {
       "lereldarion.unity-shaders": {
@@ -57213,8 +57327,8 @@
     "name": "Lightbulb Packages",
     "id": "com.lightbulb.vpm",
     "author": "Lightbulb",
-    "hash": "ec4844605189fd6bfbc2d8a2ed8ef0b2b631d6b8ebd09e8c054ec741edf463b1",
-    "last_updated": "2026-09-12T00:18:52.000Z",
+    "hash": "6d64cb11edcdc170930cba3f8f65ef831fbb220ca446d20942ec1afbea7f9275",
+    "last_updated": "2026-09-13T02:51:46.000Z",
     "packageCount": 2,
     "packages": {
       "com.lightbulb.arealit-occlusion": {
@@ -57280,9 +57394,9 @@
         "id": "com.lightbulb.world-tools",
         "name": "com.lightbulb.world-tools",
         "displayName": "Lightbulb World Tools",
-        "description": "Unity editor tools for GPU instancing, lightmap texel usage, vertex counts, mesh UVs, batch material texture resizing and Crunch, Mochie texture import fixes, and safe VideoPlayerShim repair.",
-        "latestVersion": "0.1.4",
-        "versionCount": 5,
+        "description": "Unity editor tools for reversible Bakery/Light Volumes lighting experiments, scene material cleanup and Mochie packing, texture resizing and Crunch, GPU instancing, lightmap usage, geometry diagnostics, and targeted repairs.",
+        "latestVersion": "0.1.8",
+        "versionCount": 9,
         "keywords": [
           "VRChat",
           "optimization",
@@ -57298,6 +57412,46 @@
           "url": "https://github.com/lightbulb4"
         },
         "versions": {
+          "0.1.8": {
+            "version": "0.1.8",
+            "name": "com.lightbulb.world-tools",
+            "displayName": "Lightbulb World Tools",
+            "description": "Unity editor tools for reversible Bakery/Light Volumes lighting experiments, scene material cleanup and Mochie packing, texture resizing and Crunch, GPU instancing, lightmap usage, geometry diagnostics, and targeted repairs.",
+            "url": "https://github.com/lightbulb4/lightbulb-world-tools/releases/download/0.1.8/com.lightbulb.world-tools-0.1.8.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.1.7": {
+            "version": "0.1.7",
+            "name": "com.lightbulb.world-tools",
+            "displayName": "Lightbulb World Tools",
+            "description": "Unity editor tools for scene material map cleanup and Mochie texture packing, batch texture resizing and Crunch, GPU instancing, lightmap texel usage, vertex counts, mesh UVs, and targeted repairs.",
+            "url": "https://github.com/lightbulb4/lightbulb-world-tools/releases/download/0.1.7/com.lightbulb.world-tools-0.1.7.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.1.6": {
+            "version": "0.1.6",
+            "name": "com.lightbulb.world-tools",
+            "displayName": "Lightbulb World Tools",
+            "description": "Unity editor tools for scene material map cleanup and Mochie texture packing, batch texture resizing and Crunch, GPU instancing, lightmap texel usage, vertex counts, mesh UVs, and targeted repairs.",
+            "url": "https://github.com/lightbulb4/lightbulb-world-tools/releases/download/0.1.6/com.lightbulb.world-tools-0.1.6.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.1.5": {
+            "version": "0.1.5",
+            "name": "com.lightbulb.world-tools",
+            "displayName": "Lightbulb World Tools",
+            "description": "Unity editor tools for empty material map cleanup, batch texture resizing and Crunch, GPU instancing, lightmap texel usage, vertex counts, mesh UVs, Mochie texture import fixes, and VideoPlayerShim repair.",
+            "url": "https://github.com/lightbulb4/lightbulb-world-tools/releases/download/0.1.5/com.lightbulb.world-tools-0.1.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "0.1.4": {
             "version": "0.1.4",
             "name": "com.lightbulb.world-tools",
@@ -59748,7 +59902,7 @@
     "id": "com.mame8.vpm",
     "author": "mame8",
     "hash": "880c4bc843e71444652593ac77a1a92bd04b01453281fbe2f51c3cd1ea8bf95a",
-    "last_updated": "2026-07-02T19:27:29.000Z",
+    "last_updated": "2026-07-02T19:27:30.000Z",
     "packageCount": 3,
     "packages": {
       "com.mame8.animator-controller-context": {
@@ -61505,7 +61659,7 @@
     "id": "minminmean.listing",
     "author": "MinMinMean",
     "hash": "fc8780898e8ea244522e3eccfa107ccba9d95912d092093dbd08d9a1a0bf26b0",
-    "last_updated": "2026-09-10T14:33:58.000Z",
+    "last_updated": "2026-09-10T14:33:59.000Z",
     "packageCount": 3,
     "packages": {
       "minminmean.supine": {
@@ -64855,7 +65009,7 @@
     "id": "com.nidonocu.virtual-gryphon-packages",
     "author": "Nidonocu",
     "hash": "4f1a4e20ac1e5d3661ae57c8d3353f05d769b8999754be537975ece981b322cc",
-    "last_updated": "2026-07-03T16:56:21.000Z",
+    "last_updated": "2026-07-03T16:56:22.000Z",
     "packageCount": 1,
     "packages": {
       "com.nidonocu.vrcunitytoolbar": {
@@ -68735,7 +68889,7 @@
     "id": "dev.omelette_ak.vpm",
     "author": "omeletteak",
     "hash": "87cd6506aa825e26b64761abbbe030e0e11ea7ac963a055d927af38e95a30b11",
-    "last_updated": "2026-06-23T11:45:39.000Z",
+    "last_updated": "2026-06-23T11:45:38.000Z",
     "packageCount": 1,
     "packages": {
       "dev.omelette_ak.vrcloth-declipper": {
@@ -80454,7 +80608,7 @@
     "id": "dev.raspichu.vpm",
     "author": "Pichu",
     "hash": "9a2f82e471fcf06456f855e8c746d6e95e053484b4737bc9a83a7c2fe7bd6b32",
-    "last_updated": "2026-09-07T15:01:36.000Z",
+    "last_updated": "2026-09-07T15:01:35.000Z",
     "packageCount": 2,
     "packages": {
       "dev.raspichu.inspector-enhancements": {
@@ -83027,8 +83181,8 @@
     "name": "Reava's listings",
     "id": "chirp.reava.listings",
     "author": "Reava_",
-    "hash": "fe811b8858c89cd8dfadb8a3a9f5f0d835a608ea1504c640e0263f3593a8c619",
-    "last_updated": "2026-09-10T00:05:28.000Z",
+    "hash": "8822db6926c8af2fc6f314a1670d591fe3ed63919c7632dd7b45d13c5e1266cf",
+    "last_updated": "2026-09-12T21:35:04.000Z",
     "packageCount": 4,
     "packages": {
       "chirp.reava.uwutils": {
@@ -83036,8 +83190,8 @@
         "name": "chirp.reava.uwutils",
         "displayName": "UwUtils",
         "description": "A collection of 60+ modular UdonSharp scripts as an (almost) all in one Toolkit for World Creators with partial persistence support, helper events, Creator Economy and more.",
-        "latestVersion": "1.0.0-pre.27",
-        "versionCount": 25,
+        "latestVersion": "1.0.0-pre.28",
+        "versionCount": 26,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -83046,6 +83200,18 @@
           "url": "https://github.com/Reava"
         },
         "versions": {
+          "1.0.0-pre.28": {
+            "version": "1.0.0-pre.28",
+            "name": "chirp.reava.uwutils",
+            "displayName": "UwUtils",
+            "description": "A collection of 60+ modular UdonSharp scripts as an (almost) all in one Toolkit for World Creators with partial persistence support, helper events, Creator Economy and more.",
+            "url": "https://github.com/Reava/UwUtils/releases/download/1.0.0-pre.28/chirp.reava.uwutils-1.0.0-pre.28.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.7.4"
+            }
+          },
           "1.0.0-pre.27": {
             "version": "1.0.0-pre.27",
             "name": "chirp.reava.uwutils",
@@ -83353,8 +83519,8 @@
         "name": "chirp.reava.editortoolbox",
         "displayName": "Reava's Editor Toolbox",
         "description": "A collection of Simple Editor Tools I made to speed up niche processes I encountered making VRChat worlds.",
-        "latestVersion": "2.0.6",
-        "versionCount": 7,
+        "latestVersion": "2.2.1",
+        "versionCount": 9,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -83363,6 +83529,26 @@
           "url": "https://github.com/Reava"
         },
         "versions": {
+          "2.2.1": {
+            "version": "2.2.1",
+            "name": "chirp.reava.editortoolbox",
+            "displayName": "Reava's Editor Toolbox",
+            "description": "A collection of Simple Editor Tools I made to speed up niche processes I encountered making VRChat worlds.",
+            "url": "https://github.com/Reava/VRC-Editor-Toolbox/releases/download/2.2.1/chirp.reava.editortoolbox-2.2.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.2.0": {
+            "version": "2.2.0",
+            "name": "chirp.reava.editortoolbox",
+            "displayName": "Reava's Editor Toolbox",
+            "description": "A collection of Simple Editor Tools I made to speed up niche processes I encountered making VRChat worlds.",
+            "url": "https://github.com/Reava/VRC-Editor-Toolbox/releases/download/2.2.0/chirp.reava.editortoolbox-2.2.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "2.0.6": {
             "version": "2.0.6",
             "name": "chirp.reava.editortoolbox",
@@ -86805,7 +86991,7 @@
     "id": "dev.redline-team.redlinelist",
     "author": "RozeThorns",
     "hash": "8c61e41bc845ad48ac8b2df4fbc0df5b38f713805c599141762b5c54f4e92f8c",
-    "last_updated": "2026-09-12T01:44:24.000Z",
+    "last_updated": "2026-09-13T01:34:47.000Z",
     "packageCount": 5,
     "packages": {
       "dev.redline-team.rpm": {
@@ -87314,7 +87500,7 @@
     "id": "io.github.rurre.vpm",
     "author": "Pumkin",
     "hash": "a521b62454534e8ac91259065780938a307d6c87b5fc436008c7dfc95e5da1f4",
-    "last_updated": "2026-08-27T18:55:05.000Z",
+    "last_updated": "2026-08-27T18:55:06.000Z",
     "packageCount": 3,
     "packages": {
       "io.github.rurre.pumkinsavatartools": {
@@ -91965,8 +92151,8 @@
     "name": "suzufactory",
     "id": "com.suzufactory.vpm",
     "author": "suzufactory",
-    "hash": "a44bf283c047593f21681fd2b198862c1261bee322821363153b3df145b1f226",
-    "last_updated": "2026-09-06T09:13:58.000Z",
+    "hash": "4716ad267ec52af96fc173156fe31324af6c67cd13edf576ca7872dda7106ead",
+    "last_updated": "2026-09-12T04:43:49.000Z",
     "packageCount": 2,
     "packages": {
       "com.suzufactory.hikari": {
@@ -91974,8 +92160,8 @@
         "name": "com.suzufactory.hikari",
         "displayName": "Hikari",
         "description": null,
-        "latestVersion": "2.2.2",
-        "versionCount": 25,
+        "latestVersion": "2.2.13",
+        "versionCount": 26,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -91983,6 +92169,15 @@
           "url": "https://suzufactory.com"
         },
         "versions": {
+          "2.2.13": {
+            "version": "2.2.13",
+            "name": "com.suzufactory.hikari",
+            "displayName": "Hikari",
+            "url": "https://github.com/suzufactory/vpm-repos/releases/download/hikari-2.2.13/com.suzufactory.hikari.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "2.2.2": {
             "version": "2.2.2",
             "name": "com.suzufactory.hikari",
@@ -101360,8 +101555,8 @@
     "name": "Udonite",
     "id": "com.udonite.listing",
     "author": "Udonite",
-    "hash": "e9ba251fc273d1c4ac3d679eec38e4bb388a7224d7430a9b8457ed05dbb84fd0",
-    "last_updated": "2026-09-11T19:41:39.000Z",
+    "hash": "48c0d4d34bc17eb1253f57b101fbac993a394201a88897817f3f1961acb3f8af",
+    "last_updated": "2026-09-12T13:06:27.000Z",
     "packageCount": 7,
     "packages": {
       "com.udonite.compiler": {
@@ -101369,8 +101564,8 @@
         "name": "com.udonite.compiler",
         "displayName": "Udonite",
         "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
-        "latestVersion": "2.1.3",
-        "versionCount": 16,
+        "latestVersion": "2.4.1",
+        "versionCount": 25,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -101378,6 +101573,114 @@
           "url": "https://github.com/Udonite/Udonite"
         },
         "versions": {
+          "2.4.1": {
+            "version": "2.4.1",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://github.com/Udonite/Udonite/releases/download/v2.4.1/com.udonite.compiler-2.4.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
+          "2.4.0": {
+            "version": "2.4.0",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://github.com/Udonite/Udonite/releases/download/v2.4.0/com.udonite.compiler-2.4.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
+          "2.3.1": {
+            "version": "2.3.1",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://github.com/Udonite/Udonite/releases/download/v2.3.1/com.udonite.compiler-2.3.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
+          "2.3.0": {
+            "version": "2.3.0",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://github.com/Udonite/Udonite/releases/download/v2.3.0/com.udonite.compiler-2.3.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
+          "2.2.0": {
+            "version": "2.2.0",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://github.com/Udonite/Udonite/releases/download/v2.2.0/com.udonite.compiler-2.2.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
+          "2.1.7": {
+            "version": "2.1.7",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://github.com/Udonite/Udonite/releases/download/v2.1.7/com.udonite.compiler-2.1.7.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
+          "2.1.6": {
+            "version": "2.1.6",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://github.com/Udonite/Udonite/releases/download/v2.1.6/com.udonite.compiler-2.1.6.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
+          "2.1.5": {
+            "version": "2.1.5",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://github.com/Udonite/Udonite/releases/download/v2.1.5/com.udonite.compiler-2.1.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
+          "2.1.4": {
+            "version": "2.1.4",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://github.com/Udonite/Udonite/releases/download/v2.1.4/com.udonite.compiler-2.1.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
           "2.1.3": {
             "version": "2.1.3",
             "name": "com.udonite.compiler",
@@ -103533,8 +103836,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "d3be314e0c849c871b4d4f7e93cba798115ce20c5dad0d3192d85653ff13f723",
-    "last_updated": "2026-09-12T02:59:38.000Z",
+    "hash": "cc76e5f96e959748314751478f73cd945e50f4c2bcd59d3981fa3057dd731134",
+    "last_updated": "2026-09-13T02:59:37.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -117002,7 +117305,7 @@
     "id": "com.vixencreations.vixens-toolbox.listing",
     "author": "Vixenlicous",
     "hash": "159a3ba0df5eb598fb1f203c2ade1919a999c94ab66ebe9b6ac0b805f586225a",
-    "last_updated": "2026-09-07T19:40:18.000Z",
+    "last_updated": "2026-09-12T20:25:26.000Z",
     "packageCount": 1,
     "packages": {
       "com.vixencreations.vixens-toolbox": {
@@ -117639,7 +117942,7 @@
     "id": "io.mekabu.vpm-repository",
     "author": "contact@mekabu.io",
     "hash": "afb531d339483772668bf9b0fbe2f91415a0d37733b4adad67544741ae03cb2e",
-    "last_updated": "2026-09-12T02:58:02.000Z",
+    "last_updated": "2026-09-13T03:00:18.000Z",
     "packageCount": 2,
     "packages": {
       "com.mekabu.blendshape-animation-creator": {
@@ -126525,7 +126828,7 @@
     "id": "org.azuretek.vpm",
     "author": "kobi32768",
     "hash": "9afa17a9cee430b616075de3b61791fa9b017b425564b6b56bd38722425d00db",
-    "last_updated": "2026-09-11T18:32:49.000Z",
+    "last_updated": "2026-09-12T10:18:01.000Z",
     "packageCount": 1,
     "packages": {
       "org.azuretek.copy-transform-shortcut": {
@@ -129545,7 +129848,7 @@
     "id": "com.gokoukotori.vpm",
     "author": "GokouKotori",
     "hash": "5549582eb72813812594ca5651ec1a791c7c7b690c9af8e6f97630ec9dad2334",
-    "last_updated": "2026-09-10T01:14:04.000Z",
+    "last_updated": "2026-09-10T01:14:03.000Z",
     "packageCount": 6,
     "packages": {
       "com.gokoukotori.posetune": {
@@ -135942,7 +136245,7 @@
     "name": "KIBA Lab. VRChat Packages",
     "id": "com.kibalab.vpm",
     "author": "KIBA",
-    "hash": "dd269f925f9f363366b42bf70c887bebf96e40289cf474c0d67dcb1addabd55e",
+    "hash": "b84259c2d5b2e603db437981f3da9f0c9bba0198331cdbdbdb8587043ec04e31",
     "last_updated": "2026-08-01T16:09:51.678Z",
     "packageCount": 13,
     "packages": {
@@ -136152,7 +136455,7 @@
         "displayName": "TSMP Codec Color256",
         "description": "Color256 TSMP codec, Udon handler, shaders, materials, and prefab.",
         "latestVersion": "0.0.3-beta.1",
-        "versionCount": 2,
+        "versionCount": 3,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -136171,6 +136474,19 @@
             "unity": "2022.3",
             "vpmDependencies": {
               "com.kibalab.tsmp.core": ">=0.0.1",
+              "com.vrchat.worlds": ">=3.9.0"
+            }
+          },
+          "0.0.3-beta.2": {
+            "version": "0.0.3-beta.2",
+            "name": "com.kibalab.tsmp.codec.color256",
+            "displayName": "TSMP Codec Color256",
+            "description": "Color256 TSMP codec, Udon handler, shaders, materials, and prefab.",
+            "url": "https://github.com/kibalab/TSMPCodec-Color256/releases/download/v0.0.3-beta.2/com.kibalab.tsmp.codec.color256-0.0.3-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.kibalab.tsmp.core": ">=0.2.0",
               "com.vrchat.worlds": ">=3.9.0"
             }
           },
@@ -136277,7 +136593,7 @@
         "displayName": "TSMP Codec RGB16",
         "description": "RGB16 TSMP codec, Udon handler, shaders, materials, and prefab.",
         "latestVersion": "0.0.3-beta.1",
-        "versionCount": 2,
+        "versionCount": 3,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -136296,6 +136612,19 @@
             "unity": "2022.3",
             "vpmDependencies": {
               "com.kibalab.tsmp.core": ">=0.0.1",
+              "com.vrchat.worlds": ">=3.9.0"
+            }
+          },
+          "0.0.3-beta.2": {
+            "version": "0.0.3-beta.2",
+            "name": "com.kibalab.tsmp.codec.rgb16",
+            "displayName": "TSMP Codec RGB16",
+            "description": "RGB16 TSMP codec, Udon handler, shaders, materials, and prefab.",
+            "url": "https://github.com/kibalab/TSMPCodec-RGB16/releases/download/v0.0.3-beta.2/com.kibalab.tsmp.codec.rgb16-0.0.3-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.kibalab.tsmp.core": ">=0.2.0",
               "com.vrchat.worlds": ">=3.9.0"
             }
           },
@@ -136320,7 +136649,7 @@
         "displayName": "TSMP Codec RGB20",
         "description": "RGB20 TSMP codec, Udon handler, shaders, materials, and prefab.",
         "latestVersion": "0.0.3-beta.1",
-        "versionCount": 2,
+        "versionCount": 4,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -136339,6 +136668,32 @@
             "unity": "2022.3",
             "vpmDependencies": {
               "com.kibalab.tsmp.core": ">=0.0.1",
+              "com.vrchat.worlds": ">=3.9.0"
+            }
+          },
+          "0.0.3-beta.2": {
+            "version": "0.0.3-beta.2",
+            "name": "com.kibalab.tsmp.codec.rgb20",
+            "displayName": "TSMP Codec RGB20",
+            "description": "RGB20 TSMP codec, Udon handler, shaders, materials, and prefab.",
+            "url": "https://github.com/kibalab/TSMPCodec-RGB20/releases/download/v0.0.3-beta.2/com.kibalab.tsmp.codec.rgb20-0.0.3-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.kibalab.tsmp.core": ">=0.2.0",
+              "com.vrchat.worlds": ">=3.9.0"
+            }
+          },
+          "0.0.3-beta.3": {
+            "version": "0.0.3-beta.3",
+            "name": "com.kibalab.tsmp.codec.rgb20",
+            "displayName": "TSMP Codec RGB20",
+            "description": "RGB20 TSMP codec, Udon handler, shaders, materials, and prefab.",
+            "url": "https://github.com/kibalab/TSMPCodec-RGB20/releases/download/v0.0.3-beta.3/com.kibalab.tsmp.codec.rgb20-0.0.3-beta.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.kibalab.tsmp.core": ">=0.2.0",
               "com.vrchat.worlds": ">=3.9.0"
             }
           },
@@ -136363,7 +136718,7 @@
         "displayName": "TSMP Core",
         "description": "Core TSMP runtime, encoder, decoder, setup tooling, shared Udon behaviours, codec base types, and streaming utilities.",
         "latestVersion": "0.0.1",
-        "versionCount": 9,
+        "versionCount": 10,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -136474,6 +136829,18 @@
             "displayName": "TSMP Core",
             "description": "Core TSMP runtime, encoder, decoder, setup tooling, shared Udon behaviours, codec base types, and streaming utilities.",
             "url": "https://github.com/kibalab/TSMP-Core/releases/download/v0.2.0-beta.1/com.kibalab.tsmp.core-0.2.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.9.0"
+            }
+          },
+          "0.3.0-beta.1": {
+            "version": "0.3.0-beta.1",
+            "name": "com.kibalab.tsmp.core",
+            "displayName": "TSMP Core",
+            "description": "Core TSMP runtime, encoder, decoder, setup tooling, shared Udon behaviours, codec base types, and streaming utilities.",
+            "url": "https://github.com/kibalab/TSMP-Core/releases/download/v0.3.0-beta.1/com.kibalab.tsmp.core-0.3.0-beta.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -144211,8 +144578,8 @@
     "name": "bd_",
     "id": "dev.nadena.vpm",
     "author": "bd_",
-    "hash": "1aafbed9034ae76870f63fb9091ebc0ab85ec1740ff208580272be2e822f89c3",
-    "last_updated": "2026-09-01T04:31:32.000Z",
+    "hash": "936b9183732a621775291a3477c90e14044243e0114b76a27a2ac58a16d317cc",
+    "last_updated": "2026-09-12T03:32:50.000Z",
     "packageCount": 4,
     "packages": {
       "nadena.dev.misc-vrc-tools": {
@@ -146696,7 +147063,7 @@
         "displayName": "Modular Avatar - Resonite support",
         "description": null,
         "latestVersion": "0.0.11",
-        "versionCount": 41,
+        "versionCount": 42,
         "keywords": [],
         "unity": "2022.3",
         "author": "bd_",
@@ -147168,6 +147535,19 @@
             "displayName": "Modular Avatar - Resonite support",
             "description": "",
             "url": "https://packages.vpm.nadena.dev/repositories/nadena.dev/packages/nadena.dev.modular-avatar.resonite/0.0.48/e7c2b7a06921aeddd83ed12ad53e377c02f5e63a7c3674b3f5cb70fefb3b2ade.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.8.0-beta.4 <2.0.0-a",
+              "nadena.dev.modular-avatar": ">=1.13.0-beta.0 <2.0.0-a"
+            }
+          },
+          "0.0.49": {
+            "version": "0.0.49",
+            "name": "nadena.dev.modular-avatar.resonite",
+            "displayName": "Modular Avatar - Resonite support",
+            "description": "",
+            "url": "https://packages.vpm.nadena.dev/repositories/nadena.dev/packages/nadena.dev.modular-avatar.resonite/0.0.49/c44457f3fc7ecfbdb83f7d1959dfff4c8a80e020393ec3c3f50f1db11bab4b39.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -164668,6 +165048,79 @@
     }
   },
   {
+    "url": "https://vpm.tesca.io/vpm.json",
+    "name": "Project Tesca VPM Registry",
+    "id": "io.tesca.vpm",
+    "author": "Project Tesca",
+    "hash": "34be0aa4615e5db0425bd496bbfc4e399c5b8f052d3bd1920e4f98d12f96a59e",
+    "last_updated": "2026-09-13T03:01:13.038Z",
+    "packageCount": 2,
+    "packages": {
+      "io.tesca.vpm-package-manifest": {
+        "id": "io.tesca.vpm-package-manifest",
+        "name": "io.tesca.vpm-package-manifest",
+        "displayName": "VpmPackageManifest",
+        "description": "for vpm-registry-cf Utility.",
+        "latestVersion": "0.0.0",
+        "versionCount": 1,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "ProjectTesca",
+          "email": "support@aztestudio.com"
+        },
+        "versions": {
+          "0.0.0": {
+            "version": "0.0.0",
+            "name": "io.tesca.vpm-package-manifest",
+            "displayName": "VpmPackageManifest",
+            "description": "for vpm-registry-cf Utility.",
+            "url": "https://vpm.tesca.io/package/io.tesca.vpm-package-manifest/Nq9u9i93W9stuV7HY7Lte-io.tesca.vpm-package-manifest-0.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          }
+        }
+      },
+      "io.tesca.mensharp": {
+        "id": "io.tesca.mensharp",
+        "name": "io.tesca.mensharp",
+        "displayName": "MenSharp",
+        "description": "MenSharp (M#): a UdonSharp-compatible C# compiler for Udon, written in Rust. Supports classes, generics, List<T> and more. Compile with the MenSharp menu or on save.",
+        "latestVersion": "0.1.1",
+        "versionCount": 2,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "ProjectTesca",
+          "email": "support@aztestudio.com"
+        },
+        "versions": {
+          "0.1.1": {
+            "version": "0.1.1",
+            "name": "io.tesca.mensharp",
+            "displayName": "MenSharp",
+            "description": "MenSharp (M#): a UdonSharp-compatible C# compiler for Udon, written in Rust. Supports classes, generics, List<T> and more. Compile with the MenSharp menu or on save.",
+            "url": "https://vpm.tesca.io/package/io.tesca.mensharp/TY3tDzdwMOTkb0iRo2r0f-mensharp.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.1.0": {
+            "version": "0.1.0",
+            "name": "io.tesca.mensharp",
+            "displayName": "MenSharp",
+            "description": "MenSharp (M#): a UdonSharp-compatible C# compiler for Udon, written in Rust. Supports classes, generics, List<T> and more. Compile with the MenSharp menu or on save.",
+            "url": "https://vpm.tesca.io/package/io.tesca.mensharp/zXmjQBcGAIgVj9QsnX9uh-mensharp.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          }
+        }
+      }
+    }
+  },
+  {
     "url": "https://vpm.thry.dev/index.json",
     "name": "Thry's VPM Listing",
     "id": "dev.thry.vpm",
@@ -165225,7 +165678,7 @@
     "id": "dev.vrsl.vpm",
     "author": "AcChosen",
     "hash": "aa869129a3c85aa9bb81f9ce396ba37402c3ce994e3a3ba3d72adf1ff56cc18c",
-    "last_updated": "2026-04-23T16:29:51.000Z",
+    "last_updated": "2026-09-12T18:29:53.000Z",
     "packageCount": 1,
     "packages": {
       "com.acchosen.vr-stage-lighting": {
@@ -165407,8 +165860,8 @@
     "name": "WhyKnot Tools",
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
-    "hash": "4a73df4cb1309808f7598d4adc267dddcdffda43573bc565542b67ed62ac960d",
-    "last_updated": "2026-09-11T10:12:50.000Z",
+    "hash": "45dbdbb2c867cff13f7d6564fd1848d016332a86066b36636e25289d78ae3db7",
+    "last_updated": "2026-09-12T09:47:06.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -176860,8 +177313,8 @@
     "name": "Explosive Theorem Lab. Metaverse Division",
     "id": "idv.jlchntoz.xtlcdn-listing",
     "author": "Jeremy Lam aka. Vistanz",
-    "hash": "97ae2c87dde2d81ee7191c321ddd24885f62da87145ca1d2578533d02f849e9f",
-    "last_updated": "2026-09-11T17:12:09.000Z",
+    "hash": "7ffbcca1a855ff1aa859a720a0f6bac849323dd662460b81f9225dbc2adc3f3f",
+    "last_updated": "2026-09-12T14:25:04.000Z",
     "packageCount": 14,
     "packages": {
       "idv.jlchntoz.vrcw-foundation": {
@@ -179273,8 +179726,8 @@
         "name": "idv.jlchntoz.vrctzhologram",
         "displayName": "Time Zone Sync Hologram",
         "description": "A hologram earth gimmick asset for VRChat SDK3 worlds which shows everyone's timezone, approximate location and their local time.",
-        "latestVersion": "2.0.1",
-        "versionCount": 9,
+        "latestVersion": "2.0.2",
+        "versionCount": 10,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -179283,6 +179736,18 @@
           "url": "https://xtl.booth.pm"
         },
         "versions": {
+          "2.0.2": {
+            "version": "2.0.2",
+            "name": "idv.jlchntoz.vrctzhologram",
+            "displayName": "Time Zone Sync Hologram",
+            "description": "A hologram earth gimmick asset for VRChat SDK3 worlds which shows everyone's timezone, approximate location and their local time.",
+            "url": "https://github.com/JLChnToZ/vrctzhologram/releases/download/2.0.2/idv.jlchntoz.vrctzhologram-2.0.2.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "idv.jlchntoz.vrcw-foundation": "0.x.x >=0.0.65"
+            }
+          },
           "2.0.1": {
             "version": "2.0.1",
             "name": "idv.jlchntoz.vrctzhologram",
@@ -186176,8 +186641,8 @@
     "name": "bd_",
     "id": "dev.nadena.vpm",
     "author": "bd_",
-    "hash": "1aafbed9034ae76870f63fb9091ebc0ab85ec1740ff208580272be2e822f89c3",
-    "last_updated": "2026-09-01T04:31:32.000Z",
+    "hash": "936b9183732a621775291a3477c90e14044243e0114b76a27a2ac58a16d317cc",
+    "last_updated": "2026-09-12T03:32:50.000Z",
     "packageCount": 4,
     "packages": {
       "nadena.dev.misc-vrc-tools": {
@@ -188661,7 +189126,7 @@
         "displayName": "Modular Avatar - Resonite support",
         "description": null,
         "latestVersion": "0.0.11",
-        "versionCount": 41,
+        "versionCount": 42,
         "keywords": [],
         "unity": "2022.3",
         "author": "bd_",
@@ -189133,6 +189598,19 @@
             "displayName": "Modular Avatar - Resonite support",
             "description": "",
             "url": "https://packages.vpm.nadena.dev/repositories/nadena.dev/packages/nadena.dev.modular-avatar.resonite/0.0.48/e7c2b7a06921aeddd83ed12ad53e377c02f5e63a7c3674b3f5cb70fefb3b2ade.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.8.0-beta.4 <2.0.0-a",
+              "nadena.dev.modular-avatar": ">=1.13.0-beta.0 <2.0.0-a"
+            }
+          },
+          "0.0.49": {
+            "version": "0.0.49",
+            "name": "nadena.dev.modular-avatar.resonite",
+            "displayName": "Modular Avatar - Resonite support",
+            "description": "",
+            "url": "https://packages.vpm.nadena.dev/repositories/nadena.dev/packages/nadena.dev.modular-avatar.resonite/0.0.49/c44457f3fc7ecfbdb83f7d1959dfff4c8a80e020393ec3c3f50f1db11bab4b39.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
