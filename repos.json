@@ -4,8 +4,8 @@
     "name": "yuna0x0's VPM Repo",
     "id": "com.yuna0x0.vpm",
     "author": "yuna0x0",
-    "hash": "ccaeb17e6ad72c0fef69b78ba0afa694033d42dc321f3ebb505d81d484923f2d",
-    "last_updated": "2026-09-14T09:10:35.000Z",
+    "hash": "1af360283cb190ccbb8db53694b3a2608c31ba1d34d0d3edc729cc0042f6d6b2",
+    "last_updated": "2026-09-16T18:56:52.000Z",
     "packageCount": 1,
     "packages": {
       "com.yuna0x0.basis.convert": {
@@ -13,8 +13,8 @@
         "name": "com.yuna0x0.basis.convert",
         "displayName": "Watari (Converter for Basis)",
         "description": "Converts VRChat, VRM and Dynamic Bone components on an avatar into their Basis equivalents: jiggle physics, constraints, the avatar descriptor, HVR Vixxy controls and authored motion.",
-        "latestVersion": "0.8.3",
-        "versionCount": 24,
+        "latestVersion": "0.9.2",
+        "versionCount": 29,
         "keywords": [
           "basis",
           "basisvr",
@@ -32,6 +32,76 @@
           "url": "https://github.com/yuna0x0"
         },
         "versions": {
+          "0.9.2": {
+            "version": "0.9.2",
+            "name": "com.yuna0x0.basis.convert",
+            "displayName": "Watari (Converter for Basis)",
+            "description": "Converts VRChat, VRM and Dynamic Bone components on an avatar into their Basis equivalents: jiggle physics, constraints, the avatar descriptor, HVR Vixxy controls and authored motion.",
+            "url": "https://github.com/yuna0x0/watari-basis/releases/download/v0.9.2/com.yuna0x0.basis.convert-0.9.2.zip",
+            "zipSha256": null,
+            "unity": "6000.5",
+            "vpmDependencies": {
+              "com.basis.sdk": "0.0.1",
+              "com.gator-dragon-games.jigglephysics": "16.0.1",
+              "dev.hai-vr.basis.comms": "0.0.1"
+            }
+          },
+          "0.9.1": {
+            "version": "0.9.1",
+            "name": "com.yuna0x0.basis.convert",
+            "displayName": "Watari (Converter for Basis)",
+            "description": "Converts VRChat, VRM and Dynamic Bone components on an avatar into their Basis equivalents: jiggle physics, constraints, the avatar descriptor, HVR Vixxy controls and authored motion.",
+            "url": "https://github.com/yuna0x0/watari-basis/releases/download/v0.9.1/com.yuna0x0.basis.convert-0.9.1.zip",
+            "zipSha256": null,
+            "unity": "6000.5",
+            "vpmDependencies": {
+              "com.basis.sdk": "0.0.1",
+              "com.gator-dragon-games.jigglephysics": "16.0.1",
+              "dev.hai-vr.basis.comms": "0.0.1"
+            }
+          },
+          "0.9.0": {
+            "version": "0.9.0",
+            "name": "com.yuna0x0.basis.convert",
+            "displayName": "Watari (Converter for Basis)",
+            "description": "Converts VRChat, VRM and Dynamic Bone components on an avatar into their Basis equivalents: jiggle physics, constraints, the avatar descriptor, HVR Vixxy controls and authored motion.",
+            "url": "https://github.com/yuna0x0/watari-basis/releases/download/v0.9.0/com.yuna0x0.basis.convert-0.9.0.zip",
+            "zipSha256": null,
+            "unity": "6000.5",
+            "vpmDependencies": {
+              "com.basis.sdk": "0.0.1",
+              "com.gator-dragon-games.jigglephysics": "16.0.1",
+              "dev.hai-vr.basis.comms": "0.0.1"
+            }
+          },
+          "0.8.5": {
+            "version": "0.8.5",
+            "name": "com.yuna0x0.basis.convert",
+            "displayName": "Watari (Converter for Basis)",
+            "description": "Converts VRChat, VRM and Dynamic Bone components on an avatar into their Basis equivalents: jiggle physics, constraints, the avatar descriptor, HVR Vixxy controls and authored motion.",
+            "url": "https://github.com/yuna0x0/watari-basis/releases/download/v0.8.5/com.yuna0x0.basis.convert-0.8.5.zip",
+            "zipSha256": null,
+            "unity": "6000.5",
+            "vpmDependencies": {
+              "com.basis.sdk": "0.0.1",
+              "com.gator-dragon-games.jigglephysics": "16.0.1",
+              "dev.hai-vr.basis.comms": "0.0.1"
+            }
+          },
+          "0.8.4": {
+            "version": "0.8.4",
+            "name": "com.yuna0x0.basis.convert",
+            "displayName": "Watari (Converter for Basis)",
+            "description": "Converts VRChat, VRM and Dynamic Bone components on an avatar into their Basis equivalents: jiggle physics, constraints, the avatar descriptor, HVR Vixxy controls and authored motion.",
+            "url": "https://github.com/yuna0x0/watari-basis/releases/download/v0.8.4/com.yuna0x0.basis.convert-0.8.4.zip",
+            "zipSha256": null,
+            "unity": "6000.5",
+            "vpmDependencies": {
+              "com.basis.sdk": "0.0.1",
+              "com.gator-dragon-games.jigglephysics": "16.0.1",
+              "dev.hai-vr.basis.comms": "0.0.1"
+            }
+          },
           "0.8.3": {
             "version": "0.8.3",
             "name": "com.yuna0x0.basis.convert",
@@ -2108,8 +2178,8 @@
     "name": "An-Labo NailTool",
     "id": "world.anlabo.mdnailtool.vpm",
     "author": "An-Labo",
-    "hash": "2ec33c304701ee8286ce98c8fc21dd7946059595cb64f112811f3cce3d0e207e",
-    "last_updated": "2026-09-15T19:18:35.000Z",
+    "hash": "93e508f3eb507e08584278c1825cf144f79733c682cad86c6a4357ca18d756e0",
+    "last_updated": "2026-09-16T13:55:53.000Z",
     "packageCount": 1,
     "packages": {
       "world.anlabo.mdnailtool": {
@@ -2118,7 +2188,7 @@
         "displayName": "An-Labo NailTool",
         "description": "An-Labo NailTool",
         "latestVersion": "0.9.141",
-        "versionCount": 584,
+        "versionCount": 585,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -9129,6 +9199,18 @@
             "displayName": "An-Labo NailTool",
             "description": "An-Labo NailTool",
             "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.10.70/world.anlabo.mdnailtool-0.10.70.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.5.0"
+            }
+          },
+          "0.10.71": {
+            "version": "0.10.71",
+            "name": "world.anlabo.mdnailtool",
+            "displayName": "An-Labo NailTool",
+            "description": "An-Labo NailTool",
+            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.10.71/world.anlabo.mdnailtool-0.10.71.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -18029,7 +18111,7 @@
     "id": "com.cyan.cyantrigger.vcc-listing",
     "author": "CyanLaser",
     "hash": "a6d67a91e3c26d4b2575f25029cc6f6fea9441c11451fdd533128d76b3ba3e61",
-    "last_updated": "2026-07-03T00:44:09.000Z",
+    "last_updated": "2026-07-03T00:44:10.000Z",
     "packageCount": 2,
     "packages": {
       "com.cyan.cyantrigger": {
@@ -18309,8 +18391,8 @@
     "name": "d4rkpl4y3r",
     "id": "io.github.d4rkc0d3r",
     "author": "d4rkpl4y3r",
-    "hash": "acd58732324daf21dc73c85bef2dbcb576f9ec0fd0cb6a4f2f3592a11e267b45",
-    "last_updated": "2026-07-31T18:48:43.000Z",
+    "hash": "d9c3e79b6ff1920a63fbee018f10a1e9ffe1d0caaa0f03f7c9549b0ec1da0dd8",
+    "last_updated": "2026-09-16T15:58:56.000Z",
     "packageCount": 1,
     "packages": {
       "d4rkpl4y3r.d4rkavataroptimizer": {
@@ -18319,7 +18401,7 @@
         "displayName": "d4rkAvatarOptimizer",
         "description": "An optimizer aiming to reduce mesh & material count and more of VRChat 3.0 avatars.",
         "latestVersion": "2.0.0",
-        "versionCount": 96,
+        "versionCount": 97,
         "keywords": [],
         "unity": "2019.4",
         "author": "d4rkpl4y3r",
@@ -19326,6 +19408,18 @@
             "displayName": "d4rkAvatarOptimizer",
             "description": "An optimizer aiming to reduce mesh & material count and more of VRChat 3.0 avatars.",
             "url": "https://github.com/d4rkc0d3r/d4rkAvatarOptimizer/releases/download/v4.5.4/d4rkpl4y3r.d4rkavataroptimizer-4.5.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.9.0 <4.0.0-a"
+            }
+          },
+          "4.6.0": {
+            "version": "4.6.0",
+            "name": "d4rkpl4y3r.d4rkavataroptimizer",
+            "displayName": "d4rkAvatarOptimizer",
+            "description": "An optimizer aiming to reduce mesh & material count and more of VRChat 3.0 avatars.",
+            "url": "https://github.com/d4rkc0d3r/d4rkAvatarOptimizer/releases/download/v4.6.0/d4rkpl4y3r.d4rkavataroptimizer-4.6.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -27433,7 +27527,7 @@
     "name": "JanSharp Packages",
     "id": "com.jansharp.main",
     "author": "JanSharp",
-    "hash": "5ee73e83847a135d22cc7e4b17df200bab02ee88cf2483788605cdf314c15db1",
+    "hash": "940bb47b94a913dececbadf46d51fb2f001f1140148d53039403c07c1ad297c3",
     "last_updated": "2026-08-31T03:27:37.057Z",
     "packageCount": 14,
     "packages": {
@@ -27961,7 +28055,7 @@
         "displayName": "Editor Tools",
         "description": "Various editor tools and editor windows.",
         "latestVersion": "1.0.0",
-        "versionCount": 22,
+        "versionCount": 25,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -28106,6 +28200,36 @@
             "displayName": "Editor Tools",
             "description": "Various editor tools and editor windows.",
             "url": "https://github.com/JanSharp/VRCEditorTools/releases/download/v1.3.11/com.jansharp.editor-tools.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
+          },
+          "1.3.12": {
+            "version": "1.3.12",
+            "name": "com.jansharp.editor-tools",
+            "displayName": "Editor Tools",
+            "description": "Various editor tools and editor windows.",
+            "url": "https://github.com/JanSharp/VRCEditorTools/releases/download/v1.3.12/com.jansharp.editor-tools.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
+          },
+          "1.3.13": {
+            "version": "1.3.13",
+            "name": "com.jansharp.editor-tools",
+            "displayName": "Editor Tools",
+            "description": "Various editor tools and editor windows.",
+            "url": "https://github.com/JanSharp/VRCEditorTools/releases/download/v1.3.13/com.jansharp.editor-tools.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
+          },
+          "1.3.14": {
+            "version": "1.3.14",
+            "name": "com.jansharp.editor-tools",
+            "displayName": "Editor Tools",
+            "description": "Various editor tools and editor windows.",
+            "url": "https://github.com/JanSharp/VRCEditorTools/releases/download/v1.3.14/com.jansharp.editor-tools.zip",
             "zipSha256": null,
             "unity": "2019.4",
             "vpmDependencies": {}
@@ -29173,7 +29297,7 @@
     "id": "info.glintfraulein.vpm",
     "author": "GlinT Fraulein",
     "hash": "18bb3ea8c22648e666d971da672b24379485d8f7dcb43085137931eb9e1515ce",
-    "last_updated": "2026-08-23T14:57:49.000Z",
+    "last_updated": "2026-08-23T14:57:48.000Z",
     "packageCount": 1,
     "packages": {
       "info.glintfraulein.palasolu": {
@@ -39198,7 +39322,7 @@
     "id": "com.hhotatea.avatar-pose-library.listing",
     "author": "HhotateA",
     "hash": "605123390e97c96003b2c8c9e876e27df9bbcd475812d763d35528df5b9d4daa",
-    "last_updated": "2026-08-21T08:07:18.000Z",
+    "last_updated": "2026-08-21T08:07:17.000Z",
     "packageCount": 1,
     "packages": {
       "com.hhotatea.avatar-pose-library": {
@@ -41634,7 +41758,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "680029c772846cb5e5b7331c6f399296d7c3d340058c68c9f48e255a6fa8e65e",
-    "last_updated": "2026-09-15T18:13:12.000Z",
+    "last_updated": "2026-09-16T16:34:28.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -43115,7 +43239,7 @@
     "id": "dev.jetees.vpm-listing",
     "author": "JeTeeS",
     "hash": "c43d1d46596697e66705b99d7740a062daf269bacdf077d0810963cb05d466da",
-    "last_updated": "2024-05-22T15:17:52.000Z",
+    "last_updated": "2024-05-22T15:17:51.000Z",
     "packageCount": 1,
     "packages": {
       "dev.jetees.memoryoptimizer": {
@@ -43575,7 +43699,7 @@
     "id": "dev.kaefibot.listing",
     "author": "WoweePaw",
     "hash": "0f954512e7a69a442d27394f918fc68614873d3db3706347e1e36e0acde01244",
-    "last_updated": "2026-07-05T15:03:29.000Z",
+    "last_updated": "2026-07-05T15:03:28.000Z",
     "packageCount": 1,
     "packages": {
       "dev.kaefibot.kaefibot-controller": {
@@ -51170,7 +51294,7 @@
     "id": "com.kie.vpm",
     "author": "Kie",
     "hash": "9c720b21a0d472446cbcefecd3ffddfe48df0b160a1cc2d716f8020dfadddb34",
-    "last_updated": "2026-09-15T18:44:47.000Z",
+    "last_updated": "2026-09-16T18:44:02.000Z",
     "packageCount": 3,
     "packages": {
       "com.kie.kie-mergeable-toggle": {
@@ -55068,7 +55192,7 @@
     "id": "net.euan.lazyoptimiser.listing",
     "author": "euan142",
     "hash": "6a0b4ea94d87ae345649306e6fda40f7bd86325206e58e1a4c5943450a9fe4ee",
-    "last_updated": "2025-02-20T10:25:21.000Z",
+    "last_updated": "2025-02-20T10:25:22.000Z",
     "packageCount": 1,
     "packages": {
       "net.euan.lazyoptimiser": {
@@ -57463,7 +57587,7 @@
     "id": "com.lightbulb.vpm",
     "author": "Lightbulb",
     "hash": "0b7fc0744f4495a6f6347684da082916fa521978464df24b0f401cc22f5fe931",
-    "last_updated": "2026-09-16T00:22:51.000Z",
+    "last_updated": "2026-09-17T01:25:54.000Z",
     "packageCount": 2,
     "packages": {
       "com.lightbulb.arealit-occlusion": {
@@ -62282,8 +62406,8 @@
     "name": "VR Vlog Packages",
     "id": "com.vrvlog.packages",
     "author": "VR Vlog",
-    "hash": "cb83b143e7a66c7eb77a7d8c330aa5280b22fded5713ceedf538dc31851ed800",
-    "last_updated": "2026-09-13T14:58:28.000Z",
+    "hash": "ac3ff2c296588d38e84fde5999c73696baf3969125b4d594894b4c1408bafd36",
+    "last_updated": "2026-09-17T02:16:56.000Z",
     "packageCount": 3,
     "packages": {
       "com.vrmc.gltf": {
@@ -62306,7 +62430,7 @@
             "name": "com.vrmc.gltf",
             "displayName": "UniGLTF",
             "description": "GLTF importer and exporter",
-            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.10.5/com.vrmc.gltf-0.131.0.zip",
+            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.0/com.vrmc.gltf-0.131.0.zip",
             "zipSha256": null,
             "unity": "2021.3",
             "vpmDependencies": {
@@ -62342,7 +62466,7 @@
             "name": "com.vrmc.vrm",
             "displayName": "VRM-1.0",
             "description": "VRM-1.0 importer",
-            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.10.5/com.vrmc.vrm-0.131.0.zip",
+            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.0/com.vrmc.vrm-0.131.0.zip",
             "zipSha256": null,
             "unity": "2021.3",
             "vpmDependencies": {
@@ -62357,8 +62481,8 @@
         "name": "com.vrvlog.liltoon-vrm-exporter",
         "displayName": "VR Vlog lilToon VRM Exporter",
         "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-        "latestVersion": "0.10.5",
-        "versionCount": 29,
+        "latestVersion": "0.11.0",
+        "versionCount": 31,
         "keywords": [
           "vrm",
           "liltoon",
@@ -62370,6 +62494,32 @@
           "name": "VR Vlog"
         },
         "versions": {
+          "0.11.0": {
+            "version": "0.11.0",
+            "name": "com.vrvlog.liltoon-vrm-exporter",
+            "displayName": "VR Vlog lilToon VRM Exporter",
+            "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
+            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.0/com.vrvlog.liltoon-vrm-exporter-0.11.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrmc.gltf": "0.131.x",
+              "com.vrmc.vrm": "0.131.x"
+            }
+          },
+          "0.10.6": {
+            "version": "0.10.6",
+            "name": "com.vrvlog.liltoon-vrm-exporter",
+            "displayName": "VR Vlog lilToon VRM Exporter",
+            "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
+            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.10.6/com.vrvlog.liltoon-vrm-exporter-0.10.6.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrmc.gltf": "0.131.x",
+              "com.vrmc.vrm": "0.131.x"
+            }
+          },
           "0.10.5": {
             "version": "0.10.5",
             "name": "com.vrvlog.liltoon-vrm-exporter",
@@ -65750,7 +65900,7 @@
     "id": "com.nidonocu.virtual-gryphon-packages",
     "author": "Nidonocu",
     "hash": "4f1a4e20ac1e5d3661ae57c8d3353f05d769b8999754be537975ece981b322cc",
-    "last_updated": "2026-07-03T16:56:22.000Z",
+    "last_updated": "2026-07-03T16:56:23.000Z",
     "packageCount": 1,
     "packages": {
       "com.nidonocu.vrcunitytoolbar": {
@@ -66108,7 +66258,7 @@
     "id": "com.puddingkc.vpm-listing",
     "author": "PuddingKC",
     "hash": "f240f36289d0cc5747481bc9b789e2732c1ec1f494a82fe81e90c798c0fde67c",
-    "last_updated": "2026-07-04T04:18:33.000Z",
+    "last_updated": "2026-07-04T04:18:32.000Z",
     "packageCount": 3,
     "packages": {
       "com.puddingkc.ma-radial-control": {
@@ -80657,7 +80807,7 @@
     "id": "com.fracfloor.vpm-listing",
     "author": "raii",
     "hash": "bb8a1fb4b6497e28d58d8f4ed220692da23d2202d1dad6f3725f0921d2c66b57",
-    "last_updated": "2026-07-03T11:55:03.000Z",
+    "last_updated": "2026-07-03T11:55:04.000Z",
     "packageCount": 1,
     "packages": {
       "com.fracfloor.timeline-beat-marker": {
@@ -87732,7 +87882,7 @@
     "id": "dev.redline-team.redlinelist",
     "author": "RozeThorns",
     "hash": "8c61e41bc845ad48ac8b2df4fbc0df5b38f713805c599141762b5c54f4e92f8c",
-    "last_updated": "2026-09-16T01:53:03.000Z",
+    "last_updated": "2026-09-17T01:57:01.000Z",
     "packageCount": 5,
     "packages": {
       "dev.redline-team.rpm": {
@@ -93707,7 +93857,7 @@
     "id": "io.github.ykysnk.vpm",
     "author": "yukiyosanako / ゆきよさなこ",
     "hash": "d4ff7d9ddbb00023f24915136baa16b1ad1a44476a93fcfddcd03265d2ffe32a",
-    "last_updated": "2026-07-25T14:33:15.000Z",
+    "last_updated": "2026-09-16T11:51:47.000Z",
     "packageCount": 17,
     "packages": {
       "io.github.ykysnk.utils": {
@@ -101798,7 +101948,7 @@
     "id": "com.triturbo.blendshare.listing",
     "author": "Triturbo",
     "hash": "8d43fe402736de6cd2621406d3b850107d5fa9a6bc801a1a5857547ed262526d",
-    "last_updated": "2026-07-05T12:32:46.000Z",
+    "last_updated": "2026-07-05T12:32:45.000Z",
     "packageCount": 1,
     "packages": {
       "com.triturbo.blendshare": {
@@ -102663,8 +102813,8 @@
     "name": "Valenvrc Listing",
     "id": "com.valenvrc.package_listing",
     "author": "valenvrc",
-    "hash": "c5cde567c8ca02629abf1c73af328a3949c4eb4baac77751b97d358d7f742a7f",
-    "last_updated": "2026-09-15T01:28:04.000Z",
+    "hash": "22416b2df3c84ce639c1387e7a8fd5296f4f713c5cb65670a97af5ba120de6b2",
+    "last_updated": "2026-09-16T21:30:57.000Z",
     "packageCount": 6,
     "packages": {
       "com.valenvrc.common": {
@@ -102672,8 +102822,8 @@
         "name": "com.valenvrc.common",
         "displayName": "Valenvrc - Common",
         "description": "A compilation of all my utility scripts for VRChat. Mostly are dependences for my other assets.",
-        "latestVersion": "2.10.0",
-        "versionCount": 12,
+        "latestVersion": "2.10.1",
+        "versionCount": 13,
         "keywords": [
           "scripts",
           "udon",
@@ -102690,6 +102840,19 @@
           "url": "https://valenvrc.com"
         },
         "versions": {
+          "2.10.1": {
+            "version": "2.10.1",
+            "name": "com.valenvrc.common",
+            "displayName": "Valenvrc - Common",
+            "description": "A compilation of all my utility scripts for VRChat. Mostly are dependences for my other assets.",
+            "url": "https://github.com/ElMoha943/com.valenvrc.common/releases/download/v2.10.1/com.valenvrc.common.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.10.5",
+              "com.vrchat.base": ">=3.10.5"
+            }
+          },
           "2.10.0": {
             "version": "2.10.0",
             "name": "com.valenvrc.common",
@@ -103539,7 +103702,7 @@
     "id": "net.pawlygon.vcc-packages",
     "author": "Pawlygon",
     "hash": "ffddfc1a87cdf9aed91a660cbaca0e51f7f86152c9a6f89bfce1276d0295a790",
-    "last_updated": "2026-07-01T04:45:50.000Z",
+    "last_updated": "2026-07-01T04:45:49.000Z",
     "packageCount": 2,
     "packages": {
       "net.pawlygon.vrc-facetracking": {
@@ -104064,8 +104227,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "a4428c44f07889bcc2302fe9e51d8fe8a9d8c312f9abc2ed34de1d93c69f6a56",
-    "last_updated": "2026-09-16T03:12:38.000Z",
+    "hash": "3483434c0899212eb5580372003cbf2ec36b9c88d324850e18e774248313f20b",
+    "last_updated": "2026-09-17T03:17:38.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -117533,7 +117696,7 @@
     "id": "com.vixencreations.vixens-toolbox.listing",
     "author": "Vixenlicous",
     "hash": "8863d3e6112d1617463022bc8b6da3c768f21b3f6eba0a468e69887ed1998878",
-    "last_updated": "2026-09-14T10:10:23.000Z",
+    "last_updated": "2026-09-17T00:31:09.000Z",
     "packageCount": 1,
     "packages": {
       "com.vixencreations.vixens-toolbox": {
@@ -118182,7 +118345,7 @@
     "id": "io.mekabu.vpm-repository",
     "author": "contact@mekabu.io",
     "hash": "afb531d339483772668bf9b0fbe2f91415a0d37733b4adad67544741ae03cb2e",
-    "last_updated": "2026-09-16T03:02:03.000Z",
+    "last_updated": "2026-09-17T03:17:00.000Z",
     "packageCount": 2,
     "packages": {
       "com.mekabu.blendshape-animation-creator": {
@@ -127116,7 +127279,7 @@
     "id": "net.bluwizard.vpmlist",
     "author": "BluWizard",
     "hash": "91ce58f5be4589bf48bc281502e4630bb35422e5e322325962be4aeb30a76c9e",
-    "last_updated": "2026-09-10T07:00:46.000Z",
+    "last_updated": "2026-09-10T07:00:45.000Z",
     "packageCount": 7,
     "packages": {
       "net.bluwizard.poipresets": {
@@ -160422,7 +160585,7 @@
     "id": "jp.pipipigiken.vpm",
     "author": "orange3134",
     "hash": "ece9c908434de913bd1ed23fcfc0ae011caef63383abb0e902b92aff2c5e480d",
-    "last_updated": "2026-09-16T00:27:37.000Z",
+    "last_updated": "2026-09-17T01:30:21.000Z",
     "packageCount": 2,
     "packages": {
       "com.avatarnamecard.avatar-package": {
@@ -166789,8 +166952,8 @@
     "name": "WhyKnot Tools",
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
-    "hash": "4c580a02d4d79e45af49c22e50a2f96571248dad03b98ddb3f3f0efec3bf2504",
-    "last_updated": "2026-09-15T10:40:56.000Z",
+    "hash": "236cd20af21b3986823eaa0c95781e073cabde7f091d24c4b0615e3483d17742",
+    "last_updated": "2026-09-16T10:29:07.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -166905,8 +167068,8 @@
     "name": "YozoLab-VPMRepository listing",
     "id": "net.yozolab.vpmrepository-listing",
     "author": "YozoraKurage",
-    "hash": "9477f44e1c9213d991cb193c4bd2461da70fc63073d0a8e2eac1ee1ec420f7fc",
-    "last_updated": "2026-09-09T07:04:11.000Z",
+    "hash": "11f429c1f200fa94e29f178d4b748508c324aff4a650dc0e15cf655707b15fd3",
+    "last_updated": "2026-09-16T08:11:10.000Z",
     "packageCount": 4,
     "packages": {
       "net.yozolab.daerd": {
@@ -167144,14 +167307,24 @@
         "name": "net.yozolab.yozolab-utils",
         "displayName": "yozolab-utils",
         "description": "YozoLab's utility package for Unity",
-        "latestVersion": "0.7.0",
-        "versionCount": 17,
+        "latestVersion": "0.8.0",
+        "versionCount": 18,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "Yozolab"
         },
         "versions": {
+          "0.8.0": {
+            "version": "0.8.0",
+            "name": "net.yozolab.yozolab-utils",
+            "displayName": "yozolab-utils",
+            "description": "YozoLab's utility package for Unity",
+            "url": "https://github.com/YozoraKurage/YozoLab-Utils/releases/download/0.8.0/net.yozolab.yozolab-utils.0.8.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "0.7.0": {
             "version": "0.7.0",
             "name": "net.yozolab.yozolab-utils",
@@ -178117,13 +178290,68 @@
   },
   {
     "url": "https://www.negura-karasu.net/vpm/",
-    "name": "Negura-karasu VPM",
+    "name": "Yagihata",
     "id": "www.negura-karasu.net",
     "author": "Yagihata",
-    "hash": null,
+    "hash": "e2e0e4ad3f5c5cf660d230256a66aafc8220ea9cdb39fbe295200851592f2200",
     "last_updated": "2026-08-01T16:09:54.691Z",
-    "packageCount": 0,
-    "packages": {}
+    "packageCount": 1,
+    "packages": {
+      "yagihata.radialinventorysystem.v4": {
+        "id": "yagihata.radialinventorysystem.v4",
+        "name": "yagihata.radialinventorysystem.v4",
+        "displayName": "Radial Inventory System V4",
+        "description": "This is an add-on for VRC-Avatars that assists in adding a menu to show/hide props.",
+        "latestVersion": "4.5.1",
+        "versionCount": 3,
+        "keywords": [
+          "Inventory",
+          "Avatar"
+        ],
+        "unity": "2019.4",
+        "author": {
+          "name": "Yagihata"
+        },
+        "versions": {
+          "4.5.1": {
+            "version": "4.5.1",
+            "name": "yagihata.radialinventorysystem.v4",
+            "displayName": "Radial Inventory System V4",
+            "description": "This is an add-on for VRC-Avatars that assists in adding a menu to show/hide props.",
+            "url": "https://drive.google.com/uc?id=1R6QxJ90_Kw-OHivhN6FOLsz7jTIAqXqe",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.0.0"
+            }
+          },
+          "4.5.2": {
+            "version": "4.5.2",
+            "name": "yagihata.radialinventorysystem.v4",
+            "displayName": "Radial Inventory System V4",
+            "description": "This is an add-on for VRC-Avatars that assists in adding a menu to show/hide props.",
+            "url": "https://github.com/Yagihata/RadialInventorySystem/releases/download/v4.5.2/yagihata.radialinventorysystem.v4-4.5.2.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.0.0"
+            }
+          },
+          "4.6.0": {
+            "version": "4.6.0",
+            "name": "yagihata.radialinventorysystem.v4",
+            "displayName": "Radial Inventory System V4",
+            "description": "This is an add-on for VRC-Avatars that assists in adding a menu to show/hide props.",
+            "url": "https://github.com/Yagihata/RadialInventorySystem/releases/download/v4.6/yagihata.radialinventorysystem.v4-4.6.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.6.0"
+            }
+          }
+        }
+      }
+    }
   },
   {
     "url": "https://xNanochip.github.io/VPM-Package-Listing/index.json",
@@ -178188,7 +178416,7 @@
     "id": "idv.jlchntoz.xtlcdn-listing",
     "author": "Jeremy Lam aka. Vistanz",
     "hash": "c56c31bc35b4cfcbd4ac870cc1a0cb25f6000714bf79c920266fd6b52ba5cbad",
-    "last_updated": "2026-09-14T18:25:01.000Z",
+    "last_updated": "2026-09-14T18:25:02.000Z",
     "packageCount": 14,
     "packages": {
       "idv.jlchntoz.vrcw-foundation": {
@@ -186333,8 +186561,8 @@
     "name": "TsukimiCode",
     "id": "dev.tsukimicode.vpm",
     "author": "TsukimiCode",
-    "hash": "ce12fd3811c35e48de79b4e5f8905b1e57523011858c3afb15fabc26d6b40efe",
-    "last_updated": "2026-09-08T11:37:03.000Z",
+    "hash": "e46797940e9a408da8c195334cb7aeae3ef6bf6175c8a15ad96c9e99513552fd",
+    "last_updated": "2026-09-16T14:08:51.000Z",
     "packageCount": 1,
     "packages": {
       "com.tsukimicode.udon-tools": {
@@ -186343,7 +186571,7 @@
         "displayName": "TsukimiCode Udon Tools",
         "description": "UdonSharp スーパーセットの C# 言語 Tsukimi# のコンパイラ。",
         "latestVersion": "0.1.8",
-        "versionCount": 6,
+        "versionCount": 7,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -186416,6 +186644,18 @@
             "displayName": "TsukimiSharp(T#)",
             "description": "VRChatのUdon向けのC#コンパイラ(interface/ジェネリクス/リアクティブ宣言/GPU実行/ユニットテスト)。extern削減の最適化とAI向け静的解析サーバ(MCP)を同梱。",
             "url": "https://github.com/zz-roba/tsukimi-vpm/releases/download/v0.5.20/com.tsukimicode.udon-tools-0.5.20-vpm.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.10.4"
+            }
+          },
+          "0.6.1": {
+            "version": "0.6.1",
+            "name": "com.tsukimicode.udon-tools",
+            "displayName": "TsukimiSharp(T#)",
+            "description": "VRChatのUdon向けのC#コンパイラ(interface/ジェネリクス/リアクティブ宣言/GPU実行/ユニットテスト)。extern削減の最適化とAI向け静的解析サーバ(MCP)を同梱。",
+            "url": "https://github.com/zz-roba/tsukimi-vpm/releases/download/v0.6.1/com.tsukimicode.udon-tools-0.6.1-vpm.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -186586,8 +186826,8 @@
     "name": "Poiyomi's VPM Repo",
     "id": "io.github.poiyomi.vpm",
     "author": "Poiyomi",
-    "hash": "cff061cd6ed5ccf6e795c3b0bf8ac746c4ba6c0172302fe80decdfad6b1fa7f2",
-    "last_updated": "2026-09-16T03:02:16.000Z",
+    "hash": "cd95d30bf0887e49e9b15661f93167f58ad0be1b92c55f7478aa4b0d6245f23b",
+    "last_updated": "2026-09-17T02:39:52.000Z",
     "packageCount": 3,
     "packages": {
       "com.poiyomi.toon": {
@@ -187093,8 +187333,8 @@
         "name": "com.poiyomi.pro",
         "displayName": "Poiyomi Pro",
         "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
-        "latestVersion": "11.0.3",
-        "versionCount": 23,
+        "latestVersion": "11.0.6",
+        "versionCount": 26,
         "keywords": [
           "shaders",
           "vrchat",
@@ -187108,6 +187348,36 @@
           "url": "https://poiyomi.com"
         },
         "versions": {
+          "11.0.6": {
+            "version": "11.0.6",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://github.com/poiyomi/Poiyomi-Pro-Downloader/releases/download/v11.0.6/com.poiyomi.pro-11.0.6.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.5": {
+            "version": "11.0.5",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://github.com/poiyomi/Poiyomi-Pro-Downloader/releases/download/v11.0.5/com.poiyomi.pro-11.0.5.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.4": {
+            "version": "11.0.4",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://github.com/poiyomi/Poiyomi-Pro-Downloader/releases/download/v11.0.4/com.poiyomi.pro-11.0.4.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
           "11.0.3": {
             "version": "11.0.3",
             "name": "com.poiyomi.pro",
