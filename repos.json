@@ -4,8 +4,8 @@
     "name": "yuna0x0's VPM Repo",
     "id": "com.yuna0x0.vpm",
     "author": "yuna0x0",
-    "hash": "3a6d6f11807c3d452fdccb04c1e1278fdd3e9a93656a9b19292c87ff5d0873f3",
-    "last_updated": "2026-09-18T02:32:04.000Z",
+    "hash": "9fe6e9459c9b91d7387876ff32625b267264cb8c84e5afcb416f2607db4a60e5",
+    "last_updated": "2026-09-18T05:59:25.000Z",
     "packageCount": 1,
     "packages": {
       "com.yuna0x0.basis.convert": {
@@ -13,8 +13,8 @@
         "name": "com.yuna0x0.basis.convert",
         "displayName": "Watari (Converter for Basis)",
         "description": "Converts VRChat, VRM and Dynamic Bone components on an avatar into their Basis equivalents: jiggle physics, constraints, the avatar descriptor, HVR Vixxy controls and authored motion.",
-        "latestVersion": "0.10.0",
-        "versionCount": 30,
+        "latestVersion": "0.11.1",
+        "versionCount": 32,
         "keywords": [
           "basis",
           "basisvr",
@@ -32,6 +32,34 @@
           "url": "https://github.com/yuna0x0"
         },
         "versions": {
+          "0.11.1": {
+            "version": "0.11.1",
+            "name": "com.yuna0x0.basis.convert",
+            "displayName": "Watari (Converter for Basis)",
+            "description": "Converts VRChat, VRM and Dynamic Bone components on an avatar into their Basis equivalents: jiggle physics, constraints, the avatar descriptor, HVR Vixxy controls and authored motion.",
+            "url": "https://github.com/yuna0x0/watari-basis/releases/download/v0.11.1/com.yuna0x0.basis.convert-0.11.1.zip",
+            "zipSha256": null,
+            "unity": "6000.5",
+            "vpmDependencies": {
+              "com.basis.sdk": "0.0.1",
+              "com.gator-dragon-games.jigglephysics": "16.0.1",
+              "dev.hai-vr.basis.comms": "0.0.1"
+            }
+          },
+          "0.11.0": {
+            "version": "0.11.0",
+            "name": "com.yuna0x0.basis.convert",
+            "displayName": "Watari (Converter for Basis)",
+            "description": "Converts VRChat, VRM and Dynamic Bone components on an avatar into their Basis equivalents: jiggle physics, constraints, the avatar descriptor, HVR Vixxy controls and authored motion.",
+            "url": "https://github.com/yuna0x0/watari-basis/releases/download/v0.11.0/com.yuna0x0.basis.convert-0.11.0.zip",
+            "zipSha256": null,
+            "unity": "6000.5",
+            "vpmDependencies": {
+              "com.basis.sdk": "0.0.1",
+              "com.gator-dragon-games.jigglephysics": "16.0.1",
+              "dev.hai-vr.basis.comms": "0.0.1"
+            }
+          },
           "0.10.0": {
             "version": "0.10.0",
             "name": "com.yuna0x0.basis.convert",
@@ -17477,7 +17505,7 @@
     "id": "com.chill.vpm",
     "author": "chill",
     "hash": "218dd1fd125e7194ca6c8140e63ca3d013b40ed5b78b42e79e1ff1e1d5cd5b05",
-    "last_updated": "2026-05-21T13:11:02.000Z",
+    "last_updated": "2026-05-21T13:11:01.000Z",
     "packageCount": 1,
     "packages": {
       "com.chill.avatarscope": {
@@ -25549,8 +25577,8 @@
     "name": "TohruTheDragon's VPM Packages",
     "id": "dev.tohruthedragon.vpm-listing",
     "author": "TohruTheDragon",
-    "hash": "667fc7df40d2b611f7bc65df3373c05b6230b04fce8f334cdb211bfe3be41079",
-    "last_updated": "2026-09-08T15:54:33.000Z",
+    "hash": "291b81ea3aeaac047324dd6a8f04c280fb3d377d2bfbe62dd6e70320e8a3f938",
+    "last_updated": "2026-09-18T23:55:40.000Z",
     "packageCount": 11,
     "packages": {
       "dev.tohruthedragon.animatorwithkeyboard": {
@@ -25852,8 +25880,8 @@
         "name": "com.tohruthedragon.sdkathome",
         "displayName": "TohruTheDragon - SDK at Home",
         "description": "A framework for Unity Editor Harmony patches",
-        "latestVersion": "1.0.9",
-        "versionCount": 10,
+        "latestVersion": "1.1.0",
+        "versionCount": 11,
         "keywords": [
           "TohruTheDragon",
           "VRChat",
@@ -25866,6 +25894,17 @@
           "name": "TohruTheDragon"
         },
         "versions": {
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "com.tohruthedragon.sdkathome",
+            "displayName": "TohruTheDragon - SDK at Home",
+            "description": "A framework for Unity Editor Harmony patches",
+            "url": "https://github.com/fkrisi11/SDKatHome/releases/download/v1.1.0/com.tohruthedragon.sdkathome_v1.1.0.zip",
+            "zipSha256": null,
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.x.x"
+            }
+          },
           "1.0.9": {
             "version": "1.0.9",
             "name": "com.tohruthedragon.sdkathome",
@@ -27553,7 +27592,7 @@
     "name": "JanSharp Packages",
     "id": "com.jansharp.main",
     "author": "JanSharp",
-    "hash": "940bb47b94a913dececbadf46d51fb2f001f1140148d53039403c07c1ad297c3",
+    "hash": "fe298eb4afcd2cf774c036a29d68ebb4e30565f466b84db8acb72bbaedda8b71",
     "last_updated": "2026-08-31T03:27:37.057Z",
     "packageCount": 14,
     "packages": {
@@ -28081,7 +28120,7 @@
         "displayName": "Editor Tools",
         "description": "Various editor tools and editor windows.",
         "latestVersion": "1.0.0",
-        "versionCount": 25,
+        "versionCount": 27,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -28256,6 +28295,26 @@
             "displayName": "Editor Tools",
             "description": "Various editor tools and editor windows.",
             "url": "https://github.com/JanSharp/VRCEditorTools/releases/download/v1.3.14/com.jansharp.editor-tools.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
+          },
+          "1.3.15": {
+            "version": "1.3.15",
+            "name": "com.jansharp.editor-tools",
+            "displayName": "Editor Tools",
+            "description": "Various editor tools and editor windows.",
+            "url": "https://github.com/JanSharp/VRCEditorTools/releases/download/v1.3.15/com.jansharp.editor-tools.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
+          },
+          "1.3.16": {
+            "version": "1.3.16",
+            "name": "com.jansharp.editor-tools",
+            "displayName": "Editor Tools",
+            "description": "Various editor tools and editor windows.",
+            "url": "https://github.com/JanSharp/VRCEditorTools/releases/download/v1.3.16/com.jansharp.editor-tools.zip",
             "zipSha256": null,
             "unity": "2019.4",
             "vpmDependencies": {}
@@ -31937,8 +31996,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "53097bc24495bdbc66d5588a9311fd628cfb8053faf5d0e7edbeb2c42cfb2c89",
-    "last_updated": "2026-09-17T22:06:21.000Z",
+    "hash": "5e1848cbea63c4d9cc7c9ba971268f97666e9cea813d42418d4ef96e69388184",
+    "last_updated": "2026-09-18T18:44:49.000Z",
     "packageCount": 12,
     "packages": {
       "com.poiyomi.pro": {
@@ -31946,8 +32005,8 @@
         "name": "com.poiyomi.pro",
         "displayName": "Poiyomi Pro",
         "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
-        "latestVersion": "10.0.20",
-        "versionCount": 8,
+        "latestVersion": "11.0.8",
+        "versionCount": 17,
         "keywords": [
           "shaders",
           "vrchat",
@@ -31961,6 +32020,96 @@
           "url": "https://poiyomi.com"
         },
         "versions": {
+          "11.0.8": {
+            "version": "11.0.8",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.8/afc6f33622ff780949c3737435a4dd6391c60f7e9a1017190a717ce2f54e6880",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.7": {
+            "version": "11.0.7",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.7/7306bbd0c3851530d71359d2878b1b9cf7759bd223fe63a70c4a130a4e5f3c42",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.6": {
+            "version": "11.0.6",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.6/c1172f1dcd4370fc47b834c695569d10bb9a504961ba65ebd72905998ec98719",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.5": {
+            "version": "11.0.5",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.5/559c87fd99fa8686292f8ea87d6c04c4958a8a5294e3a85233d26c604d371c71",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.4": {
+            "version": "11.0.4",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.4/f7195f1e636465874d838be4c1abeec59f7f082efd15cb16c502f2e5ef421c91",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.3": {
+            "version": "11.0.3",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.3/e6b1423232003b51f6b604b46df24951b09f446d6f65883e7d7c8d46fa508948",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.2": {
+            "version": "11.0.2",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.2/2d7625cb8533926ab365514cce26481875cff8cff0c64d90a2373098e4a5186d",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.1": {
+            "version": "11.0.1",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.1/490f320b3ab1efe469ade681ba448ae29438ac1780ab332ac6759c8b51646296",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.0": {
+            "version": "11.0.0",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.0/1974bf842588659d23df2c27aeedf4db2168c2fb5f36ddf8403c8a626b96a1c2",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
           "10.0.20": {
             "version": "10.0.20",
             "name": "com.poiyomi.pro",
@@ -32056,8 +32205,8 @@
         "name": "com.poiyomi.thryeditor",
         "displayName": "ThryEditor",
         "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
-        "latestVersion": "2.73.9",
-        "versionCount": 23,
+        "latestVersion": "2.74.1",
+        "versionCount": 25,
         "keywords": [],
         "unity": "2021.3",
         "author": {
@@ -32065,6 +32214,26 @@
           "url": "https://www.poiyomi.com"
         },
         "versions": {
+          "2.74.1": {
+            "version": "2.74.1",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.74.1/4da72b888d821a928932cd17a5cb2599be3117675937cdd807b0cf31c5751005",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.74.0": {
+            "version": "2.74.0",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.74.0/394821c7cdbf1fef52aba3b315a308368ab2eadd2c2df735bac346d481dab255",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
           "2.73.9": {
             "version": "2.73.9",
             "name": "com.poiyomi.thryeditor",
@@ -38968,7 +39137,7 @@
     "id": "io.github.helpinghandsvr.vpm",
     "author": "Helping Hands",
     "hash": "d3cba140edcf3cb5c17c4b6034085a4238c0dbbd2ce98b5f097b608968bff8fb",
-    "last_updated": "2026-07-03T13:20:30.000Z",
+    "last_updated": "2026-07-03T13:20:29.000Z",
     "packageCount": 2,
     "packages": {
       "io.github.helpinghandsvr.helpinghands-vrchat-avatar-accessories": {
@@ -41814,7 +41983,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "680029c772846cb5e5b7331c6f399296d7c3d340058c68c9f48e255a6fa8e65e",
-    "last_updated": "2026-09-17T19:27:28.000Z",
+    "last_updated": "2026-09-19T00:53:56.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -43295,7 +43464,7 @@
     "id": "dev.jetees.vpm-listing",
     "author": "JeTeeS",
     "hash": "c43d1d46596697e66705b99d7740a062daf269bacdf077d0810963cb05d466da",
-    "last_updated": "2024-05-22T15:17:51.000Z",
+    "last_updated": "2024-05-22T15:17:52.000Z",
     "packageCount": 1,
     "packages": {
       "dev.jetees.memoryoptimizer": {
@@ -51350,7 +51519,7 @@
     "id": "com.kie.vpm",
     "author": "Kie",
     "hash": "9c720b21a0d472446cbcefecd3ffddfe48df0b160a1cc2d716f8020dfadddb34",
-    "last_updated": "2026-09-17T18:51:15.000Z",
+    "last_updated": "2026-09-18T18:07:01.000Z",
     "packageCount": 3,
     "packages": {
       "com.kie.kie-mergeable-toggle": {
@@ -55248,7 +55417,7 @@
     "id": "net.euan.lazyoptimiser.listing",
     "author": "euan142",
     "hash": "6a0b4ea94d87ae345649306e6fda40f7bd86325206e58e1a4c5943450a9fe4ee",
-    "last_updated": "2025-02-20T10:25:22.000Z",
+    "last_updated": "2025-02-20T10:25:21.000Z",
     "packageCount": 1,
     "packages": {
       "net.euan.lazyoptimiser": {
@@ -57678,8 +57847,8 @@
     "name": "Lightbulb Packages",
     "id": "com.lightbulb.vpm",
     "author": "Lightbulb",
-    "hash": "0b7fc0744f4495a6f6347684da082916fa521978464df24b0f401cc22f5fe931",
-    "last_updated": "2026-09-18T00:20:08.000Z",
+    "hash": "3d63467175f93044b8e447c3f05560dea9e6927f24e659a90f69aa8d48b61550",
+    "last_updated": "2026-09-19T02:16:59.000Z",
     "packageCount": 2,
     "packages": {
       "com.lightbulb.arealit-occlusion": {
@@ -57746,8 +57915,8 @@
         "name": "com.lightbulb.world-tools",
         "displayName": "Lightbulb World Tools",
         "description": "Unity editor tools for the reversible Bakery LV3 Swapper, scene texture Crunch compression, disabled-object reference auditing, material cleanup and Mochie packing, texture resizing, geometry diagnostics, and targeted repairs.",
-        "latestVersion": "0.1.20",
-        "versionCount": 21,
+        "latestVersion": "0.1.21",
+        "versionCount": 22,
         "keywords": [
           "VRChat",
           "optimization",
@@ -57763,6 +57932,16 @@
           "url": "https://github.com/lightbulb4"
         },
         "versions": {
+          "0.1.21": {
+            "version": "0.1.21",
+            "name": "com.lightbulb.world-tools",
+            "displayName": "Lightbulb World Tools",
+            "description": "Unity editor tools for the reversible Bakery LV3 Swapper, scene texture Crunch compression, disabled-object reference auditing, material cleanup and Mochie packing, texture resizing, geometry diagnostics, and targeted repairs.",
+            "url": "https://github.com/lightbulb4/lightbulb-world-tools/releases/download/0.1.21/com.lightbulb.world-tools-0.1.21.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "0.1.20": {
             "version": "0.1.20",
             "name": "com.lightbulb.world-tools",
@@ -62498,8 +62677,8 @@
     "name": "VR Vlog Packages",
     "id": "com.vrvlog.packages",
     "author": "VR Vlog",
-    "hash": "866167e93853d1e568943bde9eef46aac80641c03894ed4d9cf09147245d7f3b",
-    "last_updated": "2026-09-17T07:24:14.000Z",
+    "hash": "0894cd38ca19f8b8dc2908345c969f17309c4e01c335dc362294aae85e050fbd",
+    "last_updated": "2026-09-18T06:15:29.000Z",
     "packageCount": 3,
     "packages": {
       "com.vrmc.gltf": {
@@ -62522,7 +62701,7 @@
             "name": "com.vrmc.gltf",
             "displayName": "UniGLTF",
             "description": "GLTF importer and exporter",
-            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.1/com.vrmc.gltf-0.131.0.zip",
+            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.2/com.vrmc.gltf-0.131.0.zip",
             "zipSha256": null,
             "unity": "2021.3",
             "vpmDependencies": {
@@ -62558,7 +62737,7 @@
             "name": "com.vrmc.vrm",
             "displayName": "VRM-1.0",
             "description": "VRM-1.0 importer",
-            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.1/com.vrmc.vrm-0.131.0.zip",
+            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.2/com.vrmc.vrm-0.131.0.zip",
             "zipSha256": null,
             "unity": "2021.3",
             "vpmDependencies": {
@@ -62573,8 +62752,8 @@
         "name": "com.vrvlog.liltoon-vrm-exporter",
         "displayName": "VR Vlog lilToon VRM Exporter",
         "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-        "latestVersion": "0.11.1",
-        "versionCount": 32,
+        "latestVersion": "0.11.2",
+        "versionCount": 33,
         "keywords": [
           "vrm",
           "liltoon",
@@ -62586,6 +62765,19 @@
           "name": "VR Vlog"
         },
         "versions": {
+          "0.11.2": {
+            "version": "0.11.2",
+            "name": "com.vrvlog.liltoon-vrm-exporter",
+            "displayName": "VR Vlog lilToon VRM Exporter",
+            "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
+            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.2/com.vrvlog.liltoon-vrm-exporter-0.11.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrmc.gltf": "0.131.x",
+              "com.vrmc.vrm": "0.131.x"
+            }
+          },
           "0.11.1": {
             "version": "0.11.1",
             "name": "com.vrvlog.liltoon-vrm-exporter",
@@ -65209,8 +65401,8 @@
     "name": "Nekoare VPM Packages（同梱版）",
     "id": "com.nekoare.vpm.bundled",
     "author": "nekoare",
-    "hash": "821f04c2d0a23fabb7aa00ff322368b69d6d25bff0c0b5429a653a1de10b754c",
-    "last_updated": "2026-09-09T22:29:08.000Z",
+    "hash": "eb212a5c502978ea5902820e406c7c5a5bc3524851f1374864c2924ad08f2cef",
+    "last_updated": "2026-09-18T06:14:39.000Z",
     "packageCount": 2,
     "packages": {
       "com.nekoare.chimera-hair-master": {
@@ -65218,8 +65410,8 @@
         "name": "com.nekoare.chimera-hair-master",
         "displayName": "キメラヘアマスター",
         "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-        "latestVersion": "1.6.1",
-        "versionCount": 46,
+        "latestVersion": "1.6.2",
+        "versionCount": 47,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -65227,6 +65419,18 @@
           "url": "https://neko-to-same.booth.pm/"
         },
         "versions": {
+          "1.6.2": {
+            "version": "1.6.2",
+            "name": "com.nekoare.chimera-hair-master",
+            "displayName": "キメラヘアマスター",
+            "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
+            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.6.2/com.nekoare.chimera-hair-master-1.6.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.14.0"
+            }
+          },
           "1.6.1": {
             "version": "1.6.1",
             "name": "com.nekoare.chimera-hair-master",
@@ -69885,7 +70089,7 @@
     "id": "dev.omelette_ak.vpm",
     "author": "omeletteak",
     "hash": "87cd6506aa825e26b64761abbbe030e0e11ea7ac963a055d927af38e95a30b11",
-    "last_updated": "2026-06-23T11:45:39.000Z",
+    "last_updated": "2026-06-23T11:45:38.000Z",
     "packageCount": 1,
     "packages": {
       "dev.omelette_ak.vrcloth-declipper": {
@@ -87987,7 +88191,7 @@
     "id": "dev.redline-team.redlinelist",
     "author": "RozeThorns",
     "hash": "8c61e41bc845ad48ac8b2df4fbc0df5b38f713805c599141762b5c54f4e92f8c",
-    "last_updated": "2026-09-18T01:44:36.000Z",
+    "last_updated": "2026-09-19T01:49:18.000Z",
     "packageCount": 5,
     "packages": {
       "dev.redline-team.rpm": {
@@ -91450,7 +91654,7 @@
     "id": "com.mizore-nekoyanagi.vpm-packages",
     "author": "Mizore Nekoyanagi",
     "hash": "df5c206bda4082fc4825f6e0002aea2319d15d80cf9dc71813ef06fb4db812e7",
-    "last_updated": "2026-02-19T08:55:53.000Z",
+    "last_updated": "2026-02-19T08:55:54.000Z",
     "packageCount": 4,
     "packages": {
       "com.mizore-nekoyanagi.utils.apply-prefab-window": {
@@ -103807,7 +104011,7 @@
     "id": "net.pawlygon.vcc-packages",
     "author": "Pawlygon",
     "hash": "ffddfc1a87cdf9aed91a660cbaca0e51f7f86152c9a6f89bfce1276d0295a790",
-    "last_updated": "2026-07-01T04:45:50.000Z",
+    "last_updated": "2026-07-01T04:45:49.000Z",
     "packageCount": 2,
     "packages": {
       "net.pawlygon.vrc-facetracking": {
@@ -104332,8 +104536,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "de32eec497b2ef7526b2c5244fa93e93bbdd21b90fb998ebf2181a45f4f56e5a",
-    "last_updated": "2026-09-18T03:03:37.000Z",
+    "hash": "4b2bddbe29414354563211026ae49e15d9dc7b901e5fde28489efdde9c066952",
+    "last_updated": "2026-09-19T02:59:37.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -117801,7 +118005,7 @@
     "id": "com.vixencreations.vixens-toolbox.listing",
     "author": "Vixenlicous",
     "hash": "8863d3e6112d1617463022bc8b6da3c768f21b3f6eba0a468e69887ed1998878",
-    "last_updated": "2026-09-17T00:31:09.000Z",
+    "last_updated": "2026-09-18T21:21:40.000Z",
     "packageCount": 1,
     "packages": {
       "com.vixencreations.vixens-toolbox": {
@@ -118450,7 +118654,7 @@
     "id": "io.mekabu.vpm-repository",
     "author": "contact@mekabu.io",
     "hash": "afb531d339483772668bf9b0fbe2f91415a0d37733b4adad67544741ae03cb2e",
-    "last_updated": "2026-09-18T03:01:59.000Z",
+    "last_updated": "2026-09-19T02:47:03.000Z",
     "packageCount": 2,
     "packages": {
       "com.mekabu.blendshape-animation-creator": {
@@ -127336,7 +127540,7 @@
     "id": "org.azuretek.vpm",
     "author": "kobi32768",
     "hash": "9afa17a9cee430b616075de3b61791fa9b017b425564b6b56bd38722425d00db",
-    "last_updated": "2026-09-15T08:35:39.000Z",
+    "last_updated": "2026-09-18T16:02:17.000Z",
     "packageCount": 1,
     "packages": {
       "org.azuretek.copy-transform-shortcut": {
@@ -127384,7 +127588,7 @@
     "id": "net.bluwizard.vpmlist",
     "author": "BluWizard",
     "hash": "91ce58f5be4589bf48bc281502e4630bb35422e5e322325962be4aeb30a76c9e",
-    "last_updated": "2026-09-10T07:00:45.000Z",
+    "last_updated": "2026-09-10T07:00:46.000Z",
     "packageCount": 7,
     "packages": {
       "net.bluwizard.poipresets": {
@@ -130356,7 +130560,7 @@
     "id": "com.gokoukotori.vpm",
     "author": "GokouKotori",
     "hash": "5549582eb72813812594ca5651ec1a791c7c7b690c9af8e6f97630ec9dad2334",
-    "last_updated": "2026-09-10T01:14:04.000Z",
+    "last_updated": "2026-09-10T01:14:03.000Z",
     "packageCount": 6,
     "packages": {
       "com.gokoukotori.posetune": {
@@ -131354,8 +131558,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "53097bc24495bdbc66d5588a9311fd628cfb8053faf5d0e7edbeb2c42cfb2c89",
-    "last_updated": "2026-09-17T22:06:21.000Z",
+    "hash": "5e1848cbea63c4d9cc7c9ba971268f97666e9cea813d42418d4ef96e69388184",
+    "last_updated": "2026-09-18T18:44:49.000Z",
     "packageCount": 12,
     "packages": {
       "com.poiyomi.pro": {
@@ -131363,8 +131567,8 @@
         "name": "com.poiyomi.pro",
         "displayName": "Poiyomi Pro",
         "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
-        "latestVersion": "10.0.20",
-        "versionCount": 8,
+        "latestVersion": "11.0.8",
+        "versionCount": 17,
         "keywords": [
           "shaders",
           "vrchat",
@@ -131378,6 +131582,96 @@
           "url": "https://poiyomi.com"
         },
         "versions": {
+          "11.0.8": {
+            "version": "11.0.8",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.8/afc6f33622ff780949c3737435a4dd6391c60f7e9a1017190a717ce2f54e6880",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.7": {
+            "version": "11.0.7",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.7/7306bbd0c3851530d71359d2878b1b9cf7759bd223fe63a70c4a130a4e5f3c42",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.6": {
+            "version": "11.0.6",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.6/c1172f1dcd4370fc47b834c695569d10bb9a504961ba65ebd72905998ec98719",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.5": {
+            "version": "11.0.5",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.5/559c87fd99fa8686292f8ea87d6c04c4958a8a5294e3a85233d26c604d371c71",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.4": {
+            "version": "11.0.4",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.4/f7195f1e636465874d838be4c1abeec59f7f082efd15cb16c502f2e5ef421c91",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.3": {
+            "version": "11.0.3",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.3/e6b1423232003b51f6b604b46df24951b09f446d6f65883e7d7c8d46fa508948",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.2": {
+            "version": "11.0.2",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.2/2d7625cb8533926ab365514cce26481875cff8cff0c64d90a2373098e4a5186d",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.1": {
+            "version": "11.0.1",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.1/490f320b3ab1efe469ade681ba448ae29438ac1780ab332ac6759c8b51646296",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.0": {
+            "version": "11.0.0",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.0/1974bf842588659d23df2c27aeedf4db2168c2fb5f36ddf8403c8a626b96a1c2",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
           "10.0.20": {
             "version": "10.0.20",
             "name": "com.poiyomi.pro",
@@ -131473,8 +131767,8 @@
         "name": "com.poiyomi.thryeditor",
         "displayName": "ThryEditor",
         "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
-        "latestVersion": "2.73.9",
-        "versionCount": 23,
+        "latestVersion": "2.74.1",
+        "versionCount": 25,
         "keywords": [],
         "unity": "2021.3",
         "author": {
@@ -131482,6 +131776,26 @@
           "url": "https://www.poiyomi.com"
         },
         "versions": {
+          "2.74.1": {
+            "version": "2.74.1",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.74.1/4da72b888d821a928932cd17a5cb2599be3117675937cdd807b0cf31c5751005",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.74.0": {
+            "version": "2.74.0",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.74.0/394821c7cdbf1fef52aba3b315a308368ab2eadd2c2df735bac346d481dab255",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
           "2.73.9": {
             "version": "2.73.9",
             "name": "com.poiyomi.thryeditor",
@@ -137251,7 +137565,7 @@
     "name": "KIBA Lab. VRChat Packages",
     "id": "com.kibalab.vpm",
     "author": "KIBA",
-    "hash": "b84259c2d5b2e603db437981f3da9f0c9bba0198331cdbdbdb8587043ec04e31",
+    "hash": "14f368bae6f6d473bb626c418835313edb6a09078dcb6e30dcf79bddfe1fa456",
     "last_updated": "2026-08-01T16:09:51.678Z",
     "packageCount": 13,
     "packages": {
@@ -137329,7 +137643,7 @@
         "displayName": "GUIElement",
         "description": "Small editor-only IMGUI utility elements for Unity editor tooling.",
         "latestVersion": "0.1.0",
-        "versionCount": 1,
+        "versionCount": 2,
         "keywords": [],
         "unity": "2021.3",
         "author": {
@@ -137347,6 +137661,16 @@
             "zipSha256": null,
             "unity": "2021.3",
             "vpmDependencies": {}
+          },
+          "0.1.1": {
+            "version": "0.1.1",
+            "name": "com.kibalab.guielement",
+            "displayName": "GUIElement",
+            "description": "Small editor-only IMGUI utility elements for Unity editor tooling.",
+            "url": "https://github.com/kibalab/GUIElement/releases/download/0.1.1/com.kibalab.guielement-0.1.1.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
           }
         }
       },
@@ -137356,7 +137680,7 @@
         "displayName": "KIBAMaterialGUI",
         "description": "Attribute-driven Unity ShaderGUI framework for searchable, grouped, extensible material inspectors.",
         "latestVersion": "0.1.0",
-        "versionCount": 1,
+        "versionCount": 2,
         "keywords": [],
         "unity": "2021.3",
         "author": {
@@ -137373,6 +137697,16 @@
             "url": "https://github.com/kibalab/KIBA-MaterialGUI/releases/download/0.1.0/com.kibalab.kibamaterialgui-0.1.0.zip",
             "zipSha256": null,
             "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "0.1.1": {
+            "version": "0.1.1",
+            "name": "com.kibalab.kibamaterialgui",
+            "displayName": "KIBAMaterialGUI",
+            "description": "Attribute-driven Unity ShaderGUI framework for searchable, grouped, extensible material inspectors.",
+            "url": "https://github.com/kibalab/KIBA-MaterialGUI/releases/download/0.1.1/com.kibalab.kibamaterialgui-0.1.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
             "vpmDependencies": {}
           }
         }
@@ -137461,7 +137795,7 @@
         "displayName": "TSMP Codec Color256",
         "description": "Color256 TSMP codec, Udon handler, shaders, materials, and prefab.",
         "latestVersion": "0.0.3-beta.1",
-        "versionCount": 3,
+        "versionCount": 4,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -137496,6 +137830,19 @@
               "com.vrchat.worlds": ">=3.9.0"
             }
           },
+          "0.0.3-beta.3": {
+            "version": "0.0.3-beta.3",
+            "name": "com.kibalab.tsmp.codec.color256",
+            "displayName": "TSMP Codec Color256",
+            "description": "Color256 TSMP codec, Udon handler, shaders, materials, and prefab.",
+            "url": "https://github.com/kibalab/TSMPCodec-Color256/releases/download/v0.0.3-beta.3/com.kibalab.tsmp.codec.color256-0.0.3-beta.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.kibalab.tsmp.core": ">=0.3.0-beta.2",
+              "com.vrchat.worlds": ">=3.9.0"
+            }
+          },
           "1.0.0": {
             "version": "1.0.0",
             "name": "com.kibalab.tsmp.codec.color256",
@@ -137517,7 +137864,7 @@
         "displayName": "TSMP Codec Luma4",
         "description": "Luma4 TSMP codec, Udon handler, shaders, materials, and prefab.",
         "latestVersion": "0.0.1",
-        "versionCount": 5,
+        "versionCount": 6,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -137590,6 +137937,19 @@
               "com.kibalab.tsmp.core": ">=0.2.0-beta.1",
               "com.vrchat.worlds": ">=3.9.0"
             }
+          },
+          "0.0.4-beta.1": {
+            "version": "0.0.4-beta.1",
+            "name": "com.kibalab.tsmp.codec.luma4",
+            "displayName": "TSMP Codec Luma4",
+            "description": "Luma4 TSMP codec, Udon handler, shaders, materials, and prefab.",
+            "url": "https://github.com/kibalab/TSMPCodec-Luma4/releases/download/v0.0.4-beta.1/com.kibalab.tsmp.codec.luma4-0.0.4-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.kibalab.tsmp.core": ">=0.3.0-beta.2",
+              "com.vrchat.worlds": ">=3.9.0"
+            }
           }
         }
       },
@@ -137599,7 +137959,7 @@
         "displayName": "TSMP Codec RGB16",
         "description": "RGB16 TSMP codec, Udon handler, shaders, materials, and prefab.",
         "latestVersion": "0.0.3-beta.1",
-        "versionCount": 3,
+        "versionCount": 4,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -137634,6 +137994,19 @@
               "com.vrchat.worlds": ">=3.9.0"
             }
           },
+          "0.0.3-beta.3": {
+            "version": "0.0.3-beta.3",
+            "name": "com.kibalab.tsmp.codec.rgb16",
+            "displayName": "TSMP Codec RGB16",
+            "description": "RGB16 TSMP codec, Udon handler, shaders, materials, and prefab.",
+            "url": "https://github.com/kibalab/TSMPCodec-RGB16/releases/download/v0.0.3-beta.3/com.kibalab.tsmp.codec.rgb16-0.0.3-beta.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.kibalab.tsmp.core": ">=0.3.0-beta.2",
+              "com.vrchat.worlds": ">=3.9.0"
+            }
+          },
           "1.0.0": {
             "version": "1.0.0",
             "name": "com.kibalab.tsmp.codec.rgb16",
@@ -137655,7 +138028,7 @@
         "displayName": "TSMP Codec RGB20",
         "description": "RGB20 TSMP codec, Udon handler, shaders, materials, and prefab.",
         "latestVersion": "0.0.3-beta.1",
-        "versionCount": 4,
+        "versionCount": 5,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -137703,6 +138076,19 @@
               "com.vrchat.worlds": ">=3.9.0"
             }
           },
+          "0.0.3-beta.4": {
+            "version": "0.0.3-beta.4",
+            "name": "com.kibalab.tsmp.codec.rgb20",
+            "displayName": "TSMP Codec RGB20",
+            "description": "RGB20 TSMP codec, Udon handler, shaders, materials, and prefab.",
+            "url": "https://github.com/kibalab/TSMPCodec-RGB20/releases/download/v0.0.3-beta.4/com.kibalab.tsmp.codec.rgb20-0.0.3-beta.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.kibalab.tsmp.core": ">=0.3.0-beta.2",
+              "com.vrchat.worlds": ">=3.9.0"
+            }
+          },
           "1.0.0": {
             "version": "1.0.0",
             "name": "com.kibalab.tsmp.codec.rgb20",
@@ -137724,7 +138110,7 @@
         "displayName": "TSMP Core",
         "description": "Core TSMP runtime, encoder, decoder, setup tooling, shared Udon behaviours, codec base types, and streaming utilities.",
         "latestVersion": "0.0.1",
-        "versionCount": 10,
+        "versionCount": 11,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -137847,6 +138233,18 @@
             "displayName": "TSMP Core",
             "description": "Core TSMP runtime, encoder, decoder, setup tooling, shared Udon behaviours, codec base types, and streaming utilities.",
             "url": "https://github.com/kibalab/TSMP-Core/releases/download/v0.3.0-beta.1/com.kibalab.tsmp.core-0.3.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.9.0"
+            }
+          },
+          "0.3.0-beta.2": {
+            "version": "0.3.0-beta.2",
+            "name": "com.kibalab.tsmp.core",
+            "displayName": "TSMP Core",
+            "description": "Core TSMP runtime, encoder, decoder, setup tooling, shared Udon behaviours, codec base types, and streaming utilities.",
+            "url": "https://github.com/kibalab/TSMP-Core/releases/download/v0.3.0-beta.2/com.kibalab.tsmp.core-0.3.0-beta.2.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -142624,7 +143022,7 @@
     "id": "com.micksam7.vpm",
     "author": "Micca",
     "hash": "28148f3419e38143920ae19b3a3dd4a57a632a36728aa26382a61c71e69f2550",
-    "last_updated": "2026-07-03T02:20:28.000Z",
+    "last_updated": "2026-07-03T02:20:29.000Z",
     "packageCount": 1,
     "packages": {
       "com.micksam7.mididmx": {
@@ -150218,7 +150616,7 @@
     "id": "net.narazaka.vpm",
     "author": "Narazaka",
     "hash": "0cd3368d65992695cccc5b693fdf14253843275e6b30b6ca920e0cd5d24c1616",
-    "last_updated": "2026-09-17T08:50:38.000Z",
+    "last_updated": "2026-09-17T08:50:39.000Z",
     "packageCount": 82,
     "packages": {
       "net.narazaka.unity.bone-tools.bone-select-tool": {
@@ -160701,7 +161099,7 @@
     "id": "jp.pipipigiken.vpm",
     "author": "orange3134",
     "hash": "ece9c908434de913bd1ed23fcfc0ae011caef63383abb0e902b92aff2c5e480d",
-    "last_updated": "2026-09-18T00:28:46.000Z",
+    "last_updated": "2026-09-19T01:15:29.000Z",
     "packageCount": 2,
     "packages": {
       "com.avatarnamecard.avatar-package": {
@@ -166250,7 +166648,7 @@
     "name": "Project Tesca VPM Registry",
     "id": "io.tesca.vpm",
     "author": "Project Tesca",
-    "hash": "464472dc6a9387a2b3555b861de1105beefd5d52fa5a2e0164903e43a318238c",
+    "hash": "485dd8f7b261c090d7e82714e19451ba279dc16e96580f10b7ff2508c10bdeb4",
     "last_updated": "2026-09-13T03:01:13.038Z",
     "packageCount": 2,
     "packages": {
@@ -166344,7 +166742,7 @@
     "id": "dev.thry.vpm",
     "author": "Thryrallo",
     "hash": "0189583cd590af92f6337bf072cfea3211c6a3ca90738536d8f30bcd5fab82cb",
-    "last_updated": "2024-08-05T22:13:01.000Z",
+    "last_updated": "2024-08-05T22:13:00.000Z",
     "packageCount": 1,
     "packages": {
       "de.thryrallo.vrc.avatar-performance-tools": {
@@ -167078,8 +167476,8 @@
     "name": "WhyKnot Tools",
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
-    "hash": "5a27effa37dd4bb50531c534cb70ba46c55de29c389b4b2c7a4d3a4e81ab892e",
-    "last_updated": "2026-09-17T10:38:43.000Z",
+    "hash": "be0a8f6a9961e1434f021e64bddfa88cc55e07dd853a1e99c421556832f8c490",
+    "last_updated": "2026-09-18T10:14:34.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -178551,8 +178949,8 @@
     "name": "Explosive Theorem Lab. Metaverse Division",
     "id": "idv.jlchntoz.xtlcdn-listing",
     "author": "Jeremy Lam aka. Vistanz",
-    "hash": "c56c31bc35b4cfcbd4ac870cc1a0cb25f6000714bf79c920266fd6b52ba5cbad",
-    "last_updated": "2026-09-14T18:25:02.000Z",
+    "hash": "95216884281f5895ecc66e3ed3823a40c27b65e399ac59355a1e99ecc4a65f53",
+    "last_updated": "2026-09-18T16:09:27.000Z",
     "packageCount": 14,
     "packages": {
       "idv.jlchntoz.vrcw-foundation": {
@@ -181107,8 +181505,8 @@
         "name": "idv.jlchntoz.lazyswitch",
         "displayName": "Lazy Switch",
         "description": "A maximum 32-states multi purpose switch for VRChat, designed for lazies.",
-        "latestVersion": "0.9.5",
-        "versionCount": 25,
+        "latestVersion": "0.9.6",
+        "versionCount": 26,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -181117,6 +181515,19 @@
           "url": "https://xtl.booth.pm"
         },
         "versions": {
+          "0.9.6": {
+            "version": "0.9.6",
+            "name": "idv.jlchntoz.lazyswitch",
+            "displayName": "Lazy Switch",
+            "description": "A maximum 32-states multi purpose switch for VRChat, designed for lazies.",
+            "url": "https://github.com/JLChnToZ/lazyswitch/releases/download/0.9.6/idv.jlchntoz.lazyswitch-0.9.6.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.x.x >=3.10.2",
+              "idv.jlchntoz.vrcw-foundation": "0.x.x >=0.0.53"
+            }
+          },
           "0.9.5": {
             "version": "0.9.5",
             "name": "idv.jlchntoz.lazyswitch",
@@ -182376,8 +182787,8 @@
         "name": "org.vreca.calendar",
         "displayName": "Taiwan-Hong Kong-Macao Event Calendar",
         "description": "VRChat 繁中圈（台港澳）活動日曆",
-        "latestVersion": "2.0.2",
-        "versionCount": 2,
+        "latestVersion": "2.0.3",
+        "versionCount": 3,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -182385,6 +182796,20 @@
           "url": "https://event.vreca.org/"
         },
         "versions": {
+          "2.0.3": {
+            "version": "2.0.3",
+            "name": "org.vreca.calendar",
+            "displayName": "Taiwan-Hong Kong-Macao Event Calendar",
+            "description": "VRChat 繁中圈（台港澳）活動日曆",
+            "url": "https://github.com/VRECA/vrc-gimmick/releases/download/2.0.3/org.vreca.calendar-2.0.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.core.vpm-resolver": "0.x.x",
+              "com.vrchat.worlds": "3.x.x",
+              "idv.jlchntoz.vrcw-foundation": "0.x.x >=0.0.59"
+            }
+          },
           "2.0.2": {
             "version": "2.0.2",
             "name": "org.vreca.calendar",
@@ -186698,7 +187123,7 @@
     "id": "dev.tsukimicode.vpm",
     "author": "TsukimiCode",
     "hash": "e46797940e9a408da8c195334cb7aeae3ef6bf6175c8a15ad96c9e99513552fd",
-    "last_updated": "2026-09-16T14:08:51.000Z",
+    "last_updated": "2026-09-16T14:08:50.000Z",
     "packageCount": 1,
     "packages": {
       "com.tsukimicode.udon-tools": {
@@ -186962,8 +187387,8 @@
     "name": "Poiyomi's VPM Repo",
     "id": "io.github.poiyomi.vpm",
     "author": "Poiyomi",
-    "hash": "748315cab7dd0ffd9efc886c5b894725c0de73b62662cd3c313b271731ee3314",
-    "last_updated": "2026-09-17T15:52:07.000Z",
+    "hash": "9eb6b773d584664c681650ebd6868dec4f07f0beb0a9808844beea48a58c7b45",
+    "last_updated": "2026-09-19T02:42:52.000Z",
     "packageCount": 3,
     "packages": {
       "com.poiyomi.toon": {
@@ -186971,8 +187396,8 @@
         "name": "com.poiyomi.toon",
         "displayName": "Poiyomi Toon",
         "description": "Feature-rich shaders for Unity and VRChat.",
-        "latestVersion": "10.0.20",
-        "versionCount": 48,
+        "latestVersion": "10.0.22",
+        "versionCount": 50,
         "keywords": [],
         "unity": "2021.3",
         "author": {
@@ -186980,6 +187405,30 @@
           "url": "https://github.com/poiyomi/PoiyomiToonShader"
         },
         "versions": {
+          "10.0.22": {
+            "version": "10.0.22",
+            "name": "com.poiyomi.toon",
+            "displayName": "Poiyomi Toon",
+            "description": "Feature-rich shaders for Unity and VRChat.",
+            "url": "https://github.com/poiyomi/PoiyomiToonShader/releases/download/v10.0.22/com.poiyomi.toon-10.0.22.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {
+              "com.poiyomi.thryeditor": ">=2.74.0"
+            }
+          },
+          "10.0.21": {
+            "version": "10.0.21",
+            "name": "com.poiyomi.toon",
+            "displayName": "Poiyomi Toon",
+            "description": "Feature-rich shaders for Unity and VRChat.",
+            "url": "https://github.com/poiyomi/PoiyomiToonShader/releases/download/v10.0.21/com.poiyomi.toon-10.0.21.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {
+              "com.poiyomi.thryeditor": ">=2.74.0"
+            }
+          },
           "10.0.20": {
             "version": "10.0.20",
             "name": "com.poiyomi.toon",
@@ -187469,8 +187918,8 @@
         "name": "com.poiyomi.pro",
         "displayName": "Poiyomi Pro",
         "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
-        "latestVersion": "11.0.7",
-        "versionCount": 27,
+        "latestVersion": "11.0.10",
+        "versionCount": 30,
         "keywords": [
           "shaders",
           "vrchat",
@@ -187484,6 +187933,36 @@
           "url": "https://poiyomi.com"
         },
         "versions": {
+          "11.0.10": {
+            "version": "11.0.10",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://github.com/poiyomi/Poiyomi-Pro-Downloader/releases/download/v11.0.10/com.poiyomi.pro-11.0.10.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.9": {
+            "version": "11.0.9",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://github.com/poiyomi/Poiyomi-Pro-Downloader/releases/download/v11.0.9/com.poiyomi.pro-11.0.9.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.8": {
+            "version": "11.0.8",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://github.com/poiyomi/Poiyomi-Pro-Downloader/releases/download/v11.0.8/com.poiyomi.pro-11.0.8.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
           "11.0.7": {
             "version": "11.0.7",
             "name": "com.poiyomi.pro",
@@ -187769,8 +188248,8 @@
         "name": "com.poiyomi.thryeditor",
         "displayName": "ThryEditor",
         "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
-        "latestVersion": "2.74.0",
-        "versionCount": 24,
+        "latestVersion": "2.74.2",
+        "versionCount": 26,
         "keywords": [],
         "unity": "2021.3",
         "author": {
@@ -187778,6 +188257,26 @@
           "url": "https://www.poiyomi.com"
         },
         "versions": {
+          "2.74.2": {
+            "version": "2.74.2",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://github.com/poiyomi/ThryEditor/releases/download/2.74.2/com.poiyomi.thryeditor-2.74.2.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.74.1": {
+            "version": "2.74.1",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://github.com/poiyomi/ThryEditor/releases/download/2.74.1/com.poiyomi.thryeditor-2.74.1.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
           "2.74.0": {
             "version": "2.74.0",
             "name": "com.poiyomi.thryeditor",
