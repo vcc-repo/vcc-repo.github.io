@@ -2248,8 +2248,8 @@
     "name": "An-Labo NailTool",
     "id": "world.anlabo.mdnailtool.vpm",
     "author": "An-Labo",
-    "hash": "cfac5d5561b7720f04d1601ad741f562315f9167981acea97a7410868039295f",
-    "last_updated": "2026-09-21T20:01:48.000Z",
+    "hash": "c1fe8cf0c723017468d55f8ea5de501a3ace861aebe3780b4b77eccb532e87c6",
+    "last_updated": "2026-09-23T14:06:35.000Z",
     "packageCount": 1,
     "packages": {
       "world.anlabo.mdnailtool": {
@@ -2258,7 +2258,7 @@
         "displayName": "An-Labo NailTool",
         "description": "An-Labo NailTool",
         "latestVersion": "0.9.141",
-        "versionCount": 588,
+        "versionCount": 589,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -9322,6 +9322,18 @@
             "vpmDependencies": {
               "com.vrchat.avatars": ">=3.5.0"
             }
+          },
+          "0.10.75": {
+            "version": "0.10.75",
+            "name": "world.anlabo.mdnailtool",
+            "displayName": "An-Labo NailTool",
+            "description": "An-Labo NailTool",
+            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.10.75/world.anlabo.mdnailtool-0.10.75.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.5.0"
+            }
           }
         }
       }
@@ -12489,7 +12501,7 @@
     "id": "com.awavr.vpm",
     "author": "AwA",
     "hash": "22064f8c95b78ec5892d45b2af7ecbc44a89d9443330c2b63733c4174e56e1f8",
-    "last_updated": "2026-09-19T19:28:39.000Z",
+    "last_updated": "2026-09-19T19:28:38.000Z",
     "packageCount": 11,
     "packages": {
       "com.awavr.core": {
@@ -17567,7 +17579,7 @@
     "id": "com.chill.vpm",
     "author": "chill",
     "hash": "218dd1fd125e7194ca6c8140e63ca3d013b40ed5b78b42e79e1ff1e1d5cd5b05",
-    "last_updated": "2026-05-21T13:11:02.000Z",
+    "last_updated": "2026-05-21T13:11:01.000Z",
     "packageCount": 1,
     "packages": {
       "com.chill.avatarscope": {
@@ -29489,7 +29501,7 @@
     "id": "info.glintfraulein.vpm",
     "author": "GlinT Fraulein",
     "hash": "18bb3ea8c22648e666d971da672b24379485d8f7dcb43085137931eb9e1515ce",
-    "last_updated": "2026-08-23T14:57:49.000Z",
+    "last_updated": "2026-08-23T14:57:48.000Z",
     "packageCount": 1,
     "packages": {
       "info.glintfraulein.palasolu": {
@@ -32103,8 +32115,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "ee47d70dd47d8a9be1c78936111226131060c216b94eb9f545194c89d9e55be7",
-    "last_updated": "2026-09-23T00:34:22.000Z",
+    "hash": "d07c6c7bf0f0ec181d72873d0f1c567b05181f3e3042f122a3efc490531271aa",
+    "last_updated": "2026-09-23T16:10:33.000Z",
     "packageCount": 12,
     "packages": {
       "com.poiyomi.pro": {
@@ -32112,8 +32124,8 @@
         "name": "com.poiyomi.pro",
         "displayName": "Poiyomi Pro",
         "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
-        "latestVersion": "11.0.12",
-        "versionCount": 21,
+        "latestVersion": "11.0.16",
+        "versionCount": 25,
         "keywords": [
           "shaders",
           "vrchat",
@@ -32127,6 +32139,46 @@
           "url": "https://poiyomi.com"
         },
         "versions": {
+          "11.0.16": {
+            "version": "11.0.16",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.16/5089e35a69b2a0f90de2cd93979b8cfda0787fece5d8e854ee31421c3a0798ce",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.15": {
+            "version": "11.0.15",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.15/26f8d783a75d7ddc363f111fb29970c4b1c8192ab6a33ce5d57e42dc7e08f1bb",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.14": {
+            "version": "11.0.14",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.14/a2b7118a28aac61804dd2b8a7690211d0984f1d56c1bddbd3d6af1b9e88f437b",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.13": {
+            "version": "11.0.13",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.13/c5b8943cf88c63aa4c148ae6223e71d0689e02df3563419153e1d54bb122c6a6",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
           "11.0.12": {
             "version": "11.0.12",
             "name": "com.poiyomi.pro",
@@ -39306,7 +39358,7 @@
     "id": "io.github.helpinghandsvr.vpm",
     "author": "Helping Hands",
     "hash": "d3cba140edcf3cb5c17c4b6034085a4238c0dbbd2ce98b5f097b608968bff8fb",
-    "last_updated": "2026-07-03T13:20:30.000Z",
+    "last_updated": "2026-07-03T13:20:29.000Z",
     "packageCount": 2,
     "packages": {
       "io.github.helpinghandsvr.helpinghands-vrchat-avatar-accessories": {
@@ -41386,8 +41438,8 @@
     "name": "hinzka's VPM Repository",
     "id": "com.hinzka.vpm",
     "author": "hinzka",
-    "hash": "185e6c1980ffd285e7d781708ceead937aeda3899b8b2606ba47aef838bed83d",
-    "last_updated": "2026-08-30T01:06:24.000Z",
+    "hash": "6ca7dc9222b8fbdd3bda85d09f06632ae0e575d2ec93db61dadd62412a88a053",
+    "last_updated": "2026-09-23T20:06:19.000Z",
     "packageCount": 1,
     "packages": {
       "com.hinzka.nkinstaller": {
@@ -41395,7 +41447,7 @@
         "name": "com.hinzka.nkinstaller",
         "displayName": "NK Installer - Native Key FaceTracking Installer",
         "description": "アバター作者がつくった表情で、そのままフェイストラッキング。ARKit標準シェイプキーを非破壊で活用するVRCFaceTracking導入ツールです。",
-        "latestVersion": "1.1.0",
+        "latestVersion": "1.2.2",
         "versionCount": 1,
         "keywords": [
           "vrchat",
@@ -41410,12 +41462,12 @@
           "url": "https://twitter.com/hinzka"
         },
         "versions": {
-          "1.1.0": {
-            "version": "1.1.0",
+          "1.2.2": {
+            "version": "1.2.2",
             "name": "com.hinzka.nkinstaller",
             "displayName": "NK Installer - Native Key FaceTracking Installer",
             "description": "アバター作者がつくった表情で、そのままフェイストラッキング。ARKit標準シェイプキーを非破壊で活用するVRCFaceTracking導入ツールです。",
-            "url": "https://github.com/hinzka/NK-Installer/releases/download/v1.1.0/com.hinzka.nkinstaller-1.1.0.zip",
+            "url": "https://github.com/hinzka/NK-Installer/releases/download/v1.2.2/com.hinzka.nkinstaller-1.2.2.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -41434,7 +41486,7 @@
     "id": "cat.hisa.vpm",
     "author": "HisaCat",
     "hash": "164e0ed610f0a593fb9eb5867230becff0831ebe47d88f25397692d3bbae92c4",
-    "last_updated": "2026-07-03T05:26:12.000Z",
+    "last_updated": "2026-07-03T05:26:13.000Z",
     "packageCount": 3,
     "packages": {
       "cat.hisa.asset-patcher": {
@@ -41595,7 +41647,7 @@
     "id": "com.github.hkrn",
     "author": "hkrn",
     "hash": "66afe02e940c091d4b955f7a758659dfa28c963b53e571fc1c24147280761b5f",
-    "last_updated": "2026-07-12T08:29:10.000Z",
+    "last_updated": "2026-07-12T08:29:09.000Z",
     "packageCount": 1,
     "packages": {
       "com.github.hkrn.ndmf-vrm-exporter": {
@@ -42166,7 +42218,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "680029c772846cb5e5b7331c6f399296d7c3d340058c68c9f48e255a6fa8e65e",
-    "last_updated": "2026-09-22T08:37:12.000Z",
+    "last_updated": "2026-09-23T08:39:33.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -44107,7 +44159,7 @@
     "id": "dev.kaefibot.listing",
     "author": "WoweePaw",
     "hash": "0f954512e7a69a442d27394f918fc68614873d3db3706347e1e36e0acde01244",
-    "last_updated": "2026-07-05T15:03:29.000Z",
+    "last_updated": "2026-07-05T15:03:28.000Z",
     "packageCount": 1,
     "packages": {
       "dev.kaefibot.kaefibot-controller": {
@@ -51702,7 +51754,7 @@
     "id": "com.kie.vpm",
     "author": "Kie",
     "hash": "9c720b21a0d472446cbcefecd3ffddfe48df0b160a1cc2d716f8020dfadddb34",
-    "last_updated": "2026-09-22T18:34:13.000Z",
+    "last_updated": "2026-09-23T18:53:58.000Z",
     "packageCount": 3,
     "packages": {
       "com.kie.kie-mergeable-toggle": {
@@ -52785,7 +52837,7 @@
     "id": "black.kit.vpm-catalog",
     "author": "Kuroné Kito",
     "hash": "65a6fc49421030bfc30502e5476007e4d5462e1794f81eb1e45a2a26a3dead53",
-    "last_updated": "2026-09-12T22:40:42.000Z",
+    "last_updated": "2026-09-23T20:07:08.000Z",
     "packageCount": 3,
     "packages": {
       "black.kit.launchpadicons": {
@@ -55679,7 +55731,7 @@
     "id": "net.euan.lazyoptimiser.listing",
     "author": "euan142",
     "hash": "6a0b4ea94d87ae345649306e6fda40f7bd86325206e58e1a4c5943450a9fe4ee",
-    "last_updated": "2025-02-20T10:25:21.000Z",
+    "last_updated": "2025-02-20T10:25:22.000Z",
     "packageCount": 1,
     "packages": {
       "net.euan.lazyoptimiser": {
@@ -55784,7 +55836,7 @@
     "id": "lereldarion",
     "author": "Lereldarion",
     "hash": "fa9cc79e70fb00eb2aa70863c05e008271c255affd1e14192f26540239c3a213",
-    "last_updated": "2026-06-25T19:36:14.000Z",
+    "last_updated": "2026-06-25T19:36:15.000Z",
     "packageCount": 2,
     "packages": {
       "lereldarion.unity-shaders": {
@@ -58123,7 +58175,7 @@
     "id": "com.lightbulb.vpm",
     "author": "Lightbulb",
     "hash": "3d63467175f93044b8e447c3f05560dea9e6927f24e659a90f69aa8d48b61550",
-    "last_updated": "2026-09-23T00:33:51.000Z",
+    "last_updated": "2026-09-23T23:43:05.000Z",
     "packageCount": 2,
     "packages": {
       "com.lightbulb.arealit-occlusion": {
@@ -60247,6 +60299,78 @@
             "vpmDependencies": {
               "com.vrchat.avatars": "^3.9.0",
               "nadena.dev.modular-avatar": "^1.13.0"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "url": "https://lumakroma.github.io/SPS2-Setup-Assistant/index.json",
+    "name": "LumaKroma SPS2 Setup Assistant",
+    "id": "com.lumakroma.sps2-listing",
+    "author": "LumaKroma",
+    "hash": "a6f571435354e3690b74b6c23e28f28272bd51967a645a473dc56191e647e165",
+    "last_updated": "2026-09-22T11:11:06.000Z",
+    "packageCount": 1,
+    "packages": {
+      "com.lumakroma.sps2-setup-assistant": {
+        "id": "com.lumakroma.sps2-setup-assistant",
+        "name": "com.lumakroma.sps2-setup-assistant",
+        "displayName": "SPS2 Setup Assistant",
+        "description": "SPS2 authoring setup, native VRCFury integration and uploaded test Plug for Humanoid VRChat avatars.",
+        "latestVersion": "1.0.1",
+        "versionCount": 3,
+        "keywords": [
+          "vrchat",
+          "sps2",
+          "socket",
+          "vrcfury",
+          "modular-avatar"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "LumaKroma",
+          "url": "https://github.com/LumaKroma"
+        },
+        "versions": {
+          "1.0.1": {
+            "version": "1.0.1",
+            "name": "com.lumakroma.sps2-setup-assistant",
+            "displayName": "SPS2 Setup Assistant",
+            "description": "SPS2 authoring setup, native VRCFury integration and uploaded test Plug for Humanoid VRChat avatars.",
+            "url": "https://github.com/LumaKroma/SPS2-Setup-Assistant/releases/download/1.0.1/com.lumakroma.sps2-setup-assistant-1.0.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.4 <4.0.0",
+              "com.vrcfury.vrcfury": ">=1.0.0"
+            }
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.lumakroma.sps2-setup-assistant",
+            "displayName": "SPS2 Setup Assistant",
+            "description": "SPS2 authoring setup, native VRCFury integration and uploaded test Plug for Humanoid VRChat avatars.",
+            "url": "https://github.com/LumaKroma/SPS2-Setup-Assistant/releases/download/1.0.0/com.lumakroma.sps2-setup-assistant-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.4 <4.0.0",
+              "com.vrcfury.vrcfury": ">=1.0.0"
+            }
+          },
+          "1.0.2": {
+            "version": "1.0.2",
+            "name": "com.lumakroma.sps2-setup-assistant",
+            "displayName": "SPS2 Setup Assistant",
+            "description": "SPS2 authoring setup, native VRCFury integration and uploaded test Plug for Humanoid VRChat avatars.",
+            "url": "https://github.com/LumaKroma/SPS2-Setup-Assistant/releases/download/1.0.2/com.lumakroma.sps2-setup-assistant-1.0.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.4 <4.0.0",
+              "com.vrcfury.vrcfury": ">=1.0.0"
             }
           }
         }
@@ -70517,7 +70641,7 @@
     "id": "dev.omelette_ak.vpm",
     "author": "omeletteak",
     "hash": "87cd6506aa825e26b64761abbbe030e0e11ea7ac963a055d927af38e95a30b11",
-    "last_updated": "2026-06-23T11:45:38.000Z",
+    "last_updated": "2026-06-23T11:45:39.000Z",
     "packageCount": 1,
     "packages": {
       "dev.omelette_ak.vrcloth-declipper": {
@@ -79281,7 +79405,7 @@
     "id": "xyz.misakal.vpm.project-vrcz",
     "author": "project-vrcz",
     "hash": "85d86779ba8f30739b23beb1ccd08db70eae841f6e77709db902b7aea11d9e8f",
-    "last_updated": "2026-08-26T10:34:06.000Z",
+    "last_updated": "2026-08-26T10:34:07.000Z",
     "packageCount": 9,
     "packages": {
       "xyz.misakal.vpm.yet-another-sdk-patch.worlds": {
@@ -82236,7 +82360,7 @@
     "id": "dev.raspichu.vpm",
     "author": "Pichu",
     "hash": "9a2f82e471fcf06456f855e8c746d6e95e053484b4737bc9a83a7c2fe7bd6b32",
-    "last_updated": "2026-09-07T15:01:36.000Z",
+    "last_updated": "2026-09-07T15:01:35.000Z",
     "packageCount": 2,
     "packages": {
       "dev.raspichu.inspector-enhancements": {
@@ -85326,8 +85450,8 @@
     "name": "RED_SIM VRChat Assets",
     "id": "red.sim.vpm",
     "author": "RED_SIM",
-    "hash": "d7c2740321e08587016f0ae626a83743b4993981385c8e59f756b52a31d113d4",
-    "last_updated": "2026-09-22T13:58:01.000Z",
+    "hash": "b07f89fc2f56c15f1b88e36363bcd5ef4012d7ac78d7b6472f3eda397f21895e",
+    "last_updated": "2026-09-23T12:37:19.000Z",
     "packageCount": 3,
     "packages": {
       "red.sim.flexicurve": {
@@ -85413,7 +85537,7 @@
         "displayName": "VRC Light Volumes",
         "description": "Nextgen voxel based light probes replacement for VRChat",
         "latestVersion": "0.5.1",
-        "versionCount": 44,
+        "versionCount": 45,
         "keywords": [
           "shaders",
           "lighting",
@@ -85935,6 +86059,18 @@
             "displayName": "VRC Light Volumes",
             "description": "Optimized voxel-based and analytic lighting solution for VRChat",
             "url": "https://github.com/REDSIM/VRCLightVolumes/releases/download/v.3.0.0-dev.19/VRCLightVolumes_3.0.0-dev.19.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.unity.editorcoroutines": "1.0.0"
+            }
+          },
+          "3.0.0-dev.20": {
+            "version": "3.0.0-dev.20",
+            "name": "red.sim.lightvolumes",
+            "displayName": "VRC Light Volumes",
+            "description": "Optimized voxel-based and analytic lighting solution for VRChat",
+            "url": "https://github.com/REDSIM/VRCLightVolumes/releases/download/v.3.0.0-dev.20/VRCLightVolumes_3.0.0-dev.20.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -88643,7 +88779,7 @@
     "id": "com.mitsuboshi-studio.vpm",
     "author": "Mitsuboshi_Studio",
     "hash": "52cde1f130302215e50bd10fbf17761cac4d336a632db50118aa96eb79cfb767",
-    "last_updated": "2026-09-23T00:34:43.000Z",
+    "last_updated": "2026-09-23T23:43:09.000Z",
     "packageCount": 8,
     "packages": {
       "com.mitsuboshi-studio.unity-power-rename": {
@@ -88890,7 +89026,7 @@
     "id": "dev.redline-team.redlinelist",
     "author": "RozeThorns",
     "hash": "8c61e41bc845ad48ac8b2df4fbc0df5b38f713805c599141762b5c54f4e92f8c",
-    "last_updated": "2026-09-23T01:58:37.000Z",
+    "last_updated": "2026-09-24T01:47:40.000Z",
     "packageCount": 5,
     "packages": {
       "dev.redline-team.rpm": {
@@ -89818,7 +89954,7 @@
     "id": "io.github.sabas0ba.vpm",
     "author": "sabas0ba",
     "hash": "3f82c52fe2d9aacdda69e320d7c78b785ee0e52fbae7a2e2e614201637b47704",
-    "last_updated": "2026-09-23T02:26:44.000Z",
+    "last_updated": "2026-09-23T05:24:26.000Z",
     "packageCount": 1,
     "packages": {
       "io.github.sabas0ba.sabashader": {
@@ -94062,8 +94198,8 @@
     "name": "suzufactory",
     "id": "com.suzufactory.vpm",
     "author": "suzufactory",
-    "hash": "743089403d1632275f1ccdbe38f8b266869eb52c5e695537757324a4ae211c8b",
-    "last_updated": "2026-09-15T04:17:40.000Z",
+    "hash": "cf7153a6933278edaa98741b51cebe8fc7f5b63ec964ed60ca5c0b55237e1c7b",
+    "last_updated": "2026-09-23T08:24:23.000Z",
     "packageCount": 2,
     "packages": {
       "com.suzufactory.hikari": {
@@ -94348,14 +94484,27 @@
         "name": "com.suzufactory.scm",
         "displayName": "SuzuFactory Shaders",
         "description": "Shader Core modules by SuzuFactory.",
-        "latestVersion": "0.7.2",
-        "versionCount": 11,
+        "latestVersion": "0.8.0",
+        "versionCount": 12,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "SuzuFactory"
         },
         "versions": {
+          "0.8.0": {
+            "version": "0.8.0",
+            "name": "com.suzufactory.scm",
+            "displayName": "SuzuFactory Shaders",
+            "description": "Shader Core modules by SuzuFactory.",
+            "url": "https://github.com/suzufactory/vpm-repos/releases/download/scm-0.8.0/com.suzufactory.scm.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "jp.lilxyzw.shadercore": ">=0.1.0",
+              "jp.lilxyzw.nontoon": ">=0.1.0"
+            }
+          },
           "0.7.2": {
             "version": "0.7.2",
             "name": "com.suzufactory.scm",
@@ -102328,6 +102477,158 @@
     }
   },
   {
+    "url": "https://toffelskater.github.io/VRC-Texture-Painter/index.json",
+    "name": "VRC Texture Painter Listing",
+    "id": "com.vrctexturepainter.tool.listing",
+    "author": "ToffelsKater",
+    "hash": "ceec418225841eece33961c52b2f38c6006ca0c42646c5beda0accf79410704b",
+    "last_updated": "2026-09-19T12:47:51.000Z",
+    "packageCount": 1,
+    "packages": {
+      "com.vrctexturepainter.tool": {
+        "id": "com.vrctexturepainter.tool",
+        "name": "com.vrctexturepainter.tool",
+        "displayName": "VRC Texture Painter",
+        "description": "Paint textures and shader masks directly on your avatar in the Scene view, like Blender's Texture Paint mode: hard, soft, blur, color blend, eraser and gradient tools, Photoshop style layers, a mask painter for Poiyomi and lilToon masks, and 3D projection painting that stays correct across UV seams, mirrored UVs and multiple UV channels. Editor-only.",
+        "latestVersion": "1.1.1",
+        "versionCount": 3,
+        "keywords": [
+          "vrchat",
+          "avatar",
+          "texture",
+          "paint",
+          "layers",
+          "poiyomi",
+          "liltoon",
+          "mask",
+          "editor"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "ToffelsKater",
+          "url": "https://github.com/ToffelsKater"
+        },
+        "versions": {
+          "1.1.1": {
+            "version": "1.1.1",
+            "name": "com.vrctexturepainter.tool",
+            "displayName": "VRC Texture Painter",
+            "description": "Paint textures and shader masks directly on your avatar in the Scene view, like Blender's Texture Paint mode: hard, soft, blur, color blend, eraser and gradient tools, Photoshop style layers, a mask painter for Poiyomi and lilToon masks, and 3D projection painting that stays correct across UV seams, mirrored UVs and multiple UV channels. Editor-only.",
+            "url": "https://github.com/ToffelsKater/VRC-Texture-Painter/releases/download/1.1.1/com.vrctexturepainter.tool-1.1.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "com.vrctexturepainter.tool",
+            "displayName": "VRC Texture Painter",
+            "description": "Paint textures and shader masks directly on your avatar in the Scene view, like Blender's Texture Paint mode: hard, soft, blur, color blend, eraser and gradient tools, Photoshop style layers, a mask painter for Poiyomi and lilToon masks, and 3D projection painting that stays correct across UV seams, mirrored UVs and multiple UV channels. Editor-only.",
+            "url": "https://github.com/ToffelsKater/VRC-Texture-Painter/releases/download/1.1.0/com.vrctexturepainter.tool-1.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.vrctexturepainter.tool",
+            "displayName": "VRC Texture Painter",
+            "description": "Paint textures directly on your avatar in the Scene view, like Blender's Texture Paint mode: hard, soft, blur, color blend and eraser brushes, Photoshop style layers, and 3D projection painting that stays correct across UV seams, mirrored UVs and multiple UV channels. Editor-only.",
+            "url": "https://github.com/ToffelsKater/VRC-Texture-Painter/releases/download/1.0.0/com.vrctexturepainter.tool-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          }
+        }
+      }
+    }
+  },
+  {
+    "url": "https://toffelskater.github.io/VRCFuryAutoTools/index.json",
+    "name": "VRCFury Auto Tools Listing",
+    "id": "com.damien.vrcfury-autotools.listing",
+    "author": "ToffelsKater",
+    "hash": "90d77858b93af3d2f2a214ec4024f283f560d17a598ac5961bf0f9173b3acfb1",
+    "last_updated": "2026-09-19T23:35:23.000Z",
+    "packageCount": 1,
+    "packages": {
+      "com.damien.vrcfury-autotools": {
+        "id": "com.damien.vrcfury-autotools",
+        "name": "com.damien.vrcfury-autotools",
+        "displayName": "VRCFury Auto Tools",
+        "description": "Addon for VRCFury: automatic outfit toggle creator and zero-weight bone remover. Uses only VRCFury's public API.",
+        "latestVersion": "0.1.4",
+        "versionCount": 4,
+        "keywords": [
+          "vrcfury",
+          "outfit",
+          "toggle",
+          "bones",
+          "performance"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "ToffelsKater",
+          "url": "https://github.com/ToffelsKater"
+        },
+        "versions": {
+          "0.1.4": {
+            "version": "0.1.4",
+            "name": "com.damien.vrcfury-autotools",
+            "displayName": "VRCFury Auto Tools",
+            "description": "Addon for VRCFury: automatic outfit toggle creator and zero-weight bone remover. Uses only VRCFury's public API.",
+            "url": "https://github.com/ToffelsKater/VRCFuryAutoTools/releases/download/0.1.4/com.damien.vrcfury-autotools-0.1.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "com.vrcfury.vrcfury": "*"
+            }
+          },
+          "0.1.3": {
+            "version": "0.1.3",
+            "name": "com.damien.vrcfury-autotools",
+            "displayName": "VRCFury Auto Tools",
+            "description": "Addon for VRCFury: automatic outfit toggle creator and zero-weight bone remover. Uses only VRCFury's public API.",
+            "url": "https://github.com/ToffelsKater/VRCFuryAutoTools/releases/download/0.1.3/com.damien.vrcfury-autotools-0.1.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "com.vrcfury.vrcfury": "*"
+            }
+          },
+          "0.1.2": {
+            "version": "0.1.2",
+            "name": "com.damien.vrcfury-autotools",
+            "displayName": "VRCFury Auto Tools",
+            "description": "Addon for VRCFury: automatic outfit toggle creator and zero-weight bone remover. Uses only VRCFury's public API.",
+            "url": "https://github.com/ToffelsKater/VRCFuryAutoTools/releases/download/0.1.2/com.damien.vrcfury-autotools-0.1.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "com.vrcfury.vrcfury": "*"
+            }
+          },
+          "0.1.1": {
+            "version": "0.1.1",
+            "name": "com.damien.vrcfury-autotools",
+            "displayName": "VRCFury Auto Tools",
+            "description": "Addon for VRCFury: automatic outfit toggle creator and zero-weight bone remover. Uses only VRCFury's public API.",
+            "url": "https://github.com/ToffelsKater/VRCFuryAutoTools/releases/download/0.1.1/com.damien.vrcfury-autotools-0.1.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "com.vrcfury.vrcfury": "*"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
     "url": "https://toh-csecb.github.io/package-listing/index.json",
     "name": "toh",
     "id": "jp.toh.package-listing",
@@ -102397,7 +102698,7 @@
     "id": "io.github.tp-jp.vpm",
     "author": "tp.jp",
     "hash": "da473ccdc75356cd14e6c77e54e8be663bb1621108df5f980248e75789e4c3aa",
-    "last_updated": "2026-07-13T13:46:47.000Z",
+    "last_updated": "2026-07-13T13:46:48.000Z",
     "packageCount": 9,
     "packages": {
       "com.tp.jp.iwa-sync3-color-changer": {
@@ -102968,7 +103269,7 @@
     "id": "com.triturbo.blendshare.listing",
     "author": "Triturbo",
     "hash": "8d43fe402736de6cd2621406d3b850107d5fa9a6bc801a1a5857547ed262526d",
-    "last_updated": "2026-07-05T12:32:46.000Z",
+    "last_updated": "2026-07-05T12:32:45.000Z",
     "packageCount": 1,
     "packages": {
       "com.triturbo.blendshare": {
@@ -103328,8 +103629,8 @@
     "name": "アバター改変おまもり Listing",
     "id": "com.tsukumodo.avatar-omamori.listing",
     "author": "tsukumodo",
-    "hash": "6e078e50ec7fbe4c2631c7f11b3b98c58b6debd25799af13775b11d2ac2466ec",
-    "last_updated": "2026-08-25T13:58:32.000Z",
+    "hash": "62a2910d14e9fb113a5e4c6110327ab27567382086e554a39a712998e7a6839d",
+    "last_updated": "2026-09-23T05:14:42.000Z",
     "packageCount": 1,
     "packages": {
       "com.tsukumodo.avatar-omamori": {
@@ -103337,8 +103638,8 @@
         "name": "com.tsukumodo.avatar-omamori",
         "displayName": "アバター改変おまもり",
         "description": "VRChatアバターの設定ミスをビルド前に一括検出するツール",
-        "latestVersion": "0.10.0",
-        "versionCount": 12,
+        "latestVersion": "0.10.1",
+        "versionCount": 13,
         "keywords": [
           "vrchat",
           "avatar",
@@ -103350,6 +103651,18 @@
           "name": "tsukumodo"
         },
         "versions": {
+          "0.10.1": {
+            "version": "0.10.1",
+            "name": "com.tsukumodo.avatar-omamori",
+            "displayName": "アバター改変おまもり",
+            "description": "VRChatアバターの設定ミスをビルド前に一括検出するツール",
+            "url": "https://github.com/tsukumodo/omamori/releases/download/0.10.1/com.tsukumodo.avatar-omamori-0.10.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0"
+            }
+          },
           "0.10.0": {
             "version": "0.10.0",
             "name": "com.tsukumodo.avatar-omamori",
@@ -103718,9 +104031,9 @@
     "name": "Rainywithin's Packages",
     "id": "com.rainywithin.vpm",
     "author": "rainywithin",
-    "hash": "bf2ef557cc4eaa3bb8c5ee1475964a0a88a8aa938c5f2d45edcfce7d819607b1",
-    "last_updated": "2026-08-28T21:10:53.000Z",
-    "packageCount": 3,
+    "hash": "df0d41e9bafe4e52bf4e45028ffa831eb868b94f9bdbc4e1a122ebe62ce4c968",
+    "last_updated": "2026-09-24T00:13:28.000Z",
+    "packageCount": 4,
     "packages": {
       "com.rainywithin.outfitlinker": {
         "id": "com.rainywithin.outfitlinker",
@@ -103822,6 +104135,32 @@
               "de.thryrallo.vrc.avatar-performance-tools": "^1.0.0",
               "com.vrcfury.vrcfury": "^1.0.0",
               "com.ramtype0.meshia.mesh-simplification": "^3.2.0"
+            }
+          }
+        }
+      },
+      "com.rainywithin.autosave": {
+        "id": "com.rainywithin.autosave",
+        "name": "com.rainywithin.autosave",
+        "displayName": "Auto Save",
+        "description": "Automatically prompts to name unsaved Unity scenes when modified and auto-saves dirty scenes at configurable background intervals to prevent data loss.",
+        "latestVersion": "1.0.0",
+        "versionCount": 1,
+        "keywords": [],
+        "unity": null,
+        "author": {
+          "name": "rainywithin"
+        },
+        "versions": {
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.rainywithin.autosave",
+            "displayName": "Auto Save",
+            "description": "Automatically prompts to name unsaved Unity scenes when modified and auto-saves dirty scenes at configurable background intervals to prevent data loss.",
+            "url": "https://github.com/URektMe/AutoSave/releases/download/v1.0.0/com.rainywithin.autosave-1.0.0.zip",
+            "zipSha256": null,
+            "vpmDependencies": {
+              "com.vrcfury.vrcfury": "^1.0.0"
             }
           }
         }
@@ -105184,7 +105523,7 @@
     "id": "co.raphii.vpm-listing",
     "author": "Raphiiko",
     "hash": "13d7c0741bdb67306d4706066396ddccd4188238b4335f6b126e26cf84767a0b",
-    "last_updated": "2026-07-03T23:15:31.000Z",
+    "last_updated": "2026-07-03T23:15:32.000Z",
     "packageCount": 1,
     "packages": {
       "co.raphii.vrti.avatarmenu": {
@@ -105247,8 +105586,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "ad73f6cc77bb7ebd83d0469cfd2abf6ed36036ff917fd8fa8c7c40be142114bc",
-    "last_updated": "2026-09-23T03:10:48.000Z",
+    "hash": "456a40d55d1e7fbd46dde554193e2ab629f2ccc7d43b06e94ba3d38638c82ff3",
+    "last_updated": "2026-09-24T02:59:48.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -118715,17 +119054,17 @@
     "name": "Vixens Toolbox",
     "id": "com.vixencreations.vixens-toolbox.listing",
     "author": "Vixenlicous",
-    "hash": "8863d3e6112d1617463022bc8b6da3c768f21b3f6eba0a468e69887ed1998878",
-    "last_updated": "2026-09-20T13:23:44.000Z",
+    "hash": "cdd25dbce707af0bccc9e52479d4aa1bbaebc8ccad7888a76edfd71f6b928711",
+    "last_updated": "2026-09-23T20:03:39.000Z",
     "packageCount": 1,
     "packages": {
       "com.vixencreations.vixens-toolbox": {
         "id": "com.vixencreations.vixens-toolbox",
         "name": "com.vixencreations.vixens-toolbox",
         "displayName": "Vixen Tool Box",
-        "description": "A VPM-native, cyber-noir suite of Unity Editor tools for VRChat creators, hand-built by VixForge Interactive. Four flagship tools lead it: a non-destructive Quest Conversion Engine, a full Avatar Optimization Suite with real QEM mesh decimation, a multi-ecosystem World Engine auditor (ProTV, AudioLink, LTCGI, VRSL, Light Volumes and more), and Animation Workbench Pro. Also includes Animator Forge, PhysBone blueprints, an Accessory Mounting Engine and a convention Badge Studio. Engineered to eliminate human error, enforce project consistency, and push Unity 2022.3 to its limits. Trusted by 1,500+ creators.",
-        "latestVersion": "2.17.1",
-        "versionCount": 50,
+        "description": "A VPM-native, cyber-noir suite of Unity Editor tools for VRChat creators, hand-built by VixForge Interactive. Four flagship tools lead it: a non-destructive Quest Conversion Engine, a full Avatar Optimization Suite with real QEM mesh decimation, a multi-ecosystem World Engine auditor (ProTV, AudioLink, LTCGI, VRSL, Light Volumes and more), and Animation Workbench Pro. Also includes Animator Forge, PhysBone blueprints, an Accessory Mounting Engine and a convention Badge Studio. Engineered to eliminate human error, enforce project consistency, and push Unity 2022.3 to its limits. Trusted by 3,500+ creators.",
+        "latestVersion": "2.18.0",
+        "versionCount": 51,
         "keywords": [
           "vrchat",
           "editor",
@@ -118747,6 +119086,18 @@
           "url": "https://x.com/VixForge"
         },
         "versions": {
+          "2.18.0": {
+            "version": "2.18.0",
+            "name": "com.vixencreations.vixens-toolbox",
+            "displayName": "Vixen Tool Box",
+            "description": "A VPM-native, cyber-noir suite of Unity Editor tools for VRChat creators, hand-built by VixForge Interactive. Four flagship tools lead it: a non-destructive Quest Conversion Engine, a full Avatar Optimization Suite with real QEM mesh decimation, a multi-ecosystem World Engine auditor (ProTV, AudioLink, LTCGI, VRSL, Light Volumes and more), and Animation Workbench Pro. Also includes Animator Forge, PhysBone blueprints, an Accessory Mounting Engine and a convention Badge Studio. Engineered to eliminate human error, enforce project consistency, and push Unity 2022.3 to its limits. Trusted by 3,500+ creators.",
+            "url": "https://github.com/VixenCreations/VixenToolBox/releases/download/2.18.0/com.vixen.tools-2.18.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "^3.10.3"
+            }
+          },
           "2.17.1": {
             "version": "2.17.1",
             "name": "com.vixencreations.vixens-toolbox",
@@ -119365,7 +119716,7 @@
     "id": "io.mekabu.vpm-repository",
     "author": "contact@mekabu.io",
     "hash": "afb531d339483772668bf9b0fbe2f91415a0d37733b4adad67544741ae03cb2e",
-    "last_updated": "2026-09-23T03:02:03.000Z",
+    "last_updated": "2026-09-24T03:01:05.000Z",
     "packageCount": 2,
     "packages": {
       "com.mekabu.blendshape-animation-creator": {
@@ -132203,8 +132554,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "ee47d70dd47d8a9be1c78936111226131060c216b94eb9f545194c89d9e55be7",
-    "last_updated": "2026-09-23T00:34:22.000Z",
+    "hash": "d07c6c7bf0f0ec181d72873d0f1c567b05181f3e3042f122a3efc490531271aa",
+    "last_updated": "2026-09-23T16:10:33.000Z",
     "packageCount": 12,
     "packages": {
       "com.poiyomi.pro": {
@@ -132212,8 +132563,8 @@
         "name": "com.poiyomi.pro",
         "displayName": "Poiyomi Pro",
         "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
-        "latestVersion": "11.0.12",
-        "versionCount": 21,
+        "latestVersion": "11.0.16",
+        "versionCount": 25,
         "keywords": [
           "shaders",
           "vrchat",
@@ -132227,6 +132578,46 @@
           "url": "https://poiyomi.com"
         },
         "versions": {
+          "11.0.16": {
+            "version": "11.0.16",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.16/5089e35a69b2a0f90de2cd93979b8cfda0787fece5d8e854ee31421c3a0798ce",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.15": {
+            "version": "11.0.15",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.15/26f8d783a75d7ddc363f111fb29970c4b1c8192ab6a33ce5d57e42dc7e08f1bb",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.14": {
+            "version": "11.0.14",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.14/a2b7118a28aac61804dd2b8a7690211d0984f1d56c1bddbd3d6af1b9e88f437b",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.13": {
+            "version": "11.0.13",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.13/c5b8943cf88c63aa4c148ae6223e71d0689e02df3563419153e1d54bb122c6a6",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
           "11.0.12": {
             "version": "11.0.12",
             "name": "com.poiyomi.pro",
@@ -143835,7 +144226,7 @@
     "id": "com.micksam7.vpm",
     "author": "Micca",
     "hash": "28148f3419e38143920ae19b3a3dd4a57a632a36728aa26382a61c71e69f2550",
-    "last_updated": "2026-07-03T02:20:28.000Z",
+    "last_updated": "2026-07-03T02:20:29.000Z",
     "packageCount": 1,
     "packages": {
       "com.micksam7.mididmx": {
@@ -161936,7 +162327,7 @@
     "id": "jp.pipipigiken.vpm",
     "author": "orange3134",
     "hash": "ece9c908434de913bd1ed23fcfc0ae011caef63383abb0e902b92aff2c5e480d",
-    "last_updated": "2026-09-23T00:44:08.000Z",
+    "last_updated": "2026-09-23T23:46:33.000Z",
     "packageCount": 2,
     "packages": {
       "com.avatarnamecard.avatar-package": {
@@ -168313,8 +168704,8 @@
     "name": "WhyKnot Tools",
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
-    "hash": "538514559b8708b4a1cdd02e76345b26c0db6ef32f6bf90519ed64710d4ca7e4",
-    "last_updated": "2026-09-22T10:34:07.000Z",
+    "hash": "8c86170bb3aa580c12d111e2d2e10ad968fff97f6f5bffff8b5ef4cf05a77e44",
+    "last_updated": "2026-09-23T10:27:40.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -179661,13 +180052,68 @@
   },
   {
     "url": "https://www.negura-karasu.net/vpm/",
-    "name": "Negura-karasu VPM",
+    "name": "Yagihata",
     "id": "www.negura-karasu.net",
     "author": "Yagihata",
-    "hash": null,
+    "hash": "e2e0e4ad3f5c5cf660d230256a66aafc8220ea9cdb39fbe295200851592f2200",
     "last_updated": "2026-08-01T16:09:54.691Z",
-    "packageCount": 0,
-    "packages": {}
+    "packageCount": 1,
+    "packages": {
+      "yagihata.radialinventorysystem.v4": {
+        "id": "yagihata.radialinventorysystem.v4",
+        "name": "yagihata.radialinventorysystem.v4",
+        "displayName": "Radial Inventory System V4",
+        "description": "This is an add-on for VRC-Avatars that assists in adding a menu to show/hide props.",
+        "latestVersion": "4.5.1",
+        "versionCount": 3,
+        "keywords": [
+          "Inventory",
+          "Avatar"
+        ],
+        "unity": "2019.4",
+        "author": {
+          "name": "Yagihata"
+        },
+        "versions": {
+          "4.5.1": {
+            "version": "4.5.1",
+            "name": "yagihata.radialinventorysystem.v4",
+            "displayName": "Radial Inventory System V4",
+            "description": "This is an add-on for VRC-Avatars that assists in adding a menu to show/hide props.",
+            "url": "https://drive.google.com/uc?id=1R6QxJ90_Kw-OHivhN6FOLsz7jTIAqXqe",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.0.0"
+            }
+          },
+          "4.5.2": {
+            "version": "4.5.2",
+            "name": "yagihata.radialinventorysystem.v4",
+            "displayName": "Radial Inventory System V4",
+            "description": "This is an add-on for VRC-Avatars that assists in adding a menu to show/hide props.",
+            "url": "https://github.com/Yagihata/RadialInventorySystem/releases/download/v4.5.2/yagihata.radialinventorysystem.v4-4.5.2.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.0.0"
+            }
+          },
+          "4.6.0": {
+            "version": "4.6.0",
+            "name": "yagihata.radialinventorysystem.v4",
+            "displayName": "Radial Inventory System V4",
+            "description": "This is an add-on for VRC-Avatars that assists in adding a menu to show/hide props.",
+            "url": "https://github.com/Yagihata/RadialInventorySystem/releases/download/v4.6/yagihata.radialinventorysystem.v4-4.6.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.6.0"
+            }
+          }
+        }
+      }
+    }
   },
   {
     "url": "https://xNanochip.github.io/VPM-Package-Listing/index.json",
@@ -187944,7 +188390,7 @@
     "id": "dev.tsukimicode.vpm",
     "author": "TsukimiCode",
     "hash": "e46797940e9a408da8c195334cb7aeae3ef6bf6175c8a15ad96c9e99513552fd",
-    "last_updated": "2026-09-16T14:08:50.000Z",
+    "last_updated": "2026-09-16T14:08:51.000Z",
     "packageCount": 1,
     "packages": {
       "com.tsukimicode.udon-tools": {
@@ -188208,8 +188654,8 @@
     "name": "Poiyomi's VPM Repo",
     "id": "io.github.poiyomi.vpm",
     "author": "Poiyomi",
-    "hash": "b2d792286758e7023cfde722a6ba4a8b688d9227d046b9d568177b7a512fa595",
-    "last_updated": "2026-09-22T19:27:09.000Z",
+    "hash": "22a53889b3bb8cf0d9c49be51cc7a7b9a79665155407ef5c6ec5358717798208",
+    "last_updated": "2026-09-23T17:09:24.000Z",
     "packageCount": 3,
     "packages": {
       "com.poiyomi.toon": {
@@ -188739,8 +189185,8 @@
         "name": "com.poiyomi.pro",
         "displayName": "Poiyomi Pro",
         "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
-        "latestVersion": "11.0.15",
-        "versionCount": 35,
+        "latestVersion": "11.0.17",
+        "versionCount": 37,
         "keywords": [
           "shaders",
           "vrchat",
@@ -188754,6 +189200,26 @@
           "url": "https://poiyomi.com"
         },
         "versions": {
+          "11.0.17": {
+            "version": "11.0.17",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://github.com/poiyomi/Poiyomi-Pro-Downloader/releases/download/v11.0.17/com.poiyomi.pro-11.0.17.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.16": {
+            "version": "11.0.16",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://github.com/poiyomi/Poiyomi-Pro-Downloader/releases/download/v11.0.16/com.poiyomi.pro-11.0.16.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
           "11.0.15": {
             "version": "11.0.15",
             "name": "com.poiyomi.pro",
