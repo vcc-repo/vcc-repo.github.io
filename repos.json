@@ -12524,7 +12524,7 @@
     "id": "com.awavr.vpm",
     "author": "AwA",
     "hash": "22064f8c95b78ec5892d45b2af7ecbc44a89d9443330c2b63733c4174e56e1f8",
-    "last_updated": "2026-09-19T19:28:39.000Z",
+    "last_updated": "2026-09-19T19:28:38.000Z",
     "packageCount": 11,
     "packages": {
       "com.awavr.core": {
@@ -14489,8 +14489,8 @@
     "name": "Linux VRChat SDK Patch Listing",
     "id": "befuddledlabs.linuxvrchatsdkpatch",
     "author": "BefuddledLabs",
-    "hash": "b0aa53fced94f9989b7e0791461c4f946d72df5c6da7e0751e9b2d561c7a0d4d",
-    "last_updated": "2026-06-30T15:21:57.000Z",
+    "hash": "42991b67a8ef9a5b385b5f8adba0eef731004386436601f647586ade42d20d27",
+    "last_updated": "2026-09-27T18:09:11.000Z",
     "packageCount": 3,
     "packages": {
       "befuddledlabs.linuxvrchatsdkpatch-worlds": {
@@ -14498,14 +14498,27 @@
         "name": "befuddledlabs.linuxvrchatsdkpatch-worlds",
         "displayName": "Linux VRChat SDK Patch Worlds",
         "description": "Patches the VRChat Worlds SDK to work properly on Linux.",
-        "latestVersion": "0.3.0",
-        "versionCount": 10,
+        "latestVersion": "0.3.1",
+        "versionCount": 11,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "BefuddledLabs"
         },
         "versions": {
+          "0.3.1": {
+            "version": "0.3.1",
+            "name": "befuddledlabs.linuxvrchatsdkpatch-worlds",
+            "displayName": "Linux VRChat SDK Patch Worlds",
+            "description": "Patches the VRChat Worlds SDK to work properly on Linux.",
+            "url": "https://github.com/BefuddledLabs/LinuxVRChatSDKPatch/releases/download/0.3.1-worlds/befuddledlabs.linuxvrchatsdkpatch.worlds-0.3.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.9.0",
+              "befuddledlabs.linuxvrchatsdkpatch-base": "0.3.1"
+            }
+          },
           "0.3.0": {
             "version": "0.3.0",
             "name": "befuddledlabs.linuxvrchatsdkpatch-worlds",
@@ -14643,14 +14656,26 @@
         "name": "befuddledlabs.linuxvrchatsdkpatch-base",
         "displayName": "Linux VRChat SDK Patch Base",
         "description": "Patches the VRChat Base SDK to work properly on Linux.",
-        "latestVersion": "0.3.0",
-        "versionCount": 10,
+        "latestVersion": "0.3.1",
+        "versionCount": 11,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "BefuddledLabs"
         },
         "versions": {
+          "0.3.1": {
+            "version": "0.3.1",
+            "name": "befuddledlabs.linuxvrchatsdkpatch-base",
+            "displayName": "Linux VRChat SDK Patch Base",
+            "description": "Patches the VRChat Base SDK to work properly on Linux.",
+            "url": "https://github.com/BefuddledLabs/LinuxVRChatSDKPatch/releases/download/0.3.1-base/befuddledlabs.linuxvrchatsdkpatch.base-0.3.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "^3.9.0"
+            }
+          },
           "0.3.0": {
             "version": "0.3.0",
             "name": "befuddledlabs.linuxvrchatsdkpatch-base",
@@ -14778,14 +14803,27 @@
         "name": "befuddledlabs.linuxvrchatsdkpatch-avatars",
         "displayName": "Linux VRChat SDK Patch Avatars",
         "description": "Patches the VRChat Avatars SDK to work properly on Linux.",
-        "latestVersion": "0.3.0",
-        "versionCount": 8,
+        "latestVersion": "0.3.1",
+        "versionCount": 9,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "BefuddledLabs"
         },
         "versions": {
+          "0.3.1": {
+            "version": "0.3.1",
+            "name": "befuddledlabs.linuxvrchatsdkpatch-avatars",
+            "displayName": "Linux VRChat SDK Patch Avatars",
+            "description": "Patches the VRChat Avatars SDK to work properly on Linux.",
+            "url": "https://github.com/BefuddledLabs/LinuxVRChatSDKPatch/releases/download/0.3.1-avatars/befuddledlabs.linuxvrchatsdkpatch.avatars-0.3.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.9.0",
+              "befuddledlabs.linuxvrchatsdkpatch-base": "0.3.1"
+            }
+          },
           "0.3.0": {
             "version": "0.3.0",
             "name": "befuddledlabs.linuxvrchatsdkpatch-avatars",
@@ -16479,8 +16517,8 @@
     "name": "ch4rindo's Listing",
     "id": "com.github.ch4rindo.vpm",
     "author": "ch4rindo",
-    "hash": "743798fef8972c0878a564caa1e2414a7f2257e90a1213cf90271720bdc15788",
-    "last_updated": "2026-09-13T04:23:59.000Z",
+    "hash": "0d5dca076eb946a25645b82f91cb5062b6439096d9592f20e6b37297e0c6cb27",
+    "last_updated": "2026-09-28T02:47:24.000Z",
     "packageCount": 2,
     "packages": {
       "dev.r1nd0.assetfinder": {
@@ -16488,14 +16526,24 @@
         "name": "dev.r1nd0.assetfinder",
         "displayName": "AssetFinder",
         "description": "AssetFinder",
-        "latestVersion": "1.1.1",
-        "versionCount": 2,
+        "latestVersion": "1.2.0",
+        "versionCount": 3,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "charindo"
         },
         "versions": {
+          "1.2.0": {
+            "version": "1.2.0",
+            "name": "dev.r1nd0.assetfinder",
+            "displayName": "AssetFinder",
+            "description": "AssetFinder",
+            "url": "https://github.com/ch4rindo/AssetFinder-release/releases/download/v1.2.0/dev.r1nd0.assetfinder-1.2.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.1.1": {
             "version": "1.1.1",
             "name": "dev.r1nd0.assetfinder",
@@ -29546,8 +29594,8 @@
     "name": "GlinT Fraulein",
     "id": "info.glintfraulein.vpm",
     "author": "GlinT Fraulein",
-    "hash": "18bb3ea8c22648e666d971da672b24379485d8f7dcb43085137931eb9e1515ce",
-    "last_updated": "2026-08-23T14:57:48.000Z",
+    "hash": "00e9a6d4a70e3efa6b365e5481985bec6edebabaa6401787efa42ada1e522a46",
+    "last_updated": "2026-09-27T13:42:25.000Z",
     "packageCount": 1,
     "packages": {
       "info.glintfraulein.palasolu": {
@@ -29555,8 +29603,8 @@
         "name": "info.glintfraulein.palasolu",
         "displayName": "PaLASOLU",
         "description": "Particle Live Avatar Setup Optimization & Low-effort Uploader",
-        "latestVersion": "2.5.1",
-        "versionCount": 34,
+        "latestVersion": "2.5.2",
+        "versionCount": 35,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -29564,6 +29612,18 @@
           "url": "https://glintfraulein.info"
         },
         "versions": {
+          "2.5.2": {
+            "version": "2.5.2",
+            "name": "info.glintfraulein.palasolu",
+            "displayName": "PaLASOLU",
+            "description": "Particle Live Avatar Setup Optimization & Low-effort Uploader",
+            "url": "https://github.com/GlinTFraulein/PaLASOLU/releases/download/2.5.2/info.glintfraulein.palasolu.2.5.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.modular-avatar": ">=1.15.1"
+            }
+          },
           "2.5.1": {
             "version": "2.5.1",
             "name": "info.glintfraulein.palasolu",
@@ -41520,7 +41580,7 @@
     "id": "cat.hisa.vpm",
     "author": "HisaCat",
     "hash": "164e0ed610f0a593fb9eb5867230becff0831ebe47d88f25397692d3bbae92c4",
-    "last_updated": "2026-07-03T05:26:12.000Z",
+    "last_updated": "2026-07-03T05:26:13.000Z",
     "packageCount": 3,
     "packages": {
       "cat.hisa.asset-patcher": {
@@ -42252,7 +42312,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "680029c772846cb5e5b7331c6f399296d7c3d340058c68c9f48e255a6fa8e65e",
-    "last_updated": "2026-09-26T08:40:18.000Z",
+    "last_updated": "2026-09-27T09:20:29.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -44951,9 +45011,9 @@
     "name": "kb10uy VRChat Package Repository",
     "id": "org.kb10uy.vrc-repository",
     "author": "kb10uy",
-    "hash": "8b1fca60d3b73b4c0f88a74d56860ad589341d30222066b9ec0acc04650abff3",
-    "last_updated": "2026-09-25T07:17:45.000Z",
-    "packageCount": 9,
+    "hash": "bbcc69750e45eb954de4820657001526da5cae91bed1366082d5d3783479bf31",
+    "last_updated": "2026-09-27T08:20:13.000Z",
+    "packageCount": 10,
     "packages": {
       "jp.lilxyzw.liltoon": {
         "id": "jp.lilxyzw.liltoon",
@@ -50312,6 +50372,65 @@
           }
         }
       },
+      "org.kb10uy.declavatar2": {
+        "id": "org.kb10uy.declavatar2",
+        "name": "org.kb10uy.declavatar2",
+        "displayName": "Declavatar 2",
+        "description": "Declarative Avatar Asset Composing Tool; Revised",
+        "latestVersion": "1.0.1",
+        "versionCount": 3,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "kb10uy",
+          "email": "kb10uy@kb10uy.org",
+          "url": "https://kb10uy.org"
+        },
+        "versions": {
+          "1.0.1": {
+            "version": "1.0.1",
+            "name": "org.kb10uy.declavatar2",
+            "displayName": "Declavatar 2",
+            "description": "Declarative Avatar Asset Composing Tool; Revised",
+            "url": "https://github.com/kb10uy/declavatar2-vrchat/releases/download/1.0.1/org.kb10uy.declavatar2.1.0.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.0",
+              "nadena.dev.ndmf": ">=1.14.0",
+              "nadena.dev.modular-avatar": ">=1.18.0"
+            }
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "org.kb10uy.declavatar2",
+            "displayName": "Declavatar 2",
+            "description": "Declarative Avatar Asset Composing Tool; Revised",
+            "url": "https://github.com/kb10uy/declavatar2-vrchat/releases/download/1.0.0/org.kb10uy.declavatar2.1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.0",
+              "nadena.dev.ndmf": ">=1.14.0",
+              "nadena.dev.modular-avatar": ">=1.18.0"
+            }
+          },
+          "0.3.1": {
+            "version": "0.3.1",
+            "name": "org.kb10uy.declavatar2",
+            "displayName": "Declavatar 2",
+            "description": "Declarative Avatar Asset Composing Tool; Revised",
+            "url": "https://github.com/kb10uy/declavatar2-vrchat/releases/download/0.3.1/org.kb10uy.declavatar2.0.3.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.0",
+              "nadena.dev.ndmf": ">=1.14.0",
+              "nadena.dev.modular-avatar": ">=1.18.0"
+            }
+          }
+        }
+      },
       "org.kb10uy.eye-pointer-installer": {
         "id": "org.kb10uy.eye-pointer-installer",
         "name": "org.kb10uy.eye-pointer-installer",
@@ -50527,8 +50646,8 @@
         "name": "org.kb10uy.zatools",
         "displayName": "Zatools: kb10uy's Various Tools",
         "description": "Various tools developed by kb10uy",
-        "latestVersion": "6.2.0",
-        "versionCount": 84,
+        "latestVersion": "6.2.1",
+        "versionCount": 85,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -50537,6 +50656,19 @@
           "url": "https://kb10uy.org"
         },
         "versions": {
+          "6.2.1": {
+            "version": "6.2.1",
+            "name": "org.kb10uy.zatools",
+            "displayName": "Zatools: kb10uy's Various Tools",
+            "description": "Various tools developed by kb10uy",
+            "url": "https://github.com/kb10uy/kb10uy-zatools/releases/download/6.2.1/org.kb10uy.zatools.6.2.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.13.0",
+              "nadena.dev.modular-avatar": ">=1.15.0"
+            }
+          },
           "6.2.0": {
             "version": "6.2.0",
             "name": "org.kb10uy.zatools",
@@ -51801,7 +51933,7 @@
     "id": "com.kie.vpm",
     "author": "Kie",
     "hash": "9c720b21a0d472446cbcefecd3ffddfe48df0b160a1cc2d716f8020dfadddb34",
-    "last_updated": "2026-09-26T18:24:50.000Z",
+    "last_updated": "2026-09-27T18:55:45.000Z",
     "packageCount": 3,
     "packages": {
       "com.kie.kie-mergeable-toggle": {
@@ -55822,7 +55954,7 @@
     "id": "net.euan.lazyoptimiser.listing",
     "author": "euan142",
     "hash": "6a0b4ea94d87ae345649306e6fda40f7bd86325206e58e1a4c5943450a9fe4ee",
-    "last_updated": "2025-02-20T10:25:21.000Z",
+    "last_updated": "2025-02-20T10:25:22.000Z",
     "packageCount": 1,
     "packages": {
       "net.euan.lazyoptimiser": {
@@ -58279,7 +58411,7 @@
     "id": "com.lightbulb.vpm",
     "author": "Lightbulb",
     "hash": "86035e14035d9e3d3af5a093e98f7d7ffabdc1c88c84e5657e741b3b3955025d",
-    "last_updated": "2026-09-27T01:27:54.000Z",
+    "last_updated": "2026-09-28T00:46:57.000Z",
     "packageCount": 1,
     "packages": {
       "com.lightbulb.world-tools": {
@@ -63326,8 +63458,8 @@
     "name": "VR Vlog Packages",
     "id": "com.vrvlog.packages",
     "author": "VR Vlog",
-    "hash": "71c7d950acb36fdf0311d032409b613f08f1ad0e7154055c1386f0e75086af55",
-    "last_updated": "2026-09-27T02:56:19.000Z",
+    "hash": "1be7424555a5b813e4e6558bcd034419cf6fa43b21368404704efc80d8d73a79",
+    "last_updated": "2026-09-27T13:45:57.000Z",
     "packageCount": 3,
     "packages": {
       "com.vrmc.gltf": {
@@ -63350,7 +63482,7 @@
             "name": "com.vrmc.gltf",
             "displayName": "UniGLTF",
             "description": "GLTF importer and exporter",
-            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.3/com.vrmc.gltf-0.131.0.zip",
+            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.4/com.vrmc.gltf-0.131.0.zip",
             "zipSha256": null,
             "unity": "2021.3",
             "vpmDependencies": {
@@ -63386,7 +63518,7 @@
             "name": "com.vrmc.vrm",
             "displayName": "VRM-1.0",
             "description": "VRM-1.0 importer",
-            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.3/com.vrmc.vrm-0.131.0.zip",
+            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.4/com.vrmc.vrm-0.131.0.zip",
             "zipSha256": null,
             "unity": "2021.3",
             "vpmDependencies": {
@@ -63401,8 +63533,8 @@
         "name": "com.vrvlog.liltoon-vrm-exporter",
         "displayName": "VR Vlog lilToon VRM Exporter",
         "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-        "latestVersion": "0.11.3",
-        "versionCount": 34,
+        "latestVersion": "0.11.4",
+        "versionCount": 35,
         "keywords": [
           "vrm",
           "liltoon",
@@ -63414,6 +63546,19 @@
           "name": "VR Vlog"
         },
         "versions": {
+          "0.11.4": {
+            "version": "0.11.4",
+            "name": "com.vrvlog.liltoon-vrm-exporter",
+            "displayName": "VR Vlog lilToon VRM Exporter",
+            "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
+            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.4/com.vrvlog.liltoon-vrm-exporter-0.11.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrmc.gltf": "0.131.x",
+              "com.vrmc.vrm": "0.131.x"
+            }
+          },
           "0.11.3": {
             "version": "0.11.3",
             "name": "com.vrvlog.liltoon-vrm-exporter",
@@ -66063,8 +66208,8 @@
     "name": "Nekoare VPM Packages（同梱版）",
     "id": "com.nekoare.vpm.bundled",
     "author": "nekoare",
-    "hash": "0fe9e51551af513b59d1b512cd187694055a7ce8766e0e3a21a841ae028ff164",
-    "last_updated": "2026-09-26T18:33:10.000Z",
+    "hash": "45c2482dc244264d002ef62bec8ce696c9b67ad40ef42eb6c8a987331e380052",
+    "last_updated": "2026-09-28T03:04:59.000Z",
     "packageCount": 2,
     "packages": {
       "com.nekoare.chimera-hair-master": {
@@ -66086,7 +66231,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.6.3/com.nekoare.chimera-hair-master-1.6.3.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.6.3/com.nekoare.chimera-hair-master-1.6.3.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66098,7 +66243,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.6.2/com.nekoare.chimera-hair-master-1.6.2.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.6.2/com.nekoare.chimera-hair-master-1.6.2.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66110,7 +66255,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.6.1/com.nekoare.chimera-hair-master-1.6.1.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.6.1/com.nekoare.chimera-hair-master-1.6.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66122,7 +66267,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.6.0/com.nekoare.chimera-hair-master-1.6.0.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.6.0/com.nekoare.chimera-hair-master-1.6.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66134,7 +66279,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.5.15/com.nekoare.chimera-hair-master-1.5.15.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.5.15/com.nekoare.chimera-hair-master-1.5.15.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66146,7 +66291,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.5.14/com.nekoare.chimera-hair-master-1.5.14.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.5.14/com.nekoare.chimera-hair-master-1.5.14.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66158,7 +66303,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.5.13/com.nekoare.chimera-hair-master-1.5.13.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.5.13/com.nekoare.chimera-hair-master-1.5.13.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66170,7 +66315,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.5.12/com.nekoare.chimera-hair-master-1.5.12.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.5.12/com.nekoare.chimera-hair-master-1.5.12.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66182,7 +66327,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.5.11/com.nekoare.chimera-hair-master-1.5.11.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.5.11/com.nekoare.chimera-hair-master-1.5.11.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66194,7 +66339,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.5.10/com.nekoare.chimera-hair-master-1.5.10.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.5.10/com.nekoare.chimera-hair-master-1.5.10.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66206,7 +66351,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.5.9/com.nekoare.chimera-hair-master-1.5.9.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.5.9/com.nekoare.chimera-hair-master-1.5.9.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66218,7 +66363,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.5.8/com.nekoare.chimera-hair-master-1.5.8.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.5.8/com.nekoare.chimera-hair-master-1.5.8.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66230,7 +66375,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.5.7/com.nekoare.chimera-hair-master-1.5.7.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.5.7/com.nekoare.chimera-hair-master-1.5.7.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66242,7 +66387,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.5.6/com.nekoare.chimera-hair-master-1.5.6.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.5.6/com.nekoare.chimera-hair-master-1.5.6.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66254,7 +66399,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.5.5/com.nekoare.chimera-hair-master-1.5.5.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.5.5/com.nekoare.chimera-hair-master-1.5.5.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66266,7 +66411,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.5.4/com.nekoare.chimera-hair-master-1.5.4.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.5.4/com.nekoare.chimera-hair-master-1.5.4.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66278,7 +66423,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.5.3/com.nekoare.chimera-hair-master-1.5.3.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.5.3/com.nekoare.chimera-hair-master-1.5.3.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66290,7 +66435,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.5.2/com.nekoare.chimera-hair-master-1.5.2.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.5.2/com.nekoare.chimera-hair-master-1.5.2.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66302,7 +66447,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.5.1/com.nekoare.chimera-hair-master-1.5.1.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.5.1/com.nekoare.chimera-hair-master-1.5.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66314,7 +66459,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.5.0/com.nekoare.chimera-hair-master-1.5.0.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.5.0/com.nekoare.chimera-hair-master-1.5.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66326,7 +66471,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.4.4/com.nekoare.chimera-hair-master-1.4.4.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.4.4/com.nekoare.chimera-hair-master-1.4.4.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66338,7 +66483,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.4.3/com.nekoare.chimera-hair-master-1.4.3.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.4.3/com.nekoare.chimera-hair-master-1.4.3.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66350,7 +66495,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.4.2/com.nekoare.chimera-hair-master-1.4.2.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.4.2/com.nekoare.chimera-hair-master-1.4.2.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66362,7 +66507,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.4.1/com.nekoare.chimera-hair-master-1.4.1.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.4.1/com.nekoare.chimera-hair-master-1.4.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66374,7 +66519,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.4.0/com.nekoare.chimera-hair-master-1.4.0.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.4.0/com.nekoare.chimera-hair-master-1.4.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66386,7 +66531,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.3.2/com.nekoare.chimera-hair-master-1.3.2.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.3.2/com.nekoare.chimera-hair-master-1.3.2.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66398,7 +66543,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.3.1/com.nekoare.chimera-hair-master-1.3.1.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.3.1/com.nekoare.chimera-hair-master-1.3.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66410,7 +66555,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.3.0/com.nekoare.chimera-hair-master-1.3.0.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.3.0/com.nekoare.chimera-hair-master-1.3.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66422,7 +66567,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.2.7/com.nekoare.chimera-hair-master-1.2.7.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.2.7/com.nekoare.chimera-hair-master-1.2.7.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66434,7 +66579,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.2.6/com.nekoare.chimera-hair-master-1.2.6.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.2.6/com.nekoare.chimera-hair-master-1.2.6.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66446,7 +66591,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.2.5/com.nekoare.chimera-hair-master-1.2.5.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.2.5/com.nekoare.chimera-hair-master-1.2.5.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66458,7 +66603,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.2.4/com.nekoare.chimera-hair-master-1.2.4.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.2.4/com.nekoare.chimera-hair-master-1.2.4.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66470,7 +66615,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.2.3/com.nekoare.chimera-hair-master-1.2.3.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.2.3/com.nekoare.chimera-hair-master-1.2.3.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66482,7 +66627,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.2.2/com.nekoare.chimera-hair-master-1.2.2.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.2.2/com.nekoare.chimera-hair-master-1.2.2.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66494,7 +66639,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.2.1/com.nekoare.chimera-hair-master-1.2.1.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.2.1/com.nekoare.chimera-hair-master-1.2.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66506,7 +66651,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.2.0/com.nekoare.chimera-hair-master-1.2.0.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.2.0/com.nekoare.chimera-hair-master-1.2.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66518,7 +66663,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.1.2/com.nekoare.chimera-hair-master-1.1.2.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.1.2/com.nekoare.chimera-hair-master-1.1.2.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66530,7 +66675,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.1.1/com.nekoare.chimera-hair-master-1.1.1.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.1.1/com.nekoare.chimera-hair-master-1.1.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66542,7 +66687,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.1.0/com.nekoare.chimera-hair-master-1.1.0.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.1.0/com.nekoare.chimera-hair-master-1.1.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66554,7 +66699,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.0.8/com.nekoare.chimera-hair-master-1.0.8.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.0.8/com.nekoare.chimera-hair-master-1.0.8.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66566,7 +66711,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.0.7/com.nekoare.chimera-hair-master-1.0.7.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.0.7/com.nekoare.chimera-hair-master-1.0.7.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66578,7 +66723,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.0.6/com.nekoare.chimera-hair-master-1.0.6.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.0.6/com.nekoare.chimera-hair-master-1.0.6.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66590,7 +66735,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/1.0.5/com.nekoare.chimera-hair-master-1.0.5.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/1.0.5/com.nekoare.chimera-hair-master-1.0.5.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66602,7 +66747,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/1.0.4/com.nekoare.chimera-hair-master-1.0.4.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/1.0.4/com.nekoare.chimera-hair-master-1.0.4.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66614,7 +66759,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.0.3/com.nekoare.chimera-hair-master-1.0.3.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.0.3/com.nekoare.chimera-hair-master-1.0.3.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66626,7 +66771,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.0.2/com.nekoare.chimera-hair-master-1.0.2.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.0.2/com.nekoare.chimera-hair-master-1.0.2.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66638,7 +66783,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.0.1/com.nekoare.chimera-hair-master-1.0.1.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.0.1/com.nekoare.chimera-hair-master-1.0.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66650,7 +66795,7 @@
             "name": "com.nekoare.chimera-hair-master",
             "displayName": "キメラヘアマスター",
             "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-            "url": "https://github.com/nekoare/chimera-hair-master/releases/download/v1.0.0/com.nekoare.chimera-hair-master-1.0.0.zip",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.0.0/com.nekoare.chimera-hair-master-1.0.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66677,7 +66822,7 @@
             "name": "com.nekoare.mask-creation-tool",
             "displayName": "マスク作成支援ツール",
             "description": "マスクテクスチャ作成・編集ツール。グレースケールマスクの描画、アイランド選択、Undo/Redo機能を提供します。",
-            "url": "https://github.com/nekoare/mask-creation-tool/releases/download/v1.2.3/com.nekoare.mask-creation-tool-1.2.3.zip",
+            "url": "https://github.com/nekoare-vpm/mask-creation-tool/releases/download/v1.2.3/com.nekoare.mask-creation-tool-1.2.3.zip",
             "zipSha256": null,
             "unity": "2019.4",
             "vpmDependencies": {}
@@ -66687,7 +66832,7 @@
             "name": "com.nekoare.mask-creation-tool",
             "displayName": "マスク作成支援ツール",
             "description": "マスクテクスチャ作成・編集ツール。グレースケールマスクの描画、アイランド選択、Undo/Redo機能を提供します。",
-            "url": "https://github.com/nekoare/mask-creation-tool/releases/download/v1.2.2/com.nekoare.mask-creation-tool-1.2.2.zip",
+            "url": "https://github.com/nekoare-vpm/mask-creation-tool/releases/download/v1.2.2/com.nekoare.mask-creation-tool-1.2.2.zip",
             "zipSha256": null,
             "unity": "2019.4",
             "vpmDependencies": {}
@@ -66697,7 +66842,7 @@
             "name": "com.nekoare.mask-creation-tool",
             "displayName": "マスク作成支援ツール",
             "description": "マスクテクスチャ作成・編集ツール。グレースケールマスクの描画、アイランド選択、Undo/Redo機能を提供します。",
-            "url": "https://github.com/nekoare/mask-creation-tool/releases/download/v1.2.1/com.nekoare.mask-creation-tool-1.2.1.zip",
+            "url": "https://github.com/nekoare-vpm/mask-creation-tool/releases/download/v1.2.1/com.nekoare.mask-creation-tool-1.2.1.zip",
             "zipSha256": null,
             "unity": "2019.4",
             "vpmDependencies": {}
@@ -66707,7 +66852,7 @@
             "name": "com.nekoare.mask-creation-tool",
             "displayName": "マスク作成支援ツール",
             "description": "マスクテクスチャ作成・編集ツール。グレースケールマスクの描画、アイランド選択、Undo/Redo機能を提供します。",
-            "url": "https://github.com/nekoare/mask-creation-tool/releases/download/v1.2.0/com.nekoare.mask-creation-tool-1.2.0.zip",
+            "url": "https://github.com/nekoare-vpm/mask-creation-tool/releases/download/v1.2.0/com.nekoare.mask-creation-tool-1.2.0.zip",
             "zipSha256": null,
             "unity": "2019.4",
             "vpmDependencies": {}
@@ -66717,7 +66862,7 @@
             "name": "com.nekoare.mask-creation-tool",
             "displayName": "マスク作成支援ツール",
             "description": "マスクテクスチャ作成・編集ツール。グレースケールマスクの描画、アイランド選択、Undo/Redo機能を提供します。",
-            "url": "https://github.com/nekoare/mask-creation-tool/releases/download/v1.1.3/com.nekoare.mask-creation-tool-1.1.3.zip",
+            "url": "https://github.com/nekoare-vpm/mask-creation-tool/releases/download/v1.1.3/com.nekoare.mask-creation-tool-1.1.3.zip",
             "zipSha256": null,
             "unity": "2019.4",
             "vpmDependencies": {}
@@ -66727,7 +66872,7 @@
             "name": "com.nekoare.mask-creation-tool",
             "displayName": "マスク作成支援ツール",
             "description": "マスクテクスチャ作成・編集ツール。グレースケールマスクの描画、アイランド選択、Undo/Redo機能を提供します。",
-            "url": "https://github.com/nekoare/mask-creation-tool/releases/download/v1.1.2/com.nekoare.mask-creation-tool-1.1.2.zip",
+            "url": "https://github.com/nekoare-vpm/mask-creation-tool/releases/download/v1.1.2/com.nekoare.mask-creation-tool-1.1.2.zip",
             "zipSha256": null,
             "unity": "2019.4",
             "vpmDependencies": {}
@@ -66737,7 +66882,7 @@
             "name": "com.nekoare.mask-creation-tool",
             "displayName": "マスク作成支援ツール",
             "description": "マスクテクスチャ作成・編集ツール。グレースケールマスクの描画、アイランド選択、Undo/Redo機能を提供します。",
-            "url": "https://github.com/nekoare/mask-creation-tool/releases/download/v1.1.1/com.nekoare.mask-creation-tool-1.1.1.zip",
+            "url": "https://github.com/nekoare-vpm/mask-creation-tool/releases/download/v1.1.1/com.nekoare.mask-creation-tool-1.1.1.zip",
             "zipSha256": null,
             "unity": "2019.4",
             "vpmDependencies": {}
@@ -66747,7 +66892,7 @@
             "name": "com.nekoare.mask-creation-tool",
             "displayName": "マスク作成支援ツール",
             "description": "マスクテクスチャ作成・編集ツール。グレースケールマスクの描画、アイランド選択、Undo/Redo機能を提供します。",
-            "url": "https://github.com/nekoare/mask-creation-tool/releases/download/v1.1.0/com.nekoare.mask-creation-tool-1.1.0.zip",
+            "url": "https://github.com/nekoare-vpm/mask-creation-tool/releases/download/v1.1.0/com.nekoare.mask-creation-tool-1.1.0.zip",
             "zipSha256": null,
             "unity": "2019.4",
             "vpmDependencies": {}
@@ -66757,7 +66902,7 @@
             "name": "com.nekoare.mask-creation-tool",
             "displayName": "マスク作成支援ツール",
             "description": "マスクテクスチャ作成・編集ツール。グレースケールマスクの描画、アイランド選択、Undo/Redo機能を提供します。",
-            "url": "https://github.com/nekoare/mask-creation-tool/releases/download/v1.0.0/com.nekoare.mask-creation-tool-1.0.0.zip",
+            "url": "https://github.com/nekoare-vpm/mask-creation-tool/releases/download/v1.0.0/com.nekoare.mask-creation-tool-1.0.0.zip",
             "zipSha256": null,
             "unity": "2019.4",
             "vpmDependencies": {}
@@ -66767,7 +66912,7 @@
             "name": "com.nekoare.mask-creation-tool",
             "displayName": "マスク作成支援ツール",
             "description": "マスクテクスチャ作成・編集ツール。グレースケールマスクの描画、アイランド選択、Undo/Redo機能を提供します。",
-            "url": "https://github.com/nekoare/mask-creation-tool/releases/download/v0.1.0/com.nekoare.mask-creation-tool-0.1.0.zip",
+            "url": "https://github.com/nekoare-vpm/mask-creation-tool/releases/download/v0.1.0/com.nekoare.mask-creation-tool-0.1.0.zip",
             "zipSha256": null,
             "unity": "2019.4",
             "vpmDependencies": {}
@@ -70785,7 +70930,7 @@
     "id": "dev.omelette_ak.vpm",
     "author": "omeletteak",
     "hash": "87cd6506aa825e26b64761abbbe030e0e11ea7ac963a055d927af38e95a30b11",
-    "last_updated": "2026-06-23T11:45:38.000Z",
+    "last_updated": "2026-06-23T11:45:39.000Z",
     "packageCount": 1,
     "packages": {
       "dev.omelette_ak.vrcloth-declipper": {
@@ -79549,7 +79694,7 @@
     "id": "xyz.misakal.vpm.project-vrcz",
     "author": "project-vrcz",
     "hash": "85d86779ba8f30739b23beb1ccd08db70eae841f6e77709db902b7aea11d9e8f",
-    "last_updated": "2026-08-26T10:34:06.000Z",
+    "last_updated": "2026-08-26T10:34:07.000Z",
     "packageCount": 9,
     "packages": {
       "xyz.misakal.vpm.yet-another-sdk-patch.worlds": {
@@ -82504,7 +82649,7 @@
     "id": "dev.raspichu.vpm",
     "author": "Pichu",
     "hash": "9a2f82e471fcf06456f855e8c746d6e95e053484b4737bc9a83a7c2fe7bd6b32",
-    "last_updated": "2026-09-07T15:01:36.000Z",
+    "last_updated": "2026-09-07T15:01:35.000Z",
     "packageCount": 2,
     "packages": {
       "dev.raspichu.inspector-enhancements": {
@@ -88923,7 +89068,7 @@
     "id": "com.mitsuboshi-studio.vpm",
     "author": "Mitsuboshi_Studio",
     "hash": "52cde1f130302215e50bd10fbf17761cac4d336a632db50118aa96eb79cfb767",
-    "last_updated": "2026-09-27T01:28:35.000Z",
+    "last_updated": "2026-09-28T00:48:29.000Z",
     "packageCount": 8,
     "packages": {
       "com.mitsuboshi-studio.unity-power-rename": {
@@ -89170,7 +89315,7 @@
     "id": "dev.redline-team.redlinelist",
     "author": "RozeThorns",
     "hash": "8c61e41bc845ad48ac8b2df4fbc0df5b38f713805c599141762b5c54f4e92f8c",
-    "last_updated": "2026-09-27T02:02:22.000Z",
+    "last_updated": "2026-09-28T02:07:21.000Z",
     "packageCount": 5,
     "packages": {
       "dev.redline-team.rpm": {
@@ -89679,7 +89824,7 @@
     "id": "io.github.rurre.vpm",
     "author": "Pumkin",
     "hash": "a521b62454534e8ac91259065780938a307d6c87b5fc436008c7dfc95e5da1f4",
-    "last_updated": "2026-08-27T18:55:05.000Z",
+    "last_updated": "2026-08-27T18:55:06.000Z",
     "packageCount": 3,
     "packages": {
       "io.github.rurre.pumkinsavatartools": {
@@ -92633,7 +92778,7 @@
     "id": "com.mizore-nekoyanagi.vpm-packages",
     "author": "Mizore Nekoyanagi",
     "hash": "df5c206bda4082fc4825f6e0002aea2319d15d80cf9dc71813ef06fb4db812e7",
-    "last_updated": "2026-02-19T08:55:54.000Z",
+    "last_updated": "2026-02-19T08:55:53.000Z",
     "packageCount": 4,
     "packages": {
       "com.mizore-nekoyanagi.utils.apply-prefab-window": {
@@ -102469,8 +102614,8 @@
     "name": "Avatar Refinery",
     "id": "com.avatarrefinery",
     "author": "tmios",
-    "hash": "ef3e91935cd5a79216121d62026c53c560d5691bcf35306b772951a768220615",
-    "last_updated": "2026-08-29T07:13:00.000Z",
+    "hash": "992d8972984c3d94184a6b3997464a64fb9e94ce8044d12209c7038e8e07f382",
+    "last_updated": "2026-09-27T07:22:43.000Z",
     "packageCount": 1,
     "packages": {
       "com.avatarrefinery.core": {
@@ -102479,7 +102624,7 @@
         "displayName": "Avatar Refinery",
         "description": "VRChatアバターをアップロード前にまとめて診断。何が問題で・なぜ・どう直すかを日本語で表示(読み取り専用)。",
         "latestVersion": "0.1.1",
-        "versionCount": 4,
+        "versionCount": 5,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -102529,6 +102674,18 @@
             "displayName": "Avatar Refinery Lite",
             "description": "Read-only VRChat avatar preflight checks with Japanese and English guidance, performance estimates, and Markdown reports.",
             "url": "https://tmiosg-commits.github.io/avatar-refinery/downloads/com.avatarrefinery.core-0.3.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.9.0 <3.11.0"
+            }
+          },
+          "0.3.1": {
+            "version": "0.3.1",
+            "name": "com.avatarrefinery.core",
+            "displayName": "Avatar Refinery Lite",
+            "description": "Read-only VRChat avatar preflight checks with Japanese and English guidance, performance estimates, and Markdown reports.",
+            "url": "https://tmiosg-commits.github.io/avatar-refinery/downloads/com.avatarrefinery.core-0.3.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -102886,7 +103043,7 @@
     "id": "jp.toh.package-listing",
     "author": "toh",
     "hash": "cc3967c59f319ff5c3910acb82ddac984aa9ad35b5aaec5e395d6ab2cf0dfd4f",
-    "last_updated": "2025-04-28T14:28:14.000Z",
+    "last_updated": "2025-04-28T14:28:15.000Z",
     "packageCount": 1,
     "packages": {
       "jp.toh.easy-object-switch": {
@@ -103521,7 +103678,7 @@
     "id": "com.triturbo.blendshare.listing",
     "author": "Triturbo",
     "hash": "8d43fe402736de6cd2621406d3b850107d5fa9a6bc801a1a5857547ed262526d",
-    "last_updated": "2026-07-05T12:32:45.000Z",
+    "last_updated": "2026-07-05T12:32:46.000Z",
     "packageCount": 1,
     "packages": {
       "com.triturbo.blendshare": {
@@ -105313,7 +105470,7 @@
     "id": "net.pawlygon.vcc-packages",
     "author": "Pawlygon",
     "hash": "ffddfc1a87cdf9aed91a660cbaca0e51f7f86152c9a6f89bfce1276d0295a790",
-    "last_updated": "2026-07-01T04:45:50.000Z",
+    "last_updated": "2026-07-01T04:45:49.000Z",
     "packageCount": 2,
     "packages": {
       "net.pawlygon.vrc-facetracking": {
@@ -105838,8 +105995,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "4ea3d71a60b073e63d0f30f987b1b4d384dcb569ee087c9ab1b5bcda798d366d",
-    "last_updated": "2026-09-27T03:31:37.000Z",
+    "hash": "5aeb32d19842777d3678f4b62ac1768cef7808740db1aaccf396c31a88072b58",
+    "last_updated": "2026-09-28T03:29:37.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -119980,7 +120137,7 @@
     "id": "io.mekabu.vpm-repository",
     "author": "contact@mekabu.io",
     "hash": "afb531d339483772668bf9b0fbe2f91415a0d37733b4adad67544741ae03cb2e",
-    "last_updated": "2026-09-27T03:18:03.000Z",
+    "last_updated": "2026-09-28T03:19:04.000Z",
     "packageCount": 2,
     "packages": {
       "com.mekabu.blendshape-animation-creator": {
@@ -121403,7 +121560,7 @@
     "name": "anatawa12",
     "id": "com.anatawa12.main",
     "author": "anatawa12",
-    "hash": "43c71212fcd5d5d76f4c8e7b12106c92afd3e922907352f64e26dd12098d883d",
+    "hash": "9a7af55404a7ae2a89bbbcf575eefcfe2cfdd3279541f248214cea9865d8088c",
     "last_updated": "2026-08-01T16:09:51.342Z",
     "packageCount": 14,
     "packages": {
@@ -121413,7 +121570,7 @@
         "displayName": "Anatawa12's AvatarOpitmizer",
         "description": "Set of Anatawa12's Small Avatar Optimization Utilities",
         "latestVersion": "0.0.1",
-        "versionCount": 351,
+        "versionCount": 352,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -126038,6 +126195,19 @@
               "nadena.dev.ndmf": ">=1.8.0 <2.0.0",
               "com.vrchat.avatars": ">=3.7.0 <3.11.0"
             }
+          },
+          "1.9.20-beta.1": {
+            "version": "1.9.20-beta.1",
+            "name": "com.anatawa12.avatar-optimizer",
+            "displayName": "AAO: Avatar Optimizer",
+            "description": "Set of Anatawa12's Small Avatar Optimization Utilities",
+            "url": "https://vpm.anatawa12.com/avatar-optimizer/package-1.9.20-beta.1.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.8.0 <2.0.0",
+              "com.vrchat.avatars": ">=3.7.0 <3.11.0"
+            }
           }
         }
       },
@@ -128914,7 +129084,7 @@
     "id": "net.bluwizard.vpmlist",
     "author": "BluWizard",
     "hash": "91ce58f5be4589bf48bc281502e4630bb35422e5e322325962be4aeb30a76c9e",
-    "last_updated": "2026-09-10T07:00:45.000Z",
+    "last_updated": "2026-09-10T07:00:46.000Z",
     "packageCount": 7,
     "packages": {
       "net.bluwizard.poipresets": {
@@ -162676,7 +162846,7 @@
     "id": "jp.pipipigiken.vpm",
     "author": "orange3134",
     "hash": "ece9c908434de913bd1ed23fcfc0ae011caef63383abb0e902b92aff2c5e480d",
-    "last_updated": "2026-09-27T01:32:48.000Z",
+    "last_updated": "2026-09-28T01:44:35.000Z",
     "packageCount": 2,
     "packages": {
       "com.avatarnamecard.avatar-package": {
@@ -169080,8 +169250,8 @@
     "name": "WhyKnot Tools",
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
-    "hash": "2da62726cc5c5ac8ebef823e8481cf0b43f605c00b8eeb1bab8350eee801462d",
-    "last_updated": "2026-09-26T10:29:58.000Z",
+    "hash": "0da82caa54e60cb3d003eee8870d87c2e679bd10c166826d38451ee315e1dde9",
+    "last_updated": "2026-09-27T11:01:29.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -180553,8 +180723,8 @@
     "name": "Explosive Theorem Lab. Metaverse Division",
     "id": "idv.jlchntoz.xtlcdn-listing",
     "author": "Jeremy Lam aka. Vistanz",
-    "hash": "13be64bd56141fd88729f9f5757928f4c0954ec501cd074b4ca12423f8c82e03",
-    "last_updated": "2026-09-24T12:52:07.000Z",
+    "hash": "29f4b1eefe9649c51a423800d5cea6b9d25e0481a7f49bd3b277b6cd4fdb479d",
+    "last_updated": "2026-09-27T13:44:58.000Z",
     "packageCount": 14,
     "packages": {
       "idv.jlchntoz.vrcw-foundation": {
@@ -183149,8 +183319,8 @@
         "name": "idv.jlchntoz.lazyswitch",
         "displayName": "Lazy Switch",
         "description": "A maximum 32-states multi purpose switch for VRChat, designed for lazies.",
-        "latestVersion": "0.9.7",
-        "versionCount": 27,
+        "latestVersion": "0.10.0",
+        "versionCount": 28,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -183159,6 +183329,19 @@
           "url": "https://xtl.booth.pm"
         },
         "versions": {
+          "0.10.0": {
+            "version": "0.10.0",
+            "name": "idv.jlchntoz.lazyswitch",
+            "displayName": "Lazy Switch",
+            "description": "A maximum 32-states multi purpose switch for VRChat, designed for lazies.",
+            "url": "https://github.com/JLChnToZ/lazyswitch/releases/download/0.10.0/idv.jlchntoz.lazyswitch-0.10.0.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.x.x >=3.10.2",
+              "idv.jlchntoz.vrcw-foundation": "0.x.x >=0.0.53"
+            }
+          },
           "0.9.7": {
             "version": "0.9.7",
             "name": "idv.jlchntoz.lazyswitch",
@@ -189066,8 +189249,8 @@
     "name": "Poiyomi's VPM Repo",
     "id": "io.github.poiyomi.vpm",
     "author": "Poiyomi",
-    "hash": "edb738f83d5d6d584b420709789976f5b389fbfe912027710c6203b68d565946",
-    "last_updated": "2026-09-27T02:49:13.000Z",
+    "hash": "15a37fbd5df436d00fb41bbd3783a9202da43dfa6457889f7bcc170000d3cd31",
+    "last_updated": "2026-09-28T02:14:48.000Z",
     "packageCount": 3,
     "packages": {
       "com.poiyomi.toon": {
@@ -189597,8 +189780,8 @@
         "name": "com.poiyomi.pro",
         "displayName": "Poiyomi Pro",
         "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
-        "latestVersion": "11.0.17",
-        "versionCount": 37,
+        "latestVersion": "11.0.18",
+        "versionCount": 38,
         "keywords": [
           "shaders",
           "vrchat",
@@ -189612,6 +189795,16 @@
           "url": "https://poiyomi.com"
         },
         "versions": {
+          "11.0.18": {
+            "version": "11.0.18",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://github.com/poiyomi/Poiyomi-Pro-Downloader/releases/download/v11.0.18/com.poiyomi.pro-11.0.18.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
           "11.0.17": {
             "version": "11.0.17",
             "name": "com.poiyomi.pro",
