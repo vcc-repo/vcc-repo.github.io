@@ -15391,8 +15391,8 @@
     "name": "Orbiters VPM",
     "id": "cc.orbiters.vpm",
     "author": "blackorbit",
-    "hash": "614ab3c617d8990aa05464b94adcad02a17d538e19b38c483b66006e0671765c",
-    "last_updated": "2026-10-02T03:35:20.000Z",
+    "hash": "d739de3cbf694db78a04ce59ed06df0c281529de1b1d3a7e27834baf0fb2ad8e",
+    "last_updated": "2026-10-03T02:45:45.000Z",
     "packageCount": 8,
     "packages": {
       "orbiters.mcb": {
@@ -15400,8 +15400,8 @@
         "name": "orbiters.mcb",
         "displayName": "My Custom Base (MCB)",
         "description": "Wizard to apply a custom base with the MCB tool",
-        "latestVersion": "1.10.1",
-        "versionCount": 13,
+        "latestVersion": "1.10.3",
+        "versionCount": 14,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -15410,6 +15410,21 @@
           "email": "blackorbit.eclaire@gmail.com"
         },
         "versions": {
+          "1.10.3": {
+            "version": "1.10.3",
+            "name": "orbiters.mcb",
+            "displayName": "My Custom Base (MCB)",
+            "description": "Wizard to apply a custom base with the MCB tool",
+            "url": "https://github.com/Orbiters-cc/MyCustomBase/releases/download/1.10.3/My.Custom.Base.MCB.-1.10.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "orbiters.toolkit": ">=0.3.7 <0.4.0",
+              "com.vrchat.avatars": ">=3.7.0 <4.0.0",
+              "com.vrcfury.vrcfury": ">=1.1241.0",
+              "com.vrchat.core.vpm-resolver": ">=0.1.29 <0.2.0"
+            }
+          },
           "1.10.1": {
             "version": "1.10.1",
             "name": "orbiters.mcb",
@@ -15830,8 +15845,8 @@
         "name": "orbiters.myavatar",
         "displayName": "My Avatar",
         "description": "Apply texture sets to your avatar and optimize them in one click, put on clothes and accessories from their packages and fit them to your custom base (alpha), create its VRChat thumbnail, pose it with symmetry and a clothing preview, set who can grab, pose and stretch its hair, tail and toes, and check its synced parameters. Save also records a Unit Git checkpoint when Unit Git is installed.",
-        "latestVersion": "0.8.0",
-        "versionCount": 11,
+        "latestVersion": "0.8.2",
+        "versionCount": 12,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -15840,6 +15855,20 @@
           "email": "blackorbit.eclaire@gmail.com"
         },
         "versions": {
+          "0.8.2": {
+            "version": "0.8.2",
+            "name": "orbiters.myavatar",
+            "displayName": "My Avatar",
+            "description": "Apply texture sets to your avatar and optimize them in one click, put on clothes and accessories from their packages and fit them to your custom base (alpha), create its VRChat thumbnail, pose it with symmetry and a clothing preview, set who can grab, pose and stretch its hair, tail and toes, and check its synced parameters. Save also records a Unit Git checkpoint when Unit Git is installed.",
+            "url": "https://github.com/Orbiters-cc/MyAvatar/releases/download/0.8.2/MyAvatar-0.8.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "orbiters.toolkit": ">=0.3.7 <0.4.0",
+              "com.vrchat.avatars": ">=3.7.0 <4.0.0",
+              "orbiters.xraygizmos": ">=0.2.6 <0.3.0"
+            }
+          },
           "0.8.0": {
             "version": "0.8.0",
             "name": "orbiters.myavatar",
@@ -15999,8 +16028,8 @@
         "name": "orbiters.refit",
         "displayName": "ReFit",
         "description": "Re-fit clothing and accessories made for a 3D model A so they fit a 3D model B, as a non-destructive 'refit' blendshape. Usable standalone through a wizard or as a module via its public API (used by MCB).",
-        "latestVersion": "0.5.0",
-        "versionCount": 8,
+        "latestVersion": "0.5.1",
+        "versionCount": 9,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -16009,6 +16038,18 @@
           "email": "blackorbit.eclaire@gmail.com"
         },
         "versions": {
+          "0.5.1": {
+            "version": "0.5.1",
+            "name": "orbiters.refit",
+            "displayName": "ReFit",
+            "description": "Re-fit clothing and accessories made for a 3D model A so they fit a 3D model B, as a non-destructive 'refit' blendshape. Usable standalone through a wizard or as a module via its public API (used by MCB).",
+            "url": "https://github.com/Orbiters-cc/ReFit/releases/download/0.5.1/ReFit-0.5.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "orbiters.toolkit": ">=0.3.7 <0.4.0"
+            }
+          },
           "0.5.0": {
             "version": "0.5.0",
             "name": "orbiters.refit",
@@ -16102,8 +16143,8 @@
         "name": "orbiters.toolkit",
         "displayName": "Orbiters Toolkit",
         "description": "Shared Orbiters account, editor UI, feature flags, VPM dependency prompts, bone matching, accessory attachment and posing preview, blendshape links, custom base refits (records, build-time blendshape links, fit checks), avatar photoshoot, mirror posing and background window capture.",
-        "latestVersion": "0.3.5",
-        "versionCount": 12,
+        "latestVersion": "0.3.7",
+        "versionCount": 13,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -16112,6 +16153,18 @@
           "email": "blackorbit.eclaire@gmail.com"
         },
         "versions": {
+          "0.3.7": {
+            "version": "0.3.7",
+            "name": "orbiters.toolkit",
+            "displayName": "Orbiters Toolkit",
+            "description": "Shared Orbiters account, editor UI, feature flags, VPM dependency prompts, bone matching, accessory attachment and posing preview, blendshape links, custom base refits (records, build-time blendshape links, fit checks), avatar photoshoot, mirror posing and background window capture.",
+            "url": "https://github.com/Orbiters-cc/Toolkit/releases/download/0.3.7/Toolkit-0.3.7.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.unity.nuget.newtonsoft-json": "3.2.1"
+            }
+          },
           "0.3.5": {
             "version": "0.3.5",
             "name": "orbiters.toolkit",
@@ -16261,8 +16314,8 @@
         "name": "orbiters.xraygizmos",
         "displayName": "XRay Gizmos",
         "description": "Unity editor xray armature and weight paint gizmos for selected objects or loaded scenes.",
-        "latestVersion": "0.2.5",
-        "versionCount": 5,
+        "latestVersion": "0.2.6",
+        "versionCount": 6,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -16271,6 +16324,18 @@
           "email": "blackorbit.eclaire@gmail.com"
         },
         "versions": {
+          "0.2.6": {
+            "version": "0.2.6",
+            "name": "orbiters.xraygizmos",
+            "displayName": "XRay Gizmos",
+            "description": "Unity editor xray armature and weight paint gizmos for selected objects or loaded scenes.",
+            "url": "https://github.com/Orbiters-cc/XRayGizmos/releases/download/0.2.6/XRayGizmos-0.2.6.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "orbiters.toolkit": ">=0.3.7 <0.4.0"
+            }
+          },
           "0.2.5": {
             "version": "0.2.5",
             "name": "orbiters.xraygizmos",
@@ -16336,8 +16401,8 @@
         "name": "orbiters.unitgit",
         "displayName": "Unit Git",
         "description": "Unity editor Git wrapper for VRChat Unity projects.",
-        "latestVersion": "0.2.1",
-        "versionCount": 6,
+        "latestVersion": "0.2.2",
+        "versionCount": 7,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -16346,6 +16411,18 @@
           "email": "blackorbit.eclaire@gmail.com"
         },
         "versions": {
+          "0.2.2": {
+            "version": "0.2.2",
+            "name": "orbiters.unitgit",
+            "displayName": "Unit Git",
+            "description": "Unity editor Git wrapper for VRChat Unity projects.",
+            "url": "https://github.com/Orbiters-cc/UnitGit/releases/download/0.2.2/UnitGit-0.2.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "orbiters.toolkit": ">=0.3.7 <0.4.0"
+            }
+          },
           "0.2.1": {
             "version": "0.2.1",
             "name": "orbiters.unitgit",
@@ -16415,8 +16492,8 @@
         "name": "orbiters.unitypackagemanager",
         "displayName": "UnityPackageManager",
         "description": "Inspect .unitypackage archives, browse and edit their contents, and import selected assets anywhere in the project.",
-        "latestVersion": "0.1.1",
-        "versionCount": 2,
+        "latestVersion": "0.1.2",
+        "versionCount": 3,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -16425,6 +16502,16 @@
           "email": "blackorbit.eclaire@gmail.com"
         },
         "versions": {
+          "0.1.2": {
+            "version": "0.1.2",
+            "name": "orbiters.unitypackagemanager",
+            "displayName": "UnityPackageManager",
+            "description": "Inspect .unitypackage archives, browse and edit their contents, and import selected assets anywhere in the project.",
+            "url": "https://github.com/Orbiters-cc/Unity-Package-Manager/releases/download/0.1.2/unity-package-manager-0.1.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "0.1.1": {
             "version": "0.1.1",
             "name": "orbiters.unitypackagemanager",
@@ -17581,7 +17668,7 @@
     "id": "com.github.ch4rindo.vpm",
     "author": "ch4rindo",
     "hash": "622f1e0f36d6a8e11b25a886a10399eafd32b4945f0cd95b5dea7c788a739eb0",
-    "last_updated": "2026-09-28T08:46:16.000Z",
+    "last_updated": "2026-09-28T08:46:15.000Z",
     "packageCount": 2,
     "packages": {
       "dev.r1nd0.assetfinder": {
@@ -19393,7 +19480,7 @@
     "id": "com.cyan.cyantrigger.vcc-listing",
     "author": "CyanLaser",
     "hash": "a6d67a91e3c26d4b2575f25029cc6f6fea9441c11451fdd533128d76b3ba3e61",
-    "last_updated": "2026-07-03T00:44:10.000Z",
+    "last_updated": "2026-07-03T00:44:09.000Z",
     "packageCount": 2,
     "packages": {
       "com.cyan.cyantrigger": {
@@ -27725,7 +27812,7 @@
     "id": "com.furality.repos.official",
     "author": "Furality, Inc.",
     "hash": "1f058d849e3d6f8fbf1320164b63cd1f1019b43a7993a1adfa11f274f8288e49",
-    "last_updated": "2026-08-08T02:49:10.000Z",
+    "last_updated": "2026-08-08T02:49:09.000Z",
     "packageCount": 3,
     "packages": {
       "com.furality.sylvashader": {
@@ -28858,7 +28945,7 @@
     "name": "JanSharp Packages",
     "id": "com.jansharp.main",
     "author": "JanSharp",
-    "hash": "fe298eb4afcd2cf774c036a29d68ebb4e30565f466b84db8acb72bbaedda8b71",
+    "hash": "a70097a2c90b01de0037f36934b2b4a236053ba3c11c2b87ca45ab0c26bf7892",
     "last_updated": "2026-08-31T03:27:37.057Z",
     "packageCount": 14,
     "packages": {
@@ -29115,7 +29202,7 @@
         "displayName": "JanSharp Common",
         "description": "Utilities used and shared between several of my packages.",
         "latestVersion": "0.1.0",
-        "versionCount": 21,
+        "versionCount": 22,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -29372,6 +29459,18 @@
             "displayName": "JanSharp Common",
             "description": "Utilities used and shared between several of my packages.",
             "url": "https://github.com/JanSharp/VRCJanSharpCommon/releases/download/v1.4.0/com.jansharp.common.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.6.x"
+            }
+          },
+          "1.4.1": {
+            "version": "1.4.1",
+            "name": "com.jansharp.common",
+            "displayName": "JanSharp Common",
+            "description": "Utilities used and shared between several of my packages.",
+            "url": "https://github.com/JanSharp/VRCJanSharpCommon/releases/download/v1.4.1/com.jansharp.common.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -33274,8 +33373,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "7dca1d3b50adb6f86428dc1f754d017025f70a2b8cc6b9e6a3a0b0f0c99b6ddc",
-    "last_updated": "2026-09-29T10:05:54.000Z",
+    "hash": "053526e1a0802aaf572bd1c7f12f86d5df4af21ecb906808258df4c506d70dd9",
+    "last_updated": "2026-10-02T09:06:13.000Z",
     "packageCount": 7,
     "packages": {
       "com.poiyomi.pro": {
@@ -33284,7 +33383,7 @@
         "displayName": "Poiyomi Pro",
         "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
         "latestVersion": "11.0.22",
-        "versionCount": 30,
+        "versionCount": 31,
         "keywords": [
           "shaders",
           "vrchat",
@@ -33404,6 +33503,16 @@
             "displayName": "Poiyomi Pro",
             "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
             "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.12/c3d400f707872b4871f03876aa56a1cc4b67a1f13f3f88cc0622760013eb756f",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.11": {
+            "version": "11.0.11",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.11/2fc040b1437dec09a9ddb576d5b5703e74c4b064c3672a412fa1ebd4ff63d1e5",
             "zipSha256": null,
             "unity": "2021.3",
             "vpmDependencies": {}
@@ -33613,8 +33722,8 @@
         "name": "com.poiyomi.thryeditor",
         "displayName": "ThryEditor",
         "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
-        "latestVersion": "2.74.1",
-        "versionCount": 25,
+        "latestVersion": "2.74.3",
+        "versionCount": 27,
         "keywords": [],
         "unity": "2021.3",
         "author": {
@@ -33622,6 +33731,26 @@
           "url": "https://www.poiyomi.com"
         },
         "versions": {
+          "2.74.3": {
+            "version": "2.74.3",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.74.3/52ee27e0e93a08e273efae0b251ba2041acae5282ce4fe5f55797d2e99b7e83e",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.74.2": {
+            "version": "2.74.2",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.74.2/3dceff1432cec7348ffa07d5737fc4936a344cf063ef0c84c1af1cd484435dc3",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
           "2.74.1": {
             "version": "2.74.1",
             "name": "com.poiyomi.thryeditor",
@@ -40402,7 +40531,7 @@
     "id": "com.github.hkrn",
     "author": "hkrn",
     "hash": "66afe02e940c091d4b955f7a758659dfa28c963b53e571fc1c24147280761b5f",
-    "last_updated": "2026-07-12T08:29:10.000Z",
+    "last_updated": "2026-07-12T08:29:09.000Z",
     "packageCount": 1,
     "packages": {
       "com.github.hkrn.ndmf-vrm-exporter": {
@@ -40973,7 +41102,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "680029c772846cb5e5b7331c6f399296d7c3d340058c68c9f48e255a6fa8e65e",
-    "last_updated": "2026-10-01T10:14:10.000Z",
+    "last_updated": "2026-10-02T09:51:41.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -42454,7 +42583,7 @@
     "id": "dev.jetees.vpm-listing",
     "author": "JeTeeS",
     "hash": "c43d1d46596697e66705b99d7740a062daf269bacdf077d0810963cb05d466da",
-    "last_updated": "2024-05-22T15:17:51.000Z",
+    "last_updated": "2024-05-22T15:17:52.000Z",
     "packageCount": 1,
     "packages": {
       "dev.jetees.memoryoptimizer": {
@@ -42914,7 +43043,7 @@
     "id": "dev.kaefibot.listing",
     "author": "WoweePaw",
     "hash": "0f954512e7a69a442d27394f918fc68614873d3db3706347e1e36e0acde01244",
-    "last_updated": "2026-07-05T15:03:28.000Z",
+    "last_updated": "2026-07-05T15:03:29.000Z",
     "packageCount": 1,
     "packages": {
       "dev.kaefibot.kaefibot-controller": {
@@ -50594,7 +50723,7 @@
     "id": "com.kie.vpm",
     "author": "Kie",
     "hash": "9c720b21a0d472446cbcefecd3ffddfe48df0b160a1cc2d716f8020dfadddb34",
-    "last_updated": "2026-10-01T20:11:24.000Z",
+    "last_updated": "2026-10-02T19:47:54.000Z",
     "packageCount": 3,
     "packages": {
       "com.kie.kie-mergeable-toggle": {
@@ -51519,8 +51648,8 @@
     "name": "KOZ39",
     "id": "io.github.koz39.vpm-listing",
     "author": "KOZ39",
-    "hash": "73fb26428e6bf6ea47c88805cd198d7e9bdd90719b7b0bcff5aa6ac5f1693ce5",
-    "last_updated": "2026-09-30T13:01:37.000Z",
+    "hash": "1824f0de410ba0be81520060ddfddb0c2ccd8476d0a42fe1f646add7f64d981f",
+    "last_updated": "2026-10-02T12:51:20.000Z",
     "packageCount": 2,
     "packages": {
       "dev.koz39.icon-generator": {
@@ -51644,9 +51773,9 @@
         "id": "dev.koz39.knee-fixer",
         "name": "dev.koz39.knee-fixer",
         "displayName": "Knee Fixer",
-        "description": null,
-        "latestVersion": "2.1.4",
-        "versionCount": 5,
+        "description": "Non-destructive knee correction tool for VRChat avatars.",
+        "latestVersion": "2.2.0",
+        "versionCount": 6,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -51655,6 +51784,19 @@
           "url": "https://github.com/KOZ39"
         },
         "versions": {
+          "2.2.0": {
+            "version": "2.2.0",
+            "name": "dev.koz39.knee-fixer",
+            "displayName": "Knee Fixer",
+            "description": "Non-destructive knee correction tool for VRChat avatars.",
+            "url": "https://github.com/KOZ39/Knee-Fixer/releases/download/2.2.0/dev.koz39.knee-fixer-2.2.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.3 <4.0.0",
+              "nadena.dev.ndmf": ">=1.5.0 <2.0.0"
+            }
+          },
           "2.1.4": {
             "version": "2.1.4",
             "name": "dev.koz39.knee-fixer",
@@ -55024,7 +55166,7 @@
     "id": "com.ajisaiflow.vpm",
     "author": "AjisaiFlow",
     "hash": "fa2c75422741b4b236bc03769fdde624260d9a3a974593192bda1423feeb0a46",
-    "last_updated": "2026-09-24T03:19:31.000Z",
+    "last_updated": "2026-10-02T12:58:30.000Z",
     "packageCount": 4,
     "packages": {
       "net.ajisaiflow.anti-ripping": {
@@ -57106,7 +57248,7 @@
     "id": "com.lightbulb.vpm",
     "author": "Lightbulb",
     "hash": "86035e14035d9e3d3af5a093e98f7d7ffabdc1c88c84e5657e741b3b3955025d",
-    "last_updated": "2026-10-02T02:16:13.000Z",
+    "last_updated": "2026-10-03T00:30:43.000Z",
     "packageCount": 1,
     "packages": {
       "com.lightbulb.world-tools": {
@@ -57380,8 +57522,8 @@
     "name": "lilxyzw-shadercore-modules",
     "id": "io.github.lilxyzw.vpm-shadercore-modules",
     "author": "lilxyzw",
-    "hash": "077d5d96f9c55d366c931fb96c72e4f9590f9414ef90b39e9dca0c7b6ab22c76",
-    "last_updated": "2026-10-01T15:25:36.000Z",
+    "hash": "12bdcfbc8f3c8d5b572efe8b17432aef619a5b7848a69d94eea92eb539cac828",
+    "last_updated": "2026-10-02T04:55:39.000Z",
     "packageCount": 4,
     "packages": {
       "jp.lilxyzw.avatarlightmodifier": {
@@ -57472,12 +57614,23 @@
         "name": "jp.lilxyzw.vrclvmodule",
         "displayName": "VRCLVModule",
         "description": null,
-        "latestVersion": "1.1.1",
-        "versionCount": 2,
+        "latestVersion": "1.2.0",
+        "versionCount": 3,
         "keywords": [],
         "unity": null,
         "author": "lilxyzw",
         "versions": {
+          "1.2.0": {
+            "version": "1.2.0",
+            "name": "jp.lilxyzw.vrclvmodule",
+            "displayName": "VRCLVModule",
+            "description": "",
+            "url": "https://github.com/lilxyzw/VRCLVModule/releases/download/1.2.0/jp.lilxyzw.vrclvmodule-1.2.0.zip?",
+            "zipSha256": null,
+            "vpmDependencies": {
+              "red.sim.lightvolumes": "^2.1.3"
+            }
+          },
           "1.1.1": {
             "version": "1.1.1",
             "name": "jp.lilxyzw.vrclvmodule",
@@ -57509,8 +57662,8 @@
     "name": "lilxyzw",
     "id": "io.github.lilxyzw.vpm",
     "author": "lilxyzw",
-    "hash": "d2c01e7b47dc1ea11beeb12bbd07e0f0217e77cc0ddcb37f9ee366dbb92f370a",
-    "last_updated": "2026-09-15T14:23:39.000Z",
+    "hash": "c781d6990a1068c55016d56391bf0fe07f72d5e4e4782669b4e592b7f0f99b7f",
+    "last_updated": "2026-10-02T07:26:49.000Z",
     "packageCount": 11,
     "packages": {
       "jp.lilxyzw.liltoon": {
@@ -58819,12 +58972,24 @@
         "name": "jp.lilxyzw.nontoon",
         "displayName": "NonToon",
         "description": null,
-        "latestVersion": "0.1.3",
-        "versionCount": 4,
+        "latestVersion": "0.2.0",
+        "versionCount": 5,
         "keywords": [],
         "unity": "2022.3",
         "author": "lilxyzw",
         "versions": {
+          "0.2.0": {
+            "version": "0.2.0",
+            "name": "jp.lilxyzw.nontoon",
+            "displayName": "NonToon",
+            "description": "",
+            "url": "https://github.com/lilxyzw/NonToon/releases/download/0.2.0/jp.lilxyzw.nontoon-0.2.0.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "jp.lilxyzw.shadercore": "^0.2.0"
+            }
+          },
           "0.1.3": {
             "version": "0.1.3",
             "name": "jp.lilxyzw.nontoon",
@@ -58878,12 +59043,24 @@
         "name": "jp.lilxyzw.shadercore",
         "displayName": "Shader Core",
         "description": null,
-        "latestVersion": "0.1.12",
-        "versionCount": 13,
+        "latestVersion": "0.2.0",
+        "versionCount": 14,
         "keywords": [],
         "unity": "2022.3",
         "author": "lilxyzw",
         "versions": {
+          "0.2.0": {
+            "version": "0.2.0",
+            "name": "jp.lilxyzw.shadercore",
+            "displayName": "Shader Core",
+            "description": "",
+            "url": "https://github.com/lilxyzw/Shader-Core/releases/download/0.2.0/jp.lilxyzw.shadercore-0.2.0.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.unity.nuget.newtonsoft-json": "3.0.0"
+            }
+          },
           "0.1.12": {
             "version": "0.1.12",
             "name": "jp.lilxyzw.shadercore",
@@ -59224,8 +59401,8 @@
     "name": "LumaKroma SPS2 Setup Assistant",
     "id": "com.lumakroma.sps2-listing",
     "author": "LumaKroma",
-    "hash": "a6f571435354e3690b74b6c23e28f28272bd51967a645a473dc56191e647e165",
-    "last_updated": "2026-09-22T11:11:06.000Z",
+    "hash": "916dd293d3eb547627f372bd597134b03845884d1fd5e22e5d5a4f822d19648b",
+    "last_updated": "2026-10-02T18:14:34.000Z",
     "packageCount": 1,
     "packages": {
       "com.lumakroma.sps2-setup-assistant": {
@@ -59233,8 +59410,8 @@
         "name": "com.lumakroma.sps2-setup-assistant",
         "displayName": "SPS2 Setup Assistant",
         "description": "SPS2 authoring setup, native VRCFury integration and uploaded test Plug for Humanoid VRChat avatars.",
-        "latestVersion": "1.0.1",
-        "versionCount": 3,
+        "latestVersion": "1.1.1",
+        "versionCount": 5,
         "keywords": [
           "vrchat",
           "sps2",
@@ -59248,12 +59425,38 @@
           "url": "https://github.com/LumaKroma"
         },
         "versions": {
+          "1.1.1": {
+            "version": "1.1.1",
+            "name": "com.lumakroma.sps2-setup-assistant",
+            "displayName": "SPS2 Setup Assistant",
+            "description": "SPS2 authoring setup, native VRCFury integration and uploaded test Plug for Humanoid VRChat avatars.",
+            "url": "https://github.com/LumaKroma/SPS2-Setup-Assistant/releases/download/1.1.1/com.lumakroma.sps2-setup-assistant-1.1.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.4 <4.0.0",
+              "com.vrcfury.vrcfury": ">=1.0.0"
+            }
+          },
           "1.0.1": {
             "version": "1.0.1",
             "name": "com.lumakroma.sps2-setup-assistant",
             "displayName": "SPS2 Setup Assistant",
             "description": "SPS2 authoring setup, native VRCFury integration and uploaded test Plug for Humanoid VRChat avatars.",
             "url": "https://github.com/LumaKroma/SPS2-Setup-Assistant/releases/download/1.0.1/com.lumakroma.sps2-setup-assistant-1.0.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.4 <4.0.0",
+              "com.vrcfury.vrcfury": ">=1.0.0"
+            }
+          },
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "com.lumakroma.sps2-setup-assistant",
+            "displayName": "SPS2 Setup Assistant",
+            "description": "SPS2 authoring setup, native VRCFury integration and uploaded test Plug for Humanoid VRChat avatars.",
+            "url": "https://github.com/LumaKroma/SPS2-Setup-Assistant/releases/download/1.1.0/com.lumakroma.sps2-setup-assistant-1.1.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -62201,8 +62404,8 @@
     "name": "VR Vlog Packages",
     "id": "com.vrvlog.packages",
     "author": "VR Vlog",
-    "hash": "04adffc1991d0a0f9b8df70f9f6cc7250ae9c0d54069f768bbe3314c1d77f375",
-    "last_updated": "2026-10-02T03:46:05.000Z",
+    "hash": "48c0394872851d136e3326b174f6627af7a9d0aa053e06d13a387096a73faa3a",
+    "last_updated": "2026-10-02T12:21:07.000Z",
     "packageCount": 3,
     "packages": {
       "com.vrmc.gltf": {
@@ -62225,7 +62428,7 @@
             "name": "com.vrmc.gltf",
             "displayName": "UniGLTF",
             "description": "GLTF importer and exporter",
-            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.6/com.vrmc.gltf-0.131.0.zip",
+            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.10/com.vrmc.gltf-0.131.0.zip",
             "zipSha256": null,
             "unity": "2021.3",
             "vpmDependencies": {
@@ -62261,7 +62464,7 @@
             "name": "com.vrmc.vrm",
             "displayName": "VRM-1.0",
             "description": "VRM-1.0 importer",
-            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.6/com.vrmc.vrm-0.131.0.zip",
+            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.10/com.vrmc.vrm-0.131.0.zip",
             "zipSha256": null,
             "unity": "2021.3",
             "vpmDependencies": {
@@ -62276,8 +62479,8 @@
         "name": "com.vrvlog.liltoon-vrm-exporter",
         "displayName": "VR Vlog lilToon VRM Exporter",
         "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-        "latestVersion": "0.11.6",
-        "versionCount": 36,
+        "latestVersion": "0.11.10",
+        "versionCount": 40,
         "keywords": [
           "vrm",
           "liltoon",
@@ -62289,6 +62492,58 @@
           "name": "VR Vlog"
         },
         "versions": {
+          "0.11.10": {
+            "version": "0.11.10",
+            "name": "com.vrvlog.liltoon-vrm-exporter",
+            "displayName": "VR Vlog lilToon VRM Exporter",
+            "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
+            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.10/com.vrvlog.liltoon-vrm-exporter-0.11.10.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrmc.gltf": "0.131.x",
+              "com.vrmc.vrm": "0.131.x"
+            }
+          },
+          "0.11.9": {
+            "version": "0.11.9",
+            "name": "com.vrvlog.liltoon-vrm-exporter",
+            "displayName": "VR Vlog lilToon VRM Exporter",
+            "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
+            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.9/com.vrvlog.liltoon-vrm-exporter-0.11.9.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrmc.gltf": "0.131.x",
+              "com.vrmc.vrm": "0.131.x"
+            }
+          },
+          "0.11.8": {
+            "version": "0.11.8",
+            "name": "com.vrvlog.liltoon-vrm-exporter",
+            "displayName": "VR Vlog lilToon VRM Exporter",
+            "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
+            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.8/com.vrvlog.liltoon-vrm-exporter-0.11.8.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrmc.gltf": "0.131.x",
+              "com.vrmc.vrm": "0.131.x"
+            }
+          },
+          "0.11.7": {
+            "version": "0.11.7",
+            "name": "com.vrvlog.liltoon-vrm-exporter",
+            "displayName": "VR Vlog lilToon VRM Exporter",
+            "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
+            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.7/com.vrvlog.liltoon-vrm-exporter-0.11.7.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrmc.gltf": "0.131.x",
+              "com.vrmc.vrm": "0.131.x"
+            }
+          },
           "0.11.6": {
             "version": "0.11.6",
             "name": "com.vrvlog.liltoon-vrm-exporter",
@@ -64964,8 +65219,8 @@
     "name": "Nekoare VPM Packages（同梱版）",
     "id": "com.nekoare.vpm.bundled",
     "author": "nekoare",
-    "hash": "45c2482dc244264d002ef62bec8ce696c9b67ad40ef42eb6c8a987331e380052",
-    "last_updated": "2026-10-01T22:16:18.000Z",
+    "hash": "8f9a167f23d5750541522df258e05130e3b4145920d187e5d5013afa3138874a",
+    "last_updated": "2026-10-02T21:21:57.000Z",
     "packageCount": 2,
     "packages": {
       "com.nekoare.chimera-hair-master": {
@@ -64973,8 +65228,8 @@
         "name": "com.nekoare.chimera-hair-master",
         "displayName": "キメラヘアマスター",
         "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-        "latestVersion": "1.6.3",
-        "versionCount": 48,
+        "latestVersion": "1.6.4",
+        "versionCount": 49,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -64982,6 +65237,18 @@
           "url": "https://neko-to-same.booth.pm/"
         },
         "versions": {
+          "1.6.4": {
+            "version": "1.6.4",
+            "name": "com.nekoare.chimera-hair-master",
+            "displayName": "キメラヘアマスター",
+            "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v1.6.4/com.nekoare.chimera-hair-master-1.6.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.14.0"
+            }
+          },
           "1.6.3": {
             "version": "1.6.3",
             "name": "com.nekoare.chimera-hair-master",
@@ -65719,8 +65986,8 @@
     "name": "Avatar Recovery Unity",
     "id": "com.nickel-jp.repos.avatar-recovery",
     "author": "Nickel-JP",
-    "hash": "6c805d2dbdf5e105db662f2bd4580ee548fc5fdd8911a2fd9a4889d5abfb95f9",
-    "last_updated": "2026-09-25T15:40:59.000Z",
+    "hash": "bb95073b669fa2947273d9bd2fa92b2f5ca78bfda27c12e774f800c742963b16",
+    "last_updated": "2026-10-02T15:51:42.000Z",
     "packageCount": 1,
     "packages": {
       "com.nickel-jp.avatar-recovery": {
@@ -65728,7 +65995,7 @@
         "name": "com.nickel-jp.avatar-recovery",
         "displayName": "Avatar Recovery",
         "description": "Unity Editor tools for recovering VRChat avatar, world, prop, and avatar part assets from VRCA/VRCW/VRCP/VRCAP files.",
-        "latestVersion": "1.2.19",
+        "latestVersion": "1.2.20",
         "versionCount": 3,
         "keywords": [
           "vrchat",
@@ -65748,6 +66015,18 @@
           "url": "https://github.com/Nickel-JP"
         },
         "versions": {
+          "1.2.20": {
+            "version": "1.2.20",
+            "name": "com.nickel-jp.avatar-recovery",
+            "displayName": "Avatar Recovery",
+            "description": "Unity Editor tools for recovering VRChat avatar, world, prop, and avatar part assets from VRCA/VRCW/VRCP/VRCAP files.",
+            "url": "https://nickel-jp.github.io/avatar-recovery-unity/packages/com.nickel-jp.avatar-recovery-1.2.20.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": ">=3.7.0 <3.11.0"
+            }
+          },
           "1.2.19": {
             "version": "1.2.19",
             "name": "com.nickel-jp.avatar-recovery",
@@ -65766,18 +66045,6 @@
             "displayName": "Avatar Recovery",
             "description": "Unity Editor tools for recovering VRChat avatar, world, prop, and avatar part assets from VRCA/VRCW/VRCP/VRCAP files.",
             "url": "https://nickel-jp.github.io/avatar-recovery-unity/packages/com.nickel-jp.avatar-recovery-1.2.18.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": ">=3.7.0 <3.11.0"
-            }
-          },
-          "1.2.17": {
-            "version": "1.2.17",
-            "name": "com.nickel-jp.avatar-recovery",
-            "displayName": "Avatar Recovery",
-            "description": "Unity Editor tools for recovering VRChat avatar, world, prop, and avatar part assets from VRCA/VRCW/VRCP/VRCAP files.",
-            "url": "https://nickel-jp.github.io/avatar-recovery-unity/packages/com.nickel-jp.avatar-recovery-1.2.17.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -66163,8 +66430,8 @@
     "name": "ATRI_NAIXU VPM Packages",
     "id": "com.njsgdd10086.vpm-repo",
     "author": "ATRI_NAIXU",
-    "hash": "5018760ad74b4d2404b6c68a07d7cb8a9897535cc04d2f30674e36b3696a45a0",
-    "last_updated": "2026-10-02T01:00:36.000Z",
+    "hash": "cda71d905f6d3935b142327cb42810f6630007941f41fa76a510673ae1f64298",
+    "last_updated": "2026-10-03T01:28:01.000Z",
     "packageCount": 3,
     "packages": {
       "com.atrinaxu.nontoon.lightlimit": {
@@ -66172,8 +66439,8 @@
         "name": "com.atrinaxu.nontoon.lightlimit",
         "displayName": "NonToon Light Limit",
         "description": "给 NonToon 加上亮度上下限与亮度倍数，并支持全局统一控制，做 Light Limit Changer 式的亮度调节；另附一键生成全局亮度动画 + 表情菜单滑块的小工具。",
-        "latestVersion": "1.2.0",
-        "versionCount": 12,
+        "latestVersion": "1.2.1",
+        "versionCount": 13,
         "keywords": [
           "nontoon",
           "shader",
@@ -66186,6 +66453,20 @@
           "url": "https://github.com/njsgdd10086"
         },
         "versions": {
+          "1.2.1": {
+            "version": "1.2.1",
+            "name": "com.atrinaxu.nontoon.lightlimit",
+            "displayName": "NonToon Light Limit",
+            "description": "给 NonToon 加上亮度上下限与亮度倍数，并支持全局统一控制，做 Light Limit Changer 式的亮度调节；另附一键生成全局亮度动画 + 表情菜单滑块的小工具。",
+            "url": "https://github.com/njsgdd10086/NonToonLightLimit/releases/download/v1.2.1/com.atrinaxu.nontoon.lightlimit-1.2.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
+            }
+          },
           "1.2.0": {
             "version": "1.2.0",
             "name": "com.atrinaxu.nontoon.lightlimit",
@@ -66195,9 +66476,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           },
           "1.1.9": {
@@ -66209,9 +66490,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           },
           "1.1.8": {
@@ -66223,9 +66504,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           },
           "1.1.7": {
@@ -66237,9 +66518,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           },
           "1.1.6": {
@@ -66251,9 +66532,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           },
           "1.1.5": {
@@ -66265,9 +66546,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           },
           "1.1.4": {
@@ -66279,9 +66560,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           },
           "1.1.3": {
@@ -66293,9 +66574,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           },
           "1.1.2": {
@@ -66307,9 +66588,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           },
           "1.1.1": {
@@ -66321,9 +66602,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           },
           "1.1.0": {
@@ -66335,9 +66616,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           },
           "1.0.0": {
@@ -66349,9 +66630,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           }
         }
@@ -66361,8 +66642,8 @@
         "name": "com.nontoon.modules",
         "displayName": "NonToon Modules",
         "description": "NonToon 的扩展模块集合（Shader Core 模块）：织物/法线细节（布料质感）、亮度上下限与亮度倍数。可以在 Tools/NonToon 模块 里逐项勾选；装了下面对应的插件时会自动勾选所需模块。",
-        "latestVersion": "0.1.0",
-        "versionCount": 1,
+        "latestVersion": "0.1.1",
+        "versionCount": 2,
         "keywords": [
           "nontoon",
           "shader",
@@ -66377,6 +66658,19 @@
           "url": "https://github.com/njsgdd10086"
         },
         "versions": {
+          "0.1.1": {
+            "version": "0.1.1",
+            "name": "com.nontoon.modules",
+            "displayName": "NonToon Modules",
+            "description": "NonToon 的扩展模块集合（Shader Core 模块）：织物/法线细节（布料质感）、亮度上下限与亮度倍数。可以在 Tools/NonToon 模块 里逐项勾选；装了下面对应的插件时会自动勾选所需模块。",
+            "url": "https://github.com/njsgdd10086/NonToonModules/releases/download/v0.1.1/com.nontoon.modules-0.1.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3"
+            }
+          },
           "0.1.0": {
             "version": "0.1.0",
             "name": "com.nontoon.modules",
@@ -66386,8 +66680,8 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3"
             }
           }
         }
@@ -66397,8 +66691,8 @@
         "name": "com.nontoon.switcher",
         "displayName": "LilToNonToon Switcher",
         "description": "右键把 lilToon 材质一键转换为 NonToon（输出 <名称>_nontoon.mat），并自动生成 Modular Avatar 的 MA Material Setter + 菜单开关。",
-        "latestVersion": "1.1.15",
-        "versionCount": 19,
+        "latestVersion": "1.1.16",
+        "versionCount": 20,
         "keywords": [
           "liltoon",
           "nontoon",
@@ -66412,6 +66706,20 @@
           "url": "https://github.com/njsgdd10086"
         },
         "versions": {
+          "1.1.16": {
+            "version": "1.1.16",
+            "name": "com.nontoon.switcher",
+            "displayName": "LilToNonToon Switcher",
+            "description": "右键把 lilToon 材质一键转换为 NonToon（输出 <名称>_nontoon.mat），并自动生成 Modular Avatar 的 MA Material Setter + 菜单开关。",
+            "url": "https://github.com/njsgdd10086/LilToNonToonSwitcher/releases/download/v1.1.16/com.nontoon.switcher-1.1.16.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
+            }
+          },
           "1.1.15": {
             "version": "1.1.15",
             "name": "com.nontoon.switcher",
@@ -66421,9 +66729,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           },
           "1.1.14": {
@@ -66435,9 +66743,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           },
           "1.1.13": {
@@ -66449,9 +66757,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           },
           "1.1.12": {
@@ -66463,9 +66771,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           },
           "1.1.11": {
@@ -66477,9 +66785,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           },
           "1.1.10": {
@@ -66491,9 +66799,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           },
           "1.1.9": {
@@ -66505,9 +66813,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           },
           "1.1.8": {
@@ -66519,9 +66827,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           },
           "1.1.7": {
@@ -66533,9 +66841,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           },
           "1.1.6": {
@@ -66547,9 +66855,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           },
           "1.1.5": {
@@ -66561,9 +66869,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           },
           "1.1.4": {
@@ -66575,9 +66883,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           },
           "1.1.3": {
@@ -66589,9 +66897,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           },
           "1.1.2": {
@@ -66603,9 +66911,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           },
           "1.1.1": {
@@ -66617,9 +66925,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           },
           "1.1.0": {
@@ -66631,9 +66939,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           },
           "1.0.3": {
@@ -66645,9 +66953,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           },
           "1.0.2": {
@@ -66659,9 +66967,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           },
           "1.0.1": {
@@ -66673,9 +66981,9 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
-              "jp.lilxyzw.shadercore": "^0.1.5",
-              "jp.lilxyzw.nontoon": "^0.1.3",
-              "com.nontoon.modules": "^0.1.0"
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
             }
           }
         }
@@ -80358,10 +80666,64 @@
     "name": "Purpzie's VCC Packages",
     "id": "com.purpzie.vpm",
     "author": "Purpzie",
-    "hash": "22d0830c0259f3ad0dc0fb51f8e7e0d31badc4b8fefd408e05b0b0c6cde56d0f",
-    "last_updated": "2026-07-13T22:01:33.000Z",
-    "packageCount": 1,
+    "hash": "ec39e608fcae85a079c04f150fc184094930ba01c2a7f775c1d403781cf90748",
+    "last_updated": "2026-10-03T01:27:43.000Z",
+    "packageCount": 2,
     "packages": {
+      "purpzie.bulkavataruploader": {
+        "id": "purpzie.bulkavataruploader",
+        "name": "purpzie.bulkavataruploader",
+        "displayName": "Bulk Avatar Uploader",
+        "description": "Easily upload multiple avatars",
+        "latestVersion": "1.0.2",
+        "versionCount": 3,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "Purpzie"
+        },
+        "versions": {
+          "1.0.2": {
+            "version": "1.0.2",
+            "name": "purpzie.bulkavataruploader",
+            "displayName": "Bulk Avatar Uploader",
+            "description": "Easily upload multiple avatars",
+            "url": "https://github.com/Purpzie/BulkAvatarUploader/releases/download/v1.0.2/purpzie.bulkavataruploader-1.0.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": ">=3.10.5 <4.0.0",
+              "com.vrchat.avatars": ">=3.10.5 <4.0.0"
+            }
+          },
+          "1.0.1": {
+            "version": "1.0.1",
+            "name": "purpzie.bulkavataruploader",
+            "displayName": "Bulk Avatar Uploader",
+            "description": "Easily upload multiple avatars",
+            "url": "https://github.com/Purpzie/BulkAvatarUploader/releases/download/v1.0.1/purpzie.bulkavataruploader-1.0.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": ">=3.10.5 <4.0.0",
+              "com.vrchat.avatars": ">=3.10.5 <4.0.0"
+            }
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "purpzie.bulkavataruploader",
+            "displayName": "Bulk Avatar Uploader",
+            "description": "Easily upload multiple avatars",
+            "url": "https://github.com/Purpzie/BulkAvatarUploader/releases/download/v1.0.0/purpzie.bulkavataruploader-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": ">=0.1.29 <0.2.0",
+              "com.vrchat.avatars": ">=3.10.5 <4.0.0"
+            }
+          }
+        }
+      },
       "com.purpzie.feathersfur": {
         "id": "com.purpzie.feathersfur",
         "name": "com.purpzie.feathersfur",
@@ -88361,7 +88723,7 @@
     "id": "com.mitsuboshi-studio.vpm",
     "author": "Mitsuboshi_Studio",
     "hash": "52cde1f130302215e50bd10fbf17761cac4d336a632db50118aa96eb79cfb767",
-    "last_updated": "2026-10-01T23:53:29.000Z",
+    "last_updated": "2026-10-03T01:58:45.000Z",
     "packageCount": 8,
     "packages": {
       "com.mitsuboshi-studio.unity-power-rename": {
@@ -88608,7 +88970,7 @@
     "id": "dev.redline-team.redlinelist",
     "author": "RozeThorns",
     "hash": "8c61e41bc845ad48ac8b2df4fbc0df5b38f713805c599141762b5c54f4e92f8c",
-    "last_updated": "2026-10-02T02:43:27.000Z",
+    "last_updated": "2026-10-03T02:29:28.000Z",
     "packageCount": 5,
     "packages": {
       "dev.redline-team.rpm": {
@@ -89117,7 +89479,7 @@
     "id": "io.github.rurre.vpm",
     "author": "Pumkin",
     "hash": "a521b62454534e8ac91259065780938a307d6c87b5fc436008c7dfc95e5da1f4",
-    "last_updated": "2026-08-27T18:55:06.000Z",
+    "last_updated": "2026-08-27T18:55:05.000Z",
     "packageCount": 3,
     "packages": {
       "io.github.rurre.pumkinsavatartools": {
@@ -91502,9 +91864,9 @@
     "name": "sizimityper_VPM",
     "id": "com.sizimityper.vpm",
     "author": "sizimityper",
-    "hash": "13a484d13f3e9c81e8f4aa76922d6e892939ca52dbb257ff789ae479720b8556",
-    "last_updated": "2026-07-25T13:40:07.000Z",
-    "packageCount": 5,
+    "hash": "933d54440198bf1213dbf06658497dcb598bfbd95d42ad921e527e33387348aa",
+    "last_updated": "2026-10-02T13:48:24.000Z",
+    "packageCount": 6,
     "packages": {
       "com.sizimityper.blinking-led-shader": {
         "id": "com.sizimityper.blinking-led-shader",
@@ -91898,6 +92260,43 @@
             "displayName": "sizimityper Headlight Shader",
             "description": "VRChat BRP向け ヘッドライト インテリアマッピングシェーダー（レンズフルート屈折・リフレクター・バルブエミッション）by sizimityper",
             "url": "https://github.com/sizimityper/headlight-shader/releases/download/0.1.0/com.sizimityper.headlight-shader-0.1.0.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
+          }
+        }
+      },
+      "com.sizimityper.fake-interior-shader": {
+        "id": "com.sizimityper.fake-interior-shader",
+        "name": "com.sizimityper.fake-interior-shader",
+        "displayName": "sizimityper Fake Interior Shader",
+        "description": "VRChat BRP向け フェイクインテリア（インテリアマッピング）シェーダー。一点透視の部屋テクスチャ1枚で窓の奥に部屋を描画 by sizimityper",
+        "latestVersion": "0.1.1",
+        "versionCount": 2,
+        "keywords": [],
+        "unity": "2019.4",
+        "author": {
+          "name": "sizimityper",
+          "email": "sizimityper@gmail.com",
+          "url": "https://github.com/sizimityper"
+        },
+        "versions": {
+          "0.1.1": {
+            "version": "0.1.1",
+            "name": "com.sizimityper.fake-interior-shader",
+            "displayName": "sizimityper Fake Interior Shader",
+            "description": "VRChat BRP向け フェイクインテリア（インテリアマッピング）シェーダー。一点透視の部屋テクスチャ1枚で窓の奥に部屋を描画 by sizimityper",
+            "url": "https://github.com/sizimityper/fake-interior-shader/releases/download/0.1.1/com.sizimityper.fake-interior-shader-0.1.1.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
+          },
+          "0.1.0": {
+            "version": "0.1.0",
+            "name": "com.sizimityper.fake-interior-shader",
+            "displayName": "sizimityper Fake Interior Shader",
+            "description": "VRChat BRP向け フェイクインテリア（インテリアマッピング）シェーダー。一点透視の部屋テクスチャ1枚で窓の奥に部屋を描画 by sizimityper",
+            "url": "https://github.com/sizimityper/fake-interior-shader/releases/download/0.1.0/com.sizimityper.fake-interior-shader-0.1.0.zip",
             "zipSha256": null,
             "unity": "2019.4",
             "vpmDependencies": {}
@@ -93053,8 +93452,8 @@
     "name": "SPSNDMF VPM Listing",
     "id": "net.nrzk.vpm.spsndmf",
     "author": "niriziki",
-    "hash": "8e445da620f43b83621668b825d88bb66ade3ae689826e1e5bd9bae7d2d885c6",
-    "last_updated": "2026-09-26T13:14:01.000Z",
+    "hash": "57379346dc02c6a212da49e0d39d50cb732229848073d30f264f474b50f7d03e",
+    "last_updated": "2026-10-02T11:00:46.000Z",
     "packageCount": 3,
     "packages": {
       "net.nrzk.spsndmf": {
@@ -93062,20 +93461,20 @@
         "name": "net.nrzk.spsndmf",
         "displayName": "SPS for NDMF",
         "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-        "latestVersion": "1.1429.1",
-        "versionCount": 27,
+        "latestVersion": "1.1429.2",
+        "versionCount": 28,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "niriziki"
         },
         "versions": {
-          "1.1429.1": {
-            "version": "1.1429.1",
+          "1.1429.2": {
+            "version": "1.1429.2",
             "name": "net.nrzk.spsndmf",
             "displayName": "SPS for NDMF",
             "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1429.1/net.nrzk.spsndmf-1.1429.1.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1429.2/net.nrzk.spsndmf-1.1429.2.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -93085,12 +93484,12 @@
               "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
             }
           },
-          "1.1429.2": {
-            "version": "1.1429.2",
+          "1.1430.0": {
+            "version": "1.1430.0",
             "name": "net.nrzk.spsndmf",
             "displayName": "SPS for NDMF",
             "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1429.2/net.nrzk.spsndmf-1.1429.2.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1430.0/net.nrzk.spsndmf-1.1430.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -93115,12 +93514,12 @@
               "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
             }
           },
-          "1.1429.0": {
-            "version": "1.1429.0",
+          "1.1429.1": {
+            "version": "1.1429.1",
             "name": "net.nrzk.spsndmf",
             "displayName": "SPS for NDMF",
             "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1429.0/net.nrzk.spsndmf-1.1429.0.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1429.1/net.nrzk.spsndmf-1.1429.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -93130,12 +93529,12 @@
               "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
             }
           },
-          "1.1426.2": {
-            "version": "1.1426.2",
+          "1.1429.0": {
+            "version": "1.1429.0",
             "name": "net.nrzk.spsndmf",
             "displayName": "SPS for NDMF",
             "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1426.2/net.nrzk.spsndmf-1.1426.2.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1429.0/net.nrzk.spsndmf-1.1429.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -93160,12 +93559,12 @@
               "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
             }
           },
-          "1.1419.0": {
-            "version": "1.1419.0",
+          "1.1426.2": {
+            "version": "1.1426.2",
             "name": "net.nrzk.spsndmf",
             "displayName": "SPS for NDMF",
             "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1419.0/net.nrzk.spsndmf-1.1419.0.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1426.2/net.nrzk.spsndmf-1.1426.2.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -93190,17 +93589,19 @@
               "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
             }
           },
-          "1.1408.2": {
-            "version": "1.1408.2",
+          "1.1419.0": {
+            "version": "1.1419.0",
             "name": "net.nrzk.spsndmf",
             "displayName": "SPS for NDMF",
             "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1408.2/net.nrzk.spsndmf-1.1408.2.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1419.0/net.nrzk.spsndmf-1.1419.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
               "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
+              "com.unity.nuget.newtonsoft-json": "2.0.0",
+              "nadena.dev.modular-avatar": "^1.15.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
             }
           },
           "1.1419.1": {
@@ -93218,19 +93619,6 @@
               "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
             }
           },
-          "1.1408.0": {
-            "version": "1.1408.0",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1408.0/net.nrzk.spsndmf-1.1408.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
           "1.1416.0": {
             "version": "1.1416.0",
             "name": "net.nrzk.spsndmf",
@@ -93244,12 +93632,38 @@
               "nadena.dev.modular-avatar": "^1.15.0"
             }
           },
-          "0.2.0-beta.13": {
-            "version": "0.2.0-beta.13",
+          "1.1408.0": {
+            "version": "1.1408.0",
             "name": "net.nrzk.spsndmf",
             "displayName": "SPS for NDMF",
             "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.13/net.nrzk.spsndmf-0.2.0-beta.13.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1408.0/net.nrzk.spsndmf-1.1408.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "nadena.dev.modular-avatar": "^1.15.0"
+            }
+          },
+          "1.1408.2": {
+            "version": "1.1408.2",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1408.2/net.nrzk.spsndmf-1.1408.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "nadena.dev.modular-avatar": "^1.15.0"
+            }
+          },
+          "1.1408.1": {
+            "version": "1.1408.1",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1408.1/net.nrzk.spsndmf-1.1408.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -93270,12 +93684,12 @@
               "nadena.dev.modular-avatar": "^1.15.0"
             }
           },
-          "1.1408.1": {
-            "version": "1.1408.1",
+          "0.2.0-beta.13": {
+            "version": "0.2.0-beta.13",
             "name": "net.nrzk.spsndmf",
             "displayName": "SPS for NDMF",
             "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1408.1/net.nrzk.spsndmf-1.1408.1.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.13/net.nrzk.spsndmf-0.2.0-beta.13.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -93309,19 +93723,6 @@
               "nadena.dev.modular-avatar": "^1.15.0"
             }
           },
-          "0.2.0-beta.8": {
-            "version": "0.2.0-beta.8",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.8/net.nrzk.spsndmf-0.2.0-beta.8.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
           "0.2.0-beta.10": {
             "version": "0.2.0-beta.10",
             "name": "net.nrzk.spsndmf",
@@ -93335,12 +93736,12 @@
               "nadena.dev.modular-avatar": "^1.15.0"
             }
           },
-          "0.2.0-beta.6": {
-            "version": "0.2.0-beta.6",
+          "0.2.0-beta.8": {
+            "version": "0.2.0-beta.8",
             "name": "net.nrzk.spsndmf",
             "displayName": "SPS for NDMF",
             "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.6/net.nrzk.spsndmf-0.2.0-beta.6.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.8/net.nrzk.spsndmf-0.2.0-beta.8.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -93354,6 +93755,19 @@
             "displayName": "SPS for NDMF",
             "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
             "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.7/net.nrzk.spsndmf-0.2.0-beta.7.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "nadena.dev.modular-avatar": "^1.15.0"
+            }
+          },
+          "0.2.0-beta.6": {
+            "version": "0.2.0-beta.6",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.6/net.nrzk.spsndmf-0.2.0-beta.6.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -93400,12 +93814,12 @@
               "nadena.dev.modular-avatar": "^1.15.0"
             }
           },
-          "0.0.1-beta.2": {
-            "version": "0.0.1-beta.2",
+          "0.0.1-beta.1": {
+            "version": "0.0.1-beta.1",
             "name": "net.nrzk.spsndmf",
             "displayName": "SPS for NDMF",
             "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.0.1-beta.2/net.nrzk.spsndmf-0.0.1-beta.2.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.0.1-beta.1/net.nrzk.spsndmf-0.0.1-beta.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -93413,12 +93827,12 @@
               "nadena.dev.modular-avatar": "^1.15.0"
             }
           },
-          "0.0.1-beta.1": {
-            "version": "0.0.1-beta.1",
+          "0.0.1-beta.2": {
+            "version": "0.0.1-beta.2",
             "name": "net.nrzk.spsndmf",
             "displayName": "SPS for NDMF",
             "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.0.1-beta.1/net.nrzk.spsndmf-0.0.1-beta.1.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.0.1-beta.2/net.nrzk.spsndmf-0.0.1-beta.2.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -93446,14 +93860,26 @@
         "name": "net.nrzk.vfstub",
         "displayName": "VRCFury Stub",
         "description": "Stand-in for VRCFury in projects without it. Keeps VRCFury component types (VF.* namespace, same GUIDs) so existing scenes and prefabs load, and, when NDMF and Modular Avatar are installed, provides VRCFury's inspectors for SPS Plug/Socket, Global Collider and Haptic Touch. No build processing is included; SPSNDMF Migrator converts the SPS-related components (Plug/Socket, Global Collider, Haptic Touch) for SPS for NDMF at build time.",
-        "latestVersion": "1.1429.1",
-        "versionCount": 17,
+        "latestVersion": "1.1430.0",
+        "versionCount": 18,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "niriziki"
         },
         "versions": {
+          "1.1430.0": {
+            "version": "1.1430.0",
+            "name": "net.nrzk.vfstub",
+            "displayName": "VRCFury Stub",
+            "description": "Stand-in for VRCFury in projects without it. Keeps VRCFury component types (VF.* namespace, same GUIDs) so existing scenes and prefabs load, and, when NDMF and Modular Avatar are installed, provides VRCFury's inspectors for SPS Plug/Socket, Global Collider and Haptic Touch. No build processing is included; SPSNDMF Migrator converts the SPS-related components (Plug/Socket, Global Collider, Haptic Touch) for SPS for NDMF at build time.",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/vfstub/1.1430.0/net.nrzk.vfstub-1.1430.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6"
+            }
+          },
           "1.1429.1": {
             "version": "1.1429.1",
             "name": "net.nrzk.vfstub",
@@ -93478,24 +93904,24 @@
               "com.vrchat.avatars": ">=3.7.6"
             }
           },
-          "1.1429.0": {
-            "version": "1.1429.0",
-            "name": "net.nrzk.vfstub",
-            "displayName": "VRCFury Stub",
-            "description": "Type-only stub of VRCFury's Runtime assembly. Preserves VRCFury component types (VF.* namespace, same GUIDs) so existing scenes deserialize without the full VRCFury package. No editor logic or build processing is included.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/vfstub/1.1429.0/net.nrzk.vfstub-1.1429.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6"
-            }
-          },
           "1.1429.1-beta.1": {
             "version": "1.1429.1-beta.1",
             "name": "net.nrzk.vfstub",
             "displayName": "VRCFury Stub",
             "description": "Type-only stub of VRCFury's Runtime assembly. Preserves VRCFury component types (VF.* namespace, same GUIDs) so existing scenes deserialize without the full VRCFury package. No editor logic or build processing is included.",
             "url": "https://github.com/niriziki/VRCFury/releases/download/vfstub/1.1429.1-beta.1/net.nrzk.vfstub-1.1429.1-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6"
+            }
+          },
+          "1.1429.0": {
+            "version": "1.1429.0",
+            "name": "net.nrzk.vfstub",
+            "displayName": "VRCFury Stub",
+            "description": "Type-only stub of VRCFury's Runtime assembly. Preserves VRCFury component types (VF.* namespace, same GUIDs) so existing scenes deserialize without the full VRCFury package. No editor logic or build processing is included.",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/vfstub/1.1429.0/net.nrzk.vfstub-1.1429.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -93586,18 +94012,6 @@
               "com.vrchat.avatars": ">=3.7.6"
             }
           },
-          "0.2.0-beta.7": {
-            "version": "0.2.0-beta.7",
-            "name": "net.nrzk.vfstub",
-            "displayName": "VRCFury Stub",
-            "description": "Type-only stub of VRCFury's Runtime assembly. Preserves VRCFury component types (VF.* namespace, same GUIDs) so existing scenes deserialize without the full VRCFury package. No editor logic or build processing is included.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/vfstub/0.2.0-beta.7/net.nrzk.vfstub-0.2.0-beta.7.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6"
-            }
-          },
           "0.2.0-beta.6": {
             "version": "0.2.0-beta.6",
             "name": "net.nrzk.vfstub",
@@ -93616,6 +94030,18 @@
             "displayName": "VRCFury Stub",
             "description": "Type-only stub of VRCFury's Runtime assembly. Preserves VRCFury component types (VF.* namespace, same GUIDs) so existing scenes deserialize without the full VRCFury package. No editor logic or build processing is included.",
             "url": "https://github.com/niriziki/VRCFury/releases/download/vfstub/0.2.0-beta.5/net.nrzk.vfstub-0.2.0-beta.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6"
+            }
+          },
+          "0.2.0-beta.7": {
+            "version": "0.2.0-beta.7",
+            "name": "net.nrzk.vfstub",
+            "displayName": "VRCFury Stub",
+            "description": "Type-only stub of VRCFury's Runtime assembly. Preserves VRCFury component types (VF.* namespace, same GUIDs) so existing scenes deserialize without the full VRCFury package. No editor logic or build processing is included.",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/vfstub/0.2.0-beta.7/net.nrzk.vfstub-0.2.0-beta.7.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -93701,12 +94127,12 @@
               "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
             }
           },
-          "0.2.0-beta.13": {
-            "version": "0.2.0-beta.13",
+          "0.2.0-beta.12": {
+            "version": "0.2.0-beta.12",
             "name": "net.nrzk.spsndmf-migrator",
             "displayName": "SPSNDMF Migrator",
             "description": "Convert SPS components between VRCFury, SPSNDMF, Modular Avatar and VRChat Contacts.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.2.0-beta.13/net.nrzk.spsndmf-migrator-0.2.0-beta.13.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.2.0-beta.12/net.nrzk.spsndmf-migrator-0.2.0-beta.12.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -93715,12 +94141,12 @@
               "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
             }
           },
-          "0.2.0-beta.12": {
-            "version": "0.2.0-beta.12",
+          "0.2.0-beta.13": {
+            "version": "0.2.0-beta.13",
             "name": "net.nrzk.spsndmf-migrator",
             "displayName": "SPSNDMF Migrator",
             "description": "Convert SPS components between VRCFury, SPSNDMF, Modular Avatar and VRChat Contacts.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.2.0-beta.12/net.nrzk.spsndmf-migrator-0.2.0-beta.12.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.2.0-beta.13/net.nrzk.spsndmf-migrator-0.2.0-beta.13.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -93799,12 +94225,12 @@
               "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
             }
           },
-          "0.2.0-beta.4": {
-            "version": "0.2.0-beta.4",
+          "0.1.0-beta.4": {
+            "version": "0.1.0-beta.4",
             "name": "net.nrzk.spsndmf-migrator",
             "displayName": "SPSNDMF Migrator",
             "description": "Convert SPS components between VRCFury, SPSNDMF, Modular Avatar and VRChat Contacts.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.2.0-beta.4/net.nrzk.spsndmf-migrator-0.2.0-beta.4.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.1.0-beta.4/net.nrzk.spsndmf-migrator-0.1.0-beta.4.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -93813,12 +94239,12 @@
               "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
             }
           },
-          "0.1.0-beta.4": {
-            "version": "0.1.0-beta.4",
+          "0.2.0-beta.4": {
+            "version": "0.2.0-beta.4",
             "name": "net.nrzk.spsndmf-migrator",
             "displayName": "SPSNDMF Migrator",
             "description": "Convert SPS components between VRCFury, SPSNDMF, Modular Avatar and VRChat Contacts.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.1.0-beta.4/net.nrzk.spsndmf-migrator-0.1.0-beta.4.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.2.0-beta.4/net.nrzk.spsndmf-migrator-0.2.0-beta.4.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -102455,7 +102881,7 @@
     "id": "io.github.tp-jp.vpm",
     "author": "tp.jp",
     "hash": "da473ccdc75356cd14e6c77e54e8be663bb1621108df5f980248e75789e4c3aa",
-    "last_updated": "2026-07-13T13:46:48.000Z",
+    "last_updated": "2026-07-13T13:46:47.000Z",
     "packageCount": 9,
     "packages": {
       "com.tp.jp.iwa-sync3-color-changer": {
@@ -103026,7 +103452,7 @@
     "id": "com.triturbo.blendshare.listing",
     "author": "Triturbo",
     "hash": "8d43fe402736de6cd2621406d3b850107d5fa9a6bc801a1a5857547ed262526d",
-    "last_updated": "2026-07-05T12:32:45.000Z",
+    "last_updated": "2026-07-05T12:32:46.000Z",
     "packageCount": 1,
     "packages": {
       "com.triturbo.blendshare": {
@@ -104013,7 +104439,7 @@
     "id": "com.udonite.listing",
     "author": "Udonite",
     "hash": "90ae714c7a04464696bbfcf84cb57ed42de7b7ed8af6c9a542b8e89bea3fdb97",
-    "last_updated": "2026-09-30T12:36:04.000Z",
+    "last_updated": "2026-09-30T12:36:03.000Z",
     "packageCount": 7,
     "packages": {
       "com.udonite.compiler": {
@@ -105779,7 +106205,7 @@
     "id": "co.raphii.vpm-listing",
     "author": "Raphiiko",
     "hash": "13d7c0741bdb67306d4706066396ddccd4188238b4335f6b126e26cf84767a0b",
-    "last_updated": "2026-07-03T23:15:32.000Z",
+    "last_updated": "2026-07-03T23:15:31.000Z",
     "packageCount": 1,
     "packages": {
       "co.raphii.vrti.avatarmenu": {
@@ -105842,8 +106268,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "97561ab82f75b8e7af1464be211ddaf7bdbf7837b2ba6b947a1e2e614db7a101",
-    "last_updated": "2026-10-02T03:56:06.000Z",
+    "hash": "9370510ee227d3d6b291158d3c7c5a512aa20db414d76010e1420409c2a89387",
+    "last_updated": "2026-10-03T03:41:05.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -120006,7 +120432,7 @@
     "id": "io.mekabu.vpm-repository",
     "author": "contact@mekabu.io",
     "hash": "afb531d339483772668bf9b0fbe2f91415a0d37733b4adad67544741ae03cb2e",
-    "last_updated": "2026-10-02T03:46:34.000Z",
+    "last_updated": "2026-10-03T03:30:50.000Z",
     "packageCount": 2,
     "packages": {
       "com.mekabu.blendshape-animation-creator": {
@@ -131842,8 +132268,8 @@
     "name": "GokouKotori's VRChat Package Listing",
     "id": "com.gokoukotori.vpm",
     "author": "GokouKotori",
-    "hash": "cdc4adcb33e1b84c21bc2ef399b10d26d8108d4b894ef6399d56b92f13bcb693",
-    "last_updated": "2026-09-30T04:23:12.000Z",
+    "hash": "0f93c7fb7fdb33868aba8bd37bda5ef1dc35e29012ec92c5f65fd778dde53f2e",
+    "last_updated": "2026-10-02T13:02:56.000Z",
     "packageCount": 8,
     "packages": {
       "com.gokoukotori.posetune": {
@@ -132156,8 +132582,8 @@
         "name": "com.gokoukotori.fbx-uv-texture-transfer",
         "displayName": "FBX UV Texture Transfer",
         "description": "A Unity Editor extension that transfers textures between FBX UV islands for VRChat avatars and applies them non-destructively as external layers in TexTransTool MultiLayerImageCanvas.",
-        "latestVersion": "0.2.0-beta.4",
-        "versionCount": 7,
+        "latestVersion": "0.2.0-beta.5",
+        "versionCount": 8,
         "keywords": [
           "VRChat",
           "TexTransTool",
@@ -132169,6 +132595,20 @@
           "name": "gokoukotori"
         },
         "versions": {
+          "0.2.0-beta.5": {
+            "version": "0.2.0-beta.5",
+            "name": "com.gokoukotori.fbx-uv-texture-transfer",
+            "displayName": "FBX UV Texture Transfer",
+            "description": "A Unity Editor extension that transfers textures between FBX UV islands for VRChat avatars and applies them non-destructively as external layers in TexTransTool MultiLayerImageCanvas.",
+            "url": "https://github.com/gokoukotori/FbxUVTextureTransferForUnity/releases/download/0.2.0-beta.5/com.gokoukotori.fbx-uv-texture-transfer-0.2.0-beta.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "net.rs64.tex-trans-tool": ">=1.1.0-beta.9",
+              "nadena.dev.ndmf": ">=1.14.4",
+              "com.vrchat.avatars": ">=3.10.4"
+            }
+          },
           "0.2.0-beta.4": {
             "version": "0.2.0-beta.4",
             "name": "com.gokoukotori.fbx-uv-texture-transfer",
@@ -133027,8 +133467,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "7dca1d3b50adb6f86428dc1f754d017025f70a2b8cc6b9e6a3a0b0f0c99b6ddc",
-    "last_updated": "2026-09-29T10:05:54.000Z",
+    "hash": "053526e1a0802aaf572bd1c7f12f86d5df4af21ecb906808258df4c506d70dd9",
+    "last_updated": "2026-10-02T09:06:13.000Z",
     "packageCount": 7,
     "packages": {
       "com.poiyomi.pro": {
@@ -133037,7 +133477,7 @@
         "displayName": "Poiyomi Pro",
         "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
         "latestVersion": "11.0.22",
-        "versionCount": 30,
+        "versionCount": 31,
         "keywords": [
           "shaders",
           "vrchat",
@@ -133157,6 +133597,16 @@
             "displayName": "Poiyomi Pro",
             "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
             "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.12/c3d400f707872b4871f03876aa56a1cc4b67a1f13f3f88cc0622760013eb756f",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.11": {
+            "version": "11.0.11",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.11/2fc040b1437dec09a9ddb576d5b5703e74c4b064c3672a412fa1ebd4ff63d1e5",
             "zipSha256": null,
             "unity": "2021.3",
             "vpmDependencies": {}
@@ -133366,8 +133816,8 @@
         "name": "com.poiyomi.thryeditor",
         "displayName": "ThryEditor",
         "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
-        "latestVersion": "2.74.1",
-        "versionCount": 25,
+        "latestVersion": "2.74.3",
+        "versionCount": 27,
         "keywords": [],
         "unity": "2021.3",
         "author": {
@@ -133375,6 +133825,26 @@
           "url": "https://www.poiyomi.com"
         },
         "versions": {
+          "2.74.3": {
+            "version": "2.74.3",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.74.3/52ee27e0e93a08e273efae0b251ba2041acae5282ce4fe5f55797d2e99b7e83e",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "2.74.2": {
+            "version": "2.74.2",
+            "name": "com.poiyomi.thryeditor",
+            "displayName": "ThryEditor",
+            "description": "General Unity Shader Inspector/Editor for Poiyomi Shaders.",
+            "url": "https://vpmm.dev/files/com.poiyomi.thryeditor/2.74.2/3dceff1432cec7348ffa07d5737fc4936a344cf063ef0c84c1af1cd484435dc3",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
           "2.74.1": {
             "version": "2.74.1",
             "name": "com.poiyomi.thryeditor",
@@ -142714,17 +143184,17 @@
     "name": "MimyLab",
     "id": "com.mimylab.vpm",
     "author": "Mimy Quality",
-    "hash": "8680c9fa3dba301a554b2a272220c8dfbfc6fed76c3e97ea86f58facb7594d24",
-    "last_updated": "2026-08-12T06:12:39.000Z",
+    "hash": "d0d0c190965bc17cba0d332f9aa0d8cfd89a583ae5a4974b9116cabd1e7d1ef1",
+    "last_updated": "2026-10-02T22:37:09.000Z",
     "packageCount": 5,
     "packages": {
       "com.mimylab.fukuroudon": {
         "id": "com.mimylab.fukuroudon",
         "name": "com.mimylab.fukuroudon",
         "displayName": "Fukuro Udon",
-        "description": "MimyLab's U# utilitiy pack for VPM.",
-        "latestVersion": "3.19.5",
-        "versionCount": 131,
+        "description": "MimyLab's U# utility pack for VPM.",
+        "latestVersion": "4.0.0-beta.1",
+        "versionCount": 132,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -142732,6 +143202,19 @@
           "url": "https://github.com/mimyquality"
         },
         "versions": {
+          "4.0.0-beta.1": {
+            "version": "4.0.0-beta.1",
+            "name": "com.mimylab.fukuroudon",
+            "displayName": "Fukuro Udon",
+            "description": "MimyLab's U# utility pack for VPM.",
+            "url": "https://github.com/mimyquality/FukuroUdon/releases/download/4.0.0-beta.1/com.mimylab.fukuroudon-4.0.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.5",
+              "net.narazaka.vrchat.tmp-fallback-fonts-jp": ">=1.0.0"
+            }
+          },
           "3.19.5": {
             "version": "3.19.5",
             "name": "com.mimylab.fukuroudon",
@@ -160777,7 +161260,7 @@
     "id": "jp.pipipigiken.vpm",
     "author": "orange3134",
     "hash": "ece9c908434de913bd1ed23fcfc0ae011caef63383abb0e902b92aff2c5e480d",
-    "last_updated": "2026-10-02T00:52:33.000Z",
+    "last_updated": "2026-10-02T23:50:56.000Z",
     "packageCount": 2,
     "packages": {
       "com.avatarnamecard.avatar-package": {
@@ -160917,7 +161400,7 @@
     "name": "Pukorufu Packages",
     "id": "net.puk06.vpm",
     "author": "Pukorufu",
-    "hash": "62b8b0036b3427b902639d97f61b860e225cad16f590198cacc68626f095dca9",
+    "hash": "c1e1d5c279508a85871a9072a7f7edf49729e152402dd6d153a558be3157eec3",
     "last_updated": "2026-08-01T16:09:53.410Z",
     "packageCount": 12,
     "packages": {
@@ -162590,7 +163073,7 @@
         "displayName": "AnimScript",
         "description": "AnimScript is a script language for creating animator controllers. It allows you to create complex animator controllers with simple scripts.",
         "latestVersion": "0.1.0",
-        "versionCount": 9,
+        "versionCount": 10,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -162697,6 +163180,19 @@
             "displayName": "AnimScript",
             "description": "AnimScript is a script language for creating animator controllers. It allows you to create complex animator controllers with simple scripts.",
             "url": "https://github.com/puk06/AnimScript/releases/download/v0.7.0/net.puk06.animscript-v0.7.0.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.11.0",
+              "nadena.dev.modular-avatar": ">=1.13.0"
+            }
+          },
+          "0.8.0": {
+            "version": "0.8.0",
+            "name": "net.puk06.animscript",
+            "displayName": "AnimScript",
+            "description": "AnimScript is a script language for creating animator controllers. It allows you to create complex animator controllers with simple scripts.",
+            "url": "https://github.com/puk06/AnimScript/releases/download/v0.8.0/net.puk06.animscript-v0.8.0.zip?",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -166569,7 +167065,7 @@
     "id": "dev.thry.vpm",
     "author": "Thryrallo",
     "hash": "0189583cd590af92f6337bf072cfea3211c6a3ca90738536d8f30bcd5fab82cb",
-    "last_updated": "2024-08-05T22:13:01.000Z",
+    "last_updated": "2024-08-05T22:13:00.000Z",
     "packageCount": 1,
     "packages": {
       "de.thryrallo.vrc.avatar-performance-tools": {
@@ -167303,8 +167799,8 @@
     "name": "WhyKnot Tools",
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
-    "hash": "ecb010a300c4bc2aa4c3e55e8ccfee0c21a7102ecad59ef9520382712e395e55",
-    "last_updated": "2026-10-01T12:03:08.000Z",
+    "hash": "f36216245b9fb56ae108aa540c224be2c9af2f73f6b0c75265a4b1c190590c16",
+    "last_updated": "2026-10-02T11:34:25.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -178671,8 +179167,8 @@
     "name": "Explosive Theorem Lab. Metaverse Division",
     "id": "idv.jlchntoz.xtlcdn-listing",
     "author": "Jeremy Lam aka. Vistanz",
-    "hash": "73a7941f6d598bd76cc637cfe6b501319dd448a0b701b78d97cb6f5b94c67dc8",
-    "last_updated": "2026-09-28T13:53:59.000Z",
+    "hash": "b47417fb91640e17672f6379e7eb073293ba65abaeee69e2d5c0452b6d38aa22",
+    "last_updated": "2026-10-02T16:30:08.000Z",
     "packageCount": 14,
     "packages": {
       "idv.jlchntoz.vrcw-foundation": {
@@ -181267,8 +181763,8 @@
         "name": "idv.jlchntoz.lazyswitch",
         "displayName": "Lazy Switch",
         "description": "A maximum 32-states multi purpose switch for VRChat, designed for lazies.",
-        "latestVersion": "0.10.1",
-        "versionCount": 29,
+        "latestVersion": "0.10.2",
+        "versionCount": 30,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -181277,6 +181773,19 @@
           "url": "https://xtl.booth.pm"
         },
         "versions": {
+          "0.10.2": {
+            "version": "0.10.2",
+            "name": "idv.jlchntoz.lazyswitch",
+            "displayName": "Lazy Switch",
+            "description": "A maximum 32-states multi purpose switch for VRChat, designed for lazies.",
+            "url": "https://github.com/JLChnToZ/lazyswitch/releases/download/0.10.2/idv.jlchntoz.lazyswitch-0.10.2.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.x.x >=3.10.2",
+              "idv.jlchntoz.vrcw-foundation": "0.x.x >=0.0.53"
+            }
+          },
           "0.10.1": {
             "version": "0.10.1",
             "name": "idv.jlchntoz.lazyswitch",
@@ -187220,8 +187729,8 @@
     "name": "Poiyomi's VPM Repo",
     "id": "io.github.poiyomi.vpm",
     "author": "Poiyomi",
-    "hash": "c2860aa7504752f05e3ee7e79b1dee1d1cf60c109fd4d3fd34c35b5dc0a8e0d8",
-    "last_updated": "2026-09-29T09:44:18.000Z",
+    "hash": "55f12341bffaf11d8f913f6a323a8bc8a8d7e8dd73e430e008ea8b1fdcfb19f0",
+    "last_updated": "2026-10-02T06:36:31.000Z",
     "packageCount": 3,
     "packages": {
       "com.poiyomi.toon": {
@@ -187229,8 +187738,8 @@
         "name": "com.poiyomi.toon",
         "displayName": "Poiyomi Toon",
         "description": "Feature-rich shaders for Unity and VRChat.",
-        "latestVersion": "10.0.23",
-        "versionCount": 51,
+        "latestVersion": "10.0.24",
+        "versionCount": 52,
         "keywords": [],
         "unity": "2021.3",
         "author": {
@@ -187238,6 +187747,18 @@
           "url": "https://github.com/poiyomi/PoiyomiToonShader"
         },
         "versions": {
+          "10.0.24": {
+            "version": "10.0.24",
+            "name": "com.poiyomi.toon",
+            "displayName": "Poiyomi Toon",
+            "description": "Feature-rich shaders for Unity and VRChat.",
+            "url": "https://github.com/poiyomi/PoiyomiToonShader/releases/download/v10.0.24/com.poiyomi.toon-10.0.24.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {
+              "com.poiyomi.thryeditor": ">=2.74.3"
+            }
+          },
           "10.0.23": {
             "version": "10.0.23",
             "name": "com.poiyomi.toon",
