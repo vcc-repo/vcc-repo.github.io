@@ -2286,8 +2286,8 @@
     "name": "An-Labo NailTool",
     "id": "world.anlabo.mdnailtool.vpm",
     "author": "An-Labo",
-    "hash": "5254ff97aea9756e7bf2379f2698c406176d95979f3a19452c67ef3a0fa43c45",
-    "last_updated": "2026-10-09T01:39:10.000Z",
+    "hash": "9578cd0920794c5c1234b642c0160b6d045037ff8dcbe24648fa6a391a0d255a",
+    "last_updated": "2026-10-09T07:53:52.000Z",
     "packageCount": 1,
     "packages": {
       "world.anlabo.mdnailtool": {
@@ -2296,7 +2296,7 @@
         "displayName": "An-Labo NailTool",
         "description": "An-Labo NailTool",
         "latestVersion": "0.9.141",
-        "versionCount": 594,
+        "versionCount": 595,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -9437,6 +9437,19 @@
               "com.vrchat.avatars": ">=3.5.0",
               "nadena.dev.modular-avatar": ">=1.17.0"
             }
+          },
+          "0.11.5": {
+            "version": "0.11.5",
+            "name": "world.anlabo.mdnailtool",
+            "displayName": "An-Labo NailTool",
+            "description": "An-Labo NailTool",
+            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.11.5/world.anlabo.mdnailtool-0.11.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.5.0",
+              "nadena.dev.modular-avatar": ">=1.17.0"
+            }
           }
         }
       }
@@ -12604,7 +12617,7 @@
     "id": "com.awavr.vpm",
     "author": "AwA",
     "hash": "22064f8c95b78ec5892d45b2af7ecbc44a89d9443330c2b63733c4174e56e1f8",
-    "last_updated": "2026-09-19T19:28:38.000Z",
+    "last_updated": "2026-09-19T19:28:39.000Z",
     "packageCount": 11,
     "packages": {
       "com.awavr.core": {
@@ -15472,7 +15485,7 @@
     "id": "cc.orbiters.vpm",
     "author": "blackorbit",
     "hash": "d7e437f6aa1b7fd523e5ffa17de2abdcdc1bc2c1f9214f2fae758c6c66cf1a8f",
-    "last_updated": "2026-10-09T03:40:31.000Z",
+    "last_updated": "2026-10-10T03:38:35.000Z",
     "packageCount": 9,
     "packages": {
       "orbiters.mcb": {
@@ -19257,7 +19270,7 @@
     "id": "com.chill.vpm",
     "author": "chill",
     "hash": "218dd1fd125e7194ca6c8140e63ca3d013b40ed5b78b42e79e1ff1e1d5cd5b05",
-    "last_updated": "2026-05-21T13:11:02.000Z",
+    "last_updated": "2026-05-21T13:11:01.000Z",
     "packageCount": 1,
     "packages": {
       "com.chill.avatarscope": {
@@ -28383,7 +28396,7 @@
     "id": "com.furality.repos.official",
     "author": "Furality, Inc.",
     "hash": "1f058d849e3d6f8fbf1320164b63cd1f1019b43a7993a1adfa11f274f8288e49",
-    "last_updated": "2026-08-08T02:49:09.000Z",
+    "last_updated": "2026-08-08T02:49:10.000Z",
     "packageCount": 3,
     "packages": {
       "com.furality.sylvashader": {
@@ -33944,8 +33957,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "947cdb7bc75fb712e2e2cab3784e7933818dc9300d275d37d56b80645e55b03f",
-    "last_updated": "2026-10-09T03:19:36.000Z",
+    "hash": "6509987175c7c2d5192d92a34511a55ea8b1d624fe5016b97f45ab1b6282447b",
+    "last_updated": "2026-10-10T02:27:53.000Z",
     "packageCount": 10,
     "packages": {
       "com.poiyomi.pro": {
@@ -33953,8 +33966,8 @@
         "name": "com.poiyomi.pro",
         "displayName": "Poiyomi Pro",
         "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
-        "latestVersion": "11.0.23",
-        "versionCount": 32,
+        "latestVersion": "11.0.26",
+        "versionCount": 35,
         "keywords": [
           "shaders",
           "vrchat",
@@ -33968,6 +33981,36 @@
           "url": "https://poiyomi.com"
         },
         "versions": {
+          "11.0.26": {
+            "version": "11.0.26",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.26/2722cc0420d5f3f84772a3a90fdd1e4ae87d9fabb8333ba0441f7b6df19b0c1c",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.25": {
+            "version": "11.0.25",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.25/df0450b747de23805b95e9ca45e3650f84a705c4b3471d56fb99e5208d1b33cd",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.24": {
+            "version": "11.0.24",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.24/01770251b863dde528989c9f87699168ffc9d05b0472fc33455ea2c8aafb5577",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
           "11.0.23": {
             "version": "11.0.23",
             "name": "com.poiyomi.pro",
@@ -34641,8 +34684,8 @@
         "name": "hackebein.objecttracking",
         "displayName": "Hackebein's Object Tracking",
         "description": "Hackebein's setup for Object Tracking in VRChat",
-        "latestVersion": "1.0.0-beta.37",
-        "versionCount": 2,
+        "latestVersion": "1.0.0-beta.38",
+        "versionCount": 3,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -34651,6 +34694,20 @@
           "url": "https://hackebein.de"
         },
         "versions": {
+          "1.0.0-beta.38": {
+            "version": "1.0.0-beta.38",
+            "name": "hackebein.objecttracking",
+            "displayName": "Hackebein's Object Tracking",
+            "description": "Hackebein's setup for Object Tracking in VRChat",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking/1.0.0-beta.38/dc313aa91741ff28761effd7e568dc9cf76bc7e5d444bbeffee4f6dc4e8c031c",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.9.0",
+              "com.ygdr.mdv": ">=1.2.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0"
+            }
+          },
           "1.0.0-beta.37": {
             "version": "1.0.0-beta.37",
             "name": "hackebein.objecttracking",
@@ -40547,7 +40604,7 @@
     "id": "io.github.helpinghandsvr.vpm",
     "author": "Helping Hands",
     "hash": "d3cba140edcf3cb5c17c4b6034085a4238c0dbbd2ce98b5f097b608968bff8fb",
-    "last_updated": "2026-07-03T13:20:29.000Z",
+    "last_updated": "2026-07-03T13:20:30.000Z",
     "packageCount": 2,
     "packages": {
       "io.github.helpinghandsvr.helpinghands-vrchat-avatar-accessories": {
@@ -42675,7 +42732,7 @@
     "id": "cat.hisa.vpm",
     "author": "HisaCat",
     "hash": "164e0ed610f0a593fb9eb5867230becff0831ebe47d88f25397692d3bbae92c4",
-    "last_updated": "2026-07-03T05:26:12.000Z",
+    "last_updated": "2026-07-03T05:26:13.000Z",
     "packageCount": 3,
     "packages": {
       "cat.hisa.asset-patcher": {
@@ -43407,7 +43464,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "680029c772846cb5e5b7331c6f399296d7c3d340058c68c9f48e255a6fa8e65e",
-    "last_updated": "2026-10-08T10:41:15.000Z",
+    "last_updated": "2026-10-09T10:40:12.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -53028,7 +53085,7 @@
     "id": "com.kie.vpm",
     "author": "Kie",
     "hash": "9c720b21a0d472446cbcefecd3ffddfe48df0b160a1cc2d716f8020dfadddb34",
-    "last_updated": "2026-10-08T20:32:22.000Z",
+    "last_updated": "2026-10-09T20:00:54.000Z",
     "packageCount": 3,
     "packages": {
       "com.kie.kie-mergeable-toggle": {
@@ -53953,17 +54010,17 @@
     "name": "KOZ39",
     "id": "io.github.koz39.vpm-listing",
     "author": "KOZ39",
-    "hash": "23c41f1386db8e185e3bd472f387b951e298bf6d1d9fb73ac7338fa8b83b53ef",
-    "last_updated": "2026-10-03T08:52:05.000Z",
-    "packageCount": 2,
+    "hash": "75eba4405c14f9f3c62978d0c0a0b20620fc56fa57c1ad558c8a222a6a40e351",
+    "last_updated": "2026-10-10T03:12:23.000Z",
+    "packageCount": 3,
     "packages": {
-      "dev.koz39.icon-generator": {
-        "id": "dev.koz39.icon-generator",
-        "name": "dev.koz39.icon-generator",
-        "displayName": "Icon Generator",
-        "description": "Icon generation tool for VRChat avatars and accessories.",
-        "latestVersion": "2.1.0",
-        "versionCount": 10,
+      "dev.koz39.elbow-fixer": {
+        "id": "dev.koz39.elbow-fixer",
+        "name": "dev.koz39.elbow-fixer",
+        "displayName": "Elbow Fixer",
+        "description": "A non-destructive elbow and forearm twist correction tool for VRChat avatars.",
+        "latestVersion": "0.1.0",
+        "versionCount": 1,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -53972,6 +54029,48 @@
           "url": "https://github.com/KOZ39"
         },
         "versions": {
+          "0.1.0": {
+            "version": "0.1.0",
+            "name": "dev.koz39.elbow-fixer",
+            "displayName": "Elbow Fixer",
+            "description": "A non-destructive elbow and forearm twist correction tool for VRChat avatars.",
+            "url": "https://github.com/KOZ39/Elbow-Fixer/releases/download/0.1.0/dev.koz39.elbow-fixer-0.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.3 <4.0.0",
+              "nadena.dev.ndmf": ">=1.5.0 <2.0.0"
+            }
+          }
+        }
+      },
+      "dev.koz39.icon-generator": {
+        "id": "dev.koz39.icon-generator",
+        "name": "dev.koz39.icon-generator",
+        "displayName": "Icon Generator",
+        "description": "A Unity editor tool for creating icons of VRChat avatars and accessories.",
+        "latestVersion": "2.1.1",
+        "versionCount": 11,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "KOZ39",
+          "email": "koz39c@gmail.com",
+          "url": "https://github.com/KOZ39"
+        },
+        "versions": {
+          "2.1.1": {
+            "version": "2.1.1",
+            "name": "dev.koz39.icon-generator",
+            "displayName": "Icon Generator",
+            "description": "A Unity editor tool for creating icons of VRChat avatars and accessories.",
+            "url": "https://github.com/KOZ39/Icon-Generator/releases/download/2.1.1/dev.koz39.icon-generator-2.1.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.unity.nuget.newtonsoft-json": "3.0.2"
+            }
+          },
           "2.1.0": {
             "version": "2.1.0",
             "name": "dev.koz39.icon-generator",
@@ -54090,9 +54189,9 @@
         "id": "dev.koz39.knee-fixer",
         "name": "dev.koz39.knee-fixer",
         "displayName": "Knee Fixer",
-        "description": "Non-destructive knee correction tool for VRChat avatars.",
-        "latestVersion": "2.2.0",
-        "versionCount": 6,
+        "description": "A non-destructive knee correction tool for VRChat avatars.",
+        "latestVersion": "2.2.1",
+        "versionCount": 7,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -54101,6 +54200,19 @@
           "url": "https://github.com/KOZ39"
         },
         "versions": {
+          "2.2.1": {
+            "version": "2.2.1",
+            "name": "dev.koz39.knee-fixer",
+            "displayName": "Knee Fixer",
+            "description": "A non-destructive knee correction tool for VRChat avatars.",
+            "url": "https://github.com/KOZ39/Knee-Fixer/releases/download/2.2.1/dev.koz39.knee-fixer-2.2.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.3 <4.0.0",
+              "nadena.dev.ndmf": ">=1.5.0 <2.0.0"
+            }
+          },
           "2.2.0": {
             "version": "2.2.0",
             "name": "dev.koz39.knee-fixer",
@@ -55100,7 +55212,7 @@
     "id": "com.github.kurotu.vpm",
     "author": "kurotu",
     "hash": "f6959329176df41ac666f19f2ea1d8248981a7fa72c1281967dfe1d2bf6cd842",
-    "last_updated": "2026-07-03T07:28:43.000Z",
+    "last_updated": "2026-10-10T02:47:10.000Z",
     "packageCount": 4,
     "packages": {
       "com.github.kurotu.vrc-quest-tools": {
@@ -59601,7 +59713,7 @@
     "id": "com.lightbulb.vpm",
     "author": "Lightbulb",
     "hash": "86035e14035d9e3d3af5a093e98f7d7ffabdc1c88c84e5657e741b3b3955025d",
-    "last_updated": "2026-10-09T02:10:22.000Z",
+    "last_updated": "2026-10-10T00:50:57.000Z",
     "packageCount": 1,
     "packages": {
       "com.lightbulb.world-tools": {
@@ -62457,7 +62569,7 @@
     "id": "com.mame8.vpm",
     "author": "mame8",
     "hash": "880c4bc843e71444652593ac77a1a92bd04b01453281fbe2f51c3cd1ea8bf95a",
-    "last_updated": "2026-07-02T19:27:30.000Z",
+    "last_updated": "2026-07-02T19:27:29.000Z",
     "packageCount": 3,
     "packages": {
       "com.mame8.animator-controller-context": {
@@ -63544,7 +63656,7 @@
     "id": "com.mashirotheater.vpm",
     "author": "Mashiro Small Theater",
     "hash": "e5b1c3bf63f37b97dcc302b57e7237a4688e35ee1d53a8743900def7dbacd104",
-    "last_updated": "2026-10-01T10:45:58.000Z",
+    "last_updated": "2026-10-09T10:58:53.000Z",
     "packageCount": 2,
     "packages": {
       "com.mashirotheater.common": {
@@ -64877,8 +64989,8 @@
     "name": "VR Vlog Packages",
     "id": "com.vrvlog.packages",
     "author": "VR Vlog",
-    "hash": "27796635529262299697957a9e7950a35bc40351cef8e24aa5ef2765237140c2",
-    "last_updated": "2026-10-08T21:40:14.000Z",
+    "hash": "f2d076827b8632c6c8f6cbb82988ee64ba6650aa1d4caca2e0dd4dc19aea5cff",
+    "last_updated": "2026-10-10T03:15:02.000Z",
     "packageCount": 3,
     "packages": {
       "com.vrmc.gltf": {
@@ -64901,7 +65013,7 @@
             "name": "com.vrmc.gltf",
             "displayName": "UniGLTF",
             "description": "GLTF importer and exporter",
-            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.12/com.vrmc.gltf-0.131.0.zip",
+            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.15-beta.2/com.vrmc.gltf-0.131.0.zip",
             "zipSha256": null,
             "unity": "2021.3",
             "vpmDependencies": {
@@ -64937,7 +65049,7 @@
             "name": "com.vrmc.vrm",
             "displayName": "VRM-1.0",
             "description": "VRM-1.0 importer",
-            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.12/com.vrmc.vrm-0.131.0.zip",
+            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.15-beta.2/com.vrmc.vrm-0.131.0.zip",
             "zipSha256": null,
             "unity": "2021.3",
             "vpmDependencies": {
@@ -64952,8 +65064,8 @@
         "name": "com.vrvlog.liltoon-vrm-exporter",
         "displayName": "VR Vlog lilToon VRM Exporter",
         "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-        "latestVersion": "0.11.12",
-        "versionCount": 59,
+        "latestVersion": "0.11.15-beta.2",
+        "versionCount": 63,
         "keywords": [
           "vrm",
           "liltoon",
@@ -64965,6 +65077,58 @@
           "name": "VR Vlog"
         },
         "versions": {
+          "0.11.15-beta.2": {
+            "version": "0.11.15-beta.2",
+            "name": "com.vrvlog.liltoon-vrm-exporter",
+            "displayName": "VR Vlog lilToon VRM Exporter",
+            "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
+            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.15-beta.2/com.vrvlog.liltoon-vrm-exporter-0.11.15-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrmc.gltf": "0.131.x",
+              "com.vrmc.vrm": "0.131.x"
+            }
+          },
+          "0.11.15-beta.1": {
+            "version": "0.11.15-beta.1",
+            "name": "com.vrvlog.liltoon-vrm-exporter",
+            "displayName": "VR Vlog lilToon VRM Exporter",
+            "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
+            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.15-beta.1/com.vrvlog.liltoon-vrm-exporter-0.11.15-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrmc.gltf": "0.131.x",
+              "com.vrmc.vrm": "0.131.x"
+            }
+          },
+          "0.11.14": {
+            "version": "0.11.14",
+            "name": "com.vrvlog.liltoon-vrm-exporter",
+            "displayName": "VR Vlog lilToon VRM Exporter",
+            "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
+            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.14/com.vrvlog.liltoon-vrm-exporter-0.11.14.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrmc.gltf": "0.131.x",
+              "com.vrmc.vrm": "0.131.x"
+            }
+          },
+          "0.11.13": {
+            "version": "0.11.13",
+            "name": "com.vrvlog.liltoon-vrm-exporter",
+            "displayName": "VR Vlog lilToon VRM Exporter",
+            "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
+            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.13/com.vrvlog.liltoon-vrm-exporter-0.11.13.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrmc.gltf": "0.131.x",
+              "com.vrmc.vrm": "0.131.x"
+            }
+          },
           "0.11.12": {
             "version": "0.11.12",
             "name": "com.vrvlog.liltoon-vrm-exporter",
@@ -68719,7 +68883,7 @@
     "id": "com.nickel-jp.repos.avatar-recovery",
     "author": "Nickel-JP",
     "hash": "fb037696f258b76cbb0c12879b13bfbb8a5fd326eaf780e2b3892e9a5938243a",
-    "last_updated": "2026-10-07T16:33:33.000Z",
+    "last_updated": "2026-10-07T16:33:34.000Z",
     "packageCount": 1,
     "packages": {
       "com.nickel-jp.avatar-recovery": {
@@ -69175,7 +69339,7 @@
     "id": "com.njsgdd10086.vpm-repo",
     "author": "ATRI_NAIXU",
     "hash": "ecf0ea2f685fc4792cafd47608461840e063a1ffe411544dbf08a1b99cfba719",
-    "last_updated": "2026-10-09T00:59:19.000Z",
+    "last_updated": "2026-10-10T02:46:59.000Z",
     "packageCount": 3,
     "packages": {
       "com.atrinaxu.nontoon.lightlimit": {
@@ -85156,7 +85320,7 @@
     "id": "dev.raspichu.vpm",
     "author": "Pichu",
     "hash": "9a2f82e471fcf06456f855e8c746d6e95e053484b4737bc9a83a7c2fe7bd6b32",
-    "last_updated": "2026-09-07T15:01:35.000Z",
+    "last_updated": "2026-09-07T15:01:36.000Z",
     "packageCount": 2,
     "packages": {
       "dev.raspichu.inspector-enhancements": {
@@ -91351,7 +91515,7 @@
     "id": "com.mitsuboshi-studio.vpm",
     "author": "Mitsuboshi_Studio",
     "hash": "52cde1f130302215e50bd10fbf17761cac4d336a632db50118aa96eb79cfb767",
-    "last_updated": "2026-10-09T02:11:09.000Z",
+    "last_updated": "2026-10-10T00:52:46.000Z",
     "packageCount": 8,
     "packages": {
       "com.mitsuboshi-studio.unity-power-rename": {
@@ -91598,7 +91762,7 @@
     "id": "dev.redline-team.redlinelist",
     "author": "RozeThorns",
     "hash": "8c61e41bc845ad48ac8b2df4fbc0df5b38f713805c599141762b5c54f4e92f8c",
-    "last_updated": "2026-10-09T03:15:41.000Z",
+    "last_updated": "2026-10-10T02:55:02.000Z",
     "packageCount": 5,
     "packages": {
       "dev.redline-team.rpm": {
@@ -95204,7 +95368,7 @@
     "id": "com.mizore-nekoyanagi.vpm-packages",
     "author": "Mizore Nekoyanagi",
     "hash": "df5c206bda4082fc4825f6e0002aea2319d15d80cf9dc71813ef06fb4db812e7",
-    "last_updated": "2026-02-19T08:55:54.000Z",
+    "last_updated": "2026-02-19T08:55:53.000Z",
     "packageCount": 4,
     "packages": {
       "com.mizore-nekoyanagi.utils.apply-prefab-window": {
@@ -107361,8 +107525,8 @@
     "name": "Udonite",
     "id": "com.udonite.listing",
     "author": "Udonite",
-    "hash": "241924828f0f60e41d0478347a879b425147b78c7ac1e7a02de9fc88bc069680",
-    "last_updated": "2026-10-08T14:37:18.000Z",
+    "hash": "a7bc3867d288d6ad256449a43d722f8745e1f6d68d92127af884f179c0cfc481",
+    "last_updated": "2026-10-10T01:12:52.000Z",
     "packageCount": 7,
     "packages": {
       "com.udonite.compiler": {
@@ -107370,8 +107534,8 @@
         "name": "com.udonite.compiler",
         "displayName": "Udonite",
         "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
-        "latestVersion": "2.14.1",
-        "versionCount": 7,
+        "latestVersion": "2.15.2",
+        "versionCount": 11,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -107379,6 +107543,54 @@
           "url": "https://github.com/Udonite/Udonite"
         },
         "versions": {
+          "2.15.2": {
+            "version": "2.15.2",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://github.com/Udonite/Udonite/releases/download/v2.15.2/com.udonite.compiler-2.15.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
+          "2.15.1": {
+            "version": "2.15.1",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://github.com/Udonite/Udonite/releases/download/v2.15.1/com.udonite.compiler-2.15.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
+          "2.15.0": {
+            "version": "2.15.0",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://github.com/Udonite/Udonite/releases/download/v2.15.0/com.udonite.compiler-2.15.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
+          "2.14.2": {
+            "version": "2.14.2",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://github.com/Udonite/Udonite/releases/download/v2.14.2/com.udonite.compiler-2.14.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
           "2.14.1": {
             "version": "2.14.1",
             "name": "com.udonite.compiler",
@@ -109213,8 +109425,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "1bc3fbcb35b1be24e3688da577b8a892a7bf59ecad1197363971b674f21d986a",
-    "last_updated": "2026-10-09T04:27:05.000Z",
+    "hash": "fe2bb5ab18f8ac14b91aad584fd989acc175128ca33e739edb04523a49ca16f6",
+    "last_updated": "2026-10-10T04:12:05.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -109222,14 +109434,24 @@
         "name": "com.vrcfury.vrcfury",
         "displayName": "VRCFury",
         "description": "Non-Destructive Tools for VRChat Avatars",
-        "latestVersion": "1.1432.0",
-        "versionCount": 1414,
+        "latestVersion": "1.1433.0",
+        "versionCount": 1415,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "VRCFury"
         },
         "versions": {
+          "1.1433.0": {
+            "version": "1.1433.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1433.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.1432.0": {
             "version": "1.1432.0",
             "name": "com.vrcfury.vrcfury",
@@ -122712,7 +122934,7 @@
     "id": "com.vixencreations.vixens-toolbox.listing",
     "author": "Vixenlicous",
     "hash": "97047b8055daac695e45798df3af29975922f5a6782759677e991ebcce917ec2",
-    "last_updated": "2026-10-05T16:37:34.000Z",
+    "last_updated": "2026-10-09T13:49:27.000Z",
     "packageCount": 1,
     "packages": {
       "com.vixencreations.vixens-toolbox": {
@@ -123401,7 +123623,7 @@
     "id": "io.mekabu.vpm-repository",
     "author": "contact@mekabu.io",
     "hash": "afb531d339483772668bf9b0fbe2f91415a0d37733b4adad67544741ae03cb2e",
-    "last_updated": "2026-10-09T04:20:58.000Z",
+    "last_updated": "2026-10-10T04:06:58.000Z",
     "packageCount": 2,
     "packages": {
       "com.mekabu.blendshape-animation-creator": {
@@ -136536,8 +136758,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "947cdb7bc75fb712e2e2cab3784e7933818dc9300d275d37d56b80645e55b03f",
-    "last_updated": "2026-10-09T03:19:36.000Z",
+    "hash": "6509987175c7c2d5192d92a34511a55ea8b1d624fe5016b97f45ab1b6282447b",
+    "last_updated": "2026-10-10T02:27:53.000Z",
     "packageCount": 10,
     "packages": {
       "com.poiyomi.pro": {
@@ -136545,8 +136767,8 @@
         "name": "com.poiyomi.pro",
         "displayName": "Poiyomi Pro",
         "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
-        "latestVersion": "11.0.23",
-        "versionCount": 32,
+        "latestVersion": "11.0.26",
+        "versionCount": 35,
         "keywords": [
           "shaders",
           "vrchat",
@@ -136560,6 +136782,36 @@
           "url": "https://poiyomi.com"
         },
         "versions": {
+          "11.0.26": {
+            "version": "11.0.26",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.26/2722cc0420d5f3f84772a3a90fdd1e4ae87d9fabb8333ba0441f7b6df19b0c1c",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.25": {
+            "version": "11.0.25",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.25/df0450b747de23805b95e9ca45e3650f84a705c4b3471d56fb99e5208d1b33cd",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.24": {
+            "version": "11.0.24",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.24/01770251b863dde528989c9f87699168ffc9d05b0472fc33455ea2c8aafb5577",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
           "11.0.23": {
             "version": "11.0.23",
             "name": "com.poiyomi.pro",
@@ -137233,8 +137485,8 @@
         "name": "hackebein.objecttracking",
         "displayName": "Hackebein's Object Tracking",
         "description": "Hackebein's setup for Object Tracking in VRChat",
-        "latestVersion": "1.0.0-beta.37",
-        "versionCount": 2,
+        "latestVersion": "1.0.0-beta.38",
+        "versionCount": 3,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -137243,6 +137495,20 @@
           "url": "https://hackebein.de"
         },
         "versions": {
+          "1.0.0-beta.38": {
+            "version": "1.0.0-beta.38",
+            "name": "hackebein.objecttracking",
+            "displayName": "Hackebein's Object Tracking",
+            "description": "Hackebein's setup for Object Tracking in VRChat",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking/1.0.0-beta.38/dc313aa91741ff28761effd7e568dc9cf76bc7e5d444bbeffee4f6dc4e8c031c",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.9.0",
+              "com.ygdr.mdv": ">=1.2.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0"
+            }
+          },
           "1.0.0-beta.37": {
             "version": "1.0.0-beta.37",
             "name": "hackebein.objecttracking",
@@ -145933,8 +146199,8 @@
     "name": "LogicCuteGuy VPM Listing",
     "id": "com.logiccuteguy.vpm",
     "author": "LogicCuteGuy",
-    "hash": "66291d03c06f3e232ca547f83740dd6604ec52ee78bcd8d60a978070b5fb63d3",
-    "last_updated": "2026-10-05T04:05:13.000Z",
+    "hash": "2438b4c90af8e943663cb8208bd40c254f364e1914050346e8a3bb0b3aa74054",
+    "last_updated": "2026-10-09T11:03:42.000Z",
     "packageCount": 4,
     "packages": {
       "com.logiccuteguy.digholeit": {
@@ -145942,8 +146208,8 @@
         "name": "com.logiccuteguy.digholeit",
         "displayName": "DigHoleIt - Diggable Voxel Terrain",
         "description": "Digger-style diggable terrain. Bakes Dig Zones over Unity Terrain into a quantized SDF grid and meshes it with Surface Nets. Dig, add and paint terrain layers at runtime or with Terrain-style brushes in the editor. Ships a VRChat (UdonSharp) runtime with networked edits and late-joiner replay, plus a plain C# runtime for standalone games.",
-        "latestVersion": "0.5.0",
-        "versionCount": 4,
+        "latestVersion": "0.4.0",
+        "versionCount": 5,
         "keywords": [
           "terrain",
           "voxel",
@@ -145959,6 +146225,19 @@
           "url": "https://github.com/LogicCuteGuy"
         },
         "versions": {
+          "0.4.0": {
+            "version": "0.4.0",
+            "name": "com.logiccuteguy.digholeit",
+            "displayName": "DigHoleIt - Diggable Voxel Terrain",
+            "description": "Digger-style diggable terrain. Bakes Dig Zones over Unity Terrain into a quantized SDF grid and meshes it with Surface Nets. Dig, add and paint terrain layers at runtime or with Terrain-style brushes in the editor. Ships a VRChat (UdonSharp) runtime with networked edits and late-joiner replay, plus a plain C# runtime for standalone games.",
+            "url": "https://github.com/LogicCuteGuy/DigHoleIt/releases/download/v0.4.0/com.logiccuteguy.digholeit-0.4.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.10.5",
+              "com.logiccuteguy.lcgudonsharp": ">=0.3.4"
+            }
+          },
           "0.5.0": {
             "version": "0.5.0",
             "name": "com.logiccuteguy.digholeit",
@@ -145972,12 +146251,12 @@
               "com.logiccuteguy.lcgudonsharp": ">=0.3.4"
             }
           },
-          "0.4.0": {
-            "version": "0.4.0",
+          "0.6.1": {
+            "version": "0.6.1",
             "name": "com.logiccuteguy.digholeit",
             "displayName": "DigHoleIt - Diggable Voxel Terrain",
             "description": "Digger-style diggable terrain. Bakes Dig Zones over Unity Terrain into a quantized SDF grid and meshes it with Surface Nets. Dig, add and paint terrain layers at runtime or with Terrain-style brushes in the editor. Ships a VRChat (UdonSharp) runtime with networked edits and late-joiner replay, plus a plain C# runtime for standalone games.",
-            "url": "https://github.com/LogicCuteGuy/DigHoleIt/releases/download/v0.4.0/com.logiccuteguy.digholeit-0.4.0.zip",
+            "url": "https://github.com/LogicCuteGuy/DigHoleIt/releases/download/v0.6.1/com.logiccuteguy.digholeit-0.6.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -145998,12 +146277,12 @@
               "com.logiccuteguy.lcgudonsharp": ">=0.3.4"
             }
           },
-          "0.6.1": {
-            "version": "0.6.1",
+          "0.7.0": {
+            "version": "0.7.0",
             "name": "com.logiccuteguy.digholeit",
             "displayName": "DigHoleIt - Diggable Voxel Terrain",
             "description": "Digger-style diggable terrain. Bakes Dig Zones over Unity Terrain into a quantized SDF grid and meshes it with Surface Nets. Dig, add and paint terrain layers at runtime or with Terrain-style brushes in the editor. Ships a VRChat (UdonSharp) runtime with networked edits and late-joiner replay, plus a plain C# runtime for standalone games.",
-            "url": "https://github.com/LogicCuteGuy/DigHoleIt/releases/download/v0.6.1/com.logiccuteguy.digholeit-0.6.1.zip",
+            "url": "https://github.com/LogicCuteGuy/DigHoleIt/releases/download/v0.7.0/com.logiccuteguy.digholeit-0.7.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -146013,32 +146292,43 @@
           }
         }
       },
-      "com.unity.scriptablebuildpipeline": {
-        "id": "com.unity.scriptablebuildpipeline",
-        "name": "com.unity.scriptablebuildpipeline",
-        "displayName": "Scriptable Build Pipeline (LCGUdonSharp compatibility)",
-        "description": "The Scriptable Build Pipeline moves the asset bundle build pipeline to C#.  Use the pre-defined build flows, or create your own using the divided up APIs.  This system improves build time, fixes incremental build, and provides greater flexibility.\nLCGUdonSharp compatibility distribution based on Unity 1.21.25: excludes auto-referenced SDK DLLs from the editor assembly.",
-        "latestVersion": "1.21.26",
-        "versionCount": 1,
+      "com.logiccuteguy.helptools": {
+        "id": "com.logiccuteguy.helptools",
+        "name": "com.logiccuteguy.helptools",
+        "displayName": "LogicCuteGuy Help Tools",
+        "description": "A collection of helpful Unity Editor tools for scene management, object manipulation, and optimization.",
+        "latestVersion": "1.0.1",
+        "versionCount": 2,
         "keywords": [
-          "build",
-          "bundle",
-          "bundles",
-          "assetbundles",
-          "cache",
-          "server"
+          "unity",
+          "editor",
+          "tools",
+          "vrchat"
         ],
-        "unity": "2019.4",
-        "author": "LogicCuteGuy",
+        "unity": "2022.3",
+        "author": {
+          "name": "LogicCuteGuy",
+          "url": "https://profile.logiccuteguy.com/"
+        },
         "versions": {
-          "1.21.26": {
-            "version": "1.21.26",
-            "name": "com.unity.scriptablebuildpipeline",
-            "displayName": "Scriptable Build Pipeline (LCGUdonSharp compatibility)",
-            "description": "The Scriptable Build Pipeline moves the asset bundle build pipeline to C#.  Use the pre-defined build flows, or create your own using the divided up APIs.  This system improves build time, fixes incremental build, and provides greater flexibility.\nLCGUdonSharp compatibility distribution based on Unity 1.21.25: excludes auto-referenced SDK DLLs from the editor assembly.",
-            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/sbp-compatibility-1.21.26/com.unity.scriptablebuildpipeline-1.21.26.zip",
+          "1.0.1": {
+            "version": "1.0.1",
+            "name": "com.logiccuteguy.helptools",
+            "displayName": "LogicCuteGuy Help Tools",
+            "description": "A collection of helpful Unity Editor tools for scene management, object manipulation, and optimization.",
+            "url": "https://github.com/LogicCuteGuy/UnityHelpTools/releases/download/1.0.1/com.logiccuteguy.helptools-1.0.1.zip",
             "zipSha256": null,
-            "unity": "2019.4",
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.logiccuteguy.helptools",
+            "displayName": "LogicCuteGuy Help Tools",
+            "description": "A collection of helpful Unity Editor tools for scene management, object manipulation, and optimization.",
+            "url": "https://github.com/LogicCuteGuy/UnityHelpTools/releases/download/1.0.0/com.logiccuteguy.helptools-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
             "vpmDependencies": {}
           }
         }
@@ -146102,24 +146392,12 @@
               "com.vrchat.worlds": "3.10.5"
             }
           },
-          "0.3.4": {
-            "version": "0.3.4",
+          "0.3.7": {
+            "version": "0.3.7",
             "name": "com.logiccuteguy.lcgudonsharp",
             "displayName": "LCGUdonSharp",
             "description": "Adds source-interface support to UdonSharp and installs the compiler inside LCGUdonSharp instead of VRChat Worlds.",
-            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/0.3.4/com.logiccuteguy.lcgudonsharp-0.3.4.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "3.10.5"
-            }
-          },
-          "0.3.9": {
-            "version": "0.3.9",
-            "name": "com.logiccuteguy.lcgudonsharp",
-            "displayName": "LCGUdonSharp",
-            "description": "Adds source-interface support to UdonSharp and installs the compiler inside LCGUdonSharp instead of VRChat Worlds.",
-            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/0.3.9/com.logiccuteguy.lcgudonsharp-0.3.9.zip",
+            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/0.3.7/com.logiccuteguy.lcgudonsharp-0.3.7.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -146138,24 +146416,12 @@
               "com.vrchat.worlds": "3.10.5"
             }
           },
-          "0.3.2": {
-            "version": "0.3.2",
+          "0.3.9": {
+            "version": "0.3.9",
             "name": "com.logiccuteguy.lcgudonsharp",
             "displayName": "LCGUdonSharp",
             "description": "Adds source-interface support to UdonSharp and installs the compiler inside LCGUdonSharp instead of VRChat Worlds.",
-            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/0.3.2/com.logiccuteguy.lcgudonsharp-0.3.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "3.10.5"
-            }
-          },
-          "0.3.7": {
-            "version": "0.3.7",
-            "name": "com.logiccuteguy.lcgudonsharp",
-            "displayName": "LCGUdonSharp",
-            "description": "Adds source-interface support to UdonSharp and installs the compiler inside LCGUdonSharp instead of VRChat Worlds.",
-            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/0.3.7/com.logiccuteguy.lcgudonsharp-0.3.7.zip",
+            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/0.3.9/com.logiccuteguy.lcgudonsharp-0.3.9.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -146168,6 +146434,30 @@
             "displayName": "LCGUdonSharp",
             "description": "Adds source-interface support to UdonSharp and installs the compiler inside LCGUdonSharp instead of VRChat Worlds.",
             "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/0.3.3/com.logiccuteguy.lcgudonsharp-0.3.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.10.5"
+            }
+          },
+          "0.3.4": {
+            "version": "0.3.4",
+            "name": "com.logiccuteguy.lcgudonsharp",
+            "displayName": "LCGUdonSharp",
+            "description": "Adds source-interface support to UdonSharp and installs the compiler inside LCGUdonSharp instead of VRChat Worlds.",
+            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/0.3.4/com.logiccuteguy.lcgudonsharp-0.3.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.10.5"
+            }
+          },
+          "0.3.2": {
+            "version": "0.3.2",
+            "name": "com.logiccuteguy.lcgudonsharp",
+            "displayName": "LCGUdonSharp",
+            "description": "Adds source-interface support to UdonSharp and installs the compiler inside LCGUdonSharp instead of VRChat Worlds.",
+            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/0.3.2/com.logiccuteguy.lcgudonsharp-0.3.2.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -146188,43 +146478,32 @@
           }
         }
       },
-      "com.logiccuteguy.helptools": {
-        "id": "com.logiccuteguy.helptools",
-        "name": "com.logiccuteguy.helptools",
-        "displayName": "LogicCuteGuy Help Tools",
-        "description": "A collection of helpful Unity Editor tools for scene management, object manipulation, and optimization.",
-        "latestVersion": "1.0.0",
-        "versionCount": 2,
+      "com.unity.scriptablebuildpipeline": {
+        "id": "com.unity.scriptablebuildpipeline",
+        "name": "com.unity.scriptablebuildpipeline",
+        "displayName": "Scriptable Build Pipeline (LCGUdonSharp compatibility)",
+        "description": "The Scriptable Build Pipeline moves the asset bundle build pipeline to C#.  Use the pre-defined build flows, or create your own using the divided up APIs.  This system improves build time, fixes incremental build, and provides greater flexibility.\nLCGUdonSharp compatibility distribution based on Unity 1.21.25: excludes auto-referenced SDK DLLs from the editor assembly.",
+        "latestVersion": "1.21.26",
+        "versionCount": 1,
         "keywords": [
-          "unity",
-          "editor",
-          "tools",
-          "vrchat"
+          "build",
+          "bundle",
+          "bundles",
+          "assetbundles",
+          "cache",
+          "server"
         ],
-        "unity": "2022.3",
-        "author": {
-          "name": "LogicCuteGuy",
-          "url": "https://profile.logiccuteguy.com/"
-        },
+        "unity": "2019.4",
+        "author": "LogicCuteGuy",
         "versions": {
-          "1.0.0": {
-            "version": "1.0.0",
-            "name": "com.logiccuteguy.helptools",
-            "displayName": "LogicCuteGuy Help Tools",
-            "description": "A collection of helpful Unity Editor tools for scene management, object manipulation, and optimization.",
-            "url": "https://github.com/LogicCuteGuy/UnityHelpTools/releases/download/1.0.0/com.logiccuteguy.helptools-1.0.0.zip",
+          "1.21.26": {
+            "version": "1.21.26",
+            "name": "com.unity.scriptablebuildpipeline",
+            "displayName": "Scriptable Build Pipeline (LCGUdonSharp compatibility)",
+            "description": "The Scriptable Build Pipeline moves the asset bundle build pipeline to C#.  Use the pre-defined build flows, or create your own using the divided up APIs.  This system improves build time, fixes incremental build, and provides greater flexibility.\nLCGUdonSharp compatibility distribution based on Unity 1.21.25: excludes auto-referenced SDK DLLs from the editor assembly.",
+            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/sbp-compatibility-1.21.26/com.unity.scriptablebuildpipeline-1.21.26.zip",
             "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {}
-          },
-          "1.0.1": {
-            "version": "1.0.1",
-            "name": "com.logiccuteguy.helptools",
-            "displayName": "LogicCuteGuy Help Tools",
-            "description": "A collection of helpful Unity Editor tools for scene management, object manipulation, and optimization.",
-            "url": "https://github.com/LogicCuteGuy/UnityHelpTools/releases/download/1.0.1/com.logiccuteguy.helptools-1.0.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
+            "unity": "2019.4",
             "vpmDependencies": {}
           }
         }
@@ -166368,7 +166647,7 @@
     "name": "Pukorufu Packages",
     "id": "net.puk06.vpm",
     "author": "Pukorufu",
-    "hash": "01bbcf191ccfe8509efd71c574716571c3f8401ef99c7250fca3ebf3e71b1b17",
+    "hash": "7c93b480f0a7f070fa514b6eb85ac76feb97b2904743fd4c702168a3978858b7",
     "last_updated": "2026-08-01T16:09:53.410Z",
     "packageCount": 12,
     "packages": {
@@ -167186,7 +167465,7 @@
         "displayName": "TexStackEditor",
         "description": "An advanced layer-based texture editing and baking tool for VRChat avatars in Unity.",
         "latestVersion": "1.0.0",
-        "versionCount": 19,
+        "versionCount": 20,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -167435,6 +167714,19 @@
             "displayName": "TexStackEditor",
             "description": "An advanced layer-based texture editing and baking tool for VRChat avatars in Unity.",
             "url": "https://github.com/puk06/TexStackEditor/releases/download/v1.3.5/net.puk06.tex-stack-editor-v1.3.5.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.5.0",
+              "com.vrchat.base": ">=3.5.0"
+            }
+          },
+          "1.4.0": {
+            "version": "1.4.0",
+            "name": "net.puk06.tex-stack-editor",
+            "displayName": "TexStackEditor",
+            "description": "An advanced layer-based texture editing and baking tool for VRChat avatars in Unity.",
+            "url": "https://github.com/puk06/TexStackEditor/releases/download/v1.4.0/net.puk06.tex-stack-editor-v1.4.0.zip?",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -172059,7 +172351,7 @@
     "id": "dev.thry.vpm",
     "author": "Thryrallo",
     "hash": "0189583cd590af92f6337bf072cfea3211c6a3ca90738536d8f30bcd5fab82cb",
-    "last_updated": "2024-08-05T22:13:00.000Z",
+    "last_updated": "2024-08-05T22:13:01.000Z",
     "packageCount": 1,
     "packages": {
       "de.thryrallo.vrc.avatar-performance-tools": {
@@ -172793,8 +173085,8 @@
     "name": "WhyKnot Tools",
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
-    "hash": "ac30401c95ad99d8e56e2db746d809c0fd943698f40ebfdb49318a3fdbc8216a",
-    "last_updated": "2026-10-08T12:27:44.000Z",
+    "hash": "927005e52e4b818c7918f72ea069cf0ac95c11d79db2edb0a95eec650bf10aeb",
+    "last_updated": "2026-10-09T12:16:50.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -192802,8 +193094,8 @@
     "name": "Poiyomi's VPM Repo",
     "id": "io.github.poiyomi.vpm",
     "author": "Poiyomi",
-    "hash": "4ec89f5e48d4b9dae319bb98a1206d5f95e1c2fe79c6741b5d61a31416fa955c",
-    "last_updated": "2026-10-08T15:44:21.000Z",
+    "hash": "396b6bbffdd40862a2b92fa352170b42401ab9c0cdb5a9a675ab9ea491dad452",
+    "last_updated": "2026-10-10T01:53:36.000Z",
     "packageCount": 3,
     "packages": {
       "com.poiyomi.toon": {
@@ -193357,8 +193649,8 @@
         "name": "com.poiyomi.pro",
         "displayName": "Poiyomi Pro",
         "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
-        "latestVersion": "11.0.25",
-        "versionCount": 43,
+        "latestVersion": "11.0.26",
+        "versionCount": 44,
         "keywords": [
           "shaders",
           "vrchat",
@@ -193372,6 +193664,16 @@
           "url": "https://poiyomi.com"
         },
         "versions": {
+          "11.0.26": {
+            "version": "11.0.26",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://github.com/poiyomi/Poiyomi-Pro-Downloader/releases/download/v11.0.26/com.poiyomi.pro-11.0.26.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
           "11.0.25": {
             "version": "11.0.25",
             "name": "com.poiyomi.pro",
