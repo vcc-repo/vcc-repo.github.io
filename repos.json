@@ -2286,8 +2286,8 @@
     "name": "An-Labo NailTool",
     "id": "world.anlabo.mdnailtool.vpm",
     "author": "An-Labo",
-    "hash": "9578cd0920794c5c1234b642c0160b6d045037ff8dcbe24648fa6a391a0d255a",
-    "last_updated": "2026-10-09T07:53:52.000Z",
+    "hash": "383befcd516aafb29e2f596024ad6a45782bc3c4641757a75ffe7f44225ae38c",
+    "last_updated": "2026-10-10T12:26:09.000Z",
     "packageCount": 1,
     "packages": {
       "world.anlabo.mdnailtool": {
@@ -2296,7 +2296,7 @@
         "displayName": "An-Labo NailTool",
         "description": "An-Labo NailTool",
         "latestVersion": "0.9.141",
-        "versionCount": 595,
+        "versionCount": 512,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -6589,942 +6589,6 @@
               "com.vrchat.avatars": ">=3.5.0"
             }
           },
-          "0.9.200": {
-            "version": "0.9.200",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.200/world.anlabo.mdnailtool-0.9.200.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.201": {
-            "version": "0.9.201",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.201/world.anlabo.mdnailtool-0.9.201.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.202": {
-            "version": "0.9.202",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.202/world.anlabo.mdnailtool-0.9.202.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.203": {
-            "version": "0.9.203",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.203/world.anlabo.mdnailtool-0.9.203.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.204": {
-            "version": "0.9.204",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.204/world.anlabo.mdnailtool-0.9.204.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.205": {
-            "version": "0.9.205",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.205/world.anlabo.mdnailtool-0.9.205.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.206": {
-            "version": "0.9.206",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.206/world.anlabo.mdnailtool-0.9.206.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.207": {
-            "version": "0.9.207",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.207/world.anlabo.mdnailtool-0.9.207.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.208": {
-            "version": "0.9.208",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.208/world.anlabo.mdnailtool-0.9.208.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.209": {
-            "version": "0.9.209",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.209/world.anlabo.mdnailtool-0.9.209.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.210": {
-            "version": "0.9.210",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.210/world.anlabo.mdnailtool-0.9.210.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.211": {
-            "version": "0.9.211",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.211/world.anlabo.mdnailtool-0.9.211.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.212": {
-            "version": "0.9.212",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.212/world.anlabo.mdnailtool-0.9.212.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.213": {
-            "version": "0.9.213",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.213/world.anlabo.mdnailtool-0.9.213.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.214": {
-            "version": "0.9.214",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.214/world.anlabo.mdnailtool-0.9.214.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.300-alpha.1": {
-            "version": "0.9.300-alpha.1",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.300-alpha.1/world.anlabo.mdnailtool-0.9.300-alpha.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.300-alpha.2": {
-            "version": "0.9.300-alpha.2",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.300-alpha.2/world.anlabo.mdnailtool-0.9.300-alpha.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.300-alpha.3": {
-            "version": "0.9.300-alpha.3",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.300-alpha.3/world.anlabo.mdnailtool-0.9.300-alpha.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.300": {
-            "version": "0.9.300",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.300/world.anlabo.mdnailtool-0.9.300.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.301": {
-            "version": "0.9.301",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.301/world.anlabo.mdnailtool-0.9.301.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.302": {
-            "version": "0.9.302",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.302/world.anlabo.mdnailtool-0.9.302.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.303": {
-            "version": "0.9.303",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.303/world.anlabo.mdnailtool-0.9.303.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.304": {
-            "version": "0.9.304",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.304/world.anlabo.mdnailtool-0.9.304.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.305": {
-            "version": "0.9.305",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.305/world.anlabo.mdnailtool-0.9.305.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.306": {
-            "version": "0.9.306",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.306/world.anlabo.mdnailtool-0.9.306.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.307": {
-            "version": "0.9.307",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.307/world.anlabo.mdnailtool-0.9.307.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.308": {
-            "version": "0.9.308",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.308/world.anlabo.mdnailtool-0.9.308.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.309": {
-            "version": "0.9.309",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.309/world.anlabo.mdnailtool-0.9.309.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.310": {
-            "version": "0.9.310",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.310/world.anlabo.mdnailtool-0.9.310.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.311": {
-            "version": "0.9.311",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.311/world.anlabo.mdnailtool-0.9.311.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.312": {
-            "version": "0.9.312",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.312/world.anlabo.mdnailtool-0.9.312.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.313": {
-            "version": "0.9.313",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.313/world.anlabo.mdnailtool-0.9.313.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.314": {
-            "version": "0.9.314",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.314/world.anlabo.mdnailtool-0.9.314.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.315": {
-            "version": "0.9.315",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.315/world.anlabo.mdnailtool-0.9.315.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.316": {
-            "version": "0.9.316",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.316/world.anlabo.mdnailtool-0.9.316.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.317": {
-            "version": "0.9.317",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.317/world.anlabo.mdnailtool-0.9.317.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.318": {
-            "version": "0.9.318",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.318/world.anlabo.mdnailtool-0.9.318.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.319": {
-            "version": "0.9.319",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.319/world.anlabo.mdnailtool-0.9.319.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.320": {
-            "version": "0.9.320",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.320/world.anlabo.mdnailtool-0.9.320.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.321": {
-            "version": "0.9.321",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.321/world.anlabo.mdnailtool-0.9.321.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.322": {
-            "version": "0.9.322",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.322/world.anlabo.mdnailtool-0.9.322.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.323": {
-            "version": "0.9.323",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.323/world.anlabo.mdnailtool-0.9.323.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.324": {
-            "version": "0.9.324",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.324/world.anlabo.mdnailtool-0.9.324.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.325": {
-            "version": "0.9.325",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.325/world.anlabo.mdnailtool-0.9.325.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.326": {
-            "version": "0.9.326",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.326/world.anlabo.mdnailtool-0.9.326.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.327": {
-            "version": "0.9.327",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.327/world.anlabo.mdnailtool-0.9.327.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.328": {
-            "version": "0.9.328",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.328/world.anlabo.mdnailtool-0.9.328.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.329": {
-            "version": "0.9.329",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.329/world.anlabo.mdnailtool-0.9.329.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.330": {
-            "version": "0.9.330",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.330/world.anlabo.mdnailtool-0.9.330.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.331": {
-            "version": "0.9.331",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.331/world.anlabo.mdnailtool-0.9.331.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.332": {
-            "version": "0.9.332",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.332/world.anlabo.mdnailtool-0.9.332.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.333": {
-            "version": "0.9.333",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.333/world.anlabo.mdnailtool-0.9.333.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.334": {
-            "version": "0.9.334",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.334/world.anlabo.mdnailtool-0.9.334.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.335": {
-            "version": "0.9.335",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.335/world.anlabo.mdnailtool-0.9.335.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.336": {
-            "version": "0.9.336",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.336/world.anlabo.mdnailtool-0.9.336.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.337": {
-            "version": "0.9.337",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.337/world.anlabo.mdnailtool-0.9.337.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.338": {
-            "version": "0.9.338",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.338/world.anlabo.mdnailtool-0.9.338.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.339": {
-            "version": "0.9.339",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.339/world.anlabo.mdnailtool-0.9.339.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.340": {
-            "version": "0.9.340",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.340/world.anlabo.mdnailtool-0.9.340.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.341": {
-            "version": "0.9.341",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.341/world.anlabo.mdnailtool-0.9.341.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.342": {
-            "version": "0.9.342",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.342/world.anlabo.mdnailtool-0.9.342.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.343": {
-            "version": "0.9.343",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.343/world.anlabo.mdnailtool-0.9.343.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.344": {
-            "version": "0.9.344",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.344/world.anlabo.mdnailtool-0.9.344.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.345": {
-            "version": "0.9.345",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.345/world.anlabo.mdnailtool-0.9.345.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.346": {
-            "version": "0.9.346",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.346/world.anlabo.mdnailtool-0.9.346.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.347": {
-            "version": "0.9.347",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.347/world.anlabo.mdnailtool-0.9.347.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.348": {
-            "version": "0.9.348",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.348/world.anlabo.mdnailtool-0.9.348.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.349": {
-            "version": "0.9.349",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.349/world.anlabo.mdnailtool-0.9.349.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.350": {
-            "version": "0.9.350",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.350/world.anlabo.mdnailtool-0.9.350.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.351": {
-            "version": "0.9.351",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.351/world.anlabo.mdnailtool-0.9.351.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.352": {
-            "version": "0.9.352",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.352/world.anlabo.mdnailtool-0.9.352.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.353": {
-            "version": "0.9.353",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.353/world.anlabo.mdnailtool-0.9.353.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.354": {
-            "version": "0.9.354",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.354/world.anlabo.mdnailtool-0.9.354.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.355": {
-            "version": "0.9.355",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.355/world.anlabo.mdnailtool-0.9.355.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.356": {
-            "version": "0.9.356",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.356/world.anlabo.mdnailtool-0.9.356.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.357": {
-            "version": "0.9.357",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.357/world.anlabo.mdnailtool-0.9.357.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.358": {
-            "version": "0.9.358",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.358/world.anlabo.mdnailtool-0.9.358.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.359": {
-            "version": "0.9.359",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.359/world.anlabo.mdnailtool-0.9.359.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
           "0.9.360": {
             "version": "0.9.360",
             "name": "world.anlabo.mdnailtool",
@@ -8221,18 +7285,6 @@
               "com.vrchat.avatars": ">=3.5.0"
             }
           },
-          "0.9.429": {
-            "version": "0.9.429",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.429/world.anlabo.mdnailtool-0.9.429.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
           "0.9.430": {
             "version": "0.9.430",
             "name": "world.anlabo.mdnailtool",
@@ -8251,18 +7303,6 @@
             "displayName": "An-Labo NailTool",
             "description": "An-Labo NailTool",
             "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.431/world.anlabo.mdnailtool-0.9.431.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.9.432": {
-            "version": "0.9.432",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.9.432/world.anlabo.mdnailtool-0.9.432.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -8809,18 +7849,6 @@
               "com.vrchat.avatars": ">=3.5.0"
             }
           },
-          "0.10.32": {
-            "version": "0.10.32",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.10.32/world.anlabo.mdnailtool-0.10.32.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
           "0.10.33": {
             "version": "0.10.33",
             "name": "world.anlabo.mdnailtool",
@@ -9133,30 +8161,6 @@
               "com.vrchat.avatars": ">=3.5.0"
             }
           },
-          "0.10.56": {
-            "version": "0.10.56",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.10.56/world.anlabo.mdnailtool-0.10.56.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
-          "0.10.57": {
-            "version": "0.10.57",
-            "name": "world.anlabo.mdnailtool",
-            "displayName": "An-Labo NailTool",
-            "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.10.57/world.anlabo.mdnailtool-0.10.57.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
           "0.10.58": {
             "version": "0.10.58",
             "name": "world.anlabo.mdnailtool",
@@ -9425,12 +8429,12 @@
               "nadena.dev.modular-avatar": ">=1.17.0"
             }
           },
-          "0.11.4": {
-            "version": "0.11.4",
+          "0.11.5": {
+            "version": "0.11.5",
             "name": "world.anlabo.mdnailtool",
             "displayName": "An-Labo NailTool",
             "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.11.4/world.anlabo.mdnailtool-0.11.4.zip",
+            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.11.5/world.anlabo.mdnailtool-0.11.5.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -9438,12 +8442,12 @@
               "nadena.dev.modular-avatar": ">=1.17.0"
             }
           },
-          "0.11.5": {
-            "version": "0.11.5",
+          "0.11.6": {
+            "version": "0.11.6",
             "name": "world.anlabo.mdnailtool",
             "displayName": "An-Labo NailTool",
             "description": "An-Labo NailTool",
-            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.11.5/world.anlabo.mdnailtool-0.11.5.zip",
+            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.11.6/world.anlabo.mdnailtool-0.11.6.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -12617,7 +11621,7 @@
     "id": "com.awavr.vpm",
     "author": "AwA",
     "hash": "22064f8c95b78ec5892d45b2af7ecbc44a89d9443330c2b63733c4174e56e1f8",
-    "last_updated": "2026-09-19T19:28:39.000Z",
+    "last_updated": "2026-09-19T19:28:38.000Z",
     "packageCount": 11,
     "packages": {
       "com.awavr.core": {
@@ -15484,8 +14488,8 @@
     "name": "Orbiters VPM",
     "id": "cc.orbiters.vpm",
     "author": "blackorbit",
-    "hash": "d7e437f6aa1b7fd523e5ffa17de2abdcdc1bc2c1f9214f2fae758c6c66cf1a8f",
-    "last_updated": "2026-10-10T03:38:35.000Z",
+    "hash": "21320ae8e41f58fc84afba3788ecab53d30f29dba1a0b41182990a2d127d5f78",
+    "last_updated": "2026-10-11T03:41:57.000Z",
     "packageCount": 9,
     "packages": {
       "orbiters.mcb": {
@@ -15493,8 +14497,8 @@
         "name": "orbiters.mcb",
         "displayName": "My Custom Base (MCB)",
         "description": "Wizard to apply a custom base with the MCB tool",
-        "latestVersion": "1.12.4",
-        "versionCount": 16,
+        "latestVersion": "1.12.7",
+        "versionCount": 18,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -15503,6 +14507,36 @@
           "email": "blackorbit.eclaire@gmail.com"
         },
         "versions": {
+          "1.12.7": {
+            "version": "1.12.7",
+            "name": "orbiters.mcb",
+            "displayName": "My Custom Base (MCB)",
+            "description": "Wizard to apply a custom base with the MCB tool",
+            "url": "https://github.com/Orbiters-cc/MyCustomBase/releases/download/1.12.7/My.Custom.Base.MCB.-1.12.7.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "orbiters.toolkit": ">=0.3.21 <0.4.0",
+              "com.vrchat.avatars": ">=3.7.0 <4.0.0",
+              "com.vrcfury.vrcfury": ">=1.1241.0",
+              "com.vrchat.core.vpm-resolver": ">=0.1.29 <0.2.0"
+            }
+          },
+          "1.12.6": {
+            "version": "1.12.6",
+            "name": "orbiters.mcb",
+            "displayName": "My Custom Base (MCB)",
+            "description": "Wizard to apply a custom base with the MCB tool",
+            "url": "https://github.com/Orbiters-cc/MyCustomBase/releases/download/1.12.6/My.Custom.Base.MCB.-1.12.6.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "orbiters.toolkit": ">=0.3.20 <0.4.0",
+              "com.vrchat.avatars": ">=3.7.0 <4.0.0",
+              "com.vrcfury.vrcfury": ">=1.1241.0",
+              "com.vrchat.core.vpm-resolver": ">=0.1.29 <0.2.0"
+            }
+          },
           "1.12.4": {
             "version": "1.12.4",
             "name": "orbiters.mcb",
@@ -15967,9 +15001,9 @@
         "id": "orbiters.myavatar",
         "name": "orbiters.myavatar",
         "displayName": "My Avatar",
-        "description": "Apply texture sets to your avatar and optimize them in one click, put on clothes and accessories from their packages and fit them to your custom base (alpha), create its VRChat thumbnail, pose it with symmetry and a clothing preview, and set who can grab, pose and stretch its hair, tail and toes. Save also records a Unit Git checkpoint when Unit Git is installed.",
-        "latestVersion": "0.9.6",
-        "versionCount": 17,
+        "description": "Apply texture sets to your avatar and optimize them in one click, put on clothes and accessories from their packages and fit them to your custom base (alpha), create its VRChat thumbnail, edit its VRChat menu as it will look in game, pose it with symmetry and a clothing preview, and set who can grab, pose and stretch its hair, tail and toes. Save also records a Unit Git checkpoint when Unit Git is installed.",
+        "latestVersion": "0.9.8",
+        "versionCount": 18,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -15978,6 +15012,20 @@
           "email": "blackorbit.eclaire@gmail.com"
         },
         "versions": {
+          "0.9.8": {
+            "version": "0.9.8",
+            "name": "orbiters.myavatar",
+            "displayName": "My Avatar",
+            "description": "Apply texture sets to your avatar and optimize them in one click, put on clothes and accessories from their packages and fit them to your custom base (alpha), create its VRChat thumbnail, edit its VRChat menu as it will look in game, pose it with symmetry and a clothing preview, and set who can grab, pose and stretch its hair, tail and toes. Save also records a Unit Git checkpoint when Unit Git is installed.",
+            "url": "https://github.com/Orbiters-cc/MyAvatar/releases/download/0.9.8/MyAvatar-0.9.8.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "orbiters.toolkit": ">=0.3.20 <0.4.0",
+              "com.vrchat.avatars": ">=3.7.0 <4.0.0",
+              "orbiters.xraygizmos": ">=0.2.8 <0.3.0"
+            }
+          },
           "0.9.6": {
             "version": "0.9.6",
             "name": "orbiters.myavatar",
@@ -16221,8 +15269,8 @@
         "name": "orbiters.refit",
         "displayName": "ReFit",
         "description": "Re-fit clothing and accessories made for a 3D model A so they fit a 3D model B, as a non-destructive 'refit' blendshape. Usable standalone through a wizard or as a module via its public API (used by MCB).",
-        "latestVersion": "0.5.6",
-        "versionCount": 12,
+        "latestVersion": "0.5.9",
+        "versionCount": 14,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -16231,6 +15279,30 @@
           "email": "blackorbit.eclaire@gmail.com"
         },
         "versions": {
+          "0.5.9": {
+            "version": "0.5.9",
+            "name": "orbiters.refit",
+            "displayName": "ReFit",
+            "description": "Re-fit clothing and accessories made for a 3D model A so they fit a 3D model B, as a non-destructive 'refit' blendshape. Usable standalone through a wizard or as a module via its public API (used by MCB).",
+            "url": "https://github.com/Orbiters-cc/ReFit/releases/download/0.5.9/ReFit-0.5.9.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "orbiters.toolkit": ">=0.3.20 <0.4.0"
+            }
+          },
+          "0.5.8": {
+            "version": "0.5.8",
+            "name": "orbiters.refit",
+            "displayName": "ReFit",
+            "description": "Re-fit clothing and accessories made for a 3D model A so they fit a 3D model B, as a non-destructive 'refit' blendshape. Usable standalone through a wizard or as a module via its public API (used by MCB).",
+            "url": "https://github.com/Orbiters-cc/ReFit/releases/download/0.5.8/ReFit-0.5.8.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "orbiters.toolkit": ">=0.3.20 <0.4.0"
+            }
+          },
           "0.5.6": {
             "version": "0.5.6",
             "name": "orbiters.refit",
@@ -16372,8 +15444,8 @@
         "name": "orbiters.toolkit",
         "displayName": "Orbiters Toolkit",
         "description": "Shared Orbiters account, editor UI, feature flags, VPM dependency prompts, bone matching, accessory attachment and posing preview, blendshape links, custom base refits (records, build-time blendshape links, fit checks), avatar photoshoot, mirror posing and background window capture.",
-        "latestVersion": "0.3.18",
-        "versionCount": 19,
+        "latestVersion": "0.3.21",
+        "versionCount": 21,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -16382,6 +15454,30 @@
           "email": "blackorbit.eclaire@gmail.com"
         },
         "versions": {
+          "0.3.21": {
+            "version": "0.3.21",
+            "name": "orbiters.toolkit",
+            "displayName": "Orbiters Toolkit",
+            "description": "Shared Orbiters account, editor UI, feature flags, VPM dependency prompts, bone matching, accessory attachment and posing preview, blendshape links, custom base refits (records, build-time blendshape links, fit checks), avatar photoshoot, mirror posing and background window capture.",
+            "url": "https://github.com/Orbiters-cc/Toolkit/releases/download/0.3.21/Toolkit-0.3.21.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.unity.nuget.newtonsoft-json": "3.2.1"
+            }
+          },
+          "0.3.20": {
+            "version": "0.3.20",
+            "name": "orbiters.toolkit",
+            "displayName": "Orbiters Toolkit",
+            "description": "Shared Orbiters account, editor UI, feature flags, VPM dependency prompts, bone matching, accessory attachment and posing preview, blendshape links, custom base refits (records, build-time blendshape links, fit checks), avatar photoshoot, mirror posing and background window capture.",
+            "url": "https://github.com/Orbiters-cc/Toolkit/releases/download/0.3.20/Toolkit-0.3.20.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.unity.nuget.newtonsoft-json": "3.2.1"
+            }
+          },
           "0.3.18": {
             "version": "0.3.18",
             "name": "orbiters.toolkit",
@@ -16615,8 +15711,8 @@
         "name": "orbiters.xraygizmos",
         "displayName": "XRay Gizmos",
         "description": "Unity editor xray armature and weight paint gizmos for selected objects or loaded scenes, and an avatar budget over the Scene view.",
-        "latestVersion": "0.2.9",
-        "versionCount": 9,
+        "latestVersion": "0.2.10",
+        "versionCount": 10,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -16625,6 +15721,18 @@
           "email": "blackorbit.eclaire@gmail.com"
         },
         "versions": {
+          "0.2.10": {
+            "version": "0.2.10",
+            "name": "orbiters.xraygizmos",
+            "displayName": "XRay Gizmos",
+            "description": "Unity editor xray armature and weight paint gizmos for selected objects or loaded scenes, and an avatar budget over the Scene view.",
+            "url": "https://github.com/Orbiters-cc/XRayGizmos/releases/download/0.2.10/XRayGizmos-0.2.10.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "orbiters.toolkit": ">=0.3.18 <0.4.0"
+            }
+          },
           "0.2.9": {
             "version": "0.2.9",
             "name": "orbiters.xraygizmos",
@@ -16876,9 +15984,9 @@
         "id": "orbiters.logger",
         "name": "orbiters.logger",
         "displayName": "Logger",
-        "description": "A log hub for the Unity editor that replaces the Console: regex search, logs grouped by text with how often they happen, filters by source, level and time, multi-select copy with or without stack traces, explanations for over 300 known messages kept up to date from Orbiters, an activity timeline, and what each package costs at every script reload, entry into Play Mode and avatar upload. Handles millions of logs.",
-        "latestVersion": "0.2.3",
-        "versionCount": 5,
+        "description": "A log hub for the Unity editor that replaces the Console: regex search, logs grouped by text with how often they happen, filters by source, level and time, multi-select copy with or without stack traces, explanations for over 300 known messages kept up to date from Orbiters, an activity timeline, a one-click project report to get help (logs, Git history, scene and an AI diagnosis for Orbiters members), and what each package costs at every script reload, entry into Play Mode and avatar upload. Handles millions of logs.",
+        "latestVersion": "0.2.5",
+        "versionCount": 6,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -16887,6 +15995,16 @@
           "email": "blackorbit.eclaire@gmail.com"
         },
         "versions": {
+          "0.2.5": {
+            "version": "0.2.5",
+            "name": "orbiters.logger",
+            "displayName": "Logger",
+            "description": "A log hub for the Unity editor that replaces the Console: regex search, logs grouped by text with how often they happen, filters by source, level and time, multi-select copy with or without stack traces, explanations for over 300 known messages kept up to date from Orbiters, an activity timeline, a one-click project report to get help (logs, Git history, scene and an AI diagnosis for Orbiters members), and what each package costs at every script reload, entry into Play Mode and avatar upload. Handles millions of logs.",
+            "url": "https://github.com/Orbiters-cc/Logger/releases/download/0.2.5/Logger-0.2.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "0.2.3": {
             "version": "0.2.3",
             "name": "orbiters.logger",
@@ -16944,8 +16062,8 @@
         "name": "orbiters.unitypackagemanager",
         "displayName": "UnityPackageManager",
         "description": "Inspect .unitypackage archives, browse and edit their contents, and import selected assets anywhere in the project.",
-        "latestVersion": "0.1.2",
-        "versionCount": 3,
+        "latestVersion": "0.2.0",
+        "versionCount": 4,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -16954,6 +16072,18 @@
           "email": "blackorbit.eclaire@gmail.com"
         },
         "versions": {
+          "0.2.0": {
+            "version": "0.2.0",
+            "name": "orbiters.unitypackagemanager",
+            "displayName": "UnityPackageManager",
+            "description": "Inspect .unitypackage archives, browse and edit their contents, and import selected assets anywhere in the project.",
+            "url": "https://github.com/Orbiters-cc/Unity-Package-Manager/releases/download/0.2.0/unity-package-manager-0.2.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "orbiters.toolkit": ">=0.3.19 <0.4.0"
+            }
+          },
           "0.1.2": {
             "version": "0.1.2",
             "name": "orbiters.unitypackagemanager",
@@ -33957,8 +33087,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "6509987175c7c2d5192d92a34511a55ea8b1d624fe5016b97f45ab1b6282447b",
-    "last_updated": "2026-10-10T02:27:53.000Z",
+    "hash": "7b05f1b75d11b0bb1298c88c9120e0df1bced963bb1e49ee486012fbbb1751bc",
+    "last_updated": "2026-10-11T01:54:15.000Z",
     "packageCount": 10,
     "packages": {
       "com.poiyomi.pro": {
@@ -43464,7 +42594,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "680029c772846cb5e5b7331c6f399296d7c3d340058c68c9f48e255a6fa8e65e",
-    "last_updated": "2026-10-09T10:40:12.000Z",
+    "last_updated": "2026-10-10T09:56:18.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -44945,7 +44075,7 @@
     "id": "dev.jetees.vpm-listing",
     "author": "JeTeeS",
     "hash": "c43d1d46596697e66705b99d7740a062daf269bacdf077d0810963cb05d466da",
-    "last_updated": "2024-05-22T15:17:52.000Z",
+    "last_updated": "2024-05-22T15:17:51.000Z",
     "packageCount": 1,
     "packages": {
       "dev.jetees.memoryoptimizer": {
@@ -45405,7 +44535,7 @@
     "id": "dev.kaefibot.listing",
     "author": "WoweePaw",
     "hash": "0f954512e7a69a442d27394f918fc68614873d3db3706347e1e36e0acde01244",
-    "last_updated": "2026-07-05T15:03:29.000Z",
+    "last_updated": "2026-07-05T15:03:28.000Z",
     "packageCount": 1,
     "packages": {
       "dev.kaefibot.kaefibot-controller": {
@@ -53085,7 +52215,7 @@
     "id": "com.kie.vpm",
     "author": "Kie",
     "hash": "9c720b21a0d472446cbcefecd3ffddfe48df0b160a1cc2d716f8020dfadddb34",
-    "last_updated": "2026-10-09T20:00:54.000Z",
+    "last_updated": "2026-10-10T19:09:12.000Z",
     "packageCount": 3,
     "packages": {
       "com.kie.kie-mergeable-toggle": {
@@ -54010,8 +53140,8 @@
     "name": "KOZ39",
     "id": "io.github.koz39.vpm-listing",
     "author": "KOZ39",
-    "hash": "75eba4405c14f9f3c62978d0c0a0b20620fc56fa57c1ad558c8a222a6a40e351",
-    "last_updated": "2026-10-10T03:12:23.000Z",
+    "hash": "a907d85bd93c9cbd81a27f953e68cb96576214a517d90f540096f30be598485e",
+    "last_updated": "2026-10-10T13:59:49.000Z",
     "packageCount": 3,
     "packages": {
       "dev.koz39.elbow-fixer": {
@@ -54019,8 +53149,8 @@
         "name": "dev.koz39.elbow-fixer",
         "displayName": "Elbow Fixer",
         "description": "A non-destructive elbow and forearm twist correction tool for VRChat avatars.",
-        "latestVersion": "0.1.0",
-        "versionCount": 1,
+        "latestVersion": "0.1.1",
+        "versionCount": 2,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -54029,6 +53159,19 @@
           "url": "https://github.com/KOZ39"
         },
         "versions": {
+          "0.1.1": {
+            "version": "0.1.1",
+            "name": "dev.koz39.elbow-fixer",
+            "displayName": "Elbow Fixer",
+            "description": "A non-destructive elbow and forearm twist correction tool for VRChat avatars.",
+            "url": "https://github.com/KOZ39/Elbow-Fixer/releases/download/0.1.1/dev.koz39.elbow-fixer-0.1.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.3 <4.0.0",
+              "nadena.dev.ndmf": ">=1.5.0 <2.0.0"
+            }
+          },
           "0.1.0": {
             "version": "0.1.0",
             "name": "dev.koz39.elbow-fixer",
@@ -54190,8 +53333,8 @@
         "name": "dev.koz39.knee-fixer",
         "displayName": "Knee Fixer",
         "description": "A non-destructive knee correction tool for VRChat avatars.",
-        "latestVersion": "2.2.1",
-        "versionCount": 7,
+        "latestVersion": "2.3.0",
+        "versionCount": 8,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -54200,6 +53343,19 @@
           "url": "https://github.com/KOZ39"
         },
         "versions": {
+          "2.3.0": {
+            "version": "2.3.0",
+            "name": "dev.koz39.knee-fixer",
+            "displayName": "Knee Fixer",
+            "description": "A non-destructive knee correction tool for VRChat avatars.",
+            "url": "https://github.com/KOZ39/Knee-Fixer/releases/download/2.3.0/dev.koz39.knee-fixer-2.3.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.3 <4.0.0",
+              "nadena.dev.ndmf": ">=1.5.0 <2.0.0"
+            }
+          },
           "2.2.1": {
             "version": "2.2.1",
             "name": "dev.koz39.knee-fixer",
@@ -55211,8 +54367,8 @@
     "name": "kurotu VPM Packages",
     "id": "com.github.kurotu.vpm",
     "author": "kurotu",
-    "hash": "f6959329176df41ac666f19f2ea1d8248981a7fa72c1281967dfe1d2bf6cd842",
-    "last_updated": "2026-10-10T02:47:10.000Z",
+    "hash": "09a3b8290fbc461261ceb1305439503987e9594ac573fc263652b7011aa4d5ef",
+    "last_updated": "2026-10-10T05:11:16.000Z",
     "packageCount": 4,
     "packages": {
       "com.github.kurotu.vrc-quest-tools": {
@@ -55220,14 +54376,26 @@
         "name": "com.github.kurotu.vrc-quest-tools",
         "displayName": "VRCQuestTools",
         "description": "Editor extension to support uploading VRChat Android avatars",
-        "latestVersion": "2.11.7",
-        "versionCount": 66,
+        "latestVersion": "3.0.0",
+        "versionCount": 67,
         "keywords": [],
-        "unity": "2019.4",
+        "unity": "2022.3",
         "author": {
           "name": "kurotu"
         },
         "versions": {
+          "3.0.0": {
+            "version": "3.0.0",
+            "name": "com.github.kurotu.vrc-quest-tools",
+            "displayName": "VRCQuestTools",
+            "description": "Editor extension to support uploading VRChat Android avatars",
+            "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v3.0.0/com.github.kurotu.vrc-quest-tools-3.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.9.0"
+            }
+          },
           "2.11.7": {
             "version": "2.11.7",
             "name": "com.github.kurotu.vrc-quest-tools",
@@ -59712,17 +58880,17 @@
     "name": "Lightbulb Packages",
     "id": "com.lightbulb.vpm",
     "author": "Lightbulb",
-    "hash": "86035e14035d9e3d3af5a093e98f7d7ffabdc1c88c84e5657e741b3b3955025d",
-    "last_updated": "2026-10-10T00:50:57.000Z",
+    "hash": "ba3da95098d1427e95035c615fe4f986e0e14c521fd3956fab09f037cdf6ee4c",
+    "last_updated": "2026-10-11T01:53:51.000Z",
     "packageCount": 1,
     "packages": {
       "com.lightbulb.world-tools": {
         "id": "com.lightbulb.world-tools",
         "name": "com.lightbulb.world-tools",
         "displayName": "Lightbulb World Tools",
-        "description": "Unity editor tools for AreaLit occlusion baking and configuration audits, the reversible Bakery LV3 Swapper, scene texture Crunch compression, disabled-object reference auditing, material cleanup and Mochie packing, texture resizing, geometry diagnostics, and targeted repairs.",
-        "latestVersion": "0.1.23",
-        "versionCount": 24,
+        "description": "Unity editor tools for AreaLit occlusion baking and configuration audits, scene-wide Mochie Light Volumes settings, the reversible Bakery LV3 Swapper, scene texture Crunch compression, disabled-object reference auditing, material cleanup and Mochie packing, texture resizing, geometry diagnostics, and targeted repairs.",
+        "latestVersion": "0.1.24",
+        "versionCount": 25,
         "keywords": [
           "VRChat",
           "optimization",
@@ -59738,6 +58906,16 @@
           "url": "https://github.com/lightbulb4"
         },
         "versions": {
+          "0.1.24": {
+            "version": "0.1.24",
+            "name": "com.lightbulb.world-tools",
+            "displayName": "Lightbulb World Tools",
+            "description": "Unity editor tools for AreaLit occlusion baking and configuration audits, scene-wide Mochie Light Volumes settings, the reversible Bakery LV3 Swapper, scene texture Crunch compression, disabled-object reference auditing, material cleanup and Mochie packing, texture resizing, geometry diagnostics, and targeted repairs.",
+            "url": "https://github.com/lightbulb4/lightbulb-world-tools/releases/download/0.1.24/com.lightbulb.world-tools-0.1.24.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "0.1.23": {
             "version": "0.1.23",
             "name": "com.lightbulb.world-tools",
@@ -64989,8 +64167,8 @@
     "name": "VR Vlog Packages",
     "id": "com.vrvlog.packages",
     "author": "VR Vlog",
-    "hash": "f2d076827b8632c6c8f6cbb82988ee64ba6650aa1d4caca2e0dd4dc19aea5cff",
-    "last_updated": "2026-10-10T03:15:02.000Z",
+    "hash": "07a46b713ab0fea4d40a4e40462a293b630334fa4d9e9115f897a12205276307",
+    "last_updated": "2026-10-10T11:19:52.000Z",
     "packageCount": 3,
     "packages": {
       "com.vrmc.gltf": {
@@ -65013,7 +64191,7 @@
             "name": "com.vrmc.gltf",
             "displayName": "UniGLTF",
             "description": "GLTF importer and exporter",
-            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.15-beta.2/com.vrmc.gltf-0.131.0.zip",
+            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.15/com.vrmc.gltf-0.131.0.zip",
             "zipSha256": null,
             "unity": "2021.3",
             "vpmDependencies": {
@@ -65049,7 +64227,7 @@
             "name": "com.vrmc.vrm",
             "displayName": "VRM-1.0",
             "description": "VRM-1.0 importer",
-            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.15-beta.2/com.vrmc.vrm-0.131.0.zip",
+            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.15/com.vrmc.vrm-0.131.0.zip",
             "zipSha256": null,
             "unity": "2021.3",
             "vpmDependencies": {
@@ -65064,8 +64242,8 @@
         "name": "com.vrvlog.liltoon-vrm-exporter",
         "displayName": "VR Vlog lilToon VRM Exporter",
         "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-        "latestVersion": "0.11.15-beta.2",
-        "versionCount": 63,
+        "latestVersion": "0.11.15",
+        "versionCount": 64,
         "keywords": [
           "vrm",
           "liltoon",
@@ -65077,6 +64255,19 @@
           "name": "VR Vlog"
         },
         "versions": {
+          "0.11.15": {
+            "version": "0.11.15",
+            "name": "com.vrvlog.liltoon-vrm-exporter",
+            "displayName": "VR Vlog lilToon VRM Exporter",
+            "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
+            "url": "https://github.com/mitsuya0077/VR-Vlog-lilToon-Exporter/releases/download/v0.11.15/com.vrvlog.liltoon-vrm-exporter-0.11.15.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrmc.gltf": "0.131.x",
+              "com.vrmc.vrm": "0.131.x"
+            }
+          },
           "0.11.15-beta.2": {
             "version": "0.11.15-beta.2",
             "name": "com.vrvlog.liltoon-vrm-exporter",
@@ -68883,7 +68074,7 @@
     "id": "com.nickel-jp.repos.avatar-recovery",
     "author": "Nickel-JP",
     "hash": "fb037696f258b76cbb0c12879b13bfbb8a5fd326eaf780e2b3892e9a5938243a",
-    "last_updated": "2026-10-07T16:33:34.000Z",
+    "last_updated": "2026-10-07T16:33:33.000Z",
     "packageCount": 1,
     "packages": {
       "com.nickel-jp.avatar-recovery": {
@@ -69339,7 +68530,7 @@
     "id": "com.njsgdd10086.vpm-repo",
     "author": "ATRI_NAIXU",
     "hash": "ecf0ea2f685fc4792cafd47608461840e063a1ffe411544dbf08a1b99cfba719",
-    "last_updated": "2026-10-10T02:46:59.000Z",
+    "last_updated": "2026-10-11T01:41:40.000Z",
     "packageCount": 3,
     "packages": {
       "com.atrinaxu.nontoon.lightlimit": {
@@ -85320,7 +84511,7 @@
     "id": "dev.raspichu.vpm",
     "author": "Pichu",
     "hash": "9a2f82e471fcf06456f855e8c746d6e95e053484b4737bc9a83a7c2fe7bd6b32",
-    "last_updated": "2026-09-07T15:01:36.000Z",
+    "last_updated": "2026-09-07T15:01:35.000Z",
     "packageCount": 2,
     "packages": {
       "dev.raspichu.inspector-enhancements": {
@@ -91515,7 +90706,7 @@
     "id": "com.mitsuboshi-studio.vpm",
     "author": "Mitsuboshi_Studio",
     "hash": "52cde1f130302215e50bd10fbf17761cac4d336a632db50118aa96eb79cfb767",
-    "last_updated": "2026-10-10T00:52:46.000Z",
+    "last_updated": "2026-10-11T01:55:04.000Z",
     "packageCount": 8,
     "packages": {
       "com.mitsuboshi-studio.unity-power-rename": {
@@ -91762,7 +90953,7 @@
     "id": "dev.redline-team.redlinelist",
     "author": "RozeThorns",
     "hash": "8c61e41bc845ad48ac8b2df4fbc0df5b38f713805c599141762b5c54f4e92f8c",
-    "last_updated": "2026-10-10T02:55:02.000Z",
+    "last_updated": "2026-10-11T02:24:14.000Z",
     "packageCount": 5,
     "packages": {
       "dev.redline-team.rpm": {
@@ -95368,7 +94559,7 @@
     "id": "com.mizore-nekoyanagi.vpm-packages",
     "author": "Mizore Nekoyanagi",
     "hash": "df5c206bda4082fc4825f6e0002aea2319d15d80cf9dc71813ef06fb4db812e7",
-    "last_updated": "2026-02-19T08:55:53.000Z",
+    "last_updated": "2026-02-19T08:55:54.000Z",
     "packageCount": 4,
     "packages": {
       "com.mizore-nekoyanagi.utils.apply-prefab-window": {
@@ -105663,17 +104854,17 @@
     "name": "VRCFury Auto Tools Listing",
     "id": "com.damien.vrcfury-autotools.listing",
     "author": "ToffelsKater",
-    "hash": "bdb60ff9455c1785982e5967d23c2f00c46cbd96db10ec2a122baf5e30e8330d",
-    "last_updated": "2026-10-08T22:45:08.000Z",
+    "hash": "a1fdf3b48c7a128a2be7f26e9698af839d4626a899463ea85016e667f4d41a73",
+    "last_updated": "2026-10-10T22:18:50.000Z",
     "packageCount": 1,
     "packages": {
       "com.damien.vrcfury-autotools": {
         "id": "com.damien.vrcfury-autotools",
         "name": "com.damien.vrcfury-autotools",
         "displayName": "VRCFury Auto Tools",
-        "description": "Addon for VRCFury: automatic outfit toggle creator, zero-weight bone remover, mesh bone stripper and PhysBone collider creator. Uses only VRCFury's public API.",
-        "latestVersion": "0.1.8",
-        "versionCount": 8,
+        "description": "Addon for VRCFury: automatic outfit toggle creator, zero-weight bone remover, mesh bone stripper, PhysBone collider creator and Quest copy creator. Uses only VRCFury's public API.",
+        "latestVersion": "0.1.16",
+        "versionCount": 16,
         "keywords": [
           "vrcfury",
           "outfit",
@@ -105687,6 +104878,110 @@
           "url": "https://github.com/ToffelsKater"
         },
         "versions": {
+          "0.1.16": {
+            "version": "0.1.16",
+            "name": "com.damien.vrcfury-autotools",
+            "displayName": "VRCFury Auto Tools",
+            "description": "Addon for VRCFury: automatic outfit toggle creator, zero-weight bone remover, mesh bone stripper, PhysBone collider creator and Quest copy creator. Uses only VRCFury's public API.",
+            "url": "https://github.com/ToffelsKater/VRCFuryAutoTools/releases/download/0.1.16/com.damien.vrcfury-autotools-0.1.16.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "com.vrcfury.vrcfury": "*"
+            }
+          },
+          "0.1.15": {
+            "version": "0.1.15",
+            "name": "com.damien.vrcfury-autotools",
+            "displayName": "VRCFury Auto Tools",
+            "description": "Addon for VRCFury: automatic outfit toggle creator, zero-weight bone remover, mesh bone stripper, PhysBone collider creator and Quest copy creator. Uses only VRCFury's public API.",
+            "url": "https://github.com/ToffelsKater/VRCFuryAutoTools/releases/download/0.1.15/com.damien.vrcfury-autotools-0.1.15.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "com.vrcfury.vrcfury": "*"
+            }
+          },
+          "0.1.14": {
+            "version": "0.1.14",
+            "name": "com.damien.vrcfury-autotools",
+            "displayName": "VRCFury Auto Tools",
+            "description": "Addon for VRCFury: automatic outfit toggle creator, zero-weight bone remover, mesh bone stripper, PhysBone collider creator and Quest copy creator. Uses only VRCFury's public API.",
+            "url": "https://github.com/ToffelsKater/VRCFuryAutoTools/releases/download/0.1.14/com.damien.vrcfury-autotools-0.1.14.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "com.vrcfury.vrcfury": "*"
+            }
+          },
+          "0.1.13": {
+            "version": "0.1.13",
+            "name": "com.damien.vrcfury-autotools",
+            "displayName": "VRCFury Auto Tools",
+            "description": "Addon for VRCFury: automatic outfit toggle creator, zero-weight bone remover, mesh bone stripper, PhysBone collider creator and Quest copy creator. Uses only VRCFury's public API.",
+            "url": "https://github.com/ToffelsKater/VRCFuryAutoTools/releases/download/0.1.13/com.damien.vrcfury-autotools-0.1.13.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "com.vrcfury.vrcfury": "*"
+            }
+          },
+          "0.1.12": {
+            "version": "0.1.12",
+            "name": "com.damien.vrcfury-autotools",
+            "displayName": "VRCFury Auto Tools",
+            "description": "Addon for VRCFury: automatic outfit toggle creator, zero-weight bone remover, mesh bone stripper, PhysBone collider creator and Quest copy creator. Uses only VRCFury's public API.",
+            "url": "https://github.com/ToffelsKater/VRCFuryAutoTools/releases/download/0.1.12/com.damien.vrcfury-autotools-0.1.12.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "com.vrcfury.vrcfury": "*"
+            }
+          },
+          "0.1.11": {
+            "version": "0.1.11",
+            "name": "com.damien.vrcfury-autotools",
+            "displayName": "VRCFury Auto Tools",
+            "description": "Addon for VRCFury: automatic outfit toggle creator, zero-weight bone remover, mesh bone stripper, PhysBone collider creator and Quest copy creator. Uses only VRCFury's public API.",
+            "url": "https://github.com/ToffelsKater/VRCFuryAutoTools/releases/download/0.1.11/com.damien.vrcfury-autotools-0.1.11.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "com.vrcfury.vrcfury": "*"
+            }
+          },
+          "0.1.10": {
+            "version": "0.1.10",
+            "name": "com.damien.vrcfury-autotools",
+            "displayName": "VRCFury Auto Tools",
+            "description": "Addon for VRCFury: automatic outfit toggle creator, zero-weight bone remover, mesh bone stripper, PhysBone collider creator and Quest copy creator. Uses only VRCFury's public API.",
+            "url": "https://github.com/ToffelsKater/VRCFuryAutoTools/releases/download/0.1.10/com.damien.vrcfury-autotools-0.1.10.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "com.vrcfury.vrcfury": "*"
+            }
+          },
+          "0.1.9": {
+            "version": "0.1.9",
+            "name": "com.damien.vrcfury-autotools",
+            "displayName": "VRCFury Auto Tools",
+            "description": "Addon for VRCFury: automatic outfit toggle creator, zero-weight bone remover, mesh bone stripper, PhysBone collider creator and Quest copy creator. Uses only VRCFury's public API.",
+            "url": "https://github.com/ToffelsKater/VRCFuryAutoTools/releases/download/0.1.9/com.damien.vrcfury-autotools-0.1.9.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "com.vrcfury.vrcfury": "*"
+            }
+          },
           "0.1.8": {
             "version": "0.1.8",
             "name": "com.damien.vrcfury-autotools",
@@ -105801,7 +105096,7 @@
     "id": "jp.toh.package-listing",
     "author": "toh",
     "hash": "cc3967c59f319ff5c3910acb82ddac984aa9ad35b5aaec5e395d6ab2cf0dfd4f",
-    "last_updated": "2025-04-28T14:28:15.000Z",
+    "last_updated": "2025-04-28T14:28:14.000Z",
     "packageCount": 1,
     "packages": {
       "jp.toh.easy-object-switch": {
@@ -106539,7 +105834,7 @@
     "id": "com.triturbo.blendshare.listing",
     "author": "Triturbo",
     "hash": "8d43fe402736de6cd2621406d3b850107d5fa9a6bc801a1a5857547ed262526d",
-    "last_updated": "2026-07-05T12:32:46.000Z",
+    "last_updated": "2026-07-05T12:32:45.000Z",
     "packageCount": 1,
     "packages": {
       "com.triturbo.blendshare": {
@@ -107525,8 +106820,8 @@
     "name": "Udonite",
     "id": "com.udonite.listing",
     "author": "Udonite",
-    "hash": "a7bc3867d288d6ad256449a43d722f8745e1f6d68d92127af884f179c0cfc481",
-    "last_updated": "2026-10-10T01:12:52.000Z",
+    "hash": "587855b9dc65ac96dd4ccc135ecebfaf59ccacf45238d114b56073fc44b43c4e",
+    "last_updated": "2026-10-10T09:08:58.000Z",
     "packageCount": 7,
     "packages": {
       "com.udonite.compiler": {
@@ -107534,8 +106829,8 @@
         "name": "com.udonite.compiler",
         "displayName": "Udonite",
         "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
-        "latestVersion": "2.15.2",
-        "versionCount": 11,
+        "latestVersion": "2.17.0",
+        "versionCount": 14,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -107543,6 +106838,42 @@
           "url": "https://github.com/Udonite/Udonite"
         },
         "versions": {
+          "2.17.0": {
+            "version": "2.17.0",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://github.com/Udonite/Udonite/releases/download/v2.17.0/com.udonite.compiler-2.17.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
+          "2.16.1": {
+            "version": "2.16.1",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://github.com/Udonite/Udonite/releases/download/v2.16.1/com.udonite.compiler-2.16.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
+          "2.16.0": {
+            "version": "2.16.0",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://github.com/Udonite/Udonite/releases/download/v2.16.0/com.udonite.compiler-2.16.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
           "2.15.2": {
             "version": "2.15.2",
             "name": "com.udonite.compiler",
@@ -109425,8 +108756,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "fe2bb5ab18f8ac14b91aad584fd989acc175128ca33e739edb04523a49ca16f6",
-    "last_updated": "2026-10-10T04:12:05.000Z",
+    "hash": "cfdf6e7ca16c2aa3975d3265bf343f984c344c5be3c7da05163c0eef8ecfad2c",
+    "last_updated": "2026-10-11T03:49:05.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -122934,7 +122265,7 @@
     "id": "com.vixencreations.vixens-toolbox.listing",
     "author": "Vixenlicous",
     "hash": "97047b8055daac695e45798df3af29975922f5a6782759677e991ebcce917ec2",
-    "last_updated": "2026-10-09T13:49:27.000Z",
+    "last_updated": "2026-10-10T05:20:48.000Z",
     "packageCount": 1,
     "packages": {
       "com.vixencreations.vixens-toolbox": {
@@ -123623,7 +122954,7 @@
     "id": "io.mekabu.vpm-repository",
     "author": "contact@mekabu.io",
     "hash": "afb531d339483772668bf9b0fbe2f91415a0d37733b4adad67544741ae03cb2e",
-    "last_updated": "2026-10-10T04:06:58.000Z",
+    "last_updated": "2026-10-11T03:37:25.000Z",
     "packageCount": 2,
     "packages": {
       "com.mekabu.blendshape-animation-creator": {
@@ -136758,8 +136089,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "6509987175c7c2d5192d92a34511a55ea8b1d624fe5016b97f45ab1b6282447b",
-    "last_updated": "2026-10-10T02:27:53.000Z",
+    "hash": "7b05f1b75d11b0bb1298c88c9120e0df1bced963bb1e49ee486012fbbb1751bc",
+    "last_updated": "2026-10-11T01:54:15.000Z",
     "packageCount": 10,
     "packages": {
       "com.poiyomi.pro": {
@@ -146828,9 +146159,9 @@
     "name": "Poyo's VPM Repo",
     "id": "net.maaaaa.vpm",
     "author": "Poyotoron",
-    "hash": "2cc32b711354d7ca62e00f397782efc416e718c3551fee005de4ecc32e88a917",
-    "last_updated": "2026-10-05T11:10:33.000Z",
-    "packageCount": 6,
+    "hash": "6874e431c5bf5786c4a7343403ee2ac81cd17346cc295072a1ccfe38d0e910be",
+    "last_updated": "2026-10-10T11:18:59.000Z",
+    "packageCount": 7,
     "packages": {
       "net.maaaaa.asset-keshichaumon-nator": {
         "id": "net.maaaaa.asset-keshichaumon-nator",
@@ -147224,6 +146555,32 @@
               "nadena.dev.modular-avatar": ">=1.17.0 <2.0.0",
               "nadena.dev.ndmf": ">=1.14.0 <2.0.0"
             }
+          }
+        }
+      },
+      "net.maaaaa.marshmallow-jar": {
+        "id": "net.maaaaa.marshmallow-jar",
+        "name": "net.maaaaa.marshmallow-jar",
+        "displayName": "Marshmallow Jar",
+        "description": "Unity エディタの使い勝手を整える小さな機能をまとめたパッケージです。機能ごとに ON / OFF できます。",
+        "latestVersion": "0.1.0",
+        "versionCount": 1,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "Poyotoron",
+          "url": "https://github.com/Poyotoron"
+        },
+        "versions": {
+          "0.1.0": {
+            "version": "0.1.0",
+            "name": "net.maaaaa.marshmallow-jar",
+            "displayName": "Marshmallow Jar",
+            "description": "Unity エディタの使い勝手を整える小さな機能をまとめたパッケージです。機能ごとに ON / OFF できます。",
+            "url": "https://github.com/Poyotoron/Marshmallow-Jar/releases/download/0.1.0/net.maaaaa.marshmallow-jar-0.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
           }
         }
       }
@@ -173085,8 +172442,8 @@
     "name": "WhyKnot Tools",
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
-    "hash": "927005e52e4b818c7918f72ea069cf0ac95c11d79db2edb0a95eec650bf10aeb",
-    "last_updated": "2026-10-09T12:16:50.000Z",
+    "hash": "ea6d66e87fcc11f3438743bf330ba6ee7fd84fcfc4d148317890c8600ff0aa61",
+    "last_updated": "2026-10-10T11:34:29.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -173201,8 +172558,8 @@
     "name": "YozoLab-VPMRepository listing",
     "id": "net.yozolab.vpmrepository-listing",
     "author": "YozoraKurage",
-    "hash": "7d9662151d21301b1ffa8fe0845831a9df9456d81b4c17de5fc3edd3200fb561",
-    "last_updated": "2026-10-08T05:49:59.000Z",
+    "hash": "826c80d54db5ab9deb15ac8652653405a7975e41f78b24d02e048327cce55454",
+    "last_updated": "2026-10-11T02:12:54.000Z",
     "packageCount": 5,
     "packages": {
       "net.yozolab.daerd": {
@@ -173883,8 +173240,8 @@
         "name": "net.yozolab.yolupainter",
         "displayName": "YoluPainter Unity Bridge",
         "description": "Opens a model of the scene in the standalone YoluPainter (Live Link) and applies the textures it exports to the model's materials. Editor only.",
-        "latestVersion": "0.5.1",
-        "versionCount": 8,
+        "latestVersion": "0.6.0",
+        "versionCount": 9,
         "keywords": [
           "texture",
           "painting",
@@ -173896,6 +173253,16 @@
           "name": "Yozolab"
         },
         "versions": {
+          "0.6.0": {
+            "version": "0.6.0",
+            "name": "net.yozolab.yolupainter",
+            "displayName": "YoluPainter Unity Bridge",
+            "description": "Opens a model of the scene in the standalone YoluPainter (Live Link) and applies the textures it exports to the model's materials. Editor only.",
+            "url": "https://github.com/YozoraKurage/YoluPainter-UnityBridge/releases/download/0.6.0/net.yozolab.yolupainter.0.6.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "0.5.1": {
             "version": "0.5.1",
             "name": "net.yozolab.yolupainter",
@@ -192900,8 +192267,8 @@
     "name": "TsukimiCode",
     "id": "dev.tsukimicode.vpm",
     "author": "TsukimiCode",
-    "hash": "72012380e272b20649eaf712fb8ea90aafba5f3916ac798e341ff32761c782d9",
-    "last_updated": "2026-10-04T07:33:54.000Z",
+    "hash": "83614c0f4c339a44034153af8fae8ffdf980e8c0013ddd5d8bdfe1ee6a0249b7",
+    "last_updated": "2026-10-10T18:17:13.000Z",
     "packageCount": 1,
     "packages": {
       "com.tsukimicode.udon-tools": {
@@ -192910,7 +192277,7 @@
         "displayName": "TsukimiSharp(T#)",
         "description": "VRChatのUdon向けのC#コンパイラ(interface/ジェネリクス/リアクティブ宣言/GPU実行/ユニットテスト)。extern削減の最適化とAI向け静的解析サーバ(MCP)を同梱。",
         "latestVersion": "0.8.1",
-        "versionCount": 1,
+        "versionCount": 2,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -192924,6 +192291,18 @@
             "displayName": "TsukimiSharp(T#)",
             "description": "VRChatのUdon向けのC#コンパイラ(interface/ジェネリクス/リアクティブ宣言/GPU実行/ユニットテスト)。extern削減の最適化とAI向け静的解析サーバ(MCP)を同梱。",
             "url": "https://github.com/zz-roba/tsukimi-vpm/releases/download/v0.8.1/com.tsukimicode.udon-tools-0.8.1-vpm.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.10.4"
+            }
+          },
+          "0.9.0": {
+            "version": "0.9.0",
+            "name": "com.tsukimicode.udon-tools",
+            "displayName": "TsukimiSharp(T#)",
+            "description": "VRChatのUdon向けのC#コンパイラ(interface/ジェネリクス/リアクティブ宣言/GPU実行/ユニットテスト)。extern削減の最適化とAI向け静的解析サーバ(MCP)を同梱。",
+            "url": "https://github.com/zz-roba/tsukimi-vpm/releases/download/v0.9.0/com.tsukimicode.udon-tools-0.9.0-vpm.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -193094,8 +192473,8 @@
     "name": "Poiyomi's VPM Repo",
     "id": "io.github.poiyomi.vpm",
     "author": "Poiyomi",
-    "hash": "396b6bbffdd40862a2b92fa352170b42401ab9c0cdb5a9a675ab9ea491dad452",
-    "last_updated": "2026-10-10T01:53:36.000Z",
+    "hash": "51dcfb6af33bc94b32dc89e022c6c56f7f1d225d354d59005648ac2c5737f4b3",
+    "last_updated": "2026-10-11T02:59:40.000Z",
     "packageCount": 3,
     "packages": {
       "com.poiyomi.toon": {
@@ -193103,8 +192482,8 @@
         "name": "com.poiyomi.toon",
         "displayName": "Poiyomi Toon",
         "description": "Feature-rich shaders for Unity and VRChat.",
-        "latestVersion": "10.0.24",
-        "versionCount": 52,
+        "latestVersion": "10.0.25",
+        "versionCount": 53,
         "keywords": [],
         "unity": "2021.3",
         "author": {
@@ -193112,6 +192491,18 @@
           "url": "https://github.com/poiyomi/PoiyomiToonShader"
         },
         "versions": {
+          "10.0.25": {
+            "version": "10.0.25",
+            "name": "com.poiyomi.toon",
+            "displayName": "Poiyomi Toon",
+            "description": "Feature-rich shaders for Unity and VRChat.",
+            "url": "https://github.com/poiyomi/PoiyomiToonShader/releases/download/v10.0.25/com.poiyomi.toon-10.0.25.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {
+              "com.poiyomi.thryeditor": ">=2.74.3"
+            }
+          },
           "10.0.24": {
             "version": "10.0.24",
             "name": "com.poiyomi.toon",
