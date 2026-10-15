@@ -11519,8 +11519,8 @@
     "name": "AuroraKai",
     "id": "com.aurorakai.vpm",
     "author": "Kai",
-    "hash": "f2ae91c17b5de8074c47df41fcff368808b7ec2996230159b0e3f2d101e9b5fe",
-    "last_updated": "2026-10-13T15:54:03.000Z",
+    "hash": "383d22df6f79fcd693708f2ccb5355411fe40aede47c2ee41c4380995a66cb4c",
+    "last_updated": "2026-10-14T15:47:51.000Z",
     "packageCount": 1,
     "packages": {
       "com.aurorakai.sps-tools": {
@@ -11528,14 +11528,24 @@
         "name": "com.aurorakai.sps-tools",
         "displayName": "SPS Tools",
         "description": "SPS tooling for avatar creators.",
-        "latestVersion": "1.0.1",
-        "versionCount": 7,
+        "latestVersion": "1.0.2",
+        "versionCount": 8,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "Kai"
         },
         "versions": {
+          "1.0.2": {
+            "version": "1.0.2",
+            "name": "com.aurorakai.sps-tools",
+            "displayName": "SPS Tools",
+            "description": "SPS tooling for avatar creators.",
+            "url": "https://github.com/aurorakai/sps-tools/releases/download/v1.0.2/com.aurorakai.sps-tools-1.0.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.0.1": {
             "version": "1.0.1",
             "name": "com.aurorakai.sps-tools",
@@ -11656,7 +11666,7 @@
     "id": "com.awavr.vpm",
     "author": "AwA",
     "hash": "22064f8c95b78ec5892d45b2af7ecbc44a89d9443330c2b63733c4174e56e1f8",
-    "last_updated": "2026-09-19T19:28:38.000Z",
+    "last_updated": "2026-09-19T19:28:39.000Z",
     "packageCount": 11,
     "packages": {
       "com.awavr.core": {
@@ -14524,7 +14534,7 @@
     "id": "cc.orbiters.vpm",
     "author": "blackorbit",
     "hash": "7293eef963811b04e5872ff2694fdff2767bda5bf21af5fa698356456d939052",
-    "last_updated": "2026-10-14T02:36:32.000Z",
+    "last_updated": "2026-10-15T02:37:03.000Z",
     "packageCount": 12,
     "packages": {
       "orbiters.mcb": {
@@ -19246,8 +19256,8 @@
     "name": "Club Maul",
     "id": "com.clubmaul.vpm",
     "author": "Club Maul",
-    "hash": "c04fe16ffa399605b82760f4ffeaf3577af866b382874fc811fbb5bb790fb982",
-    "last_updated": "2026-09-25T17:10:12.000Z",
+    "hash": "c6a1e0887aca66023f11014c5e123b298953a5ee7ef111006bccee18717bc109",
+    "last_updated": "2026-10-14T18:56:14.000Z",
     "packageCount": 1,
     "packages": {
       "com.clubmaul.staff-scanner": {
@@ -19255,8 +19265,8 @@
         "name": "com.clubmaul.staff-scanner",
         "displayName": "Staff Scanner V2",
         "description": "Staff Scanner V2 for Club Maul. Required for all Beasts and recommended for Trial Beasts. Drop the prefab onto your avatar, pick your role, and on build it generates a decimated, see-through-walls scanner mesh plus the contact senders/receivers and in-game menu toggles compatible worlds react to.",
-        "latestVersion": "2.0.4",
-        "versionCount": 20,
+        "latestVersion": "2.0.5-rc.1",
+        "versionCount": 21,
         "keywords": [
           "vrchat",
           "avatars",
@@ -19269,6 +19279,19 @@
           "url": "https://github.com/Club-Maul"
         },
         "versions": {
+          "2.0.5-rc.1": {
+            "version": "2.0.5-rc.1",
+            "name": "com.clubmaul.staff-scanner",
+            "displayName": "Staff Scanner V2",
+            "description": "Staff Scanner V2 for Club Maul. Required for all Beasts and recommended for Trial Beasts. Drop the prefab onto your avatar, pick your role, and on build it generates a decimated, see-through-walls scanner mesh plus the contact senders/receivers and in-game menu toggles compatible worlds react to.",
+            "url": "https://github.com/Club-Maul/staff-scanner-v2/releases/download/2.0.5-rc.1/com.clubmaul.staff-scanner-2.0.5-rc.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "com.vrcfury.vrcfury": ">=1.0.0"
+            }
+          },
           "2.0.4": {
             "version": "2.0.4",
             "name": "com.clubmaul.staff-scanner",
@@ -19690,8 +19713,8 @@
     "name": "CucumberWorks",
     "id": "io.github.cucumberworks.vpm",
     "author": "CucumberWorks",
-    "hash": "28a588b7ba7a30e50458dc48019420ca6df1b4c2f072c78e1179c08635edf446",
-    "last_updated": "2026-10-12T23:52:06.000Z",
+    "hash": "5781432cb34af696bb9fdcf62504fdb69dc2fc1fd17fb6fb3f795f20f04bf9f2",
+    "last_updated": "2026-10-14T15:14:04.000Z",
     "packageCount": 3,
     "packages": {
       "com.soulflame.vrm-exporter": {
@@ -19700,7 +19723,7 @@
         "displayName": "SoulFlame VRM Exporter",
         "description": "Captures a source avatar's selected Play Mode appearance and exports one self-contained VRM 1.0 3D model.",
         "latestVersion": "0.1.0-beta.1",
-        "versionCount": 15,
+        "versionCount": 16,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -19899,6 +19922,23 @@
               "com.unity.modules.imageconversion": "1.0.0",
               "com.unity.modules.imgui": "1.0.0",
               "com.unity.timeline": "1.7.6"
+            }
+          },
+          "0.6.2-beta.1": {
+            "version": "0.6.2-beta.1",
+            "name": "com.soulflame.vrm-exporter",
+            "displayName": "SoulFlame VRM Exporter (VRChat avatar to VRM)",
+            "description": "Converts a VRChat avatar into a VRM 1.0 file (or VRM 0.x for apps such as VSeeFace), as it looks in Play Mode. Open it from VRM > SoulFlame VRM Exporter or Tools > CucumberWorks > SoulFlame VRM Exporter.",
+            "url": "https://github.com/CucumberWorks/vpm/releases/download/0.6.2-beta.1/com.soulflame.vrm-exporter-0.6.2-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.unity.mathematics": "1.2.6",
+              "com.unity.modules.animation": "1.0.0",
+              "com.unity.modules.imageconversion": "1.0.0",
+              "com.unity.modules.imgui": "1.0.0",
+              "com.unity.timeline": "1.7.6",
+              "com.unity.ugui": "1.0.0"
             }
           }
         }
@@ -29661,7 +29701,7 @@
     "id": "com.furality.repos.official",
     "author": "Furality, Inc.",
     "hash": "1f058d849e3d6f8fbf1320164b63cd1f1019b43a7993a1adfa11f274f8288e49",
-    "last_updated": "2026-08-08T02:49:09.000Z",
+    "last_updated": "2026-08-08T02:49:10.000Z",
     "packageCount": 3,
     "packages": {
       "com.furality.sylvashader": {
@@ -33342,8 +33382,8 @@
     "name": "Synthos VRC Packages",
     "id": "com.synthos.packages",
     "author": "Synthos",
-    "hash": "4c536f2343a381c79bf141a21cabefd068e38d4c93ef87553f6698bbc9c37742",
-    "last_updated": "2026-10-14T03:21:39.000Z",
+    "hash": "cca8d2825bef6148ed541f3e4d19d3352a4ff5d1b1cb0eb9486431020bedcfc9",
+    "last_updated": "2026-10-15T02:59:48.000Z",
     "packageCount": 6,
     "packages": {
       "com.synthos.scene-optimizer": {
@@ -34047,8 +34087,8 @@
         "name": "com.synthos.batch-uploader",
         "displayName": "Synthos Batch Uploader",
         "description": "Automates batch uploading multiple VRChat avatar outfits with multi-platform synchronization (PC, Android, iOS), blendshape offsets, material overrides, and blueprint ID management.",
-        "latestVersion": "1.1.0-preview.3",
-        "versionCount": 9,
+        "latestVersion": "1.1.0-preview.6",
+        "versionCount": 12,
         "keywords": [
           "vrchat",
           "avatar",
@@ -34067,6 +34107,42 @@
           "url": "https://github.com/GRIMREAPER35487/VRC-Batch-Uploader"
         },
         "versions": {
+          "1.1.0-preview.6": {
+            "version": "1.1.0-preview.6",
+            "name": "com.synthos.batch-uploader",
+            "displayName": "Synthos Batch Uploader",
+            "description": "Automates batch uploading multiple VRChat avatar outfits with multi-platform synchronization (PC, Android, iOS), blendshape offsets, material overrides, and blueprint ID management.",
+            "url": "https://github.com/GRIMREAPER35487/VRC-Batch-Uploader/releases/download/v1.1.0-preview.6/com.synthos.batch-uploader-1.1.0-preview.6.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.5.0"
+            }
+          },
+          "1.1.0-preview.5": {
+            "version": "1.1.0-preview.5",
+            "name": "com.synthos.batch-uploader",
+            "displayName": "Synthos Batch Uploader",
+            "description": "Automates batch uploading multiple VRChat avatar outfits with multi-platform synchronization (PC, Android, iOS), blendshape offsets, material overrides, and blueprint ID management.",
+            "url": "https://github.com/GRIMREAPER35487/VRC-Batch-Uploader/releases/download/v1.1.0-preview.5/com.synthos.batch-uploader-1.1.0-preview.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.5.0"
+            }
+          },
+          "1.1.0-preview.4": {
+            "version": "1.1.0-preview.4",
+            "name": "com.synthos.batch-uploader",
+            "displayName": "Synthos Batch Uploader",
+            "description": "Automates batch uploading multiple VRChat avatar outfits with multi-platform synchronization (PC, Android, iOS), blendshape offsets, material overrides, and blueprint ID management.",
+            "url": "https://github.com/GRIMREAPER35487/VRC-Batch-Uploader/releases/download/v1.1.0-preview.4/com.synthos.batch-uploader-1.1.0-preview.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.5.0"
+            }
+          },
           "1.1.0-preview.3": {
             "version": "1.1.0-preview.3",
             "name": "com.synthos.batch-uploader",
@@ -34182,8 +34258,8 @@
         "name": "com.synthos.avatar-compressor",
         "displayName": "Avatar Compressor (Synthos Edition)",
         "description": "Avatar Compressor: Non-Destructive Avatar Compression Utilities. Runs at VRChat avatar build time and works with VRCFury.",
-        "latestVersion": "1.3.1",
-        "versionCount": 16,
+        "latestVersion": "1.4.0-beta.2",
+        "versionCount": 18,
         "keywords": [
           "lac",
           "avatar",
@@ -34200,6 +34276,36 @@
           "url": "https://github.com/Limitex/avatar-compressor"
         },
         "versions": {
+          "1.4.0-beta.2": {
+            "version": "1.4.0-beta.2",
+            "name": "com.synthos.avatar-compressor",
+            "displayName": "Avatar Compressor (Synthos Edition)",
+            "description": "Avatar Compressor: Non-Destructive Avatar Compression Utilities. Runs at VRChat avatar build time and works with VRCFury.",
+            "url": "https://github.com/GRIMREAPER35487/avatar-compressor-Synthos/releases/download/v1.4.0-beta.2/com.synthos.avatar-compressor-1.4.0-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": ">=3.10.0",
+              "com.vrchat.avatars": ">=3.10.0",
+              "com.vrcfury.vrcfury": ">=1.1298.0",
+              "com.synthos.texture-analysis": ">=1.4.0-beta.2"
+            }
+          },
+          "1.4.0-beta.1": {
+            "version": "1.4.0-beta.1",
+            "name": "com.synthos.avatar-compressor",
+            "displayName": "Avatar Compressor (Synthos Edition)",
+            "description": "Avatar Compressor: Non-Destructive Avatar Compression Utilities. Runs at VRChat avatar build time and works with VRCFury.",
+            "url": "https://github.com/GRIMREAPER35487/avatar-compressor-Synthos/releases/download/v1.4.0-beta.1/com.synthos.avatar-compressor-1.4.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": ">=3.10.0",
+              "com.vrchat.avatars": ">=3.10.0",
+              "com.vrcfury.vrcfury": ">=1.1298.0",
+              "com.synthos.texture-analysis": ">=1.4.0-beta.1"
+            }
+          },
           "1.3.1": {
             "version": "1.3.1",
             "name": "com.synthos.avatar-compressor",
@@ -34435,8 +34541,8 @@
         "name": "com.synthos.texture-analysis",
         "displayName": "Synthos Texture Analysis",
         "description": "Shared texture analysis used by Synthos tools: detail scoring, resizing and compression format choice. Installed automatically as a dependency.",
-        "latestVersion": "1.3.1",
-        "versionCount": 6,
+        "latestVersion": "1.4.0-beta.2",
+        "versionCount": 8,
         "keywords": [
           "texture",
           "compression",
@@ -34449,6 +34555,26 @@
           "url": "https://github.com/GRIMREAPER35487"
         },
         "versions": {
+          "1.4.0-beta.2": {
+            "version": "1.4.0-beta.2",
+            "name": "com.synthos.texture-analysis",
+            "displayName": "Synthos Texture Analysis",
+            "description": "Shared texture analysis used by Synthos tools: detail scoring, resizing and compression format choice. Installed automatically as a dependency.",
+            "url": "https://github.com/GRIMREAPER35487/avatar-compressor-Synthos/releases/download/v1.4.0-beta.2/com.synthos.texture-analysis-1.4.0-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.4.0-beta.1": {
+            "version": "1.4.0-beta.1",
+            "name": "com.synthos.texture-analysis",
+            "displayName": "Synthos Texture Analysis",
+            "description": "Shared texture analysis used by Synthos tools: detail scoring, resizing and compression format choice. Installed automatically as a dependency.",
+            "url": "https://github.com/GRIMREAPER35487/avatar-compressor-Synthos/releases/download/v1.4.0-beta.1/com.synthos.texture-analysis-1.4.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.3.1": {
             "version": "1.3.1",
             "name": "com.synthos.texture-analysis",
@@ -36408,8 +36534,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "385b419eca1df1e3e43f2d001a0a7cdd0cf6208df4ab2d04a81d75e7aa4830ed",
-    "last_updated": "2026-10-14T00:44:00.000Z",
+    "hash": "4ca2e905ca4e57e7dd7a03d5e196aac8855e952e3548ae6b3a5e0d5520ca9a86",
+    "last_updated": "2026-10-14T20:08:46.000Z",
     "packageCount": 10,
     "packages": {
       "com.poiyomi.pro": {
@@ -37145,8 +37271,8 @@
         "name": "hackebein.objecttracking",
         "displayName": "Hackebein's Object Tracking",
         "description": "Hackebein's setup for Object Tracking in VRChat",
-        "latestVersion": "1.0.0-beta.41",
-        "versionCount": 5,
+        "latestVersion": "1.0.0",
+        "versionCount": 6,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -37155,6 +37281,20 @@
           "url": "https://hackebein.de"
         },
         "versions": {
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "hackebein.objecttracking",
+            "displayName": "Hackebein's Object Tracking",
+            "description": "Hackebein's setup for Object Tracking in VRChat",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking/1.0.0/c4992d5e90db2fe44d9d869d1ff59e62cd54cc6fda0b186aa201cc8044fe27dd",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.9.0",
+              "com.ygdr.mdv": ">=1.2.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0"
+            }
+          },
           "1.0.0-beta.41": {
             "version": "1.0.0-beta.41",
             "name": "hackebein.objecttracking",
@@ -45953,7 +46093,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "680029c772846cb5e5b7331c6f399296d7c3d340058c68c9f48e255a6fa8e65e",
-    "last_updated": "2026-10-13T10:43:06.000Z",
+    "last_updated": "2026-10-14T16:11:57.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -47894,7 +48034,7 @@
     "id": "dev.kaefibot.listing",
     "author": "WoweePaw",
     "hash": "0f954512e7a69a442d27394f918fc68614873d3db3706347e1e36e0acde01244",
-    "last_updated": "2026-07-05T15:03:28.000Z",
+    "last_updated": "2026-07-05T15:03:29.000Z",
     "packageCount": 1,
     "packages": {
       "dev.kaefibot.kaefibot-controller": {
@@ -55748,7 +55888,7 @@
     "id": "com.kie.vpm",
     "author": "Kie",
     "hash": "9c720b21a0d472446cbcefecd3ffddfe48df0b160a1cc2d716f8020dfadddb34",
-    "last_updated": "2026-10-13T20:32:44.000Z",
+    "last_updated": "2026-10-14T19:12:50.000Z",
     "packageCount": 3,
     "packages": {
       "com.kie.kie-mergeable-toggle": {
@@ -60075,7 +60215,7 @@
     "id": "lereldarion",
     "author": "Lereldarion",
     "hash": "fa9cc79e70fb00eb2aa70863c05e008271c255affd1e14192f26540239c3a213",
-    "last_updated": "2026-06-25T19:36:14.000Z",
+    "last_updated": "2026-06-25T19:36:15.000Z",
     "packageCount": 2,
     "packages": {
       "lereldarion.unity-shaders": {
@@ -62463,7 +62603,7 @@
     "id": "com.lightbulb.vpm",
     "author": "Lightbulb",
     "hash": "a29453938b874b0a8a30c0d1d6faeda76d6a381faf1f96b276ba444f8e05a3de",
-    "last_updated": "2026-10-13T19:17:27.000Z",
+    "last_updated": "2026-10-15T01:30:30.000Z",
     "packageCount": 1,
     "packages": {
       "com.lightbulb.world-tools": {
@@ -67956,8 +68096,8 @@
     "name": "VR Vlog Packages",
     "id": "com.vrvlog.packages",
     "author": "VR Vlog",
-    "hash": "68cf3cc10bb9fddfc81b39eccd2144963732237e72ac5d6c894010e42704bbf3",
-    "last_updated": "2026-10-13T16:58:17.000Z",
+    "hash": "f8a1f2db965e0507f3d9935107713ca5de1af0163bbc1efacf1329224ef110fd",
+    "last_updated": "2026-10-14T05:33:19.000Z",
     "packageCount": 3,
     "packages": {
       "com.vrmc.gltf": {
@@ -67980,7 +68120,7 @@
             "name": "com.vrmc.gltf",
             "displayName": "UniGLTF",
             "description": "GLTF importer and exporter",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.15/com.vrmc.gltf-0.131.0.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.15/com.vrmc.gltf-0.131.0.zip",
             "zipSha256": null,
             "unity": "2021.3",
             "vpmDependencies": {
@@ -68016,7 +68156,7 @@
             "name": "com.vrmc.vrm",
             "displayName": "VRM-1.0",
             "description": "VRM-1.0 importer",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.15/com.vrmc.vrm-0.131.0.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.15/com.vrmc.vrm-0.131.0.zip",
             "zipSha256": null,
             "unity": "2021.3",
             "vpmDependencies": {
@@ -68049,7 +68189,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.15/com.vrvlog.liltoon-vrm-exporter-0.11.15.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.15/com.vrvlog.liltoon-vrm-exporter-0.11.15.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68062,7 +68202,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.15-beta.2/com.vrvlog.liltoon-vrm-exporter-0.11.15-beta.2.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.15-beta.2/com.vrvlog.liltoon-vrm-exporter-0.11.15-beta.2.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68075,7 +68215,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.15-beta.1/com.vrvlog.liltoon-vrm-exporter-0.11.15-beta.1.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.15-beta.1/com.vrvlog.liltoon-vrm-exporter-0.11.15-beta.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68088,7 +68228,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.14/com.vrvlog.liltoon-vrm-exporter-0.11.14.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.14/com.vrvlog.liltoon-vrm-exporter-0.11.14.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68101,7 +68241,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.13/com.vrvlog.liltoon-vrm-exporter-0.11.13.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.13/com.vrvlog.liltoon-vrm-exporter-0.11.13.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68114,7 +68254,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.12/com.vrvlog.liltoon-vrm-exporter-0.11.12.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.12/com.vrvlog.liltoon-vrm-exporter-0.11.12.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68127,7 +68267,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.12-beta.1/com.vrvlog.liltoon-vrm-exporter-0.11.12-beta.1.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.12-beta.1/com.vrvlog.liltoon-vrm-exporter-0.11.12-beta.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68140,7 +68280,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.11/com.vrvlog.liltoon-vrm-exporter-0.11.11.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.11/com.vrvlog.liltoon-vrm-exporter-0.11.11.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68153,7 +68293,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.11-beta.16/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.16.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.11-beta.16/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.16.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68166,7 +68306,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.11-beta.15/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.15.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.11-beta.15/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.15.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68179,7 +68319,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.11-beta.14/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.14.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.11-beta.14/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.14.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68192,7 +68332,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.11-beta.13/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.13.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.11-beta.13/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.13.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68205,7 +68345,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.11-beta.12/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.12.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.11-beta.12/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.12.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68218,7 +68358,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.11-beta.9/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.9.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.11-beta.9/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.9.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68231,7 +68371,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.11-beta.8/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.8.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.11-beta.8/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.8.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68244,7 +68384,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.11-beta.7/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.7.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.11-beta.7/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.7.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68257,7 +68397,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.11-beta.11/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.11.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.11-beta.11/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.11.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68270,7 +68410,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.11-beta.10/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.10.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.11-beta.10/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.10.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68283,7 +68423,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.11-beta.6/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.6.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.11-beta.6/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.6.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68296,7 +68436,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.11-beta.5/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.5.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.11-beta.5/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.5.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68309,7 +68449,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.11-beta.4/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.4.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.11-beta.4/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.4.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68322,7 +68462,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.11-beta.3/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.3.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.11-beta.3/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.3.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68335,7 +68475,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.11-beta.2/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.2.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.11-beta.2/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.2.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68348,7 +68488,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.11-beta.1/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.1.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.11-beta.1/com.vrvlog.liltoon-vrm-exporter-0.11.11-beta.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68361,7 +68501,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.10/com.vrvlog.liltoon-vrm-exporter-0.11.10.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.10/com.vrvlog.liltoon-vrm-exporter-0.11.10.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68374,7 +68514,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.9/com.vrvlog.liltoon-vrm-exporter-0.11.9.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.9/com.vrvlog.liltoon-vrm-exporter-0.11.9.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68387,7 +68527,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.8/com.vrvlog.liltoon-vrm-exporter-0.11.8.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.8/com.vrvlog.liltoon-vrm-exporter-0.11.8.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68400,7 +68540,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.7/com.vrvlog.liltoon-vrm-exporter-0.11.7.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.7/com.vrvlog.liltoon-vrm-exporter-0.11.7.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68413,7 +68553,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.6/com.vrvlog.liltoon-vrm-exporter-0.11.6.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.6/com.vrvlog.liltoon-vrm-exporter-0.11.6.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68426,7 +68566,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.4/com.vrvlog.liltoon-vrm-exporter-0.11.4.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.4/com.vrvlog.liltoon-vrm-exporter-0.11.4.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68439,7 +68579,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.3/com.vrvlog.liltoon-vrm-exporter-0.11.3.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.3/com.vrvlog.liltoon-vrm-exporter-0.11.3.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68452,7 +68592,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.2/com.vrvlog.liltoon-vrm-exporter-0.11.2.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.2/com.vrvlog.liltoon-vrm-exporter-0.11.2.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68465,7 +68605,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.1/com.vrvlog.liltoon-vrm-exporter-0.11.1.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.1/com.vrvlog.liltoon-vrm-exporter-0.11.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68478,7 +68618,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.11.0/com.vrvlog.liltoon-vrm-exporter-0.11.0.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.0/com.vrvlog.liltoon-vrm-exporter-0.11.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68491,7 +68631,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.10.6/com.vrvlog.liltoon-vrm-exporter-0.10.6.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.10.6/com.vrvlog.liltoon-vrm-exporter-0.10.6.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68504,7 +68644,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.10.5/com.vrvlog.liltoon-vrm-exporter-0.10.5.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.10.5/com.vrvlog.liltoon-vrm-exporter-0.10.5.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68517,7 +68657,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.10.4/com.vrvlog.liltoon-vrm-exporter-0.10.4.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.10.4/com.vrvlog.liltoon-vrm-exporter-0.10.4.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68530,7 +68670,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.10.3/com.vrvlog.liltoon-vrm-exporter-0.10.3.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.10.3/com.vrvlog.liltoon-vrm-exporter-0.10.3.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68543,7 +68683,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.10.2/com.vrvlog.liltoon-vrm-exporter-0.10.2.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.10.2/com.vrvlog.liltoon-vrm-exporter-0.10.2.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68556,7 +68696,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.10.1/com.vrvlog.liltoon-vrm-exporter-0.10.1.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.10.1/com.vrvlog.liltoon-vrm-exporter-0.10.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68569,7 +68709,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.10.0/com.vrvlog.liltoon-vrm-exporter-0.10.0.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.10.0/com.vrvlog.liltoon-vrm-exporter-0.10.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68582,7 +68722,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.9.0/com.vrvlog.liltoon-vrm-exporter-0.9.0.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.9.0/com.vrvlog.liltoon-vrm-exporter-0.9.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68595,7 +68735,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.8.1/com.vrvlog.liltoon-vrm-exporter-0.8.1.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.8.1/com.vrvlog.liltoon-vrm-exporter-0.8.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68608,7 +68748,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.8.0/com.vrvlog.liltoon-vrm-exporter-0.8.0.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.8.0/com.vrvlog.liltoon-vrm-exporter-0.8.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68621,7 +68761,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.7.4/com.vrvlog.liltoon-vrm-exporter-0.7.4.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.7.4/com.vrvlog.liltoon-vrm-exporter-0.7.4.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68634,7 +68774,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.7.3/com.vrvlog.liltoon-vrm-exporter-0.7.3.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.7.3/com.vrvlog.liltoon-vrm-exporter-0.7.3.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68647,7 +68787,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.7.2/com.vrvlog.liltoon-vrm-exporter-0.7.2.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.7.2/com.vrvlog.liltoon-vrm-exporter-0.7.2.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68660,7 +68800,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.7.1/com.vrvlog.liltoon-vrm-exporter-0.7.1.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.7.1/com.vrvlog.liltoon-vrm-exporter-0.7.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68673,7 +68813,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.7.0/com.vrvlog.liltoon-vrm-exporter-0.7.0.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.7.0/com.vrvlog.liltoon-vrm-exporter-0.7.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68686,7 +68826,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.6.1/com.vrvlog.liltoon-vrm-exporter-0.6.1.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.6.1/com.vrvlog.liltoon-vrm-exporter-0.6.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68699,7 +68839,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.6.0/com.vrvlog.liltoon-vrm-exporter-0.6.0.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.6.0/com.vrvlog.liltoon-vrm-exporter-0.6.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68712,7 +68852,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.5.1/com.vrvlog.liltoon-vrm-exporter-0.5.1.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.5.1/com.vrvlog.liltoon-vrm-exporter-0.5.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68725,7 +68865,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.5.0/com.vrvlog.liltoon-vrm-exporter-0.5.0.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.5.0/com.vrvlog.liltoon-vrm-exporter-0.5.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68738,7 +68878,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.4.1/com.vrvlog.liltoon-vrm-exporter-0.4.1.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.4.1/com.vrvlog.liltoon-vrm-exporter-0.4.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68751,7 +68891,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.4.0/com.vrvlog.liltoon-vrm-exporter-0.4.0.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.4.0/com.vrvlog.liltoon-vrm-exporter-0.4.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68764,7 +68904,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.3.8/com.vrvlog.liltoon-vrm-exporter-0.3.8.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.3.8/com.vrvlog.liltoon-vrm-exporter-0.3.8.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68777,7 +68917,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.3.7/com.vrvlog.liltoon-vrm-exporter-0.3.7.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.3.7/com.vrvlog.liltoon-vrm-exporter-0.3.7.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68790,7 +68930,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.3.6/com.vrvlog.liltoon-vrm-exporter-0.3.6.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.3.6/com.vrvlog.liltoon-vrm-exporter-0.3.6.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68803,7 +68943,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.3.5/com.vrvlog.liltoon-vrm-exporter-0.3.5.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.3.5/com.vrvlog.liltoon-vrm-exporter-0.3.5.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68816,7 +68956,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.3.4/com.vrvlog.liltoon-vrm-exporter-0.3.4.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.3.4/com.vrvlog.liltoon-vrm-exporter-0.3.4.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68829,7 +68969,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.3.3/com.vrvlog.liltoon-vrm-exporter-0.3.3.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.3.3/com.vrvlog.liltoon-vrm-exporter-0.3.3.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68842,7 +68982,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.3.2/com.vrvlog.liltoon-vrm-exporter-0.3.2.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.3.2/com.vrvlog.liltoon-vrm-exporter-0.3.2.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68855,7 +68995,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.3.1/com.vrvlog.liltoon-vrm-exporter-0.3.1.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.3.1/com.vrvlog.liltoon-vrm-exporter-0.3.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -68868,7 +69008,7 @@
             "name": "com.vrvlog.liltoon-vrm-exporter",
             "displayName": "VR Vlog lilToon VRM Exporter",
             "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-lilToon-Exporter/releases/download/v0.3.0/com.vrvlog.liltoon-vrm-exporter-0.3.0.zip",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.3.0/com.vrvlog.liltoon-vrm-exporter-0.3.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -71923,7 +72063,7 @@
     "id": "com.nickel-jp.repos.avatar-recovery",
     "author": "Nickel-JP",
     "hash": "a4cc6bc77c66438e62cab09e86596f752fd416e7db86d41b079e178a053a4443",
-    "last_updated": "2026-10-12T20:26:00.000Z",
+    "last_updated": "2026-10-12T20:25:59.000Z",
     "packageCount": 1,
     "packages": {
       "com.nickel-jp.avatar-recovery": {
@@ -72379,7 +72519,7 @@
     "id": "com.njsgdd10086.vpm-repo",
     "author": "ATRI_NAIXU",
     "hash": "8c8207e113b16232f81fff880d75af6cd0c4e23988e1aaebb74f409fea513be8",
-    "last_updated": "2026-10-14T00:18:42.000Z",
+    "last_updated": "2026-10-15T00:47:49.000Z",
     "packageCount": 3,
     "packages": {
       "com.atrinaxu.nontoon.lightlimit": {
@@ -76619,8 +76759,8 @@
     "name": "orels Unity Shaders",
     "id": "sh.orels.shaders",
     "author": "orels1",
-    "hash": "70ded4fd6f967c9a4d084aa4f0eb5c5f293b0758fedb1fa596a1db55aa27c9d5",
-    "last_updated": "2026-10-14T03:14:54.000Z",
+    "hash": "24af3932ca47110f54f88d99306d50c83b06e4756e0f35eaf939e365435cf67a",
+    "last_updated": "2026-10-15T00:53:41.000Z",
     "packageCount": 3,
     "packages": {
       "sh.orels.shaders": {
@@ -76628,8 +76768,8 @@
         "name": "sh.orels.shaders",
         "displayName": "ORL Shaders",
         "description": "PBR Unity shaders for the Built-In pipeline built with ORL Shader Generator",
-        "latestVersion": "7.4.0-dev.3",
-        "versionCount": 57,
+        "latestVersion": "7.4.0-dev.4",
+        "versionCount": 58,
         "keywords": [
           "shaders",
           "pbr",
@@ -76641,6 +76781,19 @@
           "url": "https://github.com/orels1"
         },
         "versions": {
+          "7.4.0-dev.4": {
+            "version": "7.4.0-dev.4",
+            "name": "sh.orels.shaders",
+            "displayName": "ORL Shaders",
+            "description": "PBR Unity shaders for the Built-In pipeline built with ORL Shader Generator",
+            "url": "https://github.com/orels1/orels-Unity-Shaders/releases/download/v7.4.0-dev.4/sh.orels.shaders-7.4.0-dev.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "sh.orels.shaders.generator": "^7.4.0-dev.4",
+              "sh.orels.shaders.inspector": "^7.4.0-dev.4"
+            }
+          },
           "7.4.0-dev.3": {
             "version": "7.4.0-dev.3",
             "name": "sh.orels.shaders",
@@ -77389,8 +77542,8 @@
         "name": "sh.orels.shaders.generator",
         "displayName": "ORL Shader Generator",
         "description": "A template-based shader generator utilizing scripted importers",
-        "latestVersion": "7.4.0-dev.3",
-        "versionCount": 59,
+        "latestVersion": "7.4.0-dev.4",
+        "versionCount": 60,
         "keywords": [
           "shaders",
           "generator",
@@ -77402,6 +77555,16 @@
           "url": "https://github.com/orels1"
         },
         "versions": {
+          "7.4.0-dev.4": {
+            "version": "7.4.0-dev.4",
+            "name": "sh.orels.shaders.generator",
+            "displayName": "ORL Shader Generator",
+            "description": "A template-based shader generator utilizing scripted importers",
+            "url": "https://github.com/orels1/orels-Unity-Shaders/releases/download/v7.4.0-dev.4/sh.orels.shaders.generator-7.4.0-dev.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "7.4.0-dev.3": {
             "version": "7.4.0-dev.3",
             "name": "sh.orels.shaders.generator",
@@ -77999,8 +78162,8 @@
         "name": "sh.orels.shaders.inspector",
         "displayName": "ORL Shader Inspector",
         "description": "A simple property-based shader inspector with extension support",
-        "latestVersion": "7.4.0-dev.3",
-        "versionCount": 58,
+        "latestVersion": "7.4.0-dev.4",
+        "versionCount": 59,
         "keywords": [
           "shaders",
           "inspector",
@@ -78012,6 +78175,18 @@
           "url": "https://github.com/orels1"
         },
         "versions": {
+          "7.4.0-dev.4": {
+            "version": "7.4.0-dev.4",
+            "name": "sh.orels.shaders.inspector",
+            "displayName": "ORL Shader Inspector",
+            "description": "A simple property-based shader inspector with extension support",
+            "url": "https://github.com/orels1/orels-Unity-Shaders/releases/download/v7.4.0-dev.4/sh.orels.shaders.inspector-7.4.0-dev.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.unity.nuget.newtonsoft-json": "2.0.2"
+            }
+          },
           "7.4.0-dev.3": {
             "version": "7.4.0-dev.3",
             "name": "sh.orels.shaders.inspector",
@@ -96159,7 +96334,7 @@
     "id": "com.mitsuboshi-studio.vpm",
     "author": "Mitsuboshi_Studio",
     "hash": "52cde1f130302215e50bd10fbf17761cac4d336a632db50118aa96eb79cfb767",
-    "last_updated": "2026-10-14T00:21:44.000Z",
+    "last_updated": "2026-10-14T23:55:30.000Z",
     "packageCount": 8,
     "packages": {
       "com.mitsuboshi-studio.unity-power-rename": {
@@ -96406,7 +96581,7 @@
     "id": "dev.redline-team.redlinelist",
     "author": "RozeThorns",
     "hash": "8c61e41bc845ad48ac8b2df4fbc0df5b38f713805c599141762b5c54f4e92f8c",
-    "last_updated": "2026-10-14T02:19:15.000Z",
+    "last_updated": "2026-10-15T02:00:02.000Z",
     "packageCount": 5,
     "packages": {
       "dev.redline-team.rpm": {
@@ -96915,7 +97090,7 @@
     "id": "io.github.rurre.vpm",
     "author": "Pumkin",
     "hash": "a521b62454534e8ac91259065780938a307d6c87b5fc436008c7dfc95e5da1f4",
-    "last_updated": "2026-08-27T18:55:06.000Z",
+    "last_updated": "2026-08-27T18:55:05.000Z",
     "packageCount": 3,
     "packages": {
       "io.github.rurre.pumkinsavatartools": {
@@ -100012,7 +100187,7 @@
     "id": "com.mizore-nekoyanagi.vpm-packages",
     "author": "Mizore Nekoyanagi",
     "hash": "df5c206bda4082fc4825f6e0002aea2319d15d80cf9dc71813ef06fb4db812e7",
-    "last_updated": "2026-02-19T08:55:54.000Z",
+    "last_updated": "2026-02-19T08:55:53.000Z",
     "packageCount": 4,
     "packages": {
       "com.mizore-nekoyanagi.utils.apply-prefab-window": {
@@ -112477,8 +112652,8 @@
     "name": "Udonite",
     "id": "com.udonite.listing",
     "author": "Udonite",
-    "hash": "b41426a09309e4c68ba6d9046d3a6ce66d79215655217b7eee2a45205df87e83",
-    "last_updated": "2026-10-12T03:57:31.000Z",
+    "hash": "c3982a0976ef22ba833276dbd4f0f9c6d4f84de4804c9d147bda0602ced770dc",
+    "last_updated": "2026-10-15T00:56:19.000Z",
     "packageCount": 7,
     "packages": {
       "com.udonite.compiler": {
@@ -112486,8 +112661,8 @@
         "name": "com.udonite.compiler",
         "displayName": "Udonite",
         "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
-        "latestVersion": "2.17.2",
-        "versionCount": 16,
+        "latestVersion": "2.17.3",
+        "versionCount": 17,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -112495,6 +112670,18 @@
           "url": "https://github.com/Udonite/Udonite"
         },
         "versions": {
+          "2.17.3": {
+            "version": "2.17.3",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://github.com/Udonite/Udonite/releases/download/v2.17.3/com.udonite.compiler-2.17.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
           "2.17.2": {
             "version": "2.17.2",
             "name": "com.udonite.compiler",
@@ -114416,7 +114603,7 @@
     "id": "co.raphii.vpm-listing",
     "author": "Raphiiko",
     "hash": "13d7c0741bdb67306d4706066396ddccd4188238b4335f6b126e26cf84767a0b",
-    "last_updated": "2026-07-03T23:15:32.000Z",
+    "last_updated": "2026-07-03T23:15:31.000Z",
     "packageCount": 1,
     "packages": {
       "co.raphii.vrti.avatarmenu": {
@@ -114479,8 +114666,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "3019d9c5d7b0b068c89dc9aadaf46aafcfbb343a412198c0d959c981c42661f6",
-    "last_updated": "2026-10-14T03:25:39.000Z",
+    "hash": "ffcf7938032192101d81e031ded9418c840456fdef42960740798a74f49f6d72",
+    "last_updated": "2026-10-15T03:03:39.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -128699,7 +128886,7 @@
     "id": "io.mekabu.vpm-repository",
     "author": "contact@mekabu.io",
     "hash": "afb531d339483772668bf9b0fbe2f91415a0d37733b4adad67544741ae03cb2e",
-    "last_updated": "2026-10-14T03:25:03.000Z",
+    "last_updated": "2026-10-15T02:54:53.000Z",
     "packageCount": 2,
     "packages": {
       "com.mekabu.blendshape-animation-creator": {
@@ -141860,8 +142047,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "385b419eca1df1e3e43f2d001a0a7cdd0cf6208df4ab2d04a81d75e7aa4830ed",
-    "last_updated": "2026-10-14T00:44:00.000Z",
+    "hash": "4ca2e905ca4e57e7dd7a03d5e196aac8855e952e3548ae6b3a5e0d5520ca9a86",
+    "last_updated": "2026-10-14T20:08:46.000Z",
     "packageCount": 10,
     "packages": {
       "com.poiyomi.pro": {
@@ -142597,8 +142784,8 @@
         "name": "hackebein.objecttracking",
         "displayName": "Hackebein's Object Tracking",
         "description": "Hackebein's setup for Object Tracking in VRChat",
-        "latestVersion": "1.0.0-beta.41",
-        "versionCount": 5,
+        "latestVersion": "1.0.0",
+        "versionCount": 6,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -142607,6 +142794,20 @@
           "url": "https://hackebein.de"
         },
         "versions": {
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "hackebein.objecttracking",
+            "displayName": "Hackebein's Object Tracking",
+            "description": "Hackebein's setup for Object Tracking in VRChat",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking/1.0.0/c4992d5e90db2fe44d9d869d1ff59e62cd54cc6fda0b186aa201cc8044fe27dd",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.9.0",
+              "com.ygdr.mdv": ">=1.2.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0"
+            }
+          },
           "1.0.0-beta.41": {
             "version": "1.0.0-beta.41",
             "name": "hackebein.objecttracking",
@@ -151433,10 +151634,41 @@
     "name": "LogicCuteGuy VPM Listing",
     "id": "com.logiccuteguy.vpm",
     "author": "LogicCuteGuy",
-    "hash": "2438b4c90af8e943663cb8208bd40c254f364e1914050346e8a3bb0b3aa74054",
-    "last_updated": "2026-10-09T11:03:42.000Z",
-    "packageCount": 4,
+    "hash": "99562c21a57013694f4a4ad251d1ed99ff48bb00d93bfe7c9c43e3f963d5be8e",
+    "last_updated": "2026-10-14T05:42:39.000Z",
+    "packageCount": 5,
     "packages": {
+      "com.logiccuteguy.blendproperty": {
+        "id": "com.logiccuteguy.blendproperty",
+        "name": "com.logiccuteguy.blendproperty",
+        "displayName": "Blend Property",
+        "description": "Blender-style modifier stack (Generate / Deform / Normals) as editor-only components. Baked to mesh assets, stripped from builds. Optional ProBuilder support.",
+        "latestVersion": "0.1.0",
+        "versionCount": 1,
+        "keywords": [
+          "blender",
+          "modifier",
+          "mesh",
+          "probuilder",
+          "vrchat"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "LogicCuteGuy"
+        },
+        "versions": {
+          "0.1.0": {
+            "version": "0.1.0",
+            "name": "com.logiccuteguy.blendproperty",
+            "displayName": "Blend Property",
+            "description": "Blender-style modifier stack (Generate / Deform / Normals) as editor-only components. Baked to mesh assets, stripped from builds. Optional ProBuilder support.",
+            "url": "https://github.com/LogicCuteGuy/BlendProperty/releases/download/v0.1.0/com.logiccuteguy.blendproperty-0.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          }
+        }
+      },
       "com.logiccuteguy.digholeit": {
         "id": "com.logiccuteguy.digholeit",
         "name": "com.logiccuteguy.digholeit",
@@ -151498,19 +151730,6 @@
               "com.logiccuteguy.lcgudonsharp": ">=0.3.4"
             }
           },
-          "0.6.0": {
-            "version": "0.6.0",
-            "name": "com.logiccuteguy.digholeit",
-            "displayName": "DigHoleIt - Diggable Voxel Terrain",
-            "description": "Digger-style diggable terrain. Bakes Dig Zones over Unity Terrain into a quantized SDF grid and meshes it with Surface Nets. Dig, add and paint terrain layers at runtime or with Terrain-style brushes in the editor. Ships a VRChat (UdonSharp) runtime with networked edits and late-joiner replay, plus a plain C# runtime for standalone games.",
-            "url": "https://github.com/LogicCuteGuy/DigHoleIt/releases/download/v0.6.0/com.logiccuteguy.digholeit-0.6.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "3.10.5",
-              "com.logiccuteguy.lcgudonsharp": ">=0.3.4"
-            }
-          },
           "0.7.0": {
             "version": "0.7.0",
             "name": "com.logiccuteguy.digholeit",
@@ -151523,6 +151742,194 @@
               "com.vrchat.worlds": "3.10.5",
               "com.logiccuteguy.lcgudonsharp": ">=0.3.4"
             }
+          },
+          "0.6.0": {
+            "version": "0.6.0",
+            "name": "com.logiccuteguy.digholeit",
+            "displayName": "DigHoleIt - Diggable Voxel Terrain",
+            "description": "Digger-style diggable terrain. Bakes Dig Zones over Unity Terrain into a quantized SDF grid and meshes it with Surface Nets. Dig, add and paint terrain layers at runtime or with Terrain-style brushes in the editor. Ships a VRChat (UdonSharp) runtime with networked edits and late-joiner replay, plus a plain C# runtime for standalone games.",
+            "url": "https://github.com/LogicCuteGuy/DigHoleIt/releases/download/v0.6.0/com.logiccuteguy.digholeit-0.6.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.10.5",
+              "com.logiccuteguy.lcgudonsharp": ">=0.3.4"
+            }
+          }
+        }
+      },
+      "com.logiccuteguy.lcgudonsharp": {
+        "id": "com.logiccuteguy.lcgudonsharp",
+        "name": "com.logiccuteguy.lcgudonsharp",
+        "displayName": "LCGUdonSharp",
+        "description": "Adds source-interface support to UdonSharp and installs the compiler inside LCGUdonSharp instead of VRChat Worlds.",
+        "latestVersion": "0.3.10",
+        "versionCount": 10,
+        "keywords": [
+          "udonsharp",
+          "udon",
+          "vrchat",
+          "worlds",
+          "compiler",
+          "interfaces",
+          "async-await",
+          "networking"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "LogicCuteGuy"
+        },
+        "versions": {
+          "0.3.10": {
+            "version": "0.3.10",
+            "name": "com.logiccuteguy.lcgudonsharp",
+            "displayName": "LCGUdonSharp",
+            "description": "Adds source-interface support to UdonSharp and installs the compiler inside LCGUdonSharp instead of VRChat Worlds.",
+            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/0.3.10/com.logiccuteguy.lcgudonsharp-0.3.10.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.10.5",
+              "com.unity.scriptablebuildpipeline": "1.21.26"
+            }
+          },
+          "0.3.9": {
+            "version": "0.3.9",
+            "name": "com.logiccuteguy.lcgudonsharp",
+            "displayName": "LCGUdonSharp",
+            "description": "Adds source-interface support to UdonSharp and installs the compiler inside LCGUdonSharp instead of VRChat Worlds.",
+            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/0.3.9/com.logiccuteguy.lcgudonsharp-0.3.9.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.10.5"
+            }
+          },
+          "0.3.8": {
+            "version": "0.3.8",
+            "name": "com.logiccuteguy.lcgudonsharp",
+            "displayName": "LCGUdonSharp",
+            "description": "Adds source-interface support to UdonSharp and installs the compiler inside LCGUdonSharp instead of VRChat Worlds.",
+            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/0.3.8/com.logiccuteguy.lcgudonsharp-0.3.8.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.10.5"
+            }
+          },
+          "0.3.7": {
+            "version": "0.3.7",
+            "name": "com.logiccuteguy.lcgudonsharp",
+            "displayName": "LCGUdonSharp",
+            "description": "Adds source-interface support to UdonSharp and installs the compiler inside LCGUdonSharp instead of VRChat Worlds.",
+            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/0.3.7/com.logiccuteguy.lcgudonsharp-0.3.7.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.10.5"
+            }
+          },
+          "0.3.6": {
+            "version": "0.3.6",
+            "name": "com.logiccuteguy.lcgudonsharp",
+            "displayName": "LCGUdonSharp",
+            "description": "Adds source-interface support to UdonSharp and installs the compiler inside LCGUdonSharp instead of VRChat Worlds.",
+            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/0.3.6/com.logiccuteguy.lcgudonsharp-0.3.6.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.10.5"
+            }
+          },
+          "0.3.5": {
+            "version": "0.3.5",
+            "name": "com.logiccuteguy.lcgudonsharp",
+            "displayName": "LCGUdonSharp",
+            "description": "Adds source-interface support to UdonSharp and installs the compiler inside LCGUdonSharp instead of VRChat Worlds.",
+            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/0.3.5/com.logiccuteguy.lcgudonsharp-0.3.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.10.5"
+            }
+          },
+          "0.3.3": {
+            "version": "0.3.3",
+            "name": "com.logiccuteguy.lcgudonsharp",
+            "displayName": "LCGUdonSharp",
+            "description": "Adds source-interface support to UdonSharp and installs the compiler inside LCGUdonSharp instead of VRChat Worlds.",
+            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/0.3.3/com.logiccuteguy.lcgudonsharp-0.3.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.10.5"
+            }
+          },
+          "0.2.0": {
+            "version": "0.2.0",
+            "name": "com.logiccuteguy.lcgudonsharp",
+            "displayName": "LCGUdonSharp",
+            "description": "Adds source-interface support to UdonSharp and installs the compiler inside LCGUdonSharp instead of VRChat Worlds.",
+            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/0.2.0/com.logiccuteguy.lcgudonsharp-0.2.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.10.5"
+            }
+          },
+          "0.3.2": {
+            "version": "0.3.2",
+            "name": "com.logiccuteguy.lcgudonsharp",
+            "displayName": "LCGUdonSharp",
+            "description": "Adds source-interface support to UdonSharp and installs the compiler inside LCGUdonSharp instead of VRChat Worlds.",
+            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/0.3.2/com.logiccuteguy.lcgudonsharp-0.3.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.10.5"
+            }
+          },
+          "0.3.4": {
+            "version": "0.3.4",
+            "name": "com.logiccuteguy.lcgudonsharp",
+            "displayName": "LCGUdonSharp",
+            "description": "Adds source-interface support to UdonSharp and installs the compiler inside LCGUdonSharp instead of VRChat Worlds.",
+            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/0.3.4/com.logiccuteguy.lcgudonsharp-0.3.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.10.5"
+            }
+          }
+        }
+      },
+      "com.unity.scriptablebuildpipeline": {
+        "id": "com.unity.scriptablebuildpipeline",
+        "name": "com.unity.scriptablebuildpipeline",
+        "displayName": "Scriptable Build Pipeline (LCGUdonSharp compatibility)",
+        "description": "The Scriptable Build Pipeline moves the asset bundle build pipeline to C#.  Use the pre-defined build flows, or create your own using the divided up APIs.  This system improves build time, fixes incremental build, and provides greater flexibility.\nLCGUdonSharp compatibility distribution based on Unity 1.21.25: excludes auto-referenced SDK DLLs from the editor assembly.",
+        "latestVersion": "1.21.26",
+        "versionCount": 1,
+        "keywords": [
+          "build",
+          "bundle",
+          "bundles",
+          "assetbundles",
+          "cache",
+          "server"
+        ],
+        "unity": "2019.4",
+        "author": "LogicCuteGuy",
+        "versions": {
+          "1.21.26": {
+            "version": "1.21.26",
+            "name": "com.unity.scriptablebuildpipeline",
+            "displayName": "Scriptable Build Pipeline (LCGUdonSharp compatibility)",
+            "description": "The Scriptable Build Pipeline moves the asset bundle build pipeline to C#.  Use the pre-defined build flows, or create your own using the divided up APIs.  This system improves build time, fixes incremental build, and provides greater flexibility.\nLCGUdonSharp compatibility distribution based on Unity 1.21.25: excludes auto-referenced SDK DLLs from the editor assembly.",
+            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/sbp-compatibility-1.21.26/com.unity.scriptablebuildpipeline-1.21.26.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
           }
         }
       },
@@ -151563,181 +151970,6 @@
             "url": "https://github.com/LogicCuteGuy/UnityHelpTools/releases/download/1.0.0/com.logiccuteguy.helptools-1.0.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
-            "vpmDependencies": {}
-          }
-        }
-      },
-      "com.logiccuteguy.lcgudonsharp": {
-        "id": "com.logiccuteguy.lcgudonsharp",
-        "name": "com.logiccuteguy.lcgudonsharp",
-        "displayName": "LCGUdonSharp",
-        "description": "Adds source-interface support to UdonSharp and installs the compiler inside LCGUdonSharp instead of VRChat Worlds.",
-        "latestVersion": "0.3.10",
-        "versionCount": 10,
-        "keywords": [
-          "udonsharp",
-          "udon",
-          "vrchat",
-          "worlds",
-          "compiler",
-          "interfaces",
-          "async-await",
-          "networking"
-        ],
-        "unity": "2022.3",
-        "author": {
-          "name": "LogicCuteGuy"
-        },
-        "versions": {
-          "0.3.10": {
-            "version": "0.3.10",
-            "name": "com.logiccuteguy.lcgudonsharp",
-            "displayName": "LCGUdonSharp",
-            "description": "Adds source-interface support to UdonSharp and installs the compiler inside LCGUdonSharp instead of VRChat Worlds.",
-            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/0.3.10/com.logiccuteguy.lcgudonsharp-0.3.10.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "3.10.5",
-              "com.unity.scriptablebuildpipeline": "1.21.26"
-            }
-          },
-          "0.3.8": {
-            "version": "0.3.8",
-            "name": "com.logiccuteguy.lcgudonsharp",
-            "displayName": "LCGUdonSharp",
-            "description": "Adds source-interface support to UdonSharp and installs the compiler inside LCGUdonSharp instead of VRChat Worlds.",
-            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/0.3.8/com.logiccuteguy.lcgudonsharp-0.3.8.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "3.10.5"
-            }
-          },
-          "0.3.6": {
-            "version": "0.3.6",
-            "name": "com.logiccuteguy.lcgudonsharp",
-            "displayName": "LCGUdonSharp",
-            "description": "Adds source-interface support to UdonSharp and installs the compiler inside LCGUdonSharp instead of VRChat Worlds.",
-            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/0.3.6/com.logiccuteguy.lcgudonsharp-0.3.6.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "3.10.5"
-            }
-          },
-          "0.3.7": {
-            "version": "0.3.7",
-            "name": "com.logiccuteguy.lcgudonsharp",
-            "displayName": "LCGUdonSharp",
-            "description": "Adds source-interface support to UdonSharp and installs the compiler inside LCGUdonSharp instead of VRChat Worlds.",
-            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/0.3.7/com.logiccuteguy.lcgudonsharp-0.3.7.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "3.10.5"
-            }
-          },
-          "0.3.5": {
-            "version": "0.3.5",
-            "name": "com.logiccuteguy.lcgudonsharp",
-            "displayName": "LCGUdonSharp",
-            "description": "Adds source-interface support to UdonSharp and installs the compiler inside LCGUdonSharp instead of VRChat Worlds.",
-            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/0.3.5/com.logiccuteguy.lcgudonsharp-0.3.5.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "3.10.5"
-            }
-          },
-          "0.3.9": {
-            "version": "0.3.9",
-            "name": "com.logiccuteguy.lcgudonsharp",
-            "displayName": "LCGUdonSharp",
-            "description": "Adds source-interface support to UdonSharp and installs the compiler inside LCGUdonSharp instead of VRChat Worlds.",
-            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/0.3.9/com.logiccuteguy.lcgudonsharp-0.3.9.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "3.10.5"
-            }
-          },
-          "0.3.3": {
-            "version": "0.3.3",
-            "name": "com.logiccuteguy.lcgudonsharp",
-            "displayName": "LCGUdonSharp",
-            "description": "Adds source-interface support to UdonSharp and installs the compiler inside LCGUdonSharp instead of VRChat Worlds.",
-            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/0.3.3/com.logiccuteguy.lcgudonsharp-0.3.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "3.10.5"
-            }
-          },
-          "0.3.4": {
-            "version": "0.3.4",
-            "name": "com.logiccuteguy.lcgudonsharp",
-            "displayName": "LCGUdonSharp",
-            "description": "Adds source-interface support to UdonSharp and installs the compiler inside LCGUdonSharp instead of VRChat Worlds.",
-            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/0.3.4/com.logiccuteguy.lcgudonsharp-0.3.4.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "3.10.5"
-            }
-          },
-          "0.3.2": {
-            "version": "0.3.2",
-            "name": "com.logiccuteguy.lcgudonsharp",
-            "displayName": "LCGUdonSharp",
-            "description": "Adds source-interface support to UdonSharp and installs the compiler inside LCGUdonSharp instead of VRChat Worlds.",
-            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/0.3.2/com.logiccuteguy.lcgudonsharp-0.3.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "3.10.5"
-            }
-          },
-          "0.2.0": {
-            "version": "0.2.0",
-            "name": "com.logiccuteguy.lcgudonsharp",
-            "displayName": "LCGUdonSharp",
-            "description": "Adds source-interface support to UdonSharp and installs the compiler inside LCGUdonSharp instead of VRChat Worlds.",
-            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/0.2.0/com.logiccuteguy.lcgudonsharp-0.2.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "3.10.5"
-            }
-          }
-        }
-      },
-      "com.unity.scriptablebuildpipeline": {
-        "id": "com.unity.scriptablebuildpipeline",
-        "name": "com.unity.scriptablebuildpipeline",
-        "displayName": "Scriptable Build Pipeline (LCGUdonSharp compatibility)",
-        "description": "The Scriptable Build Pipeline moves the asset bundle build pipeline to C#.  Use the pre-defined build flows, or create your own using the divided up APIs.  This system improves build time, fixes incremental build, and provides greater flexibility.\nLCGUdonSharp compatibility distribution based on Unity 1.21.25: excludes auto-referenced SDK DLLs from the editor assembly.",
-        "latestVersion": "1.21.26",
-        "versionCount": 1,
-        "keywords": [
-          "build",
-          "bundle",
-          "bundles",
-          "assetbundles",
-          "cache",
-          "server"
-        ],
-        "unity": "2019.4",
-        "author": "LogicCuteGuy",
-        "versions": {
-          "1.21.26": {
-            "version": "1.21.26",
-            "name": "com.unity.scriptablebuildpipeline",
-            "displayName": "Scriptable Build Pipeline (LCGUdonSharp compatibility)",
-            "description": "The Scriptable Build Pipeline moves the asset bundle build pipeline to C#.  Use the pre-defined build flows, or create your own using the divided up APIs.  This system improves build time, fixes incremental build, and provides greater flexibility.\nLCGUdonSharp compatibility distribution based on Unity 1.21.25: excludes auto-referenced SDK DLLs from the editor assembly.",
-            "url": "https://github.com/LogicCuteGuy/LCGUdonSharp/releases/download/sbp-compatibility-1.21.26/com.unity.scriptablebuildpipeline-1.21.26.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
             "vpmDependencies": {}
           }
         }
@@ -176984,8 +177216,8 @@
     "name": "ArchiTech Assets",
     "id": "dev.architech.listing",
     "author": "ArchiTechVR",
-    "hash": "961e84a15ef282ed4a2c32c2cdd3a3d712db268c494593df4778a24f491f32c7",
-    "last_updated": "2026-10-12T14:05:22.000Z",
+    "hash": "856572f0444505b5846fc9f3f2838bbd8eb6221b34fa00837208e85122cf1b78",
+    "last_updated": "2026-10-15T01:26:18.000Z",
     "packageCount": 5,
     "packages": {
       "dev.architech.protv": {
@@ -176993,8 +177225,8 @@
         "name": "dev.architech.protv",
         "displayName": "ArchiTech.ProTV",
         "description": "A feature-rich, extensible media and video player system for VRChat.",
-        "latestVersion": "3.0.0-beta.30",
-        "versionCount": 6,
+        "latestVersion": "3.0.0-beta.31",
+        "versionCount": 7,
         "keywords": [
           "protv",
           "udon",
@@ -177006,6 +177238,19 @@
           "email": "archi@techanon.dev"
         },
         "versions": {
+          "3.0.0-beta.31": {
+            "version": "3.0.0-beta.31",
+            "name": "dev.architech.protv",
+            "displayName": "ArchiTech.ProTV",
+            "description": "A feature-rich, extensible media and video player system for VRChat.",
+            "url": "https://gitlab.com/api/v4/projects/27741679/packages/generic/ArchiTech.ProTV/v3.0.0-beta.31/ArchiTech.ProTV_v3.0.0-beta.31.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.4",
+              "dev.architech.sdk": ">=0.21.3 <1"
+            }
+          },
           "3.0.0-beta.30": {
             "version": "3.0.0-beta.30",
             "name": "dev.architech.protv",
@@ -178290,8 +178535,8 @@
     "name": "WhyKnot Tools",
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
-    "hash": "98ddc2b1b923d11b501290657da6420031df9a554fb23867b5df67b9278ac26d",
-    "last_updated": "2026-10-13T13:10:13.000Z",
+    "hash": "4ba4b9834f47c436ec07b4e3d6ecebc0c347655f3dafab4fed52ac8c1c6ccce4",
+    "last_updated": "2026-10-14T10:50:41.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -195595,8 +195840,8 @@
     "name": "z3y's packages",
     "id": "io.github.z3y.vpm-package-listing",
     "author": "z3y",
-    "hash": "8877299f6bd69982593c7d1b2aca490915877d4659f03f8499553d109135613f",
-    "last_updated": "2026-10-11T21:24:00.000Z",
+    "hash": "cb7337bf260e516d06ed364b86048f1b1c347460b30863c668fac150ee1c06ba",
+    "last_updated": "2026-10-14T15:11:04.000Z",
     "packageCount": 8,
     "packages": {
       "com.z3y.graphlit": {
@@ -197307,8 +197552,8 @@
         "name": "io.github.z3y.glim",
         "displayName": "Glim Lightmapper",
         "description": "Lightmap Baker",
-        "latestVersion": "0.8.0",
-        "versionCount": 13,
+        "latestVersion": "0.9.0",
+        "versionCount": 14,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -197316,6 +197561,16 @@
           "url": "https://github.com/z3y"
         },
         "versions": {
+          "0.9.0": {
+            "version": "0.9.0",
+            "name": "io.github.z3y.glim",
+            "displayName": "Glim Lightmapper",
+            "description": "Lightmap Baker",
+            "url": "https://github.com/z3y/glim/releases/download/v0.9.0/io.github.z3y.glim-0.9.0.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "0.8.0": {
             "version": "0.8.0",
             "name": "io.github.z3y.glim",
@@ -198341,8 +198596,8 @@
     "name": "Poiyomi's VPM Repo",
     "id": "io.github.poiyomi.vpm",
     "author": "Poiyomi",
-    "hash": "0ca042ff3b70b28c758cef4d95f8ed34cb119658be069f9e5e0313078c9e099e",
-    "last_updated": "2026-10-11T12:55:14.000Z",
+    "hash": "13fea645d2f440068c7d1ca7827e07dc03c89cdd5b9bfb514faa4890ae482aa5",
+    "last_updated": "2026-10-14T10:56:12.000Z",
     "packageCount": 3,
     "packages": {
       "com.poiyomi.toon": {
@@ -198908,8 +199163,8 @@
         "name": "com.poiyomi.pro",
         "displayName": "Poiyomi Pro",
         "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
-        "latestVersion": "11.0.27",
-        "versionCount": 45,
+        "latestVersion": "11.0.28",
+        "versionCount": 46,
         "keywords": [
           "shaders",
           "vrchat",
@@ -198923,6 +199178,16 @@
           "url": "https://poiyomi.com"
         },
         "versions": {
+          "11.0.28": {
+            "version": "11.0.28",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://github.com/poiyomi/Poiyomi-Pro-Downloader/releases/download/v11.0.28/com.poiyomi.pro-11.0.28.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
           "11.0.27": {
             "version": "11.0.27",
             "name": "com.poiyomi.pro",
