@@ -14546,9 +14546,9 @@
     "name": "Orbiters VPM",
     "id": "cc.orbiters.vpm",
     "author": "blackorbit",
-    "hash": "60350d9f354ae2141005cbf9e2deabc8571b2b54bcea3606e96e3226ae6b096c",
-    "last_updated": "2026-10-19T02:40:16.000Z",
-    "packageCount": 12,
+    "hash": "8228f96aa3823ecac69fc63686938a7bae4739a21dda51e0791afa10f23ce19e",
+    "last_updated": "2026-10-20T02:36:26.000Z",
+    "packageCount": 11,
     "packages": {
       "orbiters.mcb": {
         "id": "orbiters.mcb",
@@ -14848,239 +14848,6 @@
             "unity": "2022.3",
             "vpmDependencies": {
               "com.vrcfury.vrcfury": ">=1.1241.0"
-            }
-          }
-        }
-      },
-      "ultipaw": {
-        "id": "ultipaw",
-        "name": "ultipaw",
-        "displayName": "UltiPaw",
-        "description": "Wizard to install the UltiPaw on a winterpaw",
-        "latestVersion": "1.5.1",
-        "versionCount": 18,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "url": "orbiters.cc",
-          "name": "blackorbit",
-          "email": "blackorbit.eclaire@gmail.com"
-        },
-        "versions": {
-          "1.5.1": {
-            "version": "1.5.1",
-            "name": "ultipaw",
-            "displayName": "UltiPaw",
-            "description": "Wizard to install the UltiPaw on a winterpaw",
-            "url": "https://github.com/blackorbit1/UltiPaw/releases/download/1.5.1/ultipaw-1.5.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrcfury.vrcfury": ">=1.1241.0"
-            }
-          },
-          "1.5.0": {
-            "version": "1.5.0",
-            "name": "ultipaw",
-            "displayName": "UltiPaw",
-            "description": "Wizard to install the UltiPaw on a winterpaw",
-            "url": "https://github.com/blackorbit1/UltiPaw/releases/download/1.5.0/ultipaw-1.5.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrcfury.vrcfury": ">=1.1241.0"
-            }
-          },
-          "1.4.0": {
-            "version": "1.4.0",
-            "name": "ultipaw",
-            "displayName": "UltiPaw",
-            "description": "Wizard to install the UltiPaw on a winterpaw",
-            "url": "https://github.com/blackorbit1/UltiPaw/releases/download/1.4.0/ultipaw-1.4.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrcfury.vrcfury": ">=1.1241.0"
-            }
-          },
-          "1.3.1": {
-            "version": "1.3.1",
-            "name": "ultipaw",
-            "displayName": "UltiPaw",
-            "description": "Wizard to install the UltiPaw on a winterpaw",
-            "url": "https://github.com/blackorbit1/UltiPaw/releases/download/1.3.1/ultipaw-1.3.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrcfury.vrcfury": ">=1.1241.0"
-            }
-          },
-          "1.3.0": {
-            "version": "1.3.0",
-            "name": "ultipaw",
-            "displayName": "UltiPaw",
-            "description": "Wizard to install the UltiPaw on a winterpaw",
-            "url": "https://github.com/blackorbit1/UltiPaw/releases/download/1.3.0/ultipaw-1.3.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrcfury.vrcfury": ">=1.1241.0"
-            }
-          },
-          "1.2.1": {
-            "version": "1.2.1",
-            "name": "ultipaw",
-            "displayName": "UltiPaw",
-            "description": "Wizard to install the UltiPaw on a winterpaw",
-            "url": "https://github.com/blackorbit1/UltiPaw/releases/download/1.2.1/ultipaw-1.2.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrcfury.vrcfury": ">=1.1241.0"
-            }
-          },
-          "1.2.0": {
-            "version": "1.2.0",
-            "name": "ultipaw",
-            "displayName": "UltiPaw",
-            "description": "Wizard to install the UltiPaw on a winterpaw",
-            "url": "https://github.com/blackorbit1/UltiPaw/releases/download/1.2.0/ultipaw-1.2.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrcfury.vrcfury": ">=1.1241.0"
-            }
-          },
-          "1.1.0": {
-            "version": "1.1.0",
-            "name": "ultipaw",
-            "displayName": "UltiPaw",
-            "description": "Wizard to install the UltiPaw on a winterpaw",
-            "url": "https://github.com/blackorbit1/UltiPaw/releases/download/1.1.0/ultipaw-1.1.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrcfury.vrcfury": ">=1.1241.0"
-            }
-          },
-          "1.0.2": {
-            "version": "1.0.2",
-            "name": "ultipaw",
-            "displayName": "UltiPaw",
-            "description": "Wizard to install the UltiPaw on a winterpaw",
-            "url": "https://github.com/blackorbit1/UltiPaw/releases/download/1.0.2/ultipaw-1.0.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrcfury.vrcfury": ">=1.1241.0"
-            }
-          },
-          "1.0.1": {
-            "version": "1.0.1",
-            "name": "ultipaw",
-            "displayName": "UltiPaw",
-            "description": "Wizard to install the UltiPaw on a winterpaw",
-            "url": "https://github.com/blackorbit1/UltiPaw/releases/download/1.0.1/ultipaw-1.0.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.8.0"
-            }
-          },
-          "1.0.0": {
-            "version": "1.0.0",
-            "name": "ultipaw",
-            "displayName": "UltiPaw",
-            "description": "Wizard to install the UltiPaw on a winterpaw",
-            "url": "https://github.com/blackorbit1/UltiPaw/releases/download/1.0.0/ultipaw-1.0.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.8.0"
-            }
-          },
-          "0.0.7": {
-            "version": "0.0.7",
-            "name": "ultipaw",
-            "displayName": "UltiPaw",
-            "description": "Wizard to install the UltiPaw on a winterpaw",
-            "url": "https://github.com/blackorbit1/UltiPaw/releases/download/0.0.7/ultipaw-0.0.7.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.8.0"
-            }
-          },
-          "0.0.6": {
-            "version": "0.0.6",
-            "name": "ultipaw",
-            "displayName": "UltiPaw",
-            "description": "Wizard to install the UltiPaw on a winterpaw",
-            "url": "https://github.com/blackorbit1/UltiPaw/releases/download/0.0.6/ultipaw-0.0.6.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.8.0"
-            }
-          },
-          "0.0.5": {
-            "version": "0.0.5",
-            "name": "ultipaw",
-            "displayName": "UltiPaw",
-            "description": "Wizard to install the UltiPaw on a winterpaw",
-            "url": "https://github.com/blackorbit1/UltiPaw/releases/download/0.0.5/ultipaw-0.0.5.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.8.0"
-            }
-          },
-          "0.0.4": {
-            "version": "0.0.4",
-            "name": "ultipaw",
-            "displayName": "UltiPaw",
-            "description": "Wizard to install the UltiPaw on a winterpaw",
-            "url": "https://github.com/blackorbit1/UltiPaw/releases/download/0.0.4/ultipaw-0.0.4.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.8.0"
-            }
-          },
-          "0.0.3": {
-            "version": "0.0.3",
-            "name": "ultipaw",
-            "displayName": "UltiPaw",
-            "description": "Wizard to install the UltiPaw on a winterpaw",
-            "url": "https://github.com/blackorbit1/UltiPaw/releases/download/0.0.3/ultipaw-0.0.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": "3.8.0"
-            }
-          },
-          "0.0.2": {
-            "version": "0.0.2",
-            "name": "ultipaw",
-            "displayName": "UltiPaw",
-            "description": "Wizard to install the UltiPaw on a winterpaw",
-            "url": "https://github.com/blackorbit1/UltiPaw/releases/download/0.0.2/ultipaw-0.0.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": "3.8.0"
-            }
-          },
-          "0.0.1": {
-            "version": "0.0.1",
-            "name": "ultipaw",
-            "displayName": "UltiPaw",
-            "description": "Wizard to install the UltiPaw on a winterpaw",
-            "url": "https://github.com/blackorbit1/UltiPaw/releases/download/0.0.1/ultipaw-0.0.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": "3.8.0"
             }
           }
         }
@@ -19229,7 +18996,7 @@
     "id": "com.chill.vpm",
     "author": "chill",
     "hash": "218dd1fd125e7194ca6c8140e63ca3d013b40ed5b78b42e79e1ff1e1d5cd5b05",
-    "last_updated": "2026-05-21T13:11:02.000Z",
+    "last_updated": "2026-05-21T13:11:01.000Z",
     "packageCount": 1,
     "packages": {
       "com.chill.avatarscope": {
@@ -19766,8 +19533,8 @@
     "name": "CucumberWorks",
     "id": "io.github.cucumberworks.vpm",
     "author": "CucumberWorks",
-    "hash": "1cb0be4b205b076c4a5f9c10a1056b43ae44049fdfdf5fb202bf51807c0d6458",
-    "last_updated": "2026-10-18T13:05:53.000Z",
+    "hash": "e042b091cf5a973ebbd42ab75494f3523ffd02a9782c5df0232f1c8446d43bf9",
+    "last_updated": "2026-10-19T15:00:35.000Z",
     "packageCount": 3,
     "packages": {
       "com.soulflame.vrm-exporter": {
@@ -19776,7 +19543,7 @@
         "displayName": "SoulFlame VRM Exporter",
         "description": "Captures a source avatar's selected Play Mode appearance and exports one self-contained VRM 1.0 3D model.",
         "latestVersion": "0.1.0-beta.1",
-        "versionCount": 24,
+        "versionCount": 25,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -20119,6 +19886,23 @@
             "displayName": "SoulFlame VRM Exporter (VRChat avatar to VRM)",
             "description": "Converts a VRChat avatar into a VRM 1.0 file (or VRM 0.x for apps such as VSeeFace), as it looks in Play Mode. Open it from VRM > SoulFlame VRM Exporter or Tools > CucumberWorks > SoulFlame VRM Exporter.",
             "url": "https://github.com/CucumberWorks/vpm/releases/download/0.6.8/com.soulflame.vrm-exporter-0.6.8.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.unity.mathematics": "1.2.6",
+              "com.unity.modules.animation": "1.0.0",
+              "com.unity.modules.imageconversion": "1.0.0",
+              "com.unity.modules.imgui": "1.0.0",
+              "com.unity.timeline": "1.7.6",
+              "com.unity.ugui": "1.0.0"
+            }
+          },
+          "0.6.9-beta.1": {
+            "version": "0.6.9-beta.1",
+            "name": "com.soulflame.vrm-exporter",
+            "displayName": "SoulFlame VRM Exporter (VRChat avatar to VRM)",
+            "description": "Converts a VRChat avatar into a VRM 1.0 file (or VRM 0.x for apps such as VSeeFace), as it looks in Play Mode. Open it from VRM > SoulFlame VRM Exporter or Tools > CucumberWorks > SoulFlame VRM Exporter.",
+            "url": "https://github.com/CucumberWorks/vpm/releases/download/0.6.9-beta.1/com.soulflame.vrm-exporter-0.6.9-beta.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -20699,8 +20483,8 @@
     "name": "d4rkpl4y3r",
     "id": "io.github.d4rkc0d3r",
     "author": "d4rkpl4y3r",
-    "hash": "d9c3e79b6ff1920a63fbee018f10a1e9ffe1d0caaa0f03f7c9549b0ec1da0dd8",
-    "last_updated": "2026-09-16T15:58:56.000Z",
+    "hash": "9faf9a5b7b48b43729cb1a3b0af6a446e71ae08d72d8bb0045b0d64d68a93197",
+    "last_updated": "2026-10-19T23:01:29.000Z",
     "packageCount": 1,
     "packages": {
       "d4rkpl4y3r.d4rkavataroptimizer": {
@@ -20709,7 +20493,7 @@
         "displayName": "d4rkAvatarOptimizer",
         "description": "An optimizer aiming to reduce mesh & material count and more of VRChat 3.0 avatars.",
         "latestVersion": "2.0.0",
-        "versionCount": 97,
+        "versionCount": 98,
         "keywords": [],
         "unity": "2019.4",
         "author": "d4rkpl4y3r",
@@ -21728,6 +21512,18 @@
             "displayName": "d4rkAvatarOptimizer",
             "description": "An optimizer aiming to reduce mesh & material count and more of VRChat 3.0 avatars.",
             "url": "https://github.com/d4rkc0d3r/d4rkAvatarOptimizer/releases/download/v4.6.0/d4rkpl4y3r.d4rkavataroptimizer-4.6.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.9.0 <4.0.0-a"
+            }
+          },
+          "4.7.0-beta.0": {
+            "version": "4.7.0-beta.0",
+            "name": "d4rkpl4y3r.d4rkavataroptimizer",
+            "displayName": "d4rkAvatarOptimizer",
+            "description": "An optimizer aiming to reduce mesh & material count and more of VRChat 3.0 avatars.",
+            "url": "https://github.com/d4rkc0d3r/d4rkAvatarOptimizer/releases/download/v4.7.0-beta.0/d4rkpl4y3r.d4rkavataroptimizer-4.7.0-beta.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -23149,8 +22945,8 @@
     "name": "DocMe Tools",
     "id": "com.docme.listing",
     "author": "DocMe",
-    "hash": "eee9bcbe821a79daa10c12f51efe16d3d77273517904cf9a53f7efa395b6a270",
-    "last_updated": "2026-10-18T08:50:32.000Z",
+    "hash": "1956c7337eb403cfca60d9c00a25581b8fbb6f137d40810ec1ab8c1e93a44494",
+    "last_updated": "2026-10-19T19:33:32.000Z",
     "packageCount": 3,
     "packages": {
       "com.docme.eye-installer": {
@@ -23327,8 +23123,8 @@
         "name": "dev.docme.avatar-doctor",
         "displayName": "DocMe AvatarDoc",
         "description": "Toggles, radials, submenus and triggers for VRChat avatars, built at upload time through NDMF.",
-        "latestVersion": "0.4.0",
-        "versionCount": 2,
+        "latestVersion": "0.4.1",
+        "versionCount": 3,
         "keywords": [
           "vrchat",
           "avatar",
@@ -23344,6 +23140,19 @@
           "url": "https://github.com/DocMeVR"
         },
         "versions": {
+          "0.4.1": {
+            "version": "0.4.1",
+            "name": "dev.docme.avatar-doctor",
+            "displayName": "DocMe AvatarDoc",
+            "description": "Toggles, radials, submenus and triggers for VRChat avatars, built at upload time through NDMF.",
+            "url": "https://github.com/DocMeVR/AvatarDoc/releases/download/0.4.1/dev.docme.avatar-doctor-0.4.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.14.1",
+              "com.vrchat.avatars": ">=3.10.0"
+            }
+          },
           "0.4.0": {
             "version": "0.4.0",
             "name": "dev.docme.avatar-doctor",
@@ -30120,7 +29929,7 @@
     "id": "com.furality.repos.official",
     "author": "Furality, Inc.",
     "hash": "1f058d849e3d6f8fbf1320164b63cd1f1019b43a7993a1adfa11f274f8288e49",
-    "last_updated": "2026-08-08T02:49:10.000Z",
+    "last_updated": "2026-08-08T02:49:09.000Z",
     "packageCount": 3,
     "packages": {
       "com.furality.sylvashader": {
@@ -31253,9 +31062,9 @@
     "name": "JanSharp Packages",
     "id": "com.jansharp.main",
     "author": "JanSharp",
-    "hash": "70a4ec81e0c72d862a268a0c0c9b17e1198681057590737ab16b22548f714a5f",
+    "hash": "4496eb8fafa304316aa6260c38b74efc8e3227fcdd912d40e5cb9cb5d4823e41",
     "last_updated": "2026-08-31T03:27:37.057Z",
-    "packageCount": 14,
+    "packageCount": 15,
     "packages": {
       "com.jansharp.action-activator-system": {
         "id": "com.jansharp.action-activator-system",
@@ -31510,7 +31319,7 @@
         "displayName": "JanSharp Common",
         "description": "Utilities used and shared between several of my packages.",
         "latestVersion": "0.1.0",
-        "versionCount": 23,
+        "versionCount": 24,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -31791,6 +31600,18 @@
             "displayName": "JanSharp Common",
             "description": "Utilities used and shared between several of my packages.",
             "url": "https://github.com/JanSharp/VRCJanSharpCommon/releases/download/v1.4.2/com.jansharp.common.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.6.x"
+            }
+          },
+          "1.5.0": {
+            "version": "1.5.0",
+            "name": "com.jansharp.common",
+            "displayName": "JanSharp Common",
+            "description": "Utilities used and shared between several of my packages.",
+            "url": "https://github.com/JanSharp/VRCJanSharpCommon/releases/download/v1.5.0/com.jansharp.common.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -32184,7 +32005,7 @@
         "displayName": "Lockstep",
         "description": "Lockstep networking (at least similar) infrastructure for UdonSharp.",
         "latestVersion": "1.0.0",
-        "versionCount": 6,
+        "versionCount": 7,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -32269,6 +32090,20 @@
             "displayName": "Lockstep",
             "description": "Lockstep networking (at least similar) infrastructure for UdonSharp.",
             "url": "https://github.com/JanSharp/VRCLockstep/releases/download/v1.1.2/com.jansharp.lockstep.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.7.4",
+              "com.jansharp.common": ">=1.4.0",
+              "com.jansharp.generic-value-editor": ">=1.0.0"
+            }
+          },
+          "1.1.3": {
+            "version": "1.1.3",
+            "name": "com.jansharp.lockstep",
+            "displayName": "Lockstep",
+            "description": "Lockstep networking (at least similar) infrastructure for UdonSharp.",
+            "url": "https://github.com/JanSharp/VRCLockstep/releases/download/v1.1.3/com.jansharp.lockstep.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -32652,6 +32487,37 @@
             "vpmDependencies": {
               "com.vrchat.worlds": "^3.4.x",
               "com.jansharp.common": ">=1.4.0"
+            }
+          }
+        }
+      },
+      "com.jansharp.player-data": {
+        "id": "com.jansharp.player-data",
+        "name": "com.jansharp.player-data",
+        "displayName": "Player Data",
+        "description": "A library for systems to keep track of player associated data.",
+        "latestVersion": "1.0.0",
+        "versionCount": 1,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "JanSharp",
+          "email": "steinmeister36@gmail.com",
+          "url": "https://jansharp.github.io"
+        },
+        "versions": {
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.jansharp.player-data",
+            "displayName": "Player Data",
+            "description": "A library for systems to keep track of player associated data.",
+            "url": "https://github.com/JanSharp/VRCPlayerData/releases/download/v1.0.0/com.jansharp.player-data.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.6.x",
+              "com.jansharp.common": ">=1.4.0",
+              "com.jansharp.lockstep": ">=1.1.0"
             }
           }
         }
@@ -33813,8 +33679,8 @@
     "name": "Synthos VRC Packages",
     "id": "com.synthos.packages",
     "author": "Synthos",
-    "hash": "198e52a184df29adafb5852427e57bbe3f079e5ab41e17e88230e32099171ae2",
-    "last_updated": "2026-10-19T03:03:57.000Z",
+    "hash": "ed60150dc4ec24cd6efb7642f493cc808a9f98f87a72bdfb334306820fedff95",
+    "last_updated": "2026-10-20T03:13:05.000Z",
     "packageCount": 7,
     "packages": {
       "com.synthos.scene-optimizer": {
@@ -34474,8 +34340,8 @@
         "name": "com.synthos.frame-debugger",
         "displayName": "Synthos Frame Debugger Exporter",
         "description": "Exports Unity Frame Debugger events, draw calls, shader properties, and batching breakdowns to structured JSON for in-depth graphics profiling and diagnostics.",
-        "latestVersion": "1.0.1",
-        "versionCount": 2,
+        "latestVersion": "1.0.2-beta.1",
+        "versionCount": 3,
         "keywords": [
           "vrchat",
           "frame-debugger",
@@ -34491,6 +34357,16 @@
           "url": "https://github.com/GRIMREAPER35487"
         },
         "versions": {
+          "1.0.2-beta.1": {
+            "version": "1.0.2-beta.1",
+            "name": "com.synthos.frame-debugger",
+            "displayName": "Synthos Frame Debugger Exporter",
+            "description": "Exports Unity Frame Debugger events, draw calls, shader properties, and batching breakdowns to structured JSON for in-depth graphics profiling and diagnostics.",
+            "url": "https://github.com/GRIMREAPER35487/SynFrameDebugger/releases/download/v1.0.2-beta.1/com.synthos.frame-debugger-1.0.2-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.0.1": {
             "version": "1.0.1",
             "name": "com.synthos.frame-debugger",
@@ -37183,8 +37059,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "90d4d42ef1ac6be46d58c7ef7c23ab775d255e86e302c8897490a1f34e67e2d4",
-    "last_updated": "2026-10-18T21:52:28.000Z",
+    "hash": "15bb6c3c69d8b2d31927abedcd67d361127a6c3122365c9ea8b208ab859ab8e4",
+    "last_updated": "2026-10-20T02:36:55.000Z",
     "packageCount": 10,
     "packages": {
       "com.poiyomi.pro": {
@@ -37192,8 +37068,8 @@
         "name": "com.poiyomi.pro",
         "displayName": "Poiyomi Pro",
         "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
-        "latestVersion": "11.0.29",
-        "versionCount": 38,
+        "latestVersion": "11.0.33",
+        "versionCount": 42,
         "keywords": [
           "shaders",
           "vrchat",
@@ -37207,6 +37083,46 @@
           "url": "https://poiyomi.com"
         },
         "versions": {
+          "11.0.33": {
+            "version": "11.0.33",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.33/c7831c13b0db382063d7a97c1a998348b168a17f87ce65558ebf8dd766cc119b",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.32": {
+            "version": "11.0.32",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.32/4f8bde26af7017cbcc649ae79b015e21fe58f2b42fcfa098866eef72b27aa189",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.31": {
+            "version": "11.0.31",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.31/2078d3719dbbc98e3416c4aa6a6ec4458ed377c5ebb640ed27b351ef3c701c9e",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.30": {
+            "version": "11.0.30",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.30/d0c1cb523219cb9611956e55464079702a815feaa72f1b22a4d751e7699f31b4",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
           "11.0.29": {
             "version": "11.0.29",
             "name": "com.poiyomi.pro",
@@ -43944,7 +43860,7 @@
     "id": "io.github.helpinghandsvr.vpm",
     "author": "Helping Hands",
     "hash": "d3cba140edcf3cb5c17c4b6034085a4238c0dbbd2ce98b5f097b608968bff8fb",
-    "last_updated": "2026-07-03T13:20:29.000Z",
+    "last_updated": "2026-07-03T13:20:30.000Z",
     "packageCount": 2,
     "packages": {
       "io.github.helpinghandsvr.helpinghands-vrchat-avatar-accessories": {
@@ -46072,7 +45988,7 @@
     "id": "cat.hisa.vpm",
     "author": "HisaCat",
     "hash": "164e0ed610f0a593fb9eb5867230becff0831ebe47d88f25397692d3bbae92c4",
-    "last_updated": "2026-07-03T05:26:13.000Z",
+    "last_updated": "2026-07-03T05:26:12.000Z",
     "packageCount": 3,
     "packages": {
       "cat.hisa.asset-patcher": {
@@ -46804,7 +46720,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "dc975d1397ce107372949311ebff9c87b2475ea8a0827d7b3c6c9caa9a314034",
-    "last_updated": "2026-10-18T14:14:24.000Z",
+    "last_updated": "2026-10-19T09:00:05.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -48295,7 +48211,7 @@
     "id": "dev.jetees.vpm-listing",
     "author": "JeTeeS",
     "hash": "c43d1d46596697e66705b99d7740a062daf269bacdf077d0810963cb05d466da",
-    "last_updated": "2024-05-22T15:17:51.000Z",
+    "last_updated": "2024-05-22T15:17:52.000Z",
     "packageCount": 1,
     "packages": {
       "dev.jetees.memoryoptimizer": {
@@ -48755,7 +48671,7 @@
     "id": "dev.kaefibot.listing",
     "author": "WoweePaw",
     "hash": "0f954512e7a69a442d27394f918fc68614873d3db3706347e1e36e0acde01244",
-    "last_updated": "2026-07-05T15:03:29.000Z",
+    "last_updated": "2026-07-05T15:03:28.000Z",
     "packageCount": 1,
     "packages": {
       "dev.kaefibot.kaefibot-controller": {
@@ -56346,7 +56262,7 @@
     "id": "com.kie.vpm",
     "author": "Kie",
     "hash": "9c720b21a0d472446cbcefecd3ffddfe48df0b160a1cc2d716f8020dfadddb34",
-    "last_updated": "2026-10-18T17:52:54.000Z",
+    "last_updated": "2026-10-19T20:25:17.000Z",
     "packageCount": 3,
     "packages": {
       "com.kie.kie-mergeable-toggle": {
@@ -56588,7 +56504,7 @@
     "id": "com.kikurage1989.utilsscript",
     "author": "kikurage1989_",
     "hash": "a479bbbb44186c8db52473fa68813010d0cde6afd082f97f0ee93a79ee10ca50",
-    "last_updated": "2026-07-30T11:03:57.000Z",
+    "last_updated": "2026-07-30T11:03:58.000Z",
     "packageCount": 2,
     "packages": {
       "com.kikurage1989.utilsscript": {
@@ -63118,7 +63034,7 @@
     "id": "com.lightbulb.vpm",
     "author": "Lightbulb",
     "hash": "a29453938b874b0a8a30c0d1d6faeda76d6a381faf1f96b276ba444f8e05a3de",
-    "last_updated": "2026-10-19T01:16:39.000Z",
+    "last_updated": "2026-10-19T23:42:02.000Z",
     "packageCount": 1,
     "packages": {
       "com.lightbulb.world-tools": {
@@ -63582,8 +63498,8 @@
     "name": "lilxyzw",
     "id": "io.github.lilxyzw.vpm",
     "author": "lilxyzw",
-    "hash": "9f52098c4629ffaebeec89fe57505d365216c487b08133adb34d9eefe23e915c",
-    "last_updated": "2026-10-04T14:44:50.000Z",
+    "hash": "5c447935c41b9d52960f725fba17b65a86ea8ee871ed296af13fcd5f2d6ff675",
+    "last_updated": "2026-10-19T07:36:45.000Z",
     "packageCount": 11,
     "packages": {
       "jp.lilxyzw.liltoon": {
@@ -63591,8 +63507,8 @@
         "name": "jp.lilxyzw.liltoon",
         "displayName": "lilToon",
         "description": "Feature-rich toon shader.",
-        "latestVersion": "2.3.4",
-        "versionCount": 41,
+        "latestVersion": "2.4.0",
+        "versionCount": 42,
         "keywords": [
           "Toon",
           "Shader",
@@ -63601,6 +63517,16 @@
         "unity": "2022.3",
         "author": "lilxyzw",
         "versions": {
+          "2.4.0": {
+            "version": "2.4.0",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/2.4.0/jp.lilxyzw.liltoon-2.4.0.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "2.3.4": {
             "version": "2.3.4",
             "name": "jp.lilxyzw.liltoon",
@@ -66215,7 +66141,7 @@
     "id": "com.mame8.vpm",
     "author": "mame8",
     "hash": "880c4bc843e71444652593ac77a1a92bd04b01453281fbe2f51c3cd1ea8bf95a",
-    "last_updated": "2026-07-02T19:27:30.000Z",
+    "last_updated": "2026-07-02T19:27:29.000Z",
     "packageCount": 3,
     "packages": {
       "com.mame8.animator-controller-context": {
@@ -66465,7 +66391,7 @@
     "id": "com.mattshark.openflight.repo",
     "author": "Mattshark89, Happyrobot33",
     "hash": "2659e37b23cc128e891c29a39e5bccda5a60665b585cf2406941eca4e5123520",
-    "last_updated": "2026-10-08T22:49:55.000Z",
+    "last_updated": "2026-10-19T14:04:11.000Z",
     "packageCount": 1,
     "packages": {
       "com.mattshark.openflight": {
@@ -67301,8 +67227,8 @@
     "name": "Mashiro Small Theater",
     "id": "com.mashirotheater.vpm",
     "author": "Mashiro Small Theater",
-    "hash": "3449e34136dcbe0a299c5ee4152ab6eac60f207e4e5e99c537209772f1ff7c44",
-    "last_updated": "2026-10-17T15:43:59.000Z",
+    "hash": "1b22c51f3582ff28b60187bd137dfca47254090adadd39c16137160ceff5b95f",
+    "last_updated": "2026-10-19T12:03:52.000Z",
     "packageCount": 2,
     "packages": {
       "com.mashirotheater.stagetimelinetools": {
@@ -67310,8 +67236,8 @@
         "name": "com.mashirotheater.stagetimelinetools",
         "displayName": "Mashiro Stage Timeline Tools",
         "description": "舞台進行タイムラインの生成（Builder）と実行時の進行管理（Manager）。",
-        "latestVersion": "0.2.3",
-        "versionCount": 4,
+        "latestVersion": "0.2.4",
+        "versionCount": 5,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -67319,6 +67245,19 @@
           "url": "https://github.com/meadowsage/mashirotheater-vpm"
         },
         "versions": {
+          "0.2.4": {
+            "version": "0.2.4",
+            "name": "com.mashirotheater.stagetimelinetools",
+            "displayName": "Mashiro Stage Timeline Tools",
+            "description": "舞台進行タイムラインの生成（Builder）と実行時の進行管理（Manager）。",
+            "url": "https://github.com/meadowsage/mashirotheater-vpm/releases/download/v0.2.4/com.mashirotheater.stagetimelinetools-0.2.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.8.1",
+              "com.mashirotheater.utils": ">=0.2.4"
+            }
+          },
           "0.2.3": {
             "version": "0.2.3",
             "name": "com.mashirotheater.stagetimelinetools",
@@ -67378,8 +67317,8 @@
         "name": "com.mashirotheater.utils",
         "displayName": "Mashiro Utils",
         "description": "AutoDoor などの小規模ギミック、灯体（LightGroup）、各パッケージが共有するシェーダ・フォント・アイコン。",
-        "latestVersion": "0.2.3",
-        "versionCount": 4,
+        "latestVersion": "0.2.4",
+        "versionCount": 5,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -67387,6 +67326,18 @@
           "url": "https://github.com/meadowsage/mashirotheater-vpm"
         },
         "versions": {
+          "0.2.4": {
+            "version": "0.2.4",
+            "name": "com.mashirotheater.utils",
+            "displayName": "Mashiro Utils",
+            "description": "AutoDoor などの小規模ギミック、灯体（LightGroup）、各パッケージが共有するシェーダ・フォント・アイコン。",
+            "url": "https://github.com/meadowsage/mashirotheater-vpm/releases/download/v0.2.4/com.mashirotheater.utils-0.2.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.7.0"
+            }
+          },
           "0.2.3": {
             "version": "0.2.3",
             "name": "com.mashirotheater.utils",
@@ -68647,7 +68598,7 @@
     "name": "Lily's VRChat Tools",
     "id": "dev.mintylabs.vpm",
     "author": "MintLily",
-    "hash": "7d944af7002940605b931a62f2d8da91135ed4c8972384fea2ed7b9c11ab2b0c",
+    "hash": "4406db12b7a3a74a6dc30abdbcf40e42388aa1b1384b138a5b9b317b77e47fda",
     "last_updated": "2026-09-21T03:12:24.308Z",
     "packageCount": 2,
     "packages": {
@@ -68683,7 +68634,7 @@
         "displayName": "Mesh Stats",
         "description": "Gives you various mesh information displayed in your scene window",
         "latestVersion": "1.0.0",
-        "versionCount": 1,
+        "versionCount": 2,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -68700,6 +68651,16 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {}
+          },
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "dev.mintylabs.sceneviewstatisticdisplay",
+            "displayName": "Mesh Stats",
+            "description": "Gives you various mesh information displayed in your scene window",
+            "url": "https://github.com/Minty-Labs/SceneViewStatisticDisplay/releases/download/1.1.0/SceneViewStatisticDisplay-1.1.0-release.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
           }
         }
       }
@@ -68710,83 +68671,17 @@
     "name": "VR Vlog Packages",
     "id": "com.vrvlog.packages",
     "author": "VR Vlog",
-    "hash": "f8a1f2db965e0507f3d9935107713ca5de1af0163bbc1efacf1329224ef110fd",
-    "last_updated": "2026-10-14T05:33:19.000Z",
+    "hash": "4e49d012fa805a5c9897d1022f908d77e8e8c9724088405d1b0cca5ae99f193b",
+    "last_updated": "2026-10-20T01:06:46.000Z",
     "packageCount": 3,
     "packages": {
-      "com.vrmc.gltf": {
-        "id": "com.vrmc.gltf",
-        "name": "com.vrmc.gltf",
-        "displayName": "UniGLTF",
-        "description": "GLTF importer and exporter",
-        "latestVersion": "0.131.0",
-        "versionCount": 1,
-        "keywords": [
-          "gltf"
-        ],
-        "unity": "2021.3",
-        "author": {
-          "name": "VRM Consortium"
-        },
-        "versions": {
-          "0.131.0": {
-            "version": "0.131.0",
-            "name": "com.vrmc.gltf",
-            "displayName": "UniGLTF",
-            "description": "GLTF importer and exporter",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.15/com.vrmc.gltf-0.131.0.zip",
-            "zipSha256": null,
-            "unity": "2021.3",
-            "vpmDependencies": {
-              "com.unity.modules.animation": "1.0.0",
-              "com.unity.modules.imgui": "1.0.0",
-              "com.unity.modules.imageconversion": "1.0.0",
-              "com.unity.test-framework": "1.4.6",
-              "com.unity.mathematics": "1.2.6"
-            }
-          }
-        }
-      },
-      "com.vrmc.vrm": {
-        "id": "com.vrmc.vrm",
-        "name": "com.vrmc.vrm",
-        "displayName": "VRM-1.0",
-        "description": "VRM-1.0 importer",
-        "latestVersion": "0.131.0",
-        "versionCount": 1,
-        "keywords": [
-          "vrm",
-          "importer",
-          "avatar",
-          "vr"
-        ],
-        "unity": "2021.3",
-        "author": {
-          "name": "VRM Consortium"
-        },
-        "versions": {
-          "0.131.0": {
-            "version": "0.131.0",
-            "name": "com.vrmc.vrm",
-            "displayName": "VRM-1.0",
-            "description": "VRM-1.0 importer",
-            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.15/com.vrmc.vrm-0.131.0.zip",
-            "zipSha256": null,
-            "unity": "2021.3",
-            "vpmDependencies": {
-              "com.unity.timeline": "1.7.6",
-              "com.vrmc.gltf": "0.131.0"
-            }
-          }
-        }
-      },
       "com.vrvlog.liltoon-vrm-exporter": {
         "id": "com.vrvlog.liltoon-vrm-exporter",
         "name": "com.vrvlog.liltoon-vrm-exporter",
         "displayName": "VR Vlog lilToon VRM Exporter",
         "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-        "latestVersion": "0.11.15",
-        "versionCount": 64,
+        "latestVersion": "0.12.0-beta.1",
+        "versionCount": 65,
         "keywords": [
           "vrm",
           "liltoon",
@@ -68798,6 +68693,19 @@
           "name": "VR Vlog"
         },
         "versions": {
+          "0.12.0-beta.1": {
+            "version": "0.12.0-beta.1",
+            "name": "com.vrvlog.liltoon-vrm-exporter",
+            "displayName": "VR Vlog lilToon VRM Exporter",
+            "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.12.0-beta.1/com.vrvlog.liltoon-vrm-exporter-0.12.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrmc.gltf": "0.131.x",
+              "com.vrmc.vrm": "0.131.x"
+            }
+          },
           "0.11.15": {
             "version": "0.11.15",
             "name": "com.vrvlog.liltoon-vrm-exporter",
@@ -69628,6 +69536,72 @@
             "vpmDependencies": {
               "com.vrmc.gltf": "0.131.x",
               "com.vrmc.vrm": "0.131.x"
+            }
+          }
+        }
+      },
+      "com.vrmc.gltf": {
+        "id": "com.vrmc.gltf",
+        "name": "com.vrmc.gltf",
+        "displayName": "UniGLTF",
+        "description": "GLTF importer and exporter",
+        "latestVersion": "0.131.0",
+        "versionCount": 1,
+        "keywords": [
+          "gltf"
+        ],
+        "unity": "2021.3",
+        "author": {
+          "name": "VRM Consortium"
+        },
+        "versions": {
+          "0.131.0": {
+            "version": "0.131.0",
+            "name": "com.vrmc.gltf",
+            "displayName": "UniGLTF",
+            "description": "GLTF importer and exporter",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.15/com.vrmc.gltf-0.131.0.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {
+              "com.unity.modules.animation": "1.0.0",
+              "com.unity.modules.imgui": "1.0.0",
+              "com.unity.modules.imageconversion": "1.0.0",
+              "com.unity.test-framework": "1.4.6",
+              "com.unity.mathematics": "1.2.6"
+            }
+          }
+        }
+      },
+      "com.vrmc.vrm": {
+        "id": "com.vrmc.vrm",
+        "name": "com.vrmc.vrm",
+        "displayName": "VRM-1.0",
+        "description": "VRM-1.0 importer",
+        "latestVersion": "0.131.0",
+        "versionCount": 1,
+        "keywords": [
+          "vrm",
+          "importer",
+          "avatar",
+          "vr"
+        ],
+        "unity": "2021.3",
+        "author": {
+          "name": "VRM Consortium"
+        },
+        "versions": {
+          "0.131.0": {
+            "version": "0.131.0",
+            "name": "com.vrmc.vrm",
+            "displayName": "VRM-1.0",
+            "description": "VRM-1.0 importer",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.11.15/com.vrmc.vrm-0.131.0.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {
+              "com.unity.timeline": "1.7.6",
+              "com.vrmc.gltf": "0.131.0"
             }
           }
         }
@@ -72725,7 +72699,7 @@
     "id": "com.nickel-jp.repos.avatar-recovery",
     "author": "Nickel-JP",
     "hash": "7a4e690032152bbf6474cec5424a906316aae0589f38aa4a0bb4a72fb287339c",
-    "last_updated": "2026-10-19T00:31:19.000Z",
+    "last_updated": "2026-10-19T12:15:44.000Z",
     "packageCount": 1,
     "packages": {
       "com.nickel-jp.avatar-recovery": {
@@ -73181,7 +73155,7 @@
     "id": "com.njsgdd10086.vpm-repo",
     "author": "ATRI_NAIXU",
     "hash": "8c8207e113b16232f81fff880d75af6cd0c4e23988e1aaebb74f409fea513be8",
-    "last_updated": "2026-10-19T01:35:10.000Z",
+    "last_updated": "2026-10-20T02:07:02.000Z",
     "packageCount": 3,
     "packages": {
       "com.atrinaxu.nontoon.lightlimit": {
@@ -77364,7 +77338,7 @@
     "id": "dev.omelette_ak.vpm",
     "author": "omeletteak",
     "hash": "87cd6506aa825e26b64761abbbe030e0e11ea7ac963a055d927af38e95a30b11",
-    "last_updated": "2026-06-23T11:45:38.000Z",
+    "last_updated": "2026-06-23T11:45:39.000Z",
     "packageCount": 1,
     "packages": {
       "dev.omelette_ak.vrcloth-declipper": {
@@ -89598,7 +89572,7 @@
     "id": "dev.raspichu.vpm",
     "author": "Pichu",
     "hash": "9a2f82e471fcf06456f855e8c746d6e95e053484b4737bc9a83a7c2fe7bd6b32",
-    "last_updated": "2026-09-07T15:01:36.000Z",
+    "last_updated": "2026-09-07T15:01:35.000Z",
     "packageCount": 2,
     "packages": {
       "dev.raspichu.inspector-enhancements": {
@@ -96996,7 +96970,7 @@
     "id": "com.mitsuboshi-studio.vpm",
     "author": "Mitsuboshi_Studio",
     "hash": "52cde1f130302215e50bd10fbf17761cac4d336a632db50118aa96eb79cfb767",
-    "last_updated": "2026-10-19T01:19:02.000Z",
+    "last_updated": "2026-10-20T00:21:35.000Z",
     "packageCount": 8,
     "packages": {
       "com.mitsuboshi-studio.unity-power-rename": {
@@ -97243,7 +97217,7 @@
     "id": "dev.redline-team.redlinelist",
     "author": "RozeThorns",
     "hash": "8c61e41bc845ad48ac8b2df4fbc0df5b38f713805c599141762b5c54f4e92f8c",
-    "last_updated": "2026-10-19T01:59:17.000Z",
+    "last_updated": "2026-10-20T02:17:04.000Z",
     "packageCount": 5,
     "packages": {
       "dev.redline-team.rpm": {
@@ -111713,8 +111687,8 @@
     "name": "TpLab",
     "id": "io.github.tp-jp.vpm",
     "author": "tp.jp",
-    "hash": "1ab4251a588f025d88a68853296e172ed62c1d0616755ee0733beec0dbbe5f47",
-    "last_updated": "2026-10-18T16:10:08.000Z",
+    "hash": "810772f93246e806b34ff780a93083d010bbc81994ec7ba1d78dbf97a84c1391",
+    "last_updated": "2026-10-19T14:19:06.000Z",
     "packageCount": 11,
     "packages": {
       "com.tp.jp.iwa-sync3-color-changer": {
@@ -112410,8 +112384,8 @@
         "name": "com.tplab.flux.fx",
         "displayName": "FluxFX",
         "description": "GPU particle and visual effects framework powered by Flux.",
-        "latestVersion": "0.0.11",
-        "versionCount": 11,
+        "latestVersion": "0.0.12",
+        "versionCount": 12,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -112419,6 +112393,20 @@
           "url": "https://github.com/tp-jp"
         },
         "versions": {
+          "0.0.12": {
+            "version": "0.0.12",
+            "name": "com.tplab.flux.fx",
+            "displayName": "FluxFX",
+            "description": "GPU particle and visual effects framework powered by Flux.",
+            "url": "https://github.com/tp-jp/FluxFX/releases/download/0.0.12/com.tplab.flux.fx-0.0.12.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.5",
+              "com.tplab.sceneflow": "^2.1.0",
+              "com.tplab.flux": "^0.0.4"
+            }
+          },
           "0.0.11": {
             "version": "0.0.11",
             "name": "com.tplab.flux.fx",
@@ -115073,8 +115061,8 @@
     "name": "Pawlygon VCC",
     "id": "net.pawlygon.vcc-packages",
     "author": "Pawlygon",
-    "hash": "ded329931925c7205e5b3fefb0c483295fc6f7d52ac06ea22660cd3d3f4e4294",
-    "last_updated": "2026-10-04T21:34:42.000Z",
+    "hash": "85e5261f756e120bfec7eac345404fb87774158c2cc87a47e5c5100ced63a021",
+    "last_updated": "2026-10-19T23:08:56.000Z",
     "packageCount": 2,
     "packages": {
       "net.pawlygon.vrc-facetracking": {
@@ -115083,7 +115071,7 @@
         "displayName": "Pawlygon - VRC Facetracking",
         "description": "Template to be used on models with Unified Expressions Face Tracking",
         "latestVersion": "1.0.0",
-        "versionCount": 33,
+        "versionCount": 35,
         "keywords": [
           "vrchat",
           "facetracking",
@@ -115425,6 +115413,30 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {}
+          },
+          "2.0.0-beta.4": {
+            "version": "2.0.0-beta.4",
+            "name": "net.pawlygon.vrc-facetracking",
+            "displayName": "Pawlygon - VRC Facetracking",
+            "description": "Non-destructive VRChat native face tracking for avatars with Unified Expressions blendshapes.",
+            "url": "https://github.com/PawlygonStudio/VRC-Facetracking/releases/download/2.0.0-beta.4/net.pawlygon.vrc-facetracking-2.0.0-beta.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.6-beta.1"
+            }
+          },
+          "2.0.0-beta.5": {
+            "version": "2.0.0-beta.5",
+            "name": "net.pawlygon.vrc-facetracking",
+            "displayName": "Pawlygon - VRC Facetracking",
+            "description": "Non-destructive VRChat native face tracking for avatars with Unified Expressions blendshapes.",
+            "url": "https://github.com/PawlygonStudio/VRC-Facetracking/releases/download/2.0.0-beta.5/net.pawlygon.vrc-facetracking-2.0.0-beta.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.6-beta.1"
+            }
           }
         }
       },
@@ -115546,7 +115558,7 @@
     "id": "co.raphii.vpm-listing",
     "author": "Raphiiko",
     "hash": "13d7c0741bdb67306d4706066396ddccd4188238b4335f6b126e26cf84767a0b",
-    "last_updated": "2026-07-03T23:15:31.000Z",
+    "last_updated": "2026-07-03T23:15:32.000Z",
     "packageCount": 1,
     "packages": {
       "co.raphii.vrti.avatarmenu": {
@@ -115609,8 +115621,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "d4a47a1571aa2c4bd91e29f12605b176ccbc21cce9365ae97e97c182fee233cb",
-    "last_updated": "2026-10-19T03:07:31.000Z",
+    "hash": "e5818be611cb3fb458e2bdd3df7bb3355722364174ca199b945aa921b00c9993",
+    "last_updated": "2026-10-20T03:16:31.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -115618,14 +115630,34 @@
         "name": "com.vrcfury.vrcfury",
         "displayName": "VRCFury",
         "description": "Non-Destructive Tools for VRChat Avatars",
-        "latestVersion": "1.1434.0",
-        "versionCount": 1416,
+        "latestVersion": "1.1434.1-beta.2",
+        "versionCount": 1418,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "VRCFury"
         },
         "versions": {
+          "1.1434.1-beta.2": {
+            "version": "1.1434.1-beta.2",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1434.1-beta.2",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1434.1-beta.1": {
+            "version": "1.1434.1-beta.1",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1434.1-beta.1",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.1434.0": {
             "version": "1.1434.0",
             "name": "com.vrcfury.vrcfury",
@@ -129128,7 +129160,7 @@
     "id": "com.vixencreations.vixens-toolbox.listing",
     "author": "Vixenlicous",
     "hash": "3924bea2b4426ba7f5b7c8032fb4ce347d6b9766a86f6e27c1ad880806ff0663",
-    "last_updated": "2026-10-18T18:50:23.000Z",
+    "last_updated": "2026-10-19T18:11:22.000Z",
     "packageCount": 1,
     "packages": {
       "com.vixencreations.vixens-toolbox": {
@@ -129829,7 +129861,7 @@
     "id": "io.mekabu.vpm-repository",
     "author": "contact@mekabu.io",
     "hash": "afb531d339483772668bf9b0fbe2f91415a0d37733b4adad67544741ae03cb2e",
-    "last_updated": "2026-10-19T02:56:53.000Z",
+    "last_updated": "2026-10-20T03:12:53.000Z",
     "packageCount": 2,
     "packages": {
       "com.mekabu.blendshape-animation-creator": {
@@ -138858,8 +138890,8 @@
     "name": "BluWizard LABS Repository",
     "id": "net.bluwizard.vpmlist",
     "author": "BluWizard",
-    "hash": "97e550d8e8ff94286c663510b03ffd69a722517669f7a30ca51c2bd30de8a89d",
-    "last_updated": "2026-10-07T06:20:01.000Z",
+    "hash": "979ed6c47aaeb748cb12629234972fb57e41c48bc2dc69c0ed0f74ad09d2534b",
+    "last_updated": "2026-10-20T00:48:02.000Z",
     "packageCount": 7,
     "packages": {
       "net.bluwizard.poipresets": {
@@ -140464,8 +140496,8 @@
         "name": "net.bluwizard.utilities",
         "displayName": "BluWizard LABS - Editor Utilities",
         "description": "Handy utilities that fixes some bugs, some strange behaviors I found in Unity, and some other debugging tools.",
-        "latestVersion": "0.1.4",
-        "versionCount": 4,
+        "latestVersion": "0.2.0",
+        "versionCount": 5,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -140474,6 +140506,16 @@
           "url": "https://vpm.bluwizard.net"
         },
         "versions": {
+          "0.2.0": {
+            "version": "0.2.0",
+            "name": "net.bluwizard.utilities",
+            "displayName": "BluWizard LABS - Editor Utilities",
+            "description": "Handy utilities that fixes some bugs, some strange behaviors I found in Unity, and some other debugging tools.",
+            "url": "https://github.com/BluWizard10/Editor-Utilities/releases/download/0.2.0/net.bluwizard.utilities-0.2.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "0.1.4": {
             "version": "0.1.4",
             "name": "net.bluwizard.utilities",
@@ -142990,8 +143032,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "90d4d42ef1ac6be46d58c7ef7c23ab775d255e86e302c8897490a1f34e67e2d4",
-    "last_updated": "2026-10-18T21:52:28.000Z",
+    "hash": "15bb6c3c69d8b2d31927abedcd67d361127a6c3122365c9ea8b208ab859ab8e4",
+    "last_updated": "2026-10-20T02:36:55.000Z",
     "packageCount": 10,
     "packages": {
       "com.poiyomi.pro": {
@@ -142999,8 +143041,8 @@
         "name": "com.poiyomi.pro",
         "displayName": "Poiyomi Pro",
         "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
-        "latestVersion": "11.0.29",
-        "versionCount": 38,
+        "latestVersion": "11.0.33",
+        "versionCount": 42,
         "keywords": [
           "shaders",
           "vrchat",
@@ -143014,6 +143056,46 @@
           "url": "https://poiyomi.com"
         },
         "versions": {
+          "11.0.33": {
+            "version": "11.0.33",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.33/c7831c13b0db382063d7a97c1a998348b168a17f87ce65558ebf8dd766cc119b",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.32": {
+            "version": "11.0.32",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.32/4f8bde26af7017cbcc649ae79b015e21fe58f2b42fcfa098866eef72b27aa189",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.31": {
+            "version": "11.0.31",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.31/2078d3719dbbc98e3416c4aa6a6ec4458ed377c5ebb640ed27b351ef3c701c9e",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.30": {
+            "version": "11.0.30",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.30/d0c1cb523219cb9611956e55464079702a815feaa72f1b22a4d751e7699f31b4",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
           "11.0.29": {
             "version": "11.0.29",
             "name": "com.poiyomi.pro",
@@ -178227,7 +178309,7 @@
     "id": "dev.sleightly.vpm-listing",
     "author": "JustSleightly",
     "hash": "263ae27864a2063bd3bc8485f328fb428359ed01da756bcbd99d522d153e9c3c",
-    "last_updated": "2026-10-12T04:09:57.000Z",
+    "last_updated": "2026-10-12T04:09:58.000Z",
     "packageCount": 2,
     "packages": {
       "dev.sleightly.clipfocus": {
@@ -178930,7 +179012,7 @@
     "id": "dev.thry.vpm",
     "author": "Thryrallo",
     "hash": "0189583cd590af92f6337bf072cfea3211c6a3ca90738536d8f30bcd5fab82cb",
-    "last_updated": "2024-08-05T22:13:00.000Z",
+    "last_updated": "2024-08-05T22:13:01.000Z",
     "packageCount": 1,
     "packages": {
       "de.thryrallo.vrc.avatar-performance-tools": {
@@ -179807,8 +179889,8 @@
     "name": "WhyKnot Tools",
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
-    "hash": "aec3c675149a4d4eb86f032220d145656286ad2a3b21e4aa057c22865cf79970",
-    "last_updated": "2026-10-18T10:05:20.000Z",
+    "hash": "7ed874d4b7b83c120c13198508587a489520491f6fce75867c172a5725d27c3a",
+    "last_updated": "2026-10-19T11:33:10.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -183030,8 +183112,8 @@
     "name": "Official",
     "id": "com.vrchat.repos.official",
     "author": "VRChat",
-    "hash": "e68da723173d2e6b3eebaaa1ab16da58b00ea91783750d225fee55749a94e4fb",
-    "last_updated": "2026-09-04T17:18:28.000Z",
+    "hash": "e4f2b03815a4b0429882a936b4e177c7bbc8315b2ddbb8ddc914ffc4a8296b54",
+    "last_updated": "2026-10-19T22:03:35.000Z",
     "packageCount": 4,
     "packages": {
       "com.vrchat.worlds": {
@@ -183039,8 +183121,8 @@
         "name": "com.vrchat.worlds",
         "displayName": "VRChat SDK - Worlds",
         "description": "Tools for creating interactive VRChat worlds using Udon",
-        "latestVersion": "3.10.5",
-        "versionCount": 88,
+        "latestVersion": "3.10.6-beta.2",
+        "versionCount": 90,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -183049,6 +183131,30 @@
           "url": "https://github.com/vrchat/packages"
         },
         "versions": {
+          "3.10.6-beta.2": {
+            "version": "3.10.6-beta.2",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.6-beta.2/com.vrchat.worlds-3.10.6-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.6-beta.2"
+            }
+          },
+          "3.10.6-beta.1": {
+            "version": "3.10.6-beta.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.6-beta.1/com.vrchat.worlds-3.10.6-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.6-beta.1"
+            }
+          },
           "3.10.5": {
             "version": "3.10.5",
             "name": "com.vrchat.worlds",
@@ -184112,8 +184218,8 @@
         "name": "com.vrchat.base",
         "displayName": "VRChat SDK - Base",
         "description": "Base for VRChat SDK",
-        "latestVersion": "3.10.5",
-        "versionCount": 92,
+        "latestVersion": "3.10.6-beta.2",
+        "versionCount": 94,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -184122,6 +184228,46 @@
           "url": "https://github.com/vrchat/packages"
         },
         "versions": {
+          "3.10.6-beta.2": {
+            "version": "3.10.6-beta.2",
+            "name": "com.vrchat.base",
+            "displayName": "VRChat SDK - Base",
+            "description": "Base for VRChat SDK",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.6-beta.2/com.vrchat.base-3.10.6-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.unity.burst": "1.8.7",
+              "com.unity.collections": "2.1.4",
+              "com.unity.mathematics": "1.2.6",
+              "com.unity.nuget.newtonsoft-json": "3.2.1",
+              "com.unity.timeline": "1.7.6",
+              "com.unity.xr.management": "4.3.3",
+              "com.unity.xr.oculus": "4.0.0",
+              "com.unity.postprocessing": "3.2.2",
+              "com.unity.ugui": "1.0.0"
+            }
+          },
+          "3.10.6-beta.1": {
+            "version": "3.10.6-beta.1",
+            "name": "com.vrchat.base",
+            "displayName": "VRChat SDK - Base",
+            "description": "Base for VRChat SDK",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.6-beta.1/com.vrchat.base-3.10.6-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.unity.burst": "1.8.7",
+              "com.unity.collections": "2.1.4",
+              "com.unity.mathematics": "1.2.6",
+              "com.unity.nuget.newtonsoft-json": "3.2.1",
+              "com.unity.timeline": "1.7.6",
+              "com.unity.xr.management": "4.3.3",
+              "com.unity.xr.oculus": "4.0.0",
+              "com.unity.postprocessing": "3.2.2",
+              "com.unity.ugui": "1.0.0"
+            }
+          },
           "3.10.5": {
             "version": "3.10.5",
             "name": "com.vrchat.base",
@@ -185762,8 +185908,8 @@
         "name": "com.vrchat.avatars",
         "displayName": "VRChat SDK - Avatars",
         "description": "Our powerful Avatars 3.0 System",
-        "latestVersion": "3.10.5",
-        "versionCount": 89,
+        "latestVersion": "3.10.6-beta.2",
+        "versionCount": 91,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -185772,6 +185918,30 @@
           "url": "https://github.com/vrchat/packages"
         },
         "versions": {
+          "3.10.6-beta.2": {
+            "version": "3.10.6-beta.2",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.6-beta.2/com.vrchat.avatars-3.10.6-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.6-beta.2"
+            }
+          },
+          "3.10.6-beta.1": {
+            "version": "3.10.6-beta.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.6-beta.1/com.vrchat.avatars-3.10.6-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.6-beta.1"
+            }
+          },
           "3.10.5": {
             "version": "3.10.5",
             "name": "com.vrchat.avatars",
@@ -187132,9 +187302,9 @@
     "name": "HierarchyDecorator | VRCLearn",
     "id": "io.github.vrclearn.hierarchydecorator",
     "author": "VRCLearn",
-    "hash": "238d98b7e2583f17d8d6a7cf144143f13c59aaf30a91a2dbaed059171ee74e89",
-    "last_updated": "2026-10-19T02:32:17.000Z",
-    "packageCount": 2,
+    "hash": "cc7c37b083d92d8d0aba58561630af2fb43001df323c4a72e3c17d11fe820f5a",
+    "last_updated": "2026-10-19T04:52:45.000Z",
+    "packageCount": 1,
     "packages": {
       "com.vrclearn.hierarchydecorator": {
         "id": "com.vrclearn.hierarchydecorator",
@@ -187160,36 +187330,6 @@
             "displayName": "HierarchyDecorator",
             "description": "Customize the Unity Hierarchy with headers, component icons, tags, layers and multilingual settings. Independently maintained by VRCLearn.",
             "url": "https://github.com/VRCLearn/HierarchyDecorator/releases/download/1.0.0/com.vrclearn.hierarchydecorator-1.0.0.zip",
-            "zipSha256": null,
-            "unity": "2018.4",
-            "vpmDependencies": {}
-          }
-        }
-      },
-      "com.wooshii.hierarchydecorator": {
-        "id": "com.wooshii.hierarchydecorator",
-        "name": "com.wooshii.hierarchydecorator",
-        "displayName": "HierarchyDecorator",
-        "description": "HierarchyDecorator is an extension for the Unity Hierarchy that enhances its utility.",
-        "latestVersion": "0.12.1",
-        "versionCount": 1,
-        "keywords": [
-          "hierarchy",
-          "editor"
-        ],
-        "unity": "2018.4",
-        "author": {
-          "name": "Wooshii",
-          "email": "wooshiidev@gmail.com",
-          "url": "https://github.com/WooshiiDev/HierarchyDecorator"
-        },
-        "versions": {
-          "0.12.1": {
-            "version": "0.12.1",
-            "name": "com.wooshii.hierarchydecorator",
-            "displayName": "HierarchyDecorator",
-            "description": "HierarchyDecorator is an extension for the Unity Hierarchy that enhances its utility.",
-            "url": "https://github.com/VRCLearn/HierarchyDecorator/releases/download/0.12.1/com.wooshii.hierarchydecorator-0.12.1.zip",
             "zipSha256": null,
             "unity": "2018.4",
             "vpmDependencies": {}
@@ -189044,13 +189184,56 @@
   },
   {
     "url": "https://waya0125.com/vpm",
-    "name": "Waya0125 VPM",
-    "id": "waya0125.com",
+    "name": "waya0125 Package List",
+    "id": "com.waya0125",
     "author": "waya0125@waya0125.com",
-    "hash": null,
+    "hash": "35e4bd158cb01957dee5221de0cc7188cacc11aa43571ef6a972ebc425e10934",
     "last_updated": "2024-07-10T03:49:01.000Z",
-    "packageCount": 0,
-    "packages": {}
+    "packageCount": 1,
+    "packages": {
+      "com.waya0125.screencapture": {
+        "id": "com.waya0125.screencapture",
+        "name": "com.waya0125.screencapture",
+        "displayName": "waya0125 - Screen Capture",
+        "description": "This software is intended to photograph characters.",
+        "latestVersion": "1.0.1",
+        "versionCount": 2,
+        "keywords": [
+          "Screen",
+          "Capture",
+          "Avatar",
+          "waya0125"
+        ],
+        "unity": "2017.1",
+        "author": {
+          "name": "wayamoti2015@waya0125",
+          "email": "wayamoti2015@waya0125.com",
+          "url": "https://misskey.waya0125.com/@waya"
+        },
+        "versions": {
+          "1.0.1": {
+            "version": "1.0.1",
+            "name": "com.waya0125.screencapture",
+            "displayName": "waya0125 - Screen Capture",
+            "description": "This software is intended to photograph characters.",
+            "url": "https://files.waya0125.com/vpm/ScreenCapture/ScreenCapture_1.0.1.zip",
+            "zipSha256": null,
+            "unity": "2017.1",
+            "vpmDependencies": {}
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.waya0125.screencapture",
+            "displayName": "waya0125 - Screen Capture",
+            "description": "This software is intended to photograph characters.",
+            "url": "https://files.waya0125.com/vpm/ScreenCapture/ScreenCapture_1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2017.1",
+            "vpmDependencies": {}
+          }
+        }
+      }
+    }
   },
   {
     "url": "https://whiteflare.github.io/vpm-repos/vpm.json",
@@ -196236,8 +196419,8 @@
     "name": "you5248 VPM Listing",
     "id": "com.you5248.vpm",
     "author": "you5248",
-    "hash": "de97b65eb1c32ab9be9c86dcd3835a84d7def804b37493cf33d94ed5080ff55d",
-    "last_updated": "2026-09-24T20:38:49.000Z",
+    "hash": "35d59dc753511f0625ec2e76a1f1de63505c83bb89a57266eacb9ca0dd25525b",
+    "last_updated": "2026-10-19T16:33:28.000Z",
     "packageCount": 2,
     "packages": {
       "com.you5248.dhk-shaders": {
@@ -196279,15 +196462,28 @@
         "id": "com.you5248.tools",
         "name": "com.you5248.tools",
         "displayName": "you5248 Tools",
-        "description": "VRChatワールド制作用ツール集。LOD生成、メッシュ結合・アトラス化、Quest移植支援、オブジェクトペインタ、シーン→プレハブ一括化などのエディタ拡張と、自動ドア・ピックアップキット・ループテレポート等のUdonギミック、植生・Quest向けシェーダー（Built-in RP用）を含む。",
-        "latestVersion": "1.0.2",
-        "versionCount": 2,
+        "description": "VRChatワールド制作用ツール集。LOD生成、メッシュ結合・アトラス化、Quest移植支援、オブジェクトペインタ、シーン→プレハブ一括化、杭とロープの柵（Simple Rope Fence）などのエディタ拡張と、自動ドア・ピックアップキット・ループテレポート等のUdonギミック、植生・Quest向けシェーダー（Built-in RP用）を含む。",
+        "latestVersion": "1.1.0",
+        "versionCount": 3,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "you5248"
         },
         "versions": {
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "com.you5248.tools",
+            "displayName": "you5248 Tools",
+            "description": "VRChatワールド制作用ツール集。LOD生成、メッシュ結合・アトラス化、Quest移植支援、オブジェクトペインタ、シーン→プレハブ一括化、杭とロープの柵（Simple Rope Fence）などのエディタ拡張と、自動ドア・ピックアップキット・ループテレポート等のUdonギミック、植生・Quest向けシェーダー（Built-in RP用）を含む。",
+            "url": "https://github.com/you5248/you5248-tools/releases/download/v1.1.0/com.you5248.tools-1.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.4",
+              "com.you5248.dhk-shaders": "^1.4.1"
+            }
+          },
           "1.0.2": {
             "version": "1.0.2",
             "name": "com.you5248.tools",
@@ -199901,8 +200097,8 @@
     "name": "Poiyomi's VPM Repo",
     "id": "io.github.poiyomi.vpm",
     "author": "Poiyomi",
-    "hash": "242ff2db2433a40d4735e69f3301b6458574620871bb9527e41f8160ddc9d1d0",
-    "last_updated": "2026-10-18T15:03:38.000Z",
+    "hash": "86c5161d61e85f63bab8d1aa32c79a4adf8f2be102f2629c536476b0edc8142f",
+    "last_updated": "2026-10-19T19:11:29.000Z",
     "packageCount": 3,
     "packages": {
       "com.poiyomi.toon": {
@@ -199910,8 +200106,8 @@
         "name": "com.poiyomi.toon",
         "displayName": "Poiyomi Toon",
         "description": "Feature-rich shaders for Unity and VRChat.",
-        "latestVersion": "10.0.25",
-        "versionCount": 53,
+        "latestVersion": "10.0.26",
+        "versionCount": 54,
         "keywords": [],
         "unity": "2021.3",
         "author": {
@@ -199919,6 +200115,18 @@
           "url": "https://github.com/poiyomi/PoiyomiToonShader"
         },
         "versions": {
+          "10.0.26": {
+            "version": "10.0.26",
+            "name": "com.poiyomi.toon",
+            "displayName": "Poiyomi Toon",
+            "description": "Feature-rich shaders for Unity and VRChat.",
+            "url": "https://github.com/poiyomi/PoiyomiToonShader/releases/download/v10.0.26/com.poiyomi.toon-10.0.26.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {
+              "com.poiyomi.thryeditor": ">=2.74.3"
+            }
+          },
           "10.0.25": {
             "version": "10.0.25",
             "name": "com.poiyomi.toon",
@@ -200468,8 +200676,8 @@
         "name": "com.poiyomi.pro",
         "displayName": "Poiyomi Pro",
         "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
-        "latestVersion": "11.0.31",
-        "versionCount": 49,
+        "latestVersion": "11.0.33",
+        "versionCount": 51,
         "keywords": [
           "shaders",
           "vrchat",
@@ -200483,6 +200691,26 @@
           "url": "https://poiyomi.com"
         },
         "versions": {
+          "11.0.33": {
+            "version": "11.0.33",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://github.com/poiyomi/Poiyomi-Pro-Downloader/releases/download/v11.0.33/com.poiyomi.pro-11.0.33.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
+          "11.0.32": {
+            "version": "11.0.32",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://github.com/poiyomi/Poiyomi-Pro-Downloader/releases/download/v11.0.32/com.poiyomi.pro-11.0.32.zip",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {}
+          },
           "11.0.31": {
             "version": "11.0.31",
             "name": "com.poiyomi.pro",
