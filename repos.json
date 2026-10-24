@@ -11692,7 +11692,7 @@
     "id": "com.awavr.vpm",
     "author": "AwA",
     "hash": "22064f8c95b78ec5892d45b2af7ecbc44a89d9443330c2b63733c4174e56e1f8",
-    "last_updated": "2026-09-19T19:28:39.000Z",
+    "last_updated": "2026-09-19T19:28:38.000Z",
     "packageCount": 11,
     "packages": {
       "com.awavr.core": {
@@ -14560,7 +14560,7 @@
     "id": "cc.orbiters.vpm",
     "author": "blackorbit",
     "hash": "4537c563291fc02c08081ef46ff113329c23a509a4fe0f6e34876d74025f93b0",
-    "last_updated": "2026-10-23T02:39:06.000Z",
+    "last_updated": "2026-10-24T02:35:41.000Z",
     "packageCount": 11,
     "packages": {
       "orbiters.mcb": {
@@ -19128,7 +19128,7 @@
     "id": "com.chill.vpm",
     "author": "chill",
     "hash": "218dd1fd125e7194ca6c8140e63ca3d013b40ed5b78b42e79e1ff1e1d5cd5b05",
-    "last_updated": "2026-05-21T13:11:01.000Z",
+    "last_updated": "2026-05-21T13:11:02.000Z",
     "packageCount": 1,
     "packages": {
       "com.chill.avatarscope": {
@@ -23141,7 +23141,7 @@
     "id": "com.docme.listing",
     "author": "DocMe",
     "hash": "5217d64cb1a89de6c7b3319cff7fac5f3ad96f0744b5240172fac18ac163f11c",
-    "last_updated": "2026-10-22T09:23:56.000Z",
+    "last_updated": "2026-10-23T09:20:37.000Z",
     "packageCount": 3,
     "packages": {
       "com.docme.eye-installer": {
@@ -33945,8 +33945,8 @@
     "name": "Synthos VRC Packages",
     "id": "com.synthos.packages",
     "author": "Synthos",
-    "hash": "386eaed47216cefe2fd8cd04334093c17eade68406edfe92b4009b7c060e5088",
-    "last_updated": "2026-10-23T03:11:27.000Z",
+    "hash": "ec52c08e87aa5f30dbb18f0c1022a9468731d32c6a879ca8189ecbfcefed7a2a",
+    "last_updated": "2026-10-24T03:06:22.000Z",
     "packageCount": 8,
     "packages": {
       "com.synthos.scene-optimizer": {
@@ -35433,14 +35433,38 @@
         "name": "com.synthos.fx-optimizer",
         "displayName": "Synthos FX Optimizer",
         "description": "Merges and cleans up the FX layer of VRChat avatars on upload. Trimmed fork of d4rkAvatarOptimizer by d4rkpl4y3r.",
-        "latestVersion": "1.0.0-beta.5",
-        "versionCount": 5,
+        "latestVersion": "1.0.0-beta.7",
+        "versionCount": 7,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "Synthos"
         },
         "versions": {
+          "1.0.0-beta.7": {
+            "version": "1.0.0-beta.7",
+            "name": "com.synthos.fx-optimizer",
+            "displayName": "Synthos FX Optimizer",
+            "description": "Merges and cleans up the FX layer of VRChat avatars on upload. Trimmed fork of d4rkAvatarOptimizer by d4rkpl4y3r.",
+            "url": "https://github.com/GRIMREAPER35487/Synthos-FX-Optimizer/releases/download/v1.0.0-beta.7/com.synthos.fx-optimizer-1.0.0-beta.7.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.9.0 <4.0.0-a"
+            }
+          },
+          "1.0.0-beta.6": {
+            "version": "1.0.0-beta.6",
+            "name": "com.synthos.fx-optimizer",
+            "displayName": "Synthos FX Optimizer",
+            "description": "Merges and cleans up the FX layer of VRChat avatars on upload. Trimmed fork of d4rkAvatarOptimizer by d4rkpl4y3r.",
+            "url": "https://github.com/GRIMREAPER35487/Synthos-FX-Optimizer/releases/download/v1.0.0-beta.6/com.synthos.fx-optimizer-1.0.0-beta.6.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.9.0 <4.0.0-a"
+            }
+          },
           "1.0.0-beta.5": {
             "version": "1.0.0-beta.5",
             "name": "com.synthos.fx-optimizer",
@@ -37400,8 +37424,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "de1b9b14638406de22dc56761873f783a19eed3b020ee52a50b32d13a359004c",
-    "last_updated": "2026-10-22T16:44:00.000Z",
+    "hash": "10b32560e9df06c54f0f0b991dce3984f434d74e88af9e2d8ecc6b8f328f08f5",
+    "last_updated": "2026-10-23T20:44:37.000Z",
     "packageCount": 10,
     "packages": {
       "com.poiyomi.pro": {
@@ -44221,7 +44245,7 @@
     "id": "io.github.helpinghandsvr.vpm",
     "author": "Helping Hands",
     "hash": "d3cba140edcf3cb5c17c4b6034085a4238c0dbbd2ce98b5f097b608968bff8fb",
-    "last_updated": "2026-07-03T13:20:29.000Z",
+    "last_updated": "2026-07-03T13:20:30.000Z",
     "packageCount": 2,
     "packages": {
       "io.github.helpinghandsvr.helpinghands-vrchat-avatar-accessories": {
@@ -46349,7 +46373,7 @@
     "id": "cat.hisa.vpm",
     "author": "HisaCat",
     "hash": "164e0ed610f0a593fb9eb5867230becff0831ebe47d88f25397692d3bbae92c4",
-    "last_updated": "2026-07-03T05:26:13.000Z",
+    "last_updated": "2026-07-03T05:26:12.000Z",
     "packageCount": 3,
     "packages": {
       "cat.hisa.asset-patcher": {
@@ -46510,7 +46534,7 @@
     "id": "com.github.hkrn",
     "author": "hkrn",
     "hash": "66afe02e940c091d4b955f7a758659dfa28c963b53e571fc1c24147280761b5f",
-    "last_updated": "2026-07-12T08:29:09.000Z",
+    "last_updated": "2026-07-12T08:29:10.000Z",
     "packageCount": 1,
     "packages": {
       "com.github.hkrn.ndmf-vrm-exporter": {
@@ -47081,7 +47105,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "dc975d1397ce107372949311ebff9c87b2475ea8a0827d7b3c6c9caa9a314034",
-    "last_updated": "2026-10-22T08:41:48.000Z",
+    "last_updated": "2026-10-23T18:58:49.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -48572,7 +48596,7 @@
     "id": "dev.jetees.vpm-listing",
     "author": "JeTeeS",
     "hash": "c43d1d46596697e66705b99d7740a062daf269bacdf077d0810963cb05d466da",
-    "last_updated": "2024-05-22T15:17:51.000Z",
+    "last_updated": "2024-05-22T15:17:52.000Z",
     "packageCount": 1,
     "packages": {
       "dev.jetees.memoryoptimizer": {
@@ -61339,8 +61363,8 @@
     "name": "AjisaiFlow",
     "id": "com.ajisaiflow.vpm",
     "author": "AjisaiFlow",
-    "hash": "77073696c83ffdb646b515ba08964368659dfff07914ef31ab5d525bda42408d",
-    "last_updated": "2026-10-22T17:06:25.000Z",
+    "hash": "0f250b2246d6b5d6953a59d233eafd5615facf3a80dca79b6949569b5a24eebb",
+    "last_updated": "2026-10-23T19:39:58.000Z",
     "packageCount": 4,
     "packages": {
       "net.ajisaiflow.anti-ripping": {
@@ -61348,8 +61372,8 @@
         "name": "net.ajisaiflow.anti-ripping",
         "displayName": "Anti-Ripping",
         "description": "VRChatアバターのリッピング対策ツール。NDMFでメッシュとテクスチャの暗号化、ダミーBlendShapeの追加、各種難読化を行います。",
-        "latestVersion": "0.53.0-beta.5",
-        "versionCount": 43,
+        "latestVersion": "0.53.0",
+        "versionCount": 45,
         "keywords": [
           "vrchat",
           "anti-ripping",
@@ -61363,6 +61387,32 @@
           "url": "https://github.com/lighfu"
         },
         "versions": {
+          "0.53.0": {
+            "version": "0.53.0",
+            "name": "net.ajisaiflow.anti-ripping",
+            "displayName": "Anti-Ripping",
+            "description": "VRChatアバターのリッピング対策ツール。NDMFでメッシュとテクスチャの暗号化、ダミーBlendShapeの追加、各種難読化を行います。",
+            "url": "https://github.com/lighfu/vpm/releases/download/anti-ripping-v0.53.0/net.ajisaiflow.anti-ripping-0.53.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.4.0",
+              "nadena.dev.modular-avatar": ">=1.10.0"
+            }
+          },
+          "0.53.0-beta.6": {
+            "version": "0.53.0-beta.6",
+            "name": "net.ajisaiflow.anti-ripping",
+            "displayName": "Anti-Ripping",
+            "description": "VRChatアバターのリッピング対策ツール。NDMFでメッシュとテクスチャの暗号化、ダミーBlendShapeの追加、各種難読化を行います。",
+            "url": "https://github.com/lighfu/vpm/releases/download/anti-ripping-v0.53.0-beta.6/net.ajisaiflow.anti-ripping-0.53.0-beta.6.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.4.0",
+              "nadena.dev.modular-avatar": ">=1.10.0"
+            }
+          },
           "0.53.0-beta.5": {
             "version": "0.53.0-beta.5",
             "name": "net.ajisaiflow.anti-ripping",
@@ -62495,7 +62545,7 @@
         "displayName": "MD3 SDK",
         "description": "Material Design 3 UI Toolkit components for Unity Editor.",
         "latestVersion": "0.7.1",
-        "versionCount": 29,
+        "versionCount": 30,
         "keywords": [
           "material-design",
           "md3",
@@ -62715,6 +62765,16 @@
             "displayName": "MD3 SDK",
             "description": "Material Design 3 UI Toolkit components for Unity Editor.",
             "url": "https://github.com/lighfu/vpm/releases/download/md3toolkit-v0.2.10/net.ajisaiflow.md3sdk-0.2.10.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.9.0": {
+            "version": "0.9.0",
+            "name": "net.ajisaiflow.md3sdk",
+            "displayName": "MD3 SDK",
+            "description": "Material Design 3 UI Toolkit components for Unity Editor.",
+            "url": "https://github.com/lighfu/unity-md3sdk/releases/download/v0.9.0/net.ajisaiflow.md3sdk-0.9.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {}
@@ -63536,7 +63596,7 @@
     "id": "com.lightbulb.vpm",
     "author": "Lightbulb",
     "hash": "a29453938b874b0a8a30c0d1d6faeda76d6a381faf1f96b276ba444f8e05a3de",
-    "last_updated": "2026-10-23T01:31:34.000Z",
+    "last_updated": "2026-10-24T00:42:19.000Z",
     "packageCount": 1,
     "packages": {
       "com.lightbulb.world-tools": {
@@ -69153,8 +69213,8 @@
     "name": "VR Vlog Packages",
     "id": "com.vrvlog.packages",
     "author": "VR Vlog",
-    "hash": "3982773596aa72a182987b186e96ca79a4525f9e68968d48433675012be53235",
-    "last_updated": "2026-10-22T15:20:51.000Z",
+    "hash": "fb7183870634bb7e82426e4ade3404a1448fce6a2bbf3612f37f9f035802f0b8",
+    "last_updated": "2026-10-24T02:24:57.000Z",
     "packageCount": 3,
     "packages": {
       "com.vrvlog.liltoon-vrm-exporter": {
@@ -69162,8 +69222,8 @@
         "name": "com.vrvlog.liltoon-vrm-exporter",
         "displayName": "VR Vlog lilToon VRM Exporter",
         "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-        "latestVersion": "0.12.0-beta.8",
-        "versionCount": 72,
+        "latestVersion": "1.2.0",
+        "versionCount": 77,
         "keywords": [
           "vrm",
           "liltoon",
@@ -69175,6 +69235,56 @@
           "name": "VR Vlog"
         },
         "versions": {
+          "1.2.0": {
+            "version": "1.2.0",
+            "name": "com.vrvlog.liltoon-vrm-exporter",
+            "displayName": "VR Vlog lilToon VRM Exporter",
+            "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v1.2.0/com.vrvlog.liltoon-vrm-exporter-1.2.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "com.vrvlog.liltoon-vrm-exporter",
+            "displayName": "VR Vlog lilToon VRM Exporter",
+            "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v1.1.0/com.vrvlog.liltoon-vrm-exporter-1.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.vrvlog.liltoon-vrm-exporter",
+            "displayName": "VR Vlog lilToon VRM Exporter",
+            "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v1.0.0/com.vrvlog.liltoon-vrm-exporter-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.12.0-beta.9": {
+            "version": "0.12.0-beta.9",
+            "name": "com.vrvlog.liltoon-vrm-exporter",
+            "displayName": "VR Vlog lilToon VRM Exporter",
+            "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.12.0-beta.9/com.vrvlog.liltoon-vrm-exporter-0.12.0-beta.9.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.12.0-beta.10": {
+            "version": "0.12.0-beta.10",
+            "name": "com.vrvlog.liltoon-vrm-exporter",
+            "displayName": "VR Vlog lilToon VRM Exporter",
+            "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v0.12.0-beta.10/com.vrvlog.liltoon-vrm-exporter-0.12.0-beta.10.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "0.12.0-beta.8": {
             "version": "0.12.0-beta.8",
             "name": "com.vrvlog.liltoon-vrm-exporter",
@@ -73749,7 +73859,7 @@
     "id": "com.njsgdd10086.vpm-repo",
     "author": "ATRI_NAIXU",
     "hash": "8c8207e113b16232f81fff880d75af6cd0c4e23988e1aaebb74f409fea513be8",
-    "last_updated": "2026-10-23T01:13:40.000Z",
+    "last_updated": "2026-10-24T01:22:48.000Z",
     "packageCount": 3,
     "packages": {
       "com.atrinaxu.nontoon.lightlimit": {
@@ -77932,7 +78042,7 @@
     "id": "dev.omelette_ak.vpm",
     "author": "omeletteak",
     "hash": "87cd6506aa825e26b64761abbbe030e0e11ea7ac963a055d927af38e95a30b11",
-    "last_updated": "2026-06-23T11:45:38.000Z",
+    "last_updated": "2026-06-23T11:45:39.000Z",
     "packageCount": 1,
     "packages": {
       "dev.omelette_ak.vrcloth-declipper": {
@@ -89136,7 +89246,7 @@
     "id": "com.fracfloor.vpm-listing",
     "author": "raii",
     "hash": "bb8a1fb4b6497e28d58d8f4ed220692da23d2202d1dad6f3725f0921d2c66b57",
-    "last_updated": "2026-07-03T11:55:04.000Z",
+    "last_updated": "2026-07-03T11:55:03.000Z",
     "packageCount": 1,
     "packages": {
       "com.fracfloor.timeline-beat-marker": {
@@ -90166,7 +90276,7 @@
     "id": "dev.raspichu.vpm",
     "author": "Pichu",
     "hash": "9a2f82e471fcf06456f855e8c746d6e95e053484b4737bc9a83a7c2fe7bd6b32",
-    "last_updated": "2026-09-07T15:01:36.000Z",
+    "last_updated": "2026-09-07T15:01:35.000Z",
     "packageCount": 2,
     "packages": {
       "dev.raspichu.inspector-enhancements": {
@@ -97564,7 +97674,7 @@
     "id": "com.mitsuboshi-studio.vpm",
     "author": "Mitsuboshi_Studio",
     "hash": "52cde1f130302215e50bd10fbf17761cac4d336a632db50118aa96eb79cfb767",
-    "last_updated": "2026-10-22T23:23:32.000Z",
+    "last_updated": "2026-10-24T00:46:08.000Z",
     "packageCount": 8,
     "packages": {
       "com.mitsuboshi-studio.unity-power-rename": {
@@ -97811,7 +97921,7 @@
     "id": "dev.redline-team.redlinelist",
     "author": "RozeThorns",
     "hash": "8c61e41bc845ad48ac8b2df4fbc0df5b38f713805c599141762b5c54f4e92f8c",
-    "last_updated": "2026-10-23T02:08:46.000Z",
+    "last_updated": "2026-10-24T02:07:54.000Z",
     "packageCount": 5,
     "packages": {
       "dev.redline-team.rpm": {
@@ -100402,8 +100512,8 @@
     "name": "Shiboneko's VRChat packages",
     "id": "io.github.shiboneko.vrc-packages",
     "author": "Shiboneko",
-    "hash": "ee9fd10d9b8be93a3e473a64865d2611651325be71c97ddd68215ca6b896ffc7",
-    "last_updated": "2026-10-02T21:25:55.000Z",
+    "hash": "b2f2e8a5686aaea51ce2f7ca2d99a3b64eb4922ac0e4a083699488d4868edb14",
+    "last_updated": "2026-10-23T09:37:12.000Z",
     "packageCount": 1,
     "packages": {
       "onl.shibo.avatar-git-sync": {
@@ -100412,7 +100522,7 @@
         "displayName": "Avatar Git Sync",
         "description": "Buttons-only backup and restore of Unity projects to any Git host over SSH.",
         "latestVersion": "0.2.0",
-        "versionCount": 8,
+        "versionCount": 9,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -100495,6 +100605,16 @@
             "displayName": "Avatar Git Sync",
             "description": "Buttons-only backup and restore of Unity projects to any Git host over SSH.",
             "url": "https://github.com/Shiboneko/vrc-packages/releases/download/avatar-git-sync-v0.4.1/onl.shibo.avatar-git-sync-0.4.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.5.0": {
+            "version": "0.5.0",
+            "name": "onl.shibo.avatar-git-sync",
+            "displayName": "Avatar Git Sync",
+            "description": "Buttons-only backup and restore of Unity projects to any Git host over SSH.",
+            "url": "https://github.com/Shiboneko/vrc-packages/releases/download/avatar-git-sync-v0.5.0/onl.shibo.avatar-git-sync-0.5.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {}
@@ -111730,8 +111850,8 @@
     "name": "Fur Grooming Tool Listing",
     "id": "com.furgrooming.tool.listing",
     "author": "ToffelsKater",
-    "hash": "d2438f058b0074e2b48b8aa305b4ed32626aead6eb087adfc7d9dc5e170b2482",
-    "last_updated": "2026-10-22T16:59:58.000Z",
+    "hash": "7c3a46d237a86e103d46ec3c025cd68ba33b52a8f39b2ed04e414f935ef73826",
+    "last_updated": "2026-10-23T14:46:58.000Z",
     "packageCount": 1,
     "packages": {
       "com.furgrooming.tool": {
@@ -111739,8 +111859,8 @@
         "name": "com.furgrooming.tool",
         "displayName": "Fur Grooming Tool",
         "description": "Paint fur direction, length, and presence over a UV layout and export liltoon-ready normal/length/alpha textures. A component on an outfit root grooms the fur out from under that outfit and swaps the result in with its toggle. Editor-only.",
-        "latestVersion": "1.2.1",
-        "versionCount": 8,
+        "latestVersion": "1.2.2",
+        "versionCount": 9,
         "keywords": [
           "liltoon",
           "fur",
@@ -111755,6 +111875,16 @@
           "name": "ToffelsKater"
         },
         "versions": {
+          "1.2.2": {
+            "version": "1.2.2",
+            "name": "com.furgrooming.tool",
+            "displayName": "Fur Grooming Tool",
+            "description": "Paint fur direction, length, and presence over a UV layout and export liltoon-ready normal/length/alpha textures. A component on an outfit root grooms the fur out from under that outfit and swaps the result in with its toggle. Editor-only.",
+            "url": "https://github.com/ToffelsKater/fur-grooming-tool/releases/download/1.2.2/com.furgrooming.tool-1.2.2.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
+          },
           "1.2.1": {
             "version": "1.2.1",
             "name": "com.furgrooming.tool",
@@ -116411,8 +116541,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "bd0e8a66e869c255103acbefba9f09eebff8e3344d22a724584666e14ce8d6a6",
-    "last_updated": "2026-10-23T03:15:45.000Z",
+    "hash": "fd826467147bb497f23434dbd3be04604177946ae773799a386aebf450d5b39c",
+    "last_updated": "2026-10-24T03:09:45.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -116420,14 +116550,64 @@
         "name": "com.vrcfury.vrcfury",
         "displayName": "VRCFury",
         "description": "Non-Destructive Tools for VRChat Avatars",
-        "latestVersion": "1.1434.1-beta.8",
-        "versionCount": 1424,
+        "latestVersion": "1.1434.1-beta.13",
+        "versionCount": 1429,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "VRCFury"
         },
         "versions": {
+          "1.1434.1-beta.13": {
+            "version": "1.1434.1-beta.13",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1434.1-beta.13",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1434.1-beta.12": {
+            "version": "1.1434.1-beta.12",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1434.1-beta.12",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1434.1-beta.11": {
+            "version": "1.1434.1-beta.11",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1434.1-beta.11",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1434.1-beta.10": {
+            "version": "1.1434.1-beta.10",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1434.1-beta.10",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1434.1-beta.9": {
+            "version": "1.1434.1-beta.9",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1434.1-beta.9",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.1434.1-beta.8": {
             "version": "1.1434.1-beta.8",
             "name": "com.vrcfury.vrcfury",
@@ -130009,17 +130189,17 @@
     "name": "Vixens Toolbox",
     "id": "com.vixencreations.vixens-toolbox.listing",
     "author": "Vixenlicous",
-    "hash": "3924bea2b4426ba7f5b7c8032fb4ce347d6b9766a86f6e27c1ad880806ff0663",
-    "last_updated": "2026-10-19T18:11:22.000Z",
-    "packageCount": 1,
+    "hash": "2c41a5095bfcdf372096963e2b75df05bd6dc47828363c682107da4e0fa90d45",
+    "last_updated": "2026-10-24T00:44:31.000Z",
+    "packageCount": 2,
     "packages": {
       "com.vixencreations.vixens-toolbox": {
         "id": "com.vixencreations.vixens-toolbox",
         "name": "com.vixencreations.vixens-toolbox",
         "displayName": "Vixen Tool Box",
         "description": "A Feature-rich suite of Unity Editor tools for VRChat creators, hand-built by VixForge Interactive supporting both Avatars and Worlds with over 4,500 Downloads!",
-        "latestVersion": "2.20.0",
-        "versionCount": 55,
+        "latestVersion": "2.20.2",
+        "versionCount": 57,
         "keywords": [
           "shaders",
           "tools",
@@ -130033,6 +130213,30 @@
           "url": "https://github.com/VixenCreations"
         },
         "versions": {
+          "2.20.2": {
+            "version": "2.20.2",
+            "name": "com.vixencreations.vixens-toolbox",
+            "displayName": "Vixen Tool Box",
+            "description": "A Feature-rich suite of Unity Editor tools for VRChat creators, hand-built by VixForge Interactive supporting both Avatars and Worlds with over 4,500 Downloads!",
+            "url": "https://github.com/VixenCreations/VixenToolBox/releases/download/2.20.2/com.vixen.tools-2.20.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "^3.10.3"
+            }
+          },
+          "2.20.1": {
+            "version": "2.20.1",
+            "name": "com.vixencreations.vixens-toolbox",
+            "displayName": "Vixen Tool Box",
+            "description": "A Feature-rich suite of Unity Editor tools for VRChat creators, hand-built by VixForge Interactive supporting both Avatars and Worlds with over 4,500 Downloads!",
+            "url": "https://github.com/VixenCreations/VixenToolBox/releases/download/2.20.1/com.vixen.tools-2.20.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "^3.10.3"
+            }
+          },
           "2.20.0": {
             "version": "2.20.0",
             "name": "com.vixencreations.vixens-toolbox",
@@ -130702,6 +130906,54 @@
             }
           }
         }
+      },
+      "com.vixencreations.vixforge-shaders": {
+        "id": "com.vixencreations.vixforge-shaders",
+        "name": "com.vixencreations.vixforge-shaders",
+        "displayName": "VixForge Shaders",
+        "description": "All six VixForge shaders: Latex Ultra, Toon, Clothing Pro, Fur Pro, World Surface and World Fur, with the Shader Hub and its tools. This is the previous release; the newest version comes out first on Gumroad. Use either this package or the Gumroad copy in a project, not both.",
+        "latestVersion": "5.6.1",
+        "versionCount": 2,
+        "keywords": [
+          "shaders",
+          "latex",
+          "toon",
+          "fur",
+          "clothing",
+          "world shaders"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "VixenCreations",
+          "email": "Vixenlicious@outlook.com",
+          "url": "https://github.com/VixenCreations"
+        },
+        "versions": {
+          "5.6.1": {
+            "version": "5.6.1",
+            "name": "com.vixencreations.vixforge-shaders",
+            "displayName": "VixForge Shaders",
+            "description": "All six VixForge shaders: Latex Ultra, Toon, Clothing Pro, Fur Pro, World Surface and World Fur, with the Shader Hub and its tools. This is the previous release; the newest version comes out first on Gumroad. Use either this package or the Gumroad copy in a project, not both.",
+            "url": "https://github.com/VixenCreations/VixenToolBox/releases/download/vixforge-shaders-5.6.1/com.vixencreations.vixforge-shaders-5.6.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "^3.7.0"
+            }
+          },
+          "5.6.0": {
+            "version": "5.6.0",
+            "name": "com.vixencreations.vixforge-shaders",
+            "displayName": "VixForge Shaders",
+            "description": "All six VixForge shaders: Latex Ultra, Toon, Clothing Pro, Fur Pro, World Surface and World Fur, with the Shader Hub and its tools. This is the previous release; the newest version comes out first on Gumroad. Use either this package or the Gumroad copy in a project, not both.",
+            "url": "https://github.com/VixenCreations/VixenToolBox/releases/download/vixforge-shaders-5.6.0/com.vixencreations.vixforge-shaders-5.6.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "^3.7.0"
+            }
+          }
+        }
       }
     }
   },
@@ -130711,7 +130963,7 @@
     "id": "io.mekabu.vpm-repository",
     "author": "contact@mekabu.io",
     "hash": "afb531d339483772668bf9b0fbe2f91415a0d37733b4adad67544741ae03cb2e",
-    "last_updated": "2026-10-23T03:08:10.000Z",
+    "last_updated": "2026-10-24T03:10:10.000Z",
     "packageCount": 2,
     "packages": {
       "com.mekabu.blendshape-animation-creator": {
@@ -139752,8 +140004,8 @@
     "name": "BluWizard LABS Repository",
     "id": "net.bluwizard.vpmlist",
     "author": "BluWizard",
-    "hash": "979ed6c47aaeb748cb12629234972fb57e41c48bc2dc69c0ed0f74ad09d2534b",
-    "last_updated": "2026-10-20T00:48:02.000Z",
+    "hash": "f9bc725c37efb5212ac7c8b07534f70cc2482e55ea37b9d369f5066557eca3a9",
+    "last_updated": "2026-10-23T21:26:01.000Z",
     "packageCount": 7,
     "packages": {
       "net.bluwizard.poipresets": {
@@ -140178,8 +140430,8 @@
         "name": "net.bluwizard.hierarchy",
         "displayName": "BluWizard LABS - Enhanced Hierarchy System",
         "description": "Blu's personal editor enhancement system that introduces an improved Hierarchy look for Unity, tailored made for VRChat Creators.",
-        "latestVersion": "1.14.2",
-        "versionCount": 52,
+        "latestVersion": "1.14.3",
+        "versionCount": 53,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -140188,6 +140440,16 @@
           "url": "https://vpm.bluwizard.net"
         },
         "versions": {
+          "1.14.3": {
+            "version": "1.14.3",
+            "name": "net.bluwizard.hierarchy",
+            "displayName": "BluWizard LABS - Enhanced Hierarchy System",
+            "description": "Blu's personal editor enhancement system that introduces an improved Hierarchy look for Unity, tailored made for VRChat Creators.",
+            "url": "https://github.com/BluWizard10/Blu-Hierarchy/releases/download/1.14.3/net.bluwizard.hierarchy-1.14.3.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
+          },
           "1.14.2": {
             "version": "1.14.2",
             "name": "net.bluwizard.hierarchy",
@@ -143894,8 +144156,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "de1b9b14638406de22dc56761873f783a19eed3b020ee52a50b32d13a359004c",
-    "last_updated": "2026-10-22T16:44:00.000Z",
+    "hash": "10b32560e9df06c54f0f0b991dce3984f434d74e88af9e2d8ecc6b8f328f08f5",
+    "last_updated": "2026-10-23T20:44:37.000Z",
     "packageCount": 10,
     "packages": {
       "com.poiyomi.pro": {
@@ -155979,8 +156241,8 @@
     "name": "MimyLab",
     "id": "com.mimylab.vpm",
     "author": "Mimy Quality",
-    "hash": "664a0bb5e13eddff77ef1daa679bb466255e938cfe861f7bf5b7fb04bcf7cde1",
-    "last_updated": "2026-10-13T14:24:44.000Z",
+    "hash": "9f9a3bf0df1a1125980af2fb9cd4d413b0a71a4938673708371cb78c2fc33448",
+    "last_updated": "2026-10-23T03:28:47.000Z",
     "packageCount": 5,
     "packages": {
       "com.mimylab.fukuroudon": {
@@ -155988,8 +156250,8 @@
         "name": "com.mimylab.fukuroudon",
         "displayName": "Fukuro Udon",
         "description": "MimyLab's U# utility pack for VPM.",
-        "latestVersion": "4.0.0-beta.3",
-        "versionCount": 134,
+        "latestVersion": "4.0.0-beta.4",
+        "versionCount": 135,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -155997,6 +156259,19 @@
           "url": "https://github.com/mimyquality"
         },
         "versions": {
+          "4.0.0-beta.4": {
+            "version": "4.0.0-beta.4",
+            "name": "com.mimylab.fukuroudon",
+            "displayName": "Fukuro Udon",
+            "description": "MimyLab's U# utility pack for VPM.",
+            "url": "https://github.com/mimyquality/FukuroUdon/releases/download/4.0.0-beta.4/com.mimylab.fukuroudon-4.0.0-beta.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.5",
+              "net.narazaka.vrchat.tmp-fallback-fonts-jp": ">=1.0.0"
+            }
+          },
           "4.0.0-beta.3": {
             "version": "4.0.0-beta.3",
             "name": "com.mimylab.fukuroudon",
@@ -174170,7 +174445,7 @@
     "id": "jp.pipipigiken.vpm",
     "author": "orange3134",
     "hash": "9e5347f501c89997b8426d982ba2f711f42b6b2b31527445aea5e47fb8ceaa7d",
-    "last_updated": "2026-10-23T01:36:56.000Z",
+    "last_updated": "2026-10-24T01:40:18.000Z",
     "packageCount": 2,
     "packages": {
       "jp.pipipigiken.mpavatar-package": {
@@ -179240,7 +179515,7 @@
     "id": "dev.sleightly.vpm-listing",
     "author": "JustSleightly",
     "hash": "263ae27864a2063bd3bc8485f328fb428359ed01da756bcbd99d522d153e9c3c",
-    "last_updated": "2026-10-12T04:09:57.000Z",
+    "last_updated": "2026-10-12T04:09:58.000Z",
     "packageCount": 2,
     "packages": {
       "dev.sleightly.clipfocus": {
@@ -179953,7 +180228,7 @@
     "id": "dev.thry.vpm",
     "author": "Thryrallo",
     "hash": "0189583cd590af92f6337bf072cfea3211c6a3ca90738536d8f30bcd5fab82cb",
-    "last_updated": "2024-08-05T22:13:00.000Z",
+    "last_updated": "2024-08-05T22:13:01.000Z",
     "packageCount": 1,
     "packages": {
       "de.thryrallo.vrc.avatar-performance-tools": {
@@ -180758,8 +181033,8 @@
     "name": "WhyKnot Tools",
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
-    "hash": "9e439b014dfb9ba6e987fce8d989236a991785da47a25cac8d6656ae935cebdd",
-    "last_updated": "2026-10-22T10:50:22.000Z",
+    "hash": "c3cfeb9980de7a41ea033a63b3e23798b4a44fc61d954b52373bde37242356b2",
+    "last_updated": "2026-10-23T10:42:16.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -183981,1114 +184256,17 @@
     "name": "Official",
     "id": "com.vrchat.repos.official",
     "author": "VRChat",
-    "hash": "e4f2b03815a4b0429882a936b4e177c7bbc8315b2ddbb8ddc914ffc4a8296b54",
-    "last_updated": "2026-10-19T22:03:34.000Z",
+    "hash": "f56680aaeb4866d6de7ebbeae7f20a8ea62ebfe94804d1a1997aa983c2859ecc",
+    "last_updated": "2026-10-23T15:24:04.000Z",
     "packageCount": 4,
     "packages": {
-      "com.vrchat.worlds": {
-        "id": "com.vrchat.worlds",
-        "name": "com.vrchat.worlds",
-        "displayName": "VRChat SDK - Worlds",
-        "description": "Tools for creating interactive VRChat worlds using Udon",
-        "latestVersion": "3.10.6-beta.2",
-        "versionCount": 90,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "VRChat",
-          "email": "developer@vrchat.com",
-          "url": "https://github.com/vrchat/packages"
-        },
-        "versions": {
-          "3.10.6-beta.2": {
-            "version": "3.10.6-beta.2",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.6-beta.2/com.vrchat.worlds-3.10.6-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.6-beta.2"
-            }
-          },
-          "3.10.6-beta.1": {
-            "version": "3.10.6-beta.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.6-beta.1/com.vrchat.worlds-3.10.6-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.6-beta.1"
-            }
-          },
-          "3.10.5": {
-            "version": "3.10.5",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.5/com.vrchat.worlds-3.10.5.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.5"
-            }
-          },
-          "3.10.5-beta.2": {
-            "version": "3.10.5-beta.2",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.5-beta.2/com.vrchat.worlds-3.10.5-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.5-beta.2"
-            }
-          },
-          "3.10.5-beta.1": {
-            "version": "3.10.5-beta.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.5-beta.1/com.vrchat.worlds-3.10.5-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.5-beta.1"
-            }
-          },
-          "3.10.4": {
-            "version": "3.10.4",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.4/com.vrchat.worlds-3.10.4.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.4"
-            }
-          },
-          "3.10.4-beta.3": {
-            "version": "3.10.4-beta.3",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.4-beta.3/com.vrchat.worlds-3.10.4-beta.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.4-beta.3"
-            }
-          },
-          "3.10.4-beta.2": {
-            "version": "3.10.4-beta.2",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.4-beta.2/com.vrchat.worlds-3.10.4-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.4-beta.2"
-            }
-          },
-          "3.10.4-beta.1": {
-            "version": "3.10.4-beta.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.4-beta.1/com.vrchat.worlds-3.10.4-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.4-beta.1"
-            }
-          },
-          "3.10.3": {
-            "version": "3.10.3",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.3/com.vrchat.worlds-3.10.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.3"
-            }
-          },
-          "3.10.3-beta.2": {
-            "version": "3.10.3-beta.2",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.3-beta.2/com.vrchat.worlds-3.10.3-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.3-beta.2"
-            }
-          },
-          "3.10.3-beta.1": {
-            "version": "3.10.3-beta.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.3-beta.1/com.vrchat.worlds-3.10.3-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.3-beta.1"
-            }
-          },
-          "3.10.2": {
-            "version": "3.10.2",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.2/com.vrchat.worlds-3.10.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.2"
-            }
-          },
-          "3.10.2-beta.1": {
-            "version": "3.10.2-beta.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.2-beta.1/com.vrchat.worlds-3.10.2-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.2-beta.1"
-            }
-          },
-          "3.10.1": {
-            "version": "3.10.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.1/com.vrchat.worlds-3.10.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.1"
-            }
-          },
-          "3.10.0": {
-            "version": "3.10.0",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.0/com.vrchat.worlds-3.10.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.0"
-            }
-          },
-          "3.10.0-beta.1": {
-            "version": "3.10.0-beta.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.0-beta.1/com.vrchat.worlds-3.10.0-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.0-beta.1"
-            }
-          },
-          "3.9.1-beta.2": {
-            "version": "3.9.1-beta.2",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.9.1-beta.2/com.vrchat.worlds-3.9.1-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.9.1-beta.2"
-            }
-          },
-          "3.9.1-beta.1": {
-            "version": "3.9.1-beta.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.9.1-beta.1/com.vrchat.worlds-3.9.1-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.9.1-beta.1"
-            }
-          },
-          "3.9.0": {
-            "version": "3.9.0",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.9.0/com.vrchat.worlds-3.9.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.9.0"
-            }
-          },
-          "3.9.0-beta.1": {
-            "version": "3.9.0-beta.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.9.0-beta.1/com.vrchat.worlds-3.9.0-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.9.0-beta.1"
-            }
-          },
-          "3.8.2": {
-            "version": "3.8.2",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.8.2/com.vrchat.worlds-3.8.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.8.2"
-            }
-          },
-          "3.8.2-beta.1": {
-            "version": "3.8.2-beta.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.8.2-beta.1/com.vrchat.worlds-3.8.2-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.8.2-beta.1"
-            }
-          },
-          "3.8.1": {
-            "version": "3.8.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.8.1/com.vrchat.worlds-3.8.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.8.1"
-            }
-          },
-          "3.8.1-beta.4": {
-            "version": "3.8.1-beta.4",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.8.1-beta.4/com.vrchat.worlds-3.8.1-beta.4.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.8.1-beta.4"
-            }
-          },
-          "3.8.1-beta.3": {
-            "version": "3.8.1-beta.3",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.8.1-beta.3/com.vrchat.worlds-3.8.1-beta.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.8.1-beta.3"
-            }
-          },
-          "3.8.1-beta.2": {
-            "version": "3.8.1-beta.2",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.8.1-beta.2/com.vrchat.worlds-3.8.1-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.8.1-beta.2"
-            }
-          },
-          "3.8.1-beta.1": {
-            "version": "3.8.1-beta.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.8.1-beta.1/com.vrchat.worlds-3.8.1-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.8.1-beta.1"
-            }
-          },
-          "3.8.0": {
-            "version": "3.8.0",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.8.0/com.vrchat.worlds-3.8.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.8.0"
-            }
-          },
-          "3.7.7-beta.1": {
-            "version": "3.7.7-beta.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.7-beta.1/com.vrchat.worlds-3.7.7-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.7-beta.1"
-            }
-          },
-          "3.7.6": {
-            "version": "3.7.6",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.6/com.vrchat.worlds-3.7.6.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.6"
-            }
-          },
-          "3.7.6-beta.2": {
-            "version": "3.7.6-beta.2",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.6-beta.2/com.vrchat.worlds-3.7.6-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.6-beta.2"
-            }
-          },
-          "3.7.6-beta.1": {
-            "version": "3.7.6-beta.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.6-beta.1/com.vrchat.worlds-3.7.6-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.6-beta.1"
-            }
-          },
-          "3.7.5": {
-            "version": "3.7.5",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.5/com.vrchat.worlds-3.7.5.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.5"
-            }
-          },
-          "3.7.4-persistence-beta.1": {
-            "version": "3.7.4-persistence-beta.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.4-persistence-beta/com.vrchat.worlds-3.7.4-persistence-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.4-persistence-beta.1"
-            }
-          },
-          "3.7.4": {
-            "version": "3.7.4",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.4/com.vrchat.worlds-3.7.4.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.4"
-            }
-          },
-          "3.7.3": {
-            "version": "3.7.3",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.3/com.vrchat.worlds-3.7.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.3"
-            }
-          },
-          "3.7.2-persistence-beta.1": {
-            "version": "3.7.2-persistence-beta.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.2-persistence-beta/com.vrchat.worlds-3.7.2-persistence-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.2-persistence-beta.1"
-            }
-          },
-          "3.7.2": {
-            "version": "3.7.2",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.2/com.vrchat.worlds-3.7.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.2"
-            }
-          },
-          "3.7.2-beta.3": {
-            "version": "3.7.2-beta.3",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.2-beta.3/com.vrchat.worlds-3.7.2-beta.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.2-beta.3"
-            }
-          },
-          "3.7.2-beta.2": {
-            "version": "3.7.2-beta.2",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.2-beta.2/com.vrchat.worlds-3.7.2-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.2-beta.2"
-            }
-          },
-          "3.7.2-beta.1": {
-            "version": "3.7.2-beta.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.2-beta.1/com.vrchat.worlds-3.7.2-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.2-beta.1"
-            }
-          },
-          "3.7.1-beta.2": {
-            "version": "3.7.1-beta.2",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.1-beta.2/com.vrchat.worlds-3.7.1-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.1-beta.2"
-            }
-          },
-          "3.7.1-beta.1": {
-            "version": "3.7.1-beta.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.1-beta.1/com.vrchat.worlds-3.7.1-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.1-beta.1"
-            }
-          },
-          "3.7.1": {
-            "version": "3.7.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.1/com.vrchat.worlds-3.7.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.1"
-            }
-          },
-          "3.7.0-beta.2": {
-            "version": "3.7.0-beta.2",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.0-beta.2/com.vrchat.worlds-3.7.0-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.0-beta.2"
-            }
-          },
-          "3.7.0-beta.1": {
-            "version": "3.7.0-beta.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.0-beta.1/com.vrchat.worlds-3.7.0-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.0-beta.1"
-            }
-          },
-          "3.7.0": {
-            "version": "3.7.0",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.0/com.vrchat.worlds-3.7.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.0"
-            }
-          },
-          "3.6.2-beta.1": {
-            "version": "3.6.2-beta.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.6.2-beta.1/com.vrchat.worlds-3.6.2-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.6.2-beta.1"
-            }
-          },
-          "3.6.1-beta.3": {
-            "version": "3.6.1-beta.3",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.6.1-beta.3/com.vrchat.worlds-3.6.1-beta.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.6.1-beta.3"
-            }
-          },
-          "3.6.1-beta.2": {
-            "version": "3.6.1-beta.2",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.6.1-beta.2/com.vrchat.worlds-3.6.1-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.6.1-beta.2"
-            }
-          },
-          "3.6.1": {
-            "version": "3.6.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.6.1/com.vrchat.worlds-3.6.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.6.1"
-            }
-          },
-          "3.6.0-beta.1": {
-            "version": "3.6.0-beta.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.6.0-beta.1/com.vrchat.worlds-3.6.0-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.6.0-beta.1"
-            }
-          },
-          "3.6.0": {
-            "version": "3.6.0",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.6.0/com.vrchat.worlds-3.6.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.6.0"
-            }
-          },
-          "3.5.3-beta.2": {
-            "version": "3.5.3-beta.2",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.5.3-beta.2/com.vrchat.worlds-3.5.3-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.5.3-beta.2"
-            }
-          },
-          "3.5.2": {
-            "version": "3.5.2",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.5.2-release/com.vrchat.worlds-3.5.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.5.2"
-            }
-          },
-          "3.5.2-beta.2": {
-            "version": "3.5.2-beta.2",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.5.2-beta.2/com.vrchat.worlds-3.5.2-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.5.2-beta.2"
-            }
-          },
-          "3.5.2-beta.1": {
-            "version": "3.5.2-beta.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.5.2/com.vrchat.worlds-3.5.2-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.5.2-beta.1"
-            }
-          },
-          "3.5.1": {
-            "version": "3.5.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.5.1/com.vrchat.worlds-3.5.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.5.1"
-            }
-          },
-          "3.5.0-beta.1": {
-            "version": "3.5.0-beta.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.5.0/com.vrchat.worlds-3.5.0-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.5.0-beta.1"
-            }
-          },
-          "3.5.0": {
-            "version": "3.5.0",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.5.0/com.vrchat.worlds-3.5.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.5.0"
-            }
-          },
-          "3.4.2": {
-            "version": "3.4.2",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.4.2/com.vrchat.worlds-3.4.2.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.4.2"
-            }
-          },
-          "3.4.1": {
-            "version": "3.4.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.4.1/com.vrchat.worlds-3.4.1.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.4.1"
-            }
-          },
-          "3.4.0-beta.1": {
-            "version": "3.4.0-beta.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.4.0/com.vrchat.worlds-3.4.0-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.4.0-beta.1"
-            }
-          },
-          "3.4.0-beta.2": {
-            "version": "3.4.0-beta.2",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.4.0/com.vrchat.worlds-3.4.0-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.4.0-beta.2"
-            }
-          },
-          "3.4.0": {
-            "version": "3.4.0",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.4.0/com.vrchat.worlds-3.4.0.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.4.0"
-            }
-          },
-          "3.3.0-beta.1": {
-            "version": "3.3.0-beta.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.3.0/com.vrchat.worlds-3.3.0-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.3.0-beta.1"
-            }
-          },
-          "3.3.0": {
-            "version": "3.3.0",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.3.0/com.vrchat.worlds-3.3.0.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.3.0"
-            }
-          },
-          "3.2.3": {
-            "version": "3.2.3",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.2.3/com.vrchat.worlds-3.2.3.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.2.3"
-            }
-          },
-          "3.2.2-beta.1": {
-            "version": "3.2.2-beta.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.2.2/com.vrchat.worlds-3.2.2-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.2.2-beta.1"
-            }
-          },
-          "3.2.2": {
-            "version": "3.2.2",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.2.2/com.vrchat.worlds-3.2.2.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.2.2"
-            }
-          },
-          "3.2.1": {
-            "version": "3.2.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.2.1/com.vrchat.worlds-3.2.1.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "^3.2.1"
-            }
-          },
-          "3.2.0-beta.1": {
-            "version": "3.2.0-beta.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.2.0/com.vrchat.worlds-3.2.0-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.2.0-beta.1"
-            }
-          },
-          "3.2.0-beta.2": {
-            "version": "3.2.0-beta.2",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.2.0/com.vrchat.worlds-3.2.0-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.2.0-beta.2"
-            }
-          },
-          "3.2.0": {
-            "version": "3.2.0",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.2.0/com.vrchat.worlds-3.2.0.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.2.0"
-            }
-          },
-          "3.1.13": {
-            "version": "3.1.13",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.13/com.vrchat.worlds-3.1.13.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.1.13"
-            }
-          },
-          "3.1.12": {
-            "version": "3.1.12",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.12/com.vrchat.worlds-3.1.12.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.1.12"
-            }
-          },
-          "3.1.10": {
-            "version": "3.1.10",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.10/com.vrchat.worlds-3.1.10.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.1.x"
-            }
-          },
-          "3.0.9": {
-            "version": "3.0.9",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.worlds-3.0.9.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.0.9"
-            }
-          },
-          "3.1.0": {
-            "version": "3.1.0",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.worlds-3.1.0.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.1.0"
-            }
-          },
-          "3.1.1": {
-            "version": "3.1.1",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.worlds-3.1.1.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.1.x"
-            }
-          },
-          "3.1.2": {
-            "version": "3.1.2",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.worlds-3.1.2.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.1.x"
-            }
-          },
-          "3.1.3": {
-            "version": "3.1.3",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.worlds-3.1.3.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.1.x"
-            }
-          },
-          "3.1.4": {
-            "version": "3.1.4",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.worlds-3.1.4.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.1.x"
-            }
-          },
-          "3.1.5": {
-            "version": "3.1.5",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.worlds-3.1.5.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.1.x"
-            }
-          },
-          "3.1.6": {
-            "version": "3.1.6",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.worlds-3.1.6.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.1.x"
-            }
-          },
-          "3.1.7": {
-            "version": "3.1.7",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.worlds-3.1.7.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.1.x"
-            }
-          },
-          "3.1.8": {
-            "version": "3.1.8",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.worlds-3.1.8.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.1.x"
-            }
-          },
-          "3.1.9": {
-            "version": "3.1.9",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.worlds-3.1.9.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.1.x"
-            }
-          },
-          "3.1.11": {
-            "version": "3.1.11",
-            "name": "com.vrchat.worlds",
-            "displayName": "VRChat SDK - Worlds",
-            "description": "Tools for creating interactive VRChat worlds using Udon",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.11/com.vrchat.worlds-3.1.11.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.1.11"
-            }
-          }
-        }
-      },
       "com.vrchat.base": {
         "id": "com.vrchat.base",
         "name": "com.vrchat.base",
         "displayName": "VRChat SDK - Base",
         "description": "Base for VRChat SDK",
-        "latestVersion": "3.10.6-beta.2",
-        "versionCount": 94,
+        "latestVersion": "3.10.6-beta.3",
+        "versionCount": 95,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -185097,6 +184275,26 @@
           "url": "https://github.com/vrchat/packages"
         },
         "versions": {
+          "3.10.6-beta.3": {
+            "version": "3.10.6-beta.3",
+            "name": "com.vrchat.base",
+            "displayName": "VRChat SDK - Base",
+            "description": "Base for VRChat SDK",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.6-beta.3/com.vrchat.base-3.10.6-beta.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.unity.burst": "1.8.7",
+              "com.unity.collections": "2.1.4",
+              "com.unity.mathematics": "1.2.6",
+              "com.unity.nuget.newtonsoft-json": "3.2.1",
+              "com.unity.timeline": "1.7.6",
+              "com.unity.xr.management": "4.3.3",
+              "com.unity.xr.oculus": "4.0.0",
+              "com.unity.postprocessing": "3.2.2",
+              "com.unity.ugui": "1.0.0"
+            }
+          },
           "3.10.6-beta.2": {
             "version": "3.10.6-beta.2",
             "name": "com.vrchat.base",
@@ -186772,12 +185970,12 @@
           }
         }
       },
-      "com.vrchat.avatars": {
-        "id": "com.vrchat.avatars",
-        "name": "com.vrchat.avatars",
-        "displayName": "VRChat SDK - Avatars",
-        "description": "Our powerful Avatars 3.0 System",
-        "latestVersion": "3.10.6-beta.2",
+      "com.vrchat.worlds": {
+        "id": "com.vrchat.worlds",
+        "name": "com.vrchat.worlds",
+        "displayName": "VRChat SDK - Worlds",
+        "description": "Tools for creating interactive VRChat worlds using Udon",
+        "latestVersion": "3.10.6-beta.3",
         "versionCount": 91,
         "keywords": [],
         "unity": "2022.3",
@@ -186787,6 +185985,1127 @@
           "url": "https://github.com/vrchat/packages"
         },
         "versions": {
+          "3.10.6-beta.3": {
+            "version": "3.10.6-beta.3",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.6-beta.3/com.vrchat.worlds-3.10.6-beta.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.6-beta.3"
+            }
+          },
+          "3.10.6-beta.2": {
+            "version": "3.10.6-beta.2",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.6-beta.2/com.vrchat.worlds-3.10.6-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.6-beta.2"
+            }
+          },
+          "3.10.6-beta.1": {
+            "version": "3.10.6-beta.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.6-beta.1/com.vrchat.worlds-3.10.6-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.6-beta.1"
+            }
+          },
+          "3.10.5": {
+            "version": "3.10.5",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.5/com.vrchat.worlds-3.10.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.5"
+            }
+          },
+          "3.10.5-beta.2": {
+            "version": "3.10.5-beta.2",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.5-beta.2/com.vrchat.worlds-3.10.5-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.5-beta.2"
+            }
+          },
+          "3.10.5-beta.1": {
+            "version": "3.10.5-beta.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.5-beta.1/com.vrchat.worlds-3.10.5-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.5-beta.1"
+            }
+          },
+          "3.10.4": {
+            "version": "3.10.4",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.4/com.vrchat.worlds-3.10.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.4"
+            }
+          },
+          "3.10.4-beta.3": {
+            "version": "3.10.4-beta.3",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.4-beta.3/com.vrchat.worlds-3.10.4-beta.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.4-beta.3"
+            }
+          },
+          "3.10.4-beta.2": {
+            "version": "3.10.4-beta.2",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.4-beta.2/com.vrchat.worlds-3.10.4-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.4-beta.2"
+            }
+          },
+          "3.10.4-beta.1": {
+            "version": "3.10.4-beta.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.4-beta.1/com.vrchat.worlds-3.10.4-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.4-beta.1"
+            }
+          },
+          "3.10.3": {
+            "version": "3.10.3",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.3/com.vrchat.worlds-3.10.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.3"
+            }
+          },
+          "3.10.3-beta.2": {
+            "version": "3.10.3-beta.2",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.3-beta.2/com.vrchat.worlds-3.10.3-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.3-beta.2"
+            }
+          },
+          "3.10.3-beta.1": {
+            "version": "3.10.3-beta.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.3-beta.1/com.vrchat.worlds-3.10.3-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.3-beta.1"
+            }
+          },
+          "3.10.2": {
+            "version": "3.10.2",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.2/com.vrchat.worlds-3.10.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.2"
+            }
+          },
+          "3.10.2-beta.1": {
+            "version": "3.10.2-beta.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.2-beta.1/com.vrchat.worlds-3.10.2-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.2-beta.1"
+            }
+          },
+          "3.10.1": {
+            "version": "3.10.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.1/com.vrchat.worlds-3.10.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.1"
+            }
+          },
+          "3.10.0": {
+            "version": "3.10.0",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.0/com.vrchat.worlds-3.10.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.0"
+            }
+          },
+          "3.10.0-beta.1": {
+            "version": "3.10.0-beta.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.0-beta.1/com.vrchat.worlds-3.10.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.0-beta.1"
+            }
+          },
+          "3.9.1-beta.2": {
+            "version": "3.9.1-beta.2",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.9.1-beta.2/com.vrchat.worlds-3.9.1-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.9.1-beta.2"
+            }
+          },
+          "3.9.1-beta.1": {
+            "version": "3.9.1-beta.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.9.1-beta.1/com.vrchat.worlds-3.9.1-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.9.1-beta.1"
+            }
+          },
+          "3.9.0": {
+            "version": "3.9.0",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.9.0/com.vrchat.worlds-3.9.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.9.0"
+            }
+          },
+          "3.9.0-beta.1": {
+            "version": "3.9.0-beta.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.9.0-beta.1/com.vrchat.worlds-3.9.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.9.0-beta.1"
+            }
+          },
+          "3.8.2": {
+            "version": "3.8.2",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.8.2/com.vrchat.worlds-3.8.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.8.2"
+            }
+          },
+          "3.8.2-beta.1": {
+            "version": "3.8.2-beta.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.8.2-beta.1/com.vrchat.worlds-3.8.2-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.8.2-beta.1"
+            }
+          },
+          "3.8.1": {
+            "version": "3.8.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.8.1/com.vrchat.worlds-3.8.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.8.1"
+            }
+          },
+          "3.8.1-beta.4": {
+            "version": "3.8.1-beta.4",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.8.1-beta.4/com.vrchat.worlds-3.8.1-beta.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.8.1-beta.4"
+            }
+          },
+          "3.8.1-beta.3": {
+            "version": "3.8.1-beta.3",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.8.1-beta.3/com.vrchat.worlds-3.8.1-beta.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.8.1-beta.3"
+            }
+          },
+          "3.8.1-beta.2": {
+            "version": "3.8.1-beta.2",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.8.1-beta.2/com.vrchat.worlds-3.8.1-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.8.1-beta.2"
+            }
+          },
+          "3.8.1-beta.1": {
+            "version": "3.8.1-beta.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.8.1-beta.1/com.vrchat.worlds-3.8.1-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.8.1-beta.1"
+            }
+          },
+          "3.8.0": {
+            "version": "3.8.0",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.8.0/com.vrchat.worlds-3.8.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.8.0"
+            }
+          },
+          "3.7.7-beta.1": {
+            "version": "3.7.7-beta.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.7-beta.1/com.vrchat.worlds-3.7.7-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.7-beta.1"
+            }
+          },
+          "3.7.6": {
+            "version": "3.7.6",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.6/com.vrchat.worlds-3.7.6.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.6"
+            }
+          },
+          "3.7.6-beta.2": {
+            "version": "3.7.6-beta.2",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.6-beta.2/com.vrchat.worlds-3.7.6-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.6-beta.2"
+            }
+          },
+          "3.7.6-beta.1": {
+            "version": "3.7.6-beta.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.6-beta.1/com.vrchat.worlds-3.7.6-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.6-beta.1"
+            }
+          },
+          "3.7.5": {
+            "version": "3.7.5",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.5/com.vrchat.worlds-3.7.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.5"
+            }
+          },
+          "3.7.4-persistence-beta.1": {
+            "version": "3.7.4-persistence-beta.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.4-persistence-beta/com.vrchat.worlds-3.7.4-persistence-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.4-persistence-beta.1"
+            }
+          },
+          "3.7.4": {
+            "version": "3.7.4",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.4/com.vrchat.worlds-3.7.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.4"
+            }
+          },
+          "3.7.3": {
+            "version": "3.7.3",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.3/com.vrchat.worlds-3.7.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.3"
+            }
+          },
+          "3.7.2-persistence-beta.1": {
+            "version": "3.7.2-persistence-beta.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.2-persistence-beta/com.vrchat.worlds-3.7.2-persistence-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.2-persistence-beta.1"
+            }
+          },
+          "3.7.2": {
+            "version": "3.7.2",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.2/com.vrchat.worlds-3.7.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.2"
+            }
+          },
+          "3.7.2-beta.3": {
+            "version": "3.7.2-beta.3",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.2-beta.3/com.vrchat.worlds-3.7.2-beta.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.2-beta.3"
+            }
+          },
+          "3.7.2-beta.2": {
+            "version": "3.7.2-beta.2",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.2-beta.2/com.vrchat.worlds-3.7.2-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.2-beta.2"
+            }
+          },
+          "3.7.2-beta.1": {
+            "version": "3.7.2-beta.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.2-beta.1/com.vrchat.worlds-3.7.2-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.2-beta.1"
+            }
+          },
+          "3.7.1-beta.2": {
+            "version": "3.7.1-beta.2",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.1-beta.2/com.vrchat.worlds-3.7.1-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.1-beta.2"
+            }
+          },
+          "3.7.1-beta.1": {
+            "version": "3.7.1-beta.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.1-beta.1/com.vrchat.worlds-3.7.1-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.1-beta.1"
+            }
+          },
+          "3.7.1": {
+            "version": "3.7.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.1/com.vrchat.worlds-3.7.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.1"
+            }
+          },
+          "3.7.0-beta.2": {
+            "version": "3.7.0-beta.2",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.0-beta.2/com.vrchat.worlds-3.7.0-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.0-beta.2"
+            }
+          },
+          "3.7.0-beta.1": {
+            "version": "3.7.0-beta.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.0-beta.1/com.vrchat.worlds-3.7.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.0-beta.1"
+            }
+          },
+          "3.7.0": {
+            "version": "3.7.0",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.0/com.vrchat.worlds-3.7.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.0"
+            }
+          },
+          "3.6.2-beta.1": {
+            "version": "3.6.2-beta.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.6.2-beta.1/com.vrchat.worlds-3.6.2-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.6.2-beta.1"
+            }
+          },
+          "3.6.1-beta.3": {
+            "version": "3.6.1-beta.3",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.6.1-beta.3/com.vrchat.worlds-3.6.1-beta.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.6.1-beta.3"
+            }
+          },
+          "3.6.1-beta.2": {
+            "version": "3.6.1-beta.2",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.6.1-beta.2/com.vrchat.worlds-3.6.1-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.6.1-beta.2"
+            }
+          },
+          "3.6.1": {
+            "version": "3.6.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.6.1/com.vrchat.worlds-3.6.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.6.1"
+            }
+          },
+          "3.6.0-beta.1": {
+            "version": "3.6.0-beta.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.6.0-beta.1/com.vrchat.worlds-3.6.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.6.0-beta.1"
+            }
+          },
+          "3.6.0": {
+            "version": "3.6.0",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.6.0/com.vrchat.worlds-3.6.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.6.0"
+            }
+          },
+          "3.5.3-beta.2": {
+            "version": "3.5.3-beta.2",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.5.3-beta.2/com.vrchat.worlds-3.5.3-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.5.3-beta.2"
+            }
+          },
+          "3.5.2": {
+            "version": "3.5.2",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.5.2-release/com.vrchat.worlds-3.5.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.5.2"
+            }
+          },
+          "3.5.2-beta.2": {
+            "version": "3.5.2-beta.2",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.5.2-beta.2/com.vrchat.worlds-3.5.2-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.5.2-beta.2"
+            }
+          },
+          "3.5.2-beta.1": {
+            "version": "3.5.2-beta.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.5.2/com.vrchat.worlds-3.5.2-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.5.2-beta.1"
+            }
+          },
+          "3.5.1": {
+            "version": "3.5.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.5.1/com.vrchat.worlds-3.5.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.5.1"
+            }
+          },
+          "3.5.0-beta.1": {
+            "version": "3.5.0-beta.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.5.0/com.vrchat.worlds-3.5.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.5.0-beta.1"
+            }
+          },
+          "3.5.0": {
+            "version": "3.5.0",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.5.0/com.vrchat.worlds-3.5.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.5.0"
+            }
+          },
+          "3.4.2": {
+            "version": "3.4.2",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.4.2/com.vrchat.worlds-3.4.2.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.4.2"
+            }
+          },
+          "3.4.1": {
+            "version": "3.4.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.4.1/com.vrchat.worlds-3.4.1.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.4.1"
+            }
+          },
+          "3.4.0-beta.1": {
+            "version": "3.4.0-beta.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.4.0/com.vrchat.worlds-3.4.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.4.0-beta.1"
+            }
+          },
+          "3.4.0-beta.2": {
+            "version": "3.4.0-beta.2",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.4.0/com.vrchat.worlds-3.4.0-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.4.0-beta.2"
+            }
+          },
+          "3.4.0": {
+            "version": "3.4.0",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.4.0/com.vrchat.worlds-3.4.0.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.4.0"
+            }
+          },
+          "3.3.0-beta.1": {
+            "version": "3.3.0-beta.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.3.0/com.vrchat.worlds-3.3.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.3.0-beta.1"
+            }
+          },
+          "3.3.0": {
+            "version": "3.3.0",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.3.0/com.vrchat.worlds-3.3.0.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.3.0"
+            }
+          },
+          "3.2.3": {
+            "version": "3.2.3",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.2.3/com.vrchat.worlds-3.2.3.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.2.3"
+            }
+          },
+          "3.2.2-beta.1": {
+            "version": "3.2.2-beta.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.2.2/com.vrchat.worlds-3.2.2-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.2.2-beta.1"
+            }
+          },
+          "3.2.2": {
+            "version": "3.2.2",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.2.2/com.vrchat.worlds-3.2.2.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.2.2"
+            }
+          },
+          "3.2.1": {
+            "version": "3.2.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.2.1/com.vrchat.worlds-3.2.1.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "^3.2.1"
+            }
+          },
+          "3.2.0-beta.1": {
+            "version": "3.2.0-beta.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.2.0/com.vrchat.worlds-3.2.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.2.0-beta.1"
+            }
+          },
+          "3.2.0-beta.2": {
+            "version": "3.2.0-beta.2",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.2.0/com.vrchat.worlds-3.2.0-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.2.0-beta.2"
+            }
+          },
+          "3.2.0": {
+            "version": "3.2.0",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.2.0/com.vrchat.worlds-3.2.0.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.2.0"
+            }
+          },
+          "3.1.13": {
+            "version": "3.1.13",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.13/com.vrchat.worlds-3.1.13.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.1.13"
+            }
+          },
+          "3.1.12": {
+            "version": "3.1.12",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.12/com.vrchat.worlds-3.1.12.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.1.12"
+            }
+          },
+          "3.1.10": {
+            "version": "3.1.10",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.10/com.vrchat.worlds-3.1.10.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.1.x"
+            }
+          },
+          "3.0.9": {
+            "version": "3.0.9",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.worlds-3.0.9.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.0.9"
+            }
+          },
+          "3.1.0": {
+            "version": "3.1.0",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.worlds-3.1.0.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.1.0"
+            }
+          },
+          "3.1.1": {
+            "version": "3.1.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.worlds-3.1.1.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.1.x"
+            }
+          },
+          "3.1.2": {
+            "version": "3.1.2",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.worlds-3.1.2.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.1.x"
+            }
+          },
+          "3.1.3": {
+            "version": "3.1.3",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.worlds-3.1.3.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.1.x"
+            }
+          },
+          "3.1.4": {
+            "version": "3.1.4",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.worlds-3.1.4.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.1.x"
+            }
+          },
+          "3.1.5": {
+            "version": "3.1.5",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.worlds-3.1.5.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.1.x"
+            }
+          },
+          "3.1.6": {
+            "version": "3.1.6",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.worlds-3.1.6.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.1.x"
+            }
+          },
+          "3.1.7": {
+            "version": "3.1.7",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.worlds-3.1.7.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.1.x"
+            }
+          },
+          "3.1.8": {
+            "version": "3.1.8",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.worlds-3.1.8.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.1.x"
+            }
+          },
+          "3.1.9": {
+            "version": "3.1.9",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.worlds-3.1.9.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.1.x"
+            }
+          },
+          "3.1.11": {
+            "version": "3.1.11",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.11/com.vrchat.worlds-3.1.11.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.1.11"
+            }
+          }
+        }
+      },
+      "com.vrchat.avatars": {
+        "id": "com.vrchat.avatars",
+        "name": "com.vrchat.avatars",
+        "displayName": "VRChat SDK - Avatars",
+        "description": "Our powerful Avatars 3.0 System",
+        "latestVersion": "3.10.6-beta.3",
+        "versionCount": 92,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "VRChat",
+          "email": "developer@vrchat.com",
+          "url": "https://github.com/vrchat/packages"
+        },
+        "versions": {
+          "3.10.6-beta.3": {
+            "version": "3.10.6-beta.3",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.6-beta.3/com.vrchat.avatars-3.10.6-beta.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.6-beta.3"
+            }
+          },
           "3.10.6-beta.2": {
             "version": "3.10.6-beta.2",
             "name": "com.vrchat.avatars",
@@ -198200,8 +198519,8 @@
     "name": "z3y's packages",
     "id": "io.github.z3y.vpm-package-listing",
     "author": "z3y",
-    "hash": "cdb3809945ae7267556d4e0777db123592ad2444f4ca1f17532aae2a1318d74f",
-    "last_updated": "2026-10-20T19:14:24.000Z",
+    "hash": "7d89138b64cedc6335477a428c86cc7b4afa93da822136ccec1c4ad882818281",
+    "last_updated": "2026-10-23T17:02:55.000Z",
     "packageCount": 8,
     "packages": {
       "com.z3y.graphlit": {
@@ -199912,8 +200231,8 @@
         "name": "io.github.z3y.glim",
         "displayName": "Glim Lightmapper",
         "description": "Lightmap Baker",
-        "latestVersion": "0.9.2",
-        "versionCount": 16,
+        "latestVersion": "0.10.0",
+        "versionCount": 17,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -199921,6 +200240,16 @@
           "url": "https://github.com/z3y"
         },
         "versions": {
+          "0.10.0": {
+            "version": "0.10.0",
+            "name": "io.github.z3y.glim",
+            "displayName": "Glim Lightmapper",
+            "description": "Lightmap Baker",
+            "url": "https://github.com/z3y/glim/releases/download/v0.10.0/io.github.z3y.glim-0.10.0.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "0.9.2": {
             "version": "0.9.2",
             "name": "io.github.z3y.glim",
