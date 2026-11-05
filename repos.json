@@ -2242,7 +2242,7 @@
     "id": "world.anlabo.mdnailtool.vpm",
     "author": "An-Labo",
     "hash": "57fd10b85707b8fe38f9d3a8446a1db6750147283b0df130b164deff373da4ff",
-    "last_updated": "2026-10-30T23:27:32.000Z",
+    "last_updated": "2026-10-30T23:27:33.000Z",
     "packageCount": 1,
     "packages": {
       "world.anlabo.mdnailtool": {
@@ -14555,7 +14555,7 @@
     "id": "cc.orbiters.vpm",
     "author": "blackorbit",
     "hash": "f417d41582204f01b68406f17efb6b6b2a4b834fdc36273ccc4693377e6532b0",
-    "last_updated": "2026-11-04T04:23:08.000Z",
+    "last_updated": "2026-11-05T04:23:30.000Z",
     "packageCount": 12,
     "packages": {
       "orbiters.mcb": {
@@ -17237,7 +17237,7 @@
     "id": "com.surarin.vpm",
     "author": "Surarin",
     "hash": "01f63e49ba01b1361e52d2caf566ac678676ad7accb612ed861a8f3a37e444fb",
-    "last_updated": "2026-10-29T09:38:10.000Z",
+    "last_updated": "2026-10-29T09:38:09.000Z",
     "packageCount": 1,
     "packages": {
       "com.surarin.worldtitlegimmick": {
@@ -18676,7 +18676,7 @@
     "id": "com.github.ch4rindo.vpm",
     "author": "ch4rindo",
     "hash": "622f1e0f36d6a8e11b25a886a10399eafd32b4945f0cd95b5dea7c788a739eb0",
-    "last_updated": "2026-09-28T08:46:15.000Z",
+    "last_updated": "2026-09-28T08:46:16.000Z",
     "packageCount": 2,
     "packages": {
       "dev.r1nd0.assetfinder": {
@@ -19843,7 +19843,7 @@
     "id": "com.chill.vpm",
     "author": "chill",
     "hash": "218dd1fd125e7194ca6c8140e63ca3d013b40ed5b78b42e79e1ff1e1d5cd5b05",
-    "last_updated": "2026-05-21T13:11:01.000Z",
+    "last_updated": "2026-05-21T13:11:02.000Z",
     "packageCount": 1,
     "packages": {
       "com.chill.avatarscope": {
@@ -23808,7 +23808,7 @@
     "id": "com.dinetool.listing",
     "author": "Dine",
     "hash": "c52ddc33e5cd3447a76fdfe02e19be5d0d7ee3cd7baa7705116a4d3c5cf35f19",
-    "last_updated": "2026-10-30T11:53:43.000Z",
+    "last_updated": "2026-10-30T11:53:42.000Z",
     "packageCount": 1,
     "packages": {
       "com.dine.tool": {
@@ -24174,7 +24174,7 @@
     "id": "com.docme.listing",
     "author": "DocMe",
     "hash": "a579f157e4a900a4717ae13e1d46b921abe1824acad05e876beb7cabe3e4c28f",
-    "last_updated": "2026-11-03T11:54:31.000Z",
+    "last_updated": "2026-11-04T12:05:35.000Z",
     "packageCount": 5,
     "packages": {
       "com.docme.eye-installer": {
@@ -25963,7 +25963,7 @@
     "id": "tech.uslog.eauploader.registry",
     "author": "USLOG",
     "hash": "01669d2af24e5d538c580dc108e17c1eccdd55279ca2f2805b5a995a442cff52",
-    "last_updated": "2026-11-03T15:24:06.000Z",
+    "last_updated": "2026-11-03T15:24:07.000Z",
     "packageCount": 1,
     "packages": {
       "tech.uslog.eauploader": {
@@ -31049,7 +31049,7 @@
     "id": "dev.foxscore",
     "author": "felixkaiser2000@protonmail.com",
     "hash": "dd7ff29aa8d7d3cbbef128e4d62360d7a510f7d5f94dc71be272f6e1d55193a9",
-    "last_updated": "2026-10-31T15:51:28.000Z",
+    "last_updated": "2026-10-31T15:51:29.000Z",
     "packageCount": 1,
     "packages": {
       "dev.foxscore.easy-login": {
@@ -31476,7 +31476,7 @@
     "id": "com.furality.repos.official",
     "author": "Furality, Inc.",
     "hash": "1f058d849e3d6f8fbf1320164b63cd1f1019b43a7993a1adfa11f274f8288e49",
-    "last_updated": "2026-08-08T02:49:09.000Z",
+    "last_updated": "2026-08-08T02:49:10.000Z",
     "packageCount": 3,
     "packages": {
       "com.furality.sylvashader": {
@@ -34596,8 +34596,8 @@
     "name": "GlinT Fraulein",
     "id": "info.glintfraulein.vpm",
     "author": "GlinT Fraulein",
-    "hash": "00e9a6d4a70e3efa6b365e5481985bec6edebabaa6401787efa42ada1e522a46",
-    "last_updated": "2026-09-27T13:42:25.000Z",
+    "hash": "73604b5dbc89487eb98b71c30501c83b346b29d793d41781a16448cb6ed6daef",
+    "last_updated": "2026-11-04T16:39:38.000Z",
     "packageCount": 1,
     "packages": {
       "info.glintfraulein.palasolu": {
@@ -34605,8 +34605,8 @@
         "name": "info.glintfraulein.palasolu",
         "displayName": "PaLASOLU",
         "description": "Particle Live Avatar Setup Optimization & Low-effort Uploader",
-        "latestVersion": "2.5.2",
-        "versionCount": 35,
+        "latestVersion": "2.6.0",
+        "versionCount": 36,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -34614,6 +34614,19 @@
           "url": "https://glintfraulein.info"
         },
         "versions": {
+          "2.6.0": {
+            "version": "2.6.0",
+            "name": "info.glintfraulein.palasolu",
+            "displayName": "PaLASOLU",
+            "description": "Particle Live Avatar Setup Optimization & Low-effort Uploader",
+            "url": "https://github.com/GlinTFraulein/PaLASOLU/releases/download/2.6.0/info.glintfraulein.palasolu.2.6.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.modular-avatar": ">=1.15.1",
+              "jp.lilxyzw.liltoon": ">2.3.2"
+            }
+          },
           "2.5.2": {
             "version": "2.5.2",
             "name": "info.glintfraulein.palasolu",
@@ -35334,7 +35347,7 @@
     "id": "com.synthos.packages",
     "author": "Synthos",
     "hash": "846a93be7cebafb45ae86f21c56a46b3e5eeb92a2faa6bd71fd06e4fc52a6ab0",
-    "last_updated": "2026-11-04T00:21:54.000Z",
+    "last_updated": "2026-11-05T00:42:44.000Z",
     "packageCount": 8,
     "packages": {
       "com.synthos.scene-optimizer": {
@@ -36958,8 +36971,8 @@
     "name": "Kura Action Manager",
     "id": "com.kura.listing",
     "author": "王冠Kura",
-    "hash": "e580bd018c658006eb3edb769b686d305e209f841bb880befad1752369a5da64",
-    "last_updated": "2026-10-20T07:40:06.000Z",
+    "hash": "4ce98cfd4eec2d5e8736aebc45017df7f8a449eac9d82fe02e2cbc87dfc9c6b0",
+    "last_updated": "2026-11-04T05:22:42.000Z",
     "packageCount": 1,
     "packages": {
       "com.kura.actionmanager": {
@@ -36967,8 +36980,8 @@
         "name": "com.kura.actionmanager",
         "displayName": "Kura 动作管理器",
         "description": "VRChat 动作管理器：动作分组与多级菜单、批量导入、缩略图、循环动作、镜像与速度、同步舞蹈、物件开关，一键安装到 Avatar。",
-        "latestVersion": "1.0.3",
-        "versionCount": 3,
+        "latestVersion": "1.0.4",
+        "versionCount": 4,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -36977,6 +36990,19 @@
           "url": "https://github.com/GuiltyCrownsa/KuraActionManager"
         },
         "versions": {
+          "1.0.4": {
+            "version": "1.0.4",
+            "name": "com.kura.actionmanager",
+            "displayName": "Kura 动作管理器",
+            "description": "VRChat 动作管理器：动作分组与多级菜单、批量导入、缩略图、循环动作、镜像与速度、同步舞蹈、物件开关，一键安装到 Avatar。",
+            "url": "https://github.com/GuiltyCrownsa/KuraActionManager/releases/download/1.0.4/com.kura.actionmanager-1.0.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0 <3.11.0",
+              "nadena.dev.modular-avatar": ">=1.10.0"
+            }
+          },
           "1.0.3": {
             "version": "1.0.3",
             "name": "com.kura.actionmanager",
@@ -38915,8 +38941,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "b72b163ecf1919e7a3a3b8dbe95de9a74e75dfbdc3f7b166000c93c0bfeb7842",
-    "last_updated": "2026-11-04T03:18:13.000Z",
+    "hash": "24e545cc4587ef7aa018148c6dfb9ae2f7504ab383209ee16044007a8d03513d",
+    "last_updated": "2026-11-05T02:20:02.000Z",
     "packageCount": 10,
     "packages": {
       "com.poiyomi.pro": {
@@ -48195,7 +48221,7 @@
     "id": "com.github.hkrn",
     "author": "hkrn",
     "hash": "66afe02e940c091d4b955f7a758659dfa28c963b53e571fc1c24147280761b5f",
-    "last_updated": "2026-07-12T08:29:09.000Z",
+    "last_updated": "2026-07-12T08:29:10.000Z",
     "packageCount": 1,
     "packages": {
       "com.github.hkrn.ndmf-vrm-exporter": {
@@ -48863,7 +48889,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "dc975d1397ce107372949311ebff9c87b2475ea8a0827d7b3c6c9caa9a314034",
-    "last_updated": "2026-11-03T10:58:11.000Z",
+    "last_updated": "2026-11-04T11:02:37.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -50412,7 +50438,7 @@
     "id": "dev.jetees.vpm-listing",
     "author": "JeTeeS",
     "hash": "c43d1d46596697e66705b99d7740a062daf269bacdf077d0810963cb05d466da",
-    "last_updated": "2024-05-22T15:17:52.000Z",
+    "last_updated": "2024-05-22T15:17:51.000Z",
     "packageCount": 1,
     "packages": {
       "dev.jetees.memoryoptimizer": {
@@ -58827,7 +58853,7 @@
     "id": "com.kikurage1989.utilsscript",
     "author": "kikurage1989_",
     "hash": "a479bbbb44186c8db52473fa68813010d0cde6afd082f97f0ee93a79ee10ca50",
-    "last_updated": "2026-07-30T11:03:57.000Z",
+    "last_updated": "2026-07-30T11:03:58.000Z",
     "packageCount": 2,
     "packages": {
       "com.kikurage1989.utilsscript": {
@@ -59510,8 +59536,8 @@
     "name": "KOZ39",
     "id": "io.github.koz39.vpm-listing",
     "author": "KOZ39",
-    "hash": "d0b6d03d3b4a923a75808386a34958175e779ec42f9faf350e85b8977ea1706c",
-    "last_updated": "2026-11-03T15:33:05.000Z",
+    "hash": "7599fce928705289d94c7c5ffd2f3bba9ca43895d5d83adfca854f5049f9f37b",
+    "last_updated": "2026-11-04T11:44:08.000Z",
     "packageCount": 4,
     "packages": {
       "dev.koz39.elbow-fixer": {
@@ -59781,8 +59807,8 @@
         "name": "dev.koz39.knee-fixer",
         "displayName": "Knee Fixer",
         "description": "A non-destructive knee correction tool for VRChat avatars.",
-        "latestVersion": "2.5.2",
-        "versionCount": 13,
+        "latestVersion": "2.5.3",
+        "versionCount": 14,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -59791,6 +59817,19 @@
           "url": "https://github.com/KOZ39"
         },
         "versions": {
+          "2.5.3": {
+            "version": "2.5.3",
+            "name": "dev.koz39.knee-fixer",
+            "displayName": "Knee Fixer",
+            "description": "A non-destructive knee correction tool for VRChat avatars.",
+            "url": "https://github.com/KOZ39/Knee-Fixer/releases/download/2.5.3/dev.koz39.knee-fixer-2.5.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.3 <4.0.0",
+              "nadena.dev.ndmf": ">=1.8.0 <2.0.0"
+            }
+          },
           "2.5.2": {
             "version": "2.5.2",
             "name": "dev.koz39.knee-fixer",
@@ -62490,8 +62529,8 @@
     "name": "Laura's VRC Utils",
     "id": "com.laurarozier.LauraVRCUtils",
     "author": "LauraRozier",
-    "hash": "20c0e2dfbb37f9f692c38dcd848c45af5749748b627d3bf007c82c3693ee1e45",
-    "last_updated": "2026-10-13T18:45:32.000Z",
+    "hash": "03270cf4c3173aee67dc2021bca64925d28a1b16f04fd36991c447cd93f4f72f",
+    "last_updated": "2026-11-04T16:37:55.000Z",
     "packageCount": 5,
     "packages": {
       "com.laurarozier.lauraeditor": {
@@ -62639,8 +62678,8 @@
         "name": "com.laurarozier.paramcomp",
         "displayName": "Laura Parameter Compressor",
         "description": "VRChat Parameter Compressor by LauraRozier.",
-        "latestVersion": "1.1.11",
-        "versionCount": 16,
+        "latestVersion": "1.1.12",
+        "versionCount": 17,
         "keywords": [
           "laurarozier",
           "compressor",
@@ -62654,6 +62693,18 @@
           "url": "https://github.com/LauraRozier"
         },
         "versions": {
+          "1.1.12": {
+            "version": "1.1.12",
+            "name": "com.laurarozier.paramcomp",
+            "displayName": "Laura Parameter Compressor",
+            "description": "VRChat Parameter Compressor by LauraRozier.",
+            "url": "https://github.com/LauraRozier/LauraParamCompressor/releases/download/1.1.12/com.laurarozier.paramcomp-1.1.12.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.7.0"
+            }
+          },
           "1.1.11": {
             "version": "1.1.11",
             "name": "com.laurarozier.paramcomp",
@@ -63018,7 +63069,7 @@
     "id": "net.euan.lazyoptimiser.listing",
     "author": "euan142",
     "hash": "6a0b4ea94d87ae345649306e6fda40f7bd86325206e58e1a4c5943450a9fe4ee",
-    "last_updated": "2025-02-20T10:25:22.000Z",
+    "last_updated": "2025-02-20T10:25:21.000Z",
     "packageCount": 1,
     "packages": {
       "net.euan.lazyoptimiser": {
@@ -63392,8 +63443,8 @@
     "name": "AjisaiFlow",
     "id": "com.ajisaiflow.vpm",
     "author": "AjisaiFlow",
-    "hash": "170acf0d276273a1fbd6ea0a6666899d2db88f922e5274fc8cc42571442a4489",
-    "last_updated": "2026-11-03T15:12:06.000Z",
+    "hash": "30896999140f4337e17afcea90cfdd7994524cc003e3bee42c922cbd345c190c",
+    "last_updated": "2026-11-04T05:07:37.000Z",
     "packageCount": 4,
     "packages": {
       "net.ajisaiflow.anti-ripping": {
@@ -63402,7 +63453,7 @@
         "displayName": "Anti-Ripping",
         "description": "VRChatアバターのリッピング対策ツール。NDMFでメッシュとテクスチャの暗号化、ダミーBlendShapeの追加、各種難読化を行います。",
         "latestVersion": "0.54.3",
-        "versionCount": 58,
+        "versionCount": 59,
         "keywords": [
           "vrchat",
           "anti-ripping",
@@ -63448,6 +63499,19 @@
             "displayName": "Anti-Ripping",
             "description": "VRChatアバターのリッピング対策ツール。NDMFでメッシュとテクスチャの暗号化、ダミーBlendShapeの追加、各種難読化を行います。",
             "url": "https://github.com/lighfu/vpm/releases/download/anti-ripping-v0.54.1/net.ajisaiflow.anti-ripping-0.54.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.4.0",
+              "nadena.dev.modular-avatar": ">=1.10.0"
+            }
+          },
+          "0.55.0-beta.3": {
+            "version": "0.55.0-beta.3",
+            "name": "net.ajisaiflow.anti-ripping",
+            "displayName": "Anti-Ripping",
+            "description": "VRChatアバターのリッピング対策ツール。NDMFでメッシュとテクスチャの暗号化、ダミーBlendShapeの追加、各種難読化を行います。",
+            "url": "https://github.com/lighfu/vpm/releases/download/anti-ripping-v0.55.0-beta.3/net.ajisaiflow.anti-ripping-0.55.0-beta.3.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -65794,7 +65858,7 @@
     "id": "com.lightbulb.vpm",
     "author": "Lightbulb",
     "hash": "a29453938b874b0a8a30c0d1d6faeda76d6a381faf1f96b276ba444f8e05a3de",
-    "last_updated": "2026-11-04T01:20:57.000Z",
+    "last_updated": "2026-11-05T03:29:40.000Z",
     "packageCount": 1,
     "packages": {
       "com.lightbulb.world-tools": {
@@ -68964,7 +69028,7 @@
     "id": "com.mame8.vpm",
     "author": "mame8",
     "hash": "880c4bc843e71444652593ac77a1a92bd04b01453281fbe2f51c3cd1ea8bf95a",
-    "last_updated": "2026-07-02T19:27:29.000Z",
+    "last_updated": "2026-07-02T19:27:30.000Z",
     "packageCount": 3,
     "packages": {
       "com.mame8.animator-controller-context": {
@@ -75303,7 +75367,7 @@
     "id": "com.nickel-jp.repos.avatar-recovery",
     "author": "Nickel-JP",
     "hash": "fb749b627fb8dddf45acbdaba4bf428db1b5e9cdea765f00f5fff2d4441cbb1b",
-    "last_updated": "2026-10-25T19:10:46.000Z",
+    "last_updated": "2026-10-25T19:10:45.000Z",
     "packageCount": 1,
     "packages": {
       "com.nickel-jp.avatar-recovery": {
@@ -75759,7 +75823,7 @@
     "id": "com.njsgdd10086.vpm-repo",
     "author": "ATRI_NAIXU",
     "hash": "c1d46f974e7978b43cd7f1bcea0d91141c063c394b75606463d0285aca4a4bea",
-    "last_updated": "2026-11-04T02:35:39.000Z",
+    "last_updated": "2026-11-05T03:31:51.000Z",
     "packageCount": 3,
     "packages": {
       "com.atrinaxu.nontoon.lightlimit": {
@@ -91321,8 +91385,8 @@
     "name": "Ram.Type-0 VPM Repository",
     "id": "com.ramtype0.vpm-repository",
     "author": "Ram.Type-0",
-    "hash": "8ccac6cded2ffb29487d6fc2a6eb46e2d34dab88b6527dc5060387d45269f39f",
-    "last_updated": "2026-11-02T04:16:59.000Z",
+    "hash": "9eac3ef510636cc8b622e066acb8f6b0526ce4cf87d70a8c0161c92f0a902ad2",
+    "last_updated": "2026-11-04T07:51:48.000Z",
     "packageCount": 2,
     "packages": {
       "com.ramtype0.meshia.mesh-simplification": {
@@ -91330,8 +91394,8 @@
         "name": "com.ramtype0.meshia.mesh-simplification",
         "displayName": "Meshia Mesh Simplification",
         "description": "Burst accelerated mesh simplification.",
-        "latestVersion": "3.3.0",
-        "versionCount": 41,
+        "latestVersion": "3.3.1",
+        "versionCount": 42,
         "keywords": [
           "mesh",
           "optimization",
@@ -91344,6 +91408,18 @@
           "url": "https://github.com/RamType0"
         },
         "versions": {
+          "3.3.1": {
+            "version": "3.3.1",
+            "name": "com.ramtype0.meshia.mesh-simplification",
+            "displayName": "Meshia Mesh Simplification",
+            "description": "Burst accelerated mesh simplification.",
+            "url": "https://github.com/RamType0/Meshia.MeshSimplification/releases/download/3.3.1/com.ramtype0.meshia.mesh-simplification-3.3.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.anatawa12.custom-localization-for-editor-extension": "^1.2.1"
+            }
+          },
           "3.3.0": {
             "version": "3.3.0",
             "name": "com.ramtype0.meshia.mesh-simplification",
@@ -99880,7 +99956,7 @@
     "id": "com.mitsuboshi-studio.vpm",
     "author": "Mitsuboshi_Studio",
     "hash": "52cde1f130302215e50bd10fbf17761cac4d336a632db50118aa96eb79cfb767",
-    "last_updated": "2026-11-04T01:22:54.000Z",
+    "last_updated": "2026-11-04T23:40:36.000Z",
     "packageCount": 8,
     "packages": {
       "com.mitsuboshi-studio.unity-power-rename": {
@@ -104910,7 +104986,7 @@
     "id": "net.nrzk.vpm.spsndmf",
     "author": "niriziki",
     "hash": "4c0aee96ad1e9ed01af3ca6b300d7d5afb02fd41b2dcfdbc1a98d21ba48ce34a",
-    "last_updated": "2026-10-31T15:46:57.000Z",
+    "last_updated": "2026-10-31T15:46:56.000Z",
     "packageCount": 3,
     "packages": {
       "net.nrzk.vfstub": {
@@ -112152,8 +112228,8 @@
     "name": "TenteEEEE VPM Packages",
     "id": "com.tentee.vpm-repos",
     "author": "TenteEEEE",
-    "hash": "e6bce19a567a8dce3974b73d914821c38130723a6973f9f2c515192e06bab0ad",
-    "last_updated": "2026-11-03T16:17:29.000Z",
+    "hash": "f2bfbc2148ccb3b9dee78a2b3aa3b0028bbc37fc268bba621a00d0a4eb9a269f",
+    "last_updated": "2026-11-04T13:24:23.000Z",
     "packageCount": 8,
     "packages": {
       "com.tentee.vrc-rotation-timer": {
@@ -112628,8 +112704,8 @@
         "name": "com.tentee.vrc-sheet-board",
         "displayName": "Sheet Board",
         "description": "Show a Google Sheets range on boards in a VRChat world and update it without re-uploading the world (Apps Script -> GitHub Gist -> String Loading).",
-        "latestVersion": "0.1.1",
-        "versionCount": 2,
+        "latestVersion": "0.2.1",
+        "versionCount": 4,
         "keywords": [
           "vrchat",
           "worlds",
@@ -112644,6 +112720,30 @@
           "url": "https://github.com/TenteEEEE"
         },
         "versions": {
+          "0.2.1": {
+            "version": "0.2.1",
+            "name": "com.tentee.vrc-sheet-board",
+            "displayName": "Sheet Board",
+            "description": "Show a Google Sheets range on boards in a VRChat world and update it without re-uploading the world (Apps Script -> GitHub Gist -> String Loading).",
+            "url": "https://github.com/TenteEEEE/vrchat-world-sheet-board/releases/download/0.2.1/com.tentee.vrc-sheet-board-0.2.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.8.0"
+            }
+          },
+          "0.2.0": {
+            "version": "0.2.0",
+            "name": "com.tentee.vrc-sheet-board",
+            "displayName": "Sheet Board",
+            "description": "Show a Google Sheets range on boards in a VRChat world and update it without re-uploading the world (Apps Script -> GitHub Gist -> String Loading).",
+            "url": "https://github.com/TenteEEEE/vrchat-world-sheet-board/releases/download/0.2.0/com.tentee.vrc-sheet-board-0.2.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.8.0"
+            }
+          },
           "0.1.1": {
             "version": "0.1.1",
             "name": "com.tentee.vrc-sheet-board",
@@ -118965,8 +119065,8 @@
     "name": "Pawlygon VCC",
     "id": "net.pawlygon.vcc-packages",
     "author": "Pawlygon",
-    "hash": "729a4705ed9a63cb3b58a138ce3955ff24e0c1a0ffbfcaa6ba47a47445137069",
-    "last_updated": "2026-11-03T02:52:48.000Z",
+    "hash": "e532d924f6b002aefb7664a435f1349961c8ea58875a402aa594e5fe33e44975",
+    "last_updated": "2026-11-04T09:22:46.000Z",
     "packageCount": 2,
     "packages": {
       "net.pawlygon.vrc-facetracking": {
@@ -118975,7 +119075,7 @@
         "displayName": "Pawlygon - VRC Facetracking",
         "description": "Template to be used on models with Unified Expressions Face Tracking",
         "latestVersion": "1.0.0",
-        "versionCount": 44,
+        "versionCount": 45,
         "keywords": [
           "vrchat",
           "facetracking",
@@ -119449,6 +119549,18 @@
             "vpmDependencies": {
               "com.vrchat.avatars": ">=3.10.6"
             }
+          },
+          "2.0.6": {
+            "version": "2.0.6",
+            "name": "net.pawlygon.vrc-facetracking",
+            "displayName": "Pawlygon - VRC Facetracking",
+            "description": "Non-destructive VRChat native face tracking for avatars with Unified Expressions blendshapes.",
+            "url": "https://github.com/PawlygonStudio/VRC-Facetracking/releases/download/2.0.6/net.pawlygon.vrc-facetracking-2.0.6.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.6"
+            }
           }
         }
       },
@@ -119590,7 +119702,7 @@
     "id": "co.raphii.vpm-listing",
     "author": "Raphiiko",
     "hash": "13d7c0741bdb67306d4706066396ddccd4188238b4335f6b126e26cf84767a0b",
-    "last_updated": "2026-07-03T23:15:32.000Z",
+    "last_updated": "2026-07-03T23:15:31.000Z",
     "packageCount": 1,
     "packages": {
       "co.raphii.vrti.avatarmenu": {
@@ -119653,8 +119765,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "2b8e80acf1c07162d9c6c40ab52c18aae5dba4de8b90063cddd4f20ade432490",
-    "last_updated": "2026-11-04T04:43:29.000Z",
+    "hash": "ee83a8ad438f356fbfee8cbbab1397051cee24744be4c84b0f260ab44c7d99b4",
+    "last_updated": "2026-11-05T04:58:28.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -119662,14 +119774,24 @@
         "name": "com.vrcfury.vrcfury",
         "displayName": "VRCFury",
         "description": "Non-Destructive Tools for VRChat Avatars",
-        "latestVersion": "1.1437.1-beta.1",
-        "versionCount": 1448,
+        "latestVersion": "1.1437.1-beta.2",
+        "versionCount": 1449,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "VRCFury"
         },
         "versions": {
+          "1.1437.1-beta.2": {
+            "version": "1.1437.1-beta.2",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1437.1-beta.2",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.1437.1-beta.1": {
             "version": "1.1437.1-beta.1",
             "name": "com.vrcfury.vrcfury",
@@ -134277,7 +134399,7 @@
     "id": "io.mekabu.vpm-repository",
     "author": "contact@mekabu.io",
     "hash": "afb531d339483772668bf9b0fbe2f91415a0d37733b4adad67544741ae03cb2e",
-    "last_updated": "2026-11-04T04:42:00.000Z",
+    "last_updated": "2026-11-05T04:57:04.000Z",
     "packageCount": 2,
     "packages": {
       "com.mekabu.blendshape-animation-creator": {
@@ -147548,8 +147670,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "b72b163ecf1919e7a3a3b8dbe95de9a74e75dfbdc3f7b166000c93c0bfeb7842",
-    "last_updated": "2026-11-04T03:18:13.000Z",
+    "hash": "24e545cc4587ef7aa018148c6dfb9ae2f7504ab383209ee16044007a8d03513d",
+    "last_updated": "2026-11-05T02:20:02.000Z",
     "packageCount": 10,
     "packages": {
       "com.poiyomi.pro": {
@@ -154423,8 +154545,8 @@
     "name": "cátte — VPM Packages",
     "id": "cat.kittyn.vpm",
     "author": "Kittyn",
-    "hash": "85f9fcb916ce996bd8c2d76c09cffbe4b775a83f1bfc0fb45d9f5395dfdfb4f3",
-    "last_updated": "2026-11-02T00:37:39.000Z",
+    "hash": "157ccd7d1911ce4a6a26177f5a57a9e4ad294421c1c01c8acdc590cbebf0320f",
+    "last_updated": "2026-11-04T12:19:13.000Z",
     "packageCount": 10,
     "packages": {
       "cat.kittyn.comfi-hierarchy": {
@@ -154749,8 +154871,8 @@
         "name": "cat.kittyn.immersive-scaler",
         "displayName": "🐟 Immersive Scaler 📐📏🎨",
         "description": "A non-destructive Unity editor tool for scaling VRChat avatars to real-world proportions.",
-        "latestVersion": "1.6.0",
-        "versionCount": 14,
+        "latestVersion": "1.6.1",
+        "versionCount": 15,
         "keywords": [
           "vrchat",
           "unity",
@@ -154763,6 +154885,19 @@
           "url": "https://github.com/kittynXR"
         },
         "versions": {
+          "1.6.1": {
+            "version": "1.6.1",
+            "name": "cat.kittyn.immersive-scaler",
+            "displayName": "🐟 Immersive Scaler 📐📏🎨",
+            "description": "A non-destructive Unity editor tool for scaling VRChat avatars to real-world proportions.",
+            "url": "https://github.com/kittynXR/imscaler/releases/download/v1.6.1/cat.kittyn.immersive-scaler-1.6.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.3 <3.11.0-a",
+              "nadena.dev.ndmf": ">=1.13.0 <2.0.0-a"
+            }
+          },
           "1.6.0": {
             "version": "1.6.0",
             "name": "cat.kittyn.immersive-scaler",
@@ -156826,7 +156961,7 @@
     "id": "dev.ladyluh.vpm",
     "author": "luna-gelmini",
     "hash": "29b50b3a46469eb3ade74e9b7cfef4546be058b5d397a4dc015b615979324093",
-    "last_updated": "2026-11-04T01:28:58.000Z",
+    "last_updated": "2026-11-04T23:47:09.000Z",
     "packageCount": 4,
     "packages": {
       "dev.ladyluh.questkit": {
@@ -178504,7 +178639,7 @@
     "id": "jp.pipipigiken.vpm",
     "author": "orange3134",
     "hash": "9e5347f501c89997b8426d982ba2f711f42b6b2b31527445aea5e47fb8ceaa7d",
-    "last_updated": "2026-11-04T02:25:04.000Z",
+    "last_updated": "2026-11-05T00:24:57.000Z",
     "packageCount": 2,
     "packages": {
       "jp.pipipigiken.mpavatar-package": {
@@ -180583,8 +180718,8 @@
     "name": "Raitichan's General store",
     "id": "net.raitichan.vpm",
     "author": "Raitichan",
-    "hash": "617aa0d89adefe12059413f7e6eadb1bfa703e7d906f4fc17d79d24781185439",
-    "last_updated": "2026-04-23T19:33:36.000Z",
+    "hash": "834d645ed3075d7a8bdbce150e6f1301455d0ec0b42b591458fa7d373d467b77",
+    "last_updated": "2026-11-04T11:51:05.000Z",
     "packageCount": 2,
     "packages": {
       "net.raitichan.avatar.bulk-uploader": {
@@ -180695,7 +180830,7 @@
         "displayName": "Int Parameter Compressor",
         "description": "Non destructively compresses synchronized parameters of type Int.",
         "latestVersion": "1.0.0-bata.1",
-        "versionCount": 5,
+        "versionCount": 6,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -180768,6 +180903,20 @@
             "unity": "2022.3",
             "vpmDependencies": {
               "com.vrchat.avatars": ">=3.5.0",
+              "nadena.dev.ndmf": ">=1.11.0",
+              "nadena.dev.modular-avatar": ">=1.16.2"
+            }
+          },
+          "2.0.0": {
+            "version": "2.0.0",
+            "name": "net.raitichan.int-parameter-compressor",
+            "displayName": "Int Parameter Compressor",
+            "description": "Non destructively compresses synchronized parameters of type Int.",
+            "url": "https://github.com/raiti-chan/int-parameter-compressor/releases/download/2.0.0/net.raitichan.int-parameter-compressor-2.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.6",
               "nadena.dev.ndmf": ">=1.11.0",
               "nadena.dev.modular-avatar": ">=1.16.2"
             }
@@ -184395,7 +184544,7 @@
     "id": "dev.thry.vpm",
     "author": "Thryrallo",
     "hash": "0189583cd590af92f6337bf072cfea3211c6a3ca90738536d8f30bcd5fab82cb",
-    "last_updated": "2024-08-05T22:13:00.000Z",
+    "last_updated": "2024-08-05T22:13:01.000Z",
     "packageCount": 1,
     "packages": {
       "de.thryrallo.vrc.avatar-performance-tools": {
@@ -185505,8 +185654,8 @@
     "name": "WhyKnot Tools",
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
-    "hash": "95f90a98fb5dcaf754625199ebcbad9d0c836735ca66a4573e2f09f4f040ead5",
-    "last_updated": "2026-11-03T13:15:05.000Z",
+    "hash": "dc581b4f41b504e58c69ad968b9fdd9e052b5057248ae9107eb4d3657b34e431",
+    "last_updated": "2026-11-04T13:28:23.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -194943,7 +195092,7 @@
     "id": "com.vrsuya.vpm",
     "author": "VRSuya",
     "hash": "d9359b39a831b5750565a2d5d4f13d1f803671792ac8214861c52bc38b69d2d2",
-    "last_updated": "2026-10-28T11:17:18.000Z",
+    "last_updated": "2026-10-28T11:17:19.000Z",
     "packageCount": 3,
     "packages": {
       "com.vrsuya.core": {
@@ -195044,8 +195193,8 @@
     "name": "VR Vlog Packages",
     "id": "com.vrvlog.packages",
     "author": "VR Vlog",
-    "hash": "c98cc89f9ecfa07167284ab5249f7e093254c4deb203857f4cfe3a71622d50eb",
-    "last_updated": "2026-11-03T07:58:56.000Z",
+    "hash": "1794ea46967e41c5c5e6c1cb0e36f4996d3487f19f4c353f721b8fc0f88d1f07",
+    "last_updated": "2026-11-05T01:19:13.000Z",
     "packageCount": 3,
     "packages": {
       "com.vrvlog.liltoon-vrm-exporter": {
@@ -195053,8 +195202,8 @@
         "name": "com.vrvlog.liltoon-vrm-exporter",
         "displayName": "VR Vlog lilToon VRM Exporter",
         "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-        "latestVersion": "1.6.0",
-        "versionCount": 95,
+        "latestVersion": "1.7.1",
+        "versionCount": 97,
         "keywords": [
           "vrm",
           "liltoon",
@@ -195066,6 +195215,26 @@
           "name": "VR Vlog"
         },
         "versions": {
+          "1.7.1": {
+            "version": "1.7.1",
+            "name": "com.vrvlog.liltoon-vrm-exporter",
+            "displayName": "VR Vlog lilToon VRM Exporter",
+            "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v1.7.1/com.vrvlog.liltoon-vrm-exporter-1.7.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.7.0": {
+            "version": "1.7.0",
+            "name": "com.vrvlog.liltoon-vrm-exporter",
+            "displayName": "VR Vlog lilToon VRM Exporter",
+            "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v1.7.0/com.vrvlog.liltoon-vrm-exporter-1.7.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.6.0": {
             "version": "1.6.0",
             "name": "com.vrvlog.liltoon-vrm-exporter",
@@ -196398,13 +196567,56 @@
   },
   {
     "url": "https://waya0125.com/vpm",
-    "name": "Waya0125 VPM",
-    "id": "waya0125.com",
+    "name": "waya0125 Package List",
+    "id": "com.waya0125",
     "author": "waya0125@waya0125.com",
-    "hash": null,
+    "hash": "35e4bd158cb01957dee5221de0cc7188cacc11aa43571ef6a972ebc425e10934",
     "last_updated": "2024-07-10T03:49:01.000Z",
-    "packageCount": 0,
-    "packages": {}
+    "packageCount": 1,
+    "packages": {
+      "com.waya0125.screencapture": {
+        "id": "com.waya0125.screencapture",
+        "name": "com.waya0125.screencapture",
+        "displayName": "waya0125 - Screen Capture",
+        "description": "This software is intended to photograph characters.",
+        "latestVersion": "1.0.1",
+        "versionCount": 2,
+        "keywords": [
+          "Screen",
+          "Capture",
+          "Avatar",
+          "waya0125"
+        ],
+        "unity": "2017.1",
+        "author": {
+          "name": "wayamoti2015@waya0125",
+          "email": "wayamoti2015@waya0125.com",
+          "url": "https://misskey.waya0125.com/@waya"
+        },
+        "versions": {
+          "1.0.1": {
+            "version": "1.0.1",
+            "name": "com.waya0125.screencapture",
+            "displayName": "waya0125 - Screen Capture",
+            "description": "This software is intended to photograph characters.",
+            "url": "https://files.waya0125.com/vpm/ScreenCapture/ScreenCapture_1.0.1.zip",
+            "zipSha256": null,
+            "unity": "2017.1",
+            "vpmDependencies": {}
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.waya0125.screencapture",
+            "displayName": "waya0125 - Screen Capture",
+            "description": "This software is intended to photograph characters.",
+            "url": "https://files.waya0125.com/vpm/ScreenCapture/ScreenCapture_1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2017.1",
+            "vpmDependencies": {}
+          }
+        }
+      }
+    }
   },
   {
     "url": "https://whiteflare.github.io/vpm-repos/vpm.json",
