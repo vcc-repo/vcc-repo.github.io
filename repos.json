@@ -2283,8 +2283,8 @@
     "name": "An-Labo NailTool",
     "id": "world.anlabo.mdnailtool.vpm",
     "author": "An-Labo",
-    "hash": "f675cfac6814069791e819db6f796e1367dde492d66abba955b0c63bc0c02b0f",
-    "last_updated": "2026-11-07T14:29:24.000Z",
+    "hash": "2a15d3bd46524818ccf8985c5a847a26fade55b8bc862f366412513ca21d0e21",
+    "last_updated": "2026-11-09T14:10:40.000Z",
     "packageCount": 1,
     "packages": {
       "world.anlabo.mdnailtool": {
@@ -2293,7 +2293,7 @@
         "displayName": "An-Labo NailTool",
         "description": "An-Labo NailTool",
         "latestVersion": "0.9.141",
-        "versionCount": 521,
+        "versionCount": 522,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -8568,6 +8568,19 @@
               "com.vrchat.avatars": ">=3.5.0",
               "nadena.dev.modular-avatar": ">=1.17.0"
             }
+          },
+          "0.11.16": {
+            "version": "0.11.16",
+            "name": "world.anlabo.mdnailtool",
+            "displayName": "An-Labo NailTool",
+            "description": "An-Labo NailTool",
+            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.11.16/world.anlabo.mdnailtool-0.11.16.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.5.0",
+              "nadena.dev.modular-avatar": ">=1.17.0"
+            }
           }
         }
       }
@@ -11795,7 +11808,7 @@
     "id": "com.awavr.vpm",
     "author": "AwA",
     "hash": "22064f8c95b78ec5892d45b2af7ecbc44a89d9443330c2b63733c4174e56e1f8",
-    "last_updated": "2026-09-19T19:28:38.000Z",
+    "last_updated": "2026-09-19T19:28:39.000Z",
     "packageCount": 11,
     "packages": {
       "com.awavr.core": {
@@ -14767,8 +14780,8 @@
     "name": "Orbiters VPM",
     "id": "cc.orbiters.vpm",
     "author": "blackorbit",
-    "hash": "170fb0a635427e50585c1c77ac9160c47fe0f7189a0c6a1593c5afc408f7722b",
-    "last_updated": "2026-11-09T04:24:41.000Z",
+    "hash": "a4ad38e1da44dcecb8a52c6ab29ae44e08cd4a6f5c3385b899aa346f0c93a8e2",
+    "last_updated": "2026-11-10T05:22:05.000Z",
     "packageCount": 12,
     "packages": {
       "orbiters.mcb": {
@@ -14776,8 +14789,8 @@
         "name": "orbiters.mcb",
         "displayName": "My Custom Base (MCB)",
         "description": "Wizard to apply a custom base with the MCB tool",
-        "latestVersion": "1.12.20",
-        "versionCount": 29,
+        "latestVersion": "1.12.24",
+        "versionCount": 33,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -14786,6 +14799,66 @@
           "email": "blackorbit.eclaire@gmail.com"
         },
         "versions": {
+          "1.12.24": {
+            "version": "1.12.24",
+            "name": "orbiters.mcb",
+            "displayName": "My Custom Base (MCB)",
+            "description": "Wizard to apply a custom base with the MCB tool",
+            "url": "https://github.com/Orbiters-cc/MyCustomBase/releases/download/1.12.24/My.Custom.Base.MCB.-1.12.24.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "orbiters.toolkit": ">=0.4.13 <0.5.0",
+              "com.vrchat.avatars": ">=3.7.0 <4.0.0",
+              "com.vrcfury.vrcfury": ">=1.1241.0",
+              "com.vrchat.core.vpm-resolver": ">=0.1.29 <0.2.0"
+            }
+          },
+          "1.12.23": {
+            "version": "1.12.23",
+            "name": "orbiters.mcb",
+            "displayName": "My Custom Base (MCB)",
+            "description": "Wizard to apply a custom base with the MCB tool",
+            "url": "https://github.com/Orbiters-cc/MyCustomBase/releases/download/1.12.23/My.Custom.Base.MCB.-1.12.23.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "orbiters.toolkit": ">=0.4.13 <0.5.0",
+              "com.vrchat.avatars": ">=3.7.0 <4.0.0",
+              "com.vrcfury.vrcfury": ">=1.1241.0",
+              "com.vrchat.core.vpm-resolver": ">=0.1.29 <0.2.0"
+            }
+          },
+          "1.12.22": {
+            "version": "1.12.22",
+            "name": "orbiters.mcb",
+            "displayName": "My Custom Base (MCB)",
+            "description": "Wizard to apply a custom base with the MCB tool",
+            "url": "https://github.com/Orbiters-cc/MyCustomBase/releases/download/1.12.22/My.Custom.Base.MCB.-1.12.22.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "orbiters.toolkit": ">=0.4.13 <0.5.0",
+              "com.vrchat.avatars": ">=3.7.0 <4.0.0",
+              "com.vrcfury.vrcfury": ">=1.1241.0",
+              "com.vrchat.core.vpm-resolver": ">=0.1.29 <0.2.0"
+            }
+          },
+          "1.12.21": {
+            "version": "1.12.21",
+            "name": "orbiters.mcb",
+            "displayName": "My Custom Base (MCB)",
+            "description": "Wizard to apply a custom base with the MCB tool",
+            "url": "https://github.com/Orbiters-cc/MyCustomBase/releases/download/1.12.21/My.Custom.Base.MCB.-1.12.21.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "orbiters.toolkit": ">=0.4.13 <0.5.0",
+              "com.vrchat.avatars": ">=3.7.0 <4.0.0",
+              "com.vrcfury.vrcfury": ">=1.1241.0",
+              "com.vrchat.core.vpm-resolver": ">=0.1.29 <0.2.0"
+            }
+          },
           "1.12.20": {
             "version": "1.12.20",
             "name": "orbiters.mcb",
@@ -24147,7 +24220,7 @@
     "id": "com.dinetool.listing",
     "author": "Dine",
     "hash": "c52ddc33e5cd3447a76fdfe02e19be5d0d7ee3cd7baa7705116a4d3c5cf35f19",
-    "last_updated": "2026-10-30T11:53:42.000Z",
+    "last_updated": "2026-10-30T11:53:43.000Z",
     "packageCount": 1,
     "packages": {
       "com.dine.tool": {
@@ -24513,7 +24586,7 @@
     "id": "com.docme.listing",
     "author": "DocMe",
     "hash": "af1c7014ae9d567536cb160bacb02d84afd07109533ab20df579a3c7da032a40",
-    "last_updated": "2026-11-09T00:30:10.000Z",
+    "last_updated": "2026-11-09T12:50:12.000Z",
     "packageCount": 5,
     "packages": {
       "com.docme.eye-installer": {
@@ -26144,8 +26217,8 @@
     "name": "Sakuu's VRChat Package Listing",
     "id": "drsakuu.vpm-listing",
     "author": "Dr. Sakuu Cuddles",
-    "hash": "3bee70b87ec94d95e8d0b9a085e1db71449b2a9475c45a2d43a1a8096b838b33",
-    "last_updated": "2026-10-03T16:23:56.000Z",
+    "hash": "a8e23e77eb06a107c3b4fe75f784e0a038d3c8e8d327fa35cf2ff888efb51152",
+    "last_updated": "2026-11-09T23:42:29.000Z",
     "packageCount": 1,
     "packages": {
       "drsakuu.humr": {
@@ -26153,8 +26226,8 @@
         "name": "drsakuu.humr",
         "displayName": "Hyakuashi Udon Motion Recorder",
         "description": "HUMR is a motion capture tool that records player's movements into the VRChat log files and then exports them to FBX in a Unity project. This is version 2, which uses a new log format.",
-        "latestVersion": "2.1.0",
-        "versionCount": 7,
+        "latestVersion": "2.1.1",
+        "versionCount": 8,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -26162,6 +26235,16 @@
           "url": "https://drsakuu.carrd.co"
         },
         "versions": {
+          "2.1.1": {
+            "version": "2.1.1",
+            "name": "drsakuu.humr",
+            "displayName": "Hyakuashi Udon Motion Recorder",
+            "description": "HUMR is a motion capture tool that records player's movements into the VRChat log files and then exports them to FBX in a Unity project. This is version 2, which uses a new log format.",
+            "url": "https://github.com/DrSakuu/HyakuashiUdonMotionRecorder/releases/download/v2.1.1/drsakuu.humr-2.1.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "2.1.0": {
             "version": "2.1.0",
             "name": "drsakuu.humr",
@@ -36025,7 +36108,7 @@
     "id": "com.synthos.packages",
     "author": "Synthos",
     "hash": "1d52e18c2664c94e0dae7cd195887b62780fbd3fde4bf63de9c8afef6109233a",
-    "last_updated": "2026-11-09T04:25:44.000Z",
+    "last_updated": "2026-11-10T02:33:34.000Z",
     "packageCount": 8,
     "packages": {
       "com.synthos.scene-optimizer": {
@@ -39871,8 +39954,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "c96d86d1729f603f46cacbe674f8290776ff0d679753386b5cead43e54f7d126",
-    "last_updated": "2026-11-08T07:46:36.000Z",
+    "hash": "1df99abcd8a0e6809ca127cef01737620476de26b28f55ad31f1b56d913216a0",
+    "last_updated": "2026-11-10T05:29:47.000Z",
     "packageCount": 10,
     "packages": {
       "com.poiyomi.pro": {
@@ -39880,8 +39963,8 @@
         "name": "com.poiyomi.pro",
         "displayName": "Poiyomi Pro",
         "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
-        "latestVersion": "11.0.44",
-        "versionCount": 53,
+        "latestVersion": "11.0.47",
+        "versionCount": 55,
         "keywords": [
           "shaders",
           "vrchat",
@@ -39895,6 +39978,30 @@
           "url": "https://poiyomi.com"
         },
         "versions": {
+          "11.0.47": {
+            "version": "11.0.47",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.47/8ef2d869f758090cbdc96c60319f45dccafe3e7d9a583354eb50260f02ef587b",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {
+              "com.unity.nuget.newtonsoft-json": "3.2.1"
+            }
+          },
+          "11.0.46": {
+            "version": "11.0.46",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.46/b16fb1f3d0481205e868c0143176b69eaf22e0f5762d9f3b935aed5df1593d2e",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {
+              "com.unity.nuget.newtonsoft-json": "3.2.1"
+            }
+          },
           "11.0.44": {
             "version": "11.0.44",
             "name": "com.poiyomi.pro",
@@ -49066,7 +49173,7 @@
     "id": "cat.hisa.vpm",
     "author": "HisaCat",
     "hash": "164e0ed610f0a593fb9eb5867230becff0831ebe47d88f25397692d3bbae92c4",
-    "last_updated": "2026-07-03T05:26:13.000Z",
+    "last_updated": "2026-07-03T05:26:12.000Z",
     "packageCount": 3,
     "packages": {
       "cat.hisa.asset-patcher": {
@@ -49227,7 +49334,7 @@
     "id": "com.github.hkrn",
     "author": "hkrn",
     "hash": "66afe02e940c091d4b955f7a758659dfa28c963b53e571fc1c24147280761b5f",
-    "last_updated": "2026-07-12T08:29:09.000Z",
+    "last_updated": "2026-07-12T08:29:10.000Z",
     "packageCount": 1,
     "packages": {
       "com.github.hkrn.ndmf-vrm-exporter": {
@@ -49895,7 +50002,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "dc975d1397ce107372949311ebff9c87b2475ea8a0827d7b3c6c9caa9a314034",
-    "last_updated": "2026-11-08T14:25:36.000Z",
+    "last_updated": "2026-11-09T11:42:38.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -52859,8 +52966,8 @@
     "name": "kb10uy VRChat Package Repository",
     "id": "org.kb10uy.vrc-repository",
     "author": "kb10uy",
-    "hash": "f5d57f8821f82c88c79feaa2cfe8ec1e6edc4a1a7f836f4e30e4bf23319cb5dd",
-    "last_updated": "2026-11-09T03:36:42.000Z",
+    "hash": "f0d1c1b61476c803673b16b0922deda88119fe99c7fb19fed19f8c3615cb286a",
+    "last_updated": "2026-11-09T17:22:52.000Z",
     "packageCount": 9,
     "packages": {
       "jp.lilxyzw.liltoon": {
@@ -58072,8 +58179,8 @@
         "name": "org.kb10uy.declavatar2",
         "displayName": "Declavatar 2",
         "description": "Declarative Avatar Asset Composing Tool; Revised",
-        "latestVersion": "1.1.0-beta.3",
-        "versionCount": 6,
+        "latestVersion": "1.1.0-beta.4",
+        "versionCount": 7,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -58082,6 +58189,20 @@
           "url": "https://kb10uy.org"
         },
         "versions": {
+          "1.1.0-beta.4": {
+            "version": "1.1.0-beta.4",
+            "name": "org.kb10uy.declavatar2",
+            "displayName": "Declavatar 2",
+            "description": "Declarative Avatar Asset Composing Tool; Revised",
+            "url": "https://github.com/kb10uy/declavatar2-vrchat/releases/download/1.1.0-beta.4/org.kb10uy.declavatar2.1.1.0-beta.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.6",
+              "nadena.dev.ndmf": ">=1.15.0-beta.4",
+              "nadena.dev.modular-avatar": ">=1.19.0-beta.0"
+            }
+          },
           "1.1.0-beta.3": {
             "version": "1.1.0-beta.3",
             "name": "org.kb10uy.declavatar2",
@@ -59951,7 +60072,7 @@
     "id": "com.kikurage1989.utilsscript",
     "author": "kikurage1989_",
     "hash": "a479bbbb44186c8db52473fa68813010d0cde6afd082f97f0ee93a79ee10ca50",
-    "last_updated": "2026-07-30T11:03:58.000Z",
+    "last_updated": "2026-07-30T11:03:57.000Z",
     "packageCount": 2,
     "packages": {
       "com.kikurage1989.utilsscript": {
@@ -60400,7 +60521,7 @@
     "id": "dev.kmnk.vpm",
     "author": "kmnk",
     "hash": "289bf9375caa157ddfca6bfd6627d491cc42435e8272497523d5d4bd0653c284",
-    "last_updated": "2026-11-08T18:19:45.000Z",
+    "last_updated": "2026-11-09T18:22:45.000Z",
     "packageCount": 2,
     "packages": {
       "dev.kmnk.log-stream": {
@@ -64508,7 +64629,7 @@
     "id": "lereldarion",
     "author": "Lereldarion",
     "hash": "fa9cc79e70fb00eb2aa70863c05e008271c255affd1e14192f26540239c3a213",
-    "last_updated": "2026-06-25T19:36:14.000Z",
+    "last_updated": "2026-06-25T19:36:15.000Z",
     "packageCount": 2,
     "packages": {
       "lereldarion.unity-shaders": {
@@ -67231,7 +67352,7 @@
     "id": "com.lightbulb.vpm",
     "author": "Lightbulb",
     "hash": "a29453938b874b0a8a30c0d1d6faeda76d6a381faf1f96b276ba444f8e05a3de",
-    "last_updated": "2026-11-08T23:42:27.000Z",
+    "last_updated": "2026-11-10T01:30:31.000Z",
     "packageCount": 1,
     "packages": {
       "com.lightbulb.world-tools": {
@@ -77248,7 +77369,7 @@
     "id": "com.njsgdd10086.vpm-repo",
     "author": "ATRI_NAIXU",
     "hash": "2f7c6a6ba0277ad0e5ade345ce5fca40fb0f946221603b205651420fdc7ba232",
-    "last_updated": "2026-11-09T01:59:57.000Z",
+    "last_updated": "2026-11-09T20:07:54.000Z",
     "packageCount": 3,
     "packages": {
       "com.atrinaxu.nontoon.lightlimit": {
@@ -78043,7 +78164,7 @@
     "id": "com.puddingkc.vpm-listing",
     "author": "PuddingKC",
     "hash": "f240f36289d0cc5747481bc9b789e2732c1ec1f494a82fe81e90c798c0fde67c",
-    "last_updated": "2026-07-04T04:18:32.000Z",
+    "last_updated": "2026-07-04T04:18:33.000Z",
     "packageCount": 3,
     "packages": {
       "com.puddingkc.ma-radial-control": {
@@ -93499,7 +93620,7 @@
     "id": "com.bavi.vpm",
     "author": "Bird",
     "hash": "439ad102d9b3835c37dff0d5a993cc96aea20f89d46930d6698f6b0dcc694a50",
-    "last_updated": "2026-10-20T23:31:06.000Z",
+    "last_updated": "2026-10-20T23:31:05.000Z",
     "packageCount": 1,
     "packages": {
       "com.bavi.motion-patcher": {
@@ -101428,7 +101549,7 @@
     "id": "com.mitsuboshi-studio.vpm",
     "author": "Mitsuboshi_Studio",
     "hash": "52cde1f130302215e50bd10fbf17761cac4d336a632db50118aa96eb79cfb767",
-    "last_updated": "2026-11-08T23:43:39.000Z",
+    "last_updated": "2026-11-10T01:32:57.000Z",
     "packageCount": 8,
     "packages": {
       "com.mitsuboshi-studio.unity-power-rename": {
@@ -102184,7 +102305,7 @@
     "id": "io.github.rurre.vpm",
     "author": "Pumkin",
     "hash": "a521b62454534e8ac91259065780938a307d6c87b5fc436008c7dfc95e5da1f4",
-    "last_updated": "2026-08-27T18:55:05.000Z",
+    "last_updated": "2026-08-27T18:55:06.000Z",
     "packageCount": 3,
     "packages": {
       "io.github.rurre.pumkinsavatartools": {
@@ -105339,7 +105460,7 @@
     "id": "com.mizore-nekoyanagi.vpm-packages",
     "author": "Mizore Nekoyanagi",
     "hash": "df5c206bda4082fc4825f6e0002aea2319d15d80cf9dc71813ef06fb4db812e7",
-    "last_updated": "2026-02-19T08:55:54.000Z",
+    "last_updated": "2026-02-19T08:55:53.000Z",
     "packageCount": 4,
     "packages": {
       "com.mizore-nekoyanagi.utils.apply-prefab-window": {
@@ -106575,7 +106696,7 @@
     "id": "net.nrzk.vpm.spsndmf",
     "author": "niriziki",
     "hash": "4c0aee96ad1e9ed01af3ca6b300d7d5afb02fd41b2dcfdbc1a98d21ba48ce34a",
-    "last_updated": "2026-10-31T15:46:56.000Z",
+    "last_updated": "2026-10-31T15:46:57.000Z",
     "packageCount": 3,
     "packages": {
       "net.nrzk.vfstub": {
@@ -117176,7 +117297,7 @@
     "id": "jp.toh.package-listing",
     "author": "toh",
     "hash": "cc3967c59f319ff5c3910acb82ddac984aa9ad35b5aaec5e395d6ab2cf0dfd4f",
-    "last_updated": "2025-04-28T14:28:15.000Z",
+    "last_updated": "2025-04-28T14:28:14.000Z",
     "packageCount": 1,
     "packages": {
       "jp.toh.easy-object-switch": {
@@ -118246,7 +118367,7 @@
     "id": "com.triturbo.blendshare.listing",
     "author": "Triturbo",
     "hash": "8d43fe402736de6cd2621406d3b850107d5fa9a6bc801a1a5857547ed262526d",
-    "last_updated": "2026-07-05T12:32:46.000Z",
+    "last_updated": "2026-07-05T12:32:45.000Z",
     "packageCount": 1,
     "packages": {
       "com.triturbo.blendshare": {
@@ -119233,7 +119354,7 @@
     "id": "io.github.tumayouzyo.tools",
     "author": "tumayouzyo",
     "hash": "839a598fdb19ddf023a3206915894a7049b07a982ed34bbe3211f87562a7b689",
-    "last_updated": "2026-11-09T02:00:42.000Z",
+    "last_updated": "2026-11-10T03:36:11.000Z",
     "packageCount": 2,
     "packages": {
       "io.github.tumayouzyo.fx-facial-assistant": {
@@ -121847,8 +121968,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "46e54b7399e2be7f6d30f295fd950b70d6124276b498437dcdeca9661a646182",
-    "last_updated": "2026-11-09T04:31:32.000Z",
+    "hash": "c2bf83692a1854013e27fc9fb8b63b9fe2b30276b220100642ae8ebb376ff9bf",
+    "last_updated": "2026-11-10T05:51:05.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -121856,14 +121977,44 @@
         "name": "com.vrcfury.vrcfury",
         "displayName": "VRCFury",
         "description": "Non-Destructive Tools for VRChat Avatars",
-        "latestVersion": "1.1442.1-beta.14",
-        "versionCount": 1470,
+        "latestVersion": "1.1442.1-beta.17",
+        "versionCount": 1473,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "VRCFury"
         },
         "versions": {
+          "1.1442.1-beta.17": {
+            "version": "1.1442.1-beta.17",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1442.1-beta.17",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1442.1-beta.16": {
+            "version": "1.1442.1-beta.16",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1442.1-beta.16",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1442.1-beta.15": {
+            "version": "1.1442.1-beta.15",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1442.1-beta.15",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.1442.1-beta.14": {
             "version": "1.1442.1-beta.14",
             "name": "com.vrcfury.vrcfury",
@@ -136727,7 +136878,7 @@
     "id": "io.mekabu.vpm-repository",
     "author": "contact@mekabu.io",
     "hash": "afb531d339483772668bf9b0fbe2f91415a0d37733b4adad67544741ae03cb2e",
-    "last_updated": "2026-11-09T04:24:04.000Z",
+    "last_updated": "2026-11-10T05:40:59.000Z",
     "packageCount": 2,
     "packages": {
       "com.mekabu.blendshape-animation-creator": {
@@ -138195,7 +138346,7 @@
     "name": "anatawa12",
     "id": "com.anatawa12.main",
     "author": "anatawa12",
-    "hash": "2c8dc33ac6ee731f835a33f4ecdbce0711f25cfed88c5ec4887d85eb44c10700",
+    "hash": "7ef352949f9e98e2a9ae1d2452b42d1494ee42c810df1169ce9e3e1bca273c90",
     "last_updated": "2026-08-01T16:09:51.342Z",
     "packageCount": 14,
     "packages": {
@@ -138205,7 +138356,7 @@
         "displayName": "Anatawa12's AvatarOpitmizer",
         "description": "Set of Anatawa12's Small Avatar Optimization Utilities",
         "latestVersion": "0.0.1",
-        "versionCount": 358,
+        "versionCount": 359,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -142915,6 +143066,19 @@
             "displayName": "AAO: Avatar Optimizer",
             "description": "Set of Anatawa12's Small Avatar Optimization Utilities",
             "url": "https://vpm.anatawa12.com/avatar-optimizer/package-1.9.21.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.8.0 <2.0.0",
+              "com.vrchat.avatars": ">=3.7.0 <3.11.0"
+            }
+          },
+          "1.9.22-rc.1": {
+            "version": "1.9.22-rc.1",
+            "name": "com.anatawa12.avatar-optimizer",
+            "displayName": "AAO: Avatar Optimizer",
+            "description": "Set of Anatawa12's Small Avatar Optimization Utilities",
+            "url": "https://vpm.anatawa12.com/avatar-optimizer/package-1.9.22-rc.1.zip?",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -148746,8 +148910,8 @@
     "name": "GokouKotori's VRChat Package Listing",
     "id": "com.gokoukotori.vpm",
     "author": "GokouKotori",
-    "hash": "ec560a40cc5ee0b2f084d7c7e41bb6bb2c79a86c57e194bc0498d802ff1f16e0",
-    "last_updated": "2026-11-06T09:38:13.000Z",
+    "hash": "fcbfae711f41e5b70c99415fdbee16abe518851800f0e86479a344df1c1bd959",
+    "last_updated": "2026-11-09T07:01:06.000Z",
     "packageCount": 9,
     "packages": {
       "com.gokoukotori.posetune": {
@@ -149060,8 +149224,8 @@
         "name": "com.gokoukotori.fbx-uv-texture-transfer",
         "displayName": "FBX UV Texture Transfer",
         "description": "A Unity Editor extension that transfers textures between FBX UV islands for VRChat avatars and applies them non-destructively as external layers in TexTransTool MultiLayerImageCanvas.",
-        "latestVersion": "0.2.0-beta.9",
-        "versionCount": 11,
+        "latestVersion": "0.2.0-beta.10",
+        "versionCount": 12,
         "keywords": [
           "VRChat",
           "TexTransTool",
@@ -149073,6 +149237,20 @@
           "name": "gokoukotori"
         },
         "versions": {
+          "0.2.0-beta.10": {
+            "version": "0.2.0-beta.10",
+            "name": "com.gokoukotori.fbx-uv-texture-transfer",
+            "displayName": "FBX UV Texture Transfer",
+            "description": "A Unity Editor extension that transfers textures between FBX UV islands for VRChat avatars and applies them non-destructively as external layers in TexTransTool MultiLayerImageCanvas.",
+            "url": "https://github.com/gokoukotori/FbxUVTextureTransferForUnity/releases/download/0.2.0-beta.10/com.gokoukotori.fbx-uv-texture-transfer-0.2.0-beta.10.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "net.rs64.tex-trans-tool": ">=1.1.0-beta.9",
+              "nadena.dev.ndmf": ">=1.14.4",
+              "com.vrchat.avatars": ">=3.10.4"
+            }
+          },
           "0.2.0-beta.9": {
             "version": "0.2.0-beta.9",
             "name": "com.gokoukotori.fbx-uv-texture-transfer",
@@ -150026,8 +150204,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "c96d86d1729f603f46cacbe674f8290776ff0d679753386b5cead43e54f7d126",
-    "last_updated": "2026-11-08T07:46:36.000Z",
+    "hash": "1df99abcd8a0e6809ca127cef01737620476de26b28f55ad31f1b56d913216a0",
+    "last_updated": "2026-11-10T05:29:47.000Z",
     "packageCount": 10,
     "packages": {
       "com.poiyomi.pro": {
@@ -150035,8 +150213,8 @@
         "name": "com.poiyomi.pro",
         "displayName": "Poiyomi Pro",
         "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
-        "latestVersion": "11.0.44",
-        "versionCount": 53,
+        "latestVersion": "11.0.47",
+        "versionCount": 55,
         "keywords": [
           "shaders",
           "vrchat",
@@ -150050,6 +150228,30 @@
           "url": "https://poiyomi.com"
         },
         "versions": {
+          "11.0.47": {
+            "version": "11.0.47",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.47/8ef2d869f758090cbdc96c60319f45dccafe3e7d9a583354eb50260f02ef587b",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {
+              "com.unity.nuget.newtonsoft-json": "3.2.1"
+            }
+          },
+          "11.0.46": {
+            "version": "11.0.46",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.46/b16fb1f3d0481205e868c0143176b69eaf22e0f5762d9f3b935aed5df1593d2e",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {
+              "com.unity.nuget.newtonsoft-json": "3.2.1"
+            }
+          },
           "11.0.44": {
             "version": "11.0.44",
             "name": "com.poiyomi.pro",
@@ -159393,7 +159595,7 @@
     "id": "dev.ladyluh.vpm",
     "author": "luna-gelmini",
     "hash": "29b50b3a46469eb3ade74e9b7cfef4546be058b5d397a4dc015b615979324093",
-    "last_updated": "2026-11-08T23:48:54.000Z",
+    "last_updated": "2026-11-10T01:39:33.000Z",
     "packageCount": 4,
     "packages": {
       "dev.ladyluh.questkit": {
@@ -181276,7 +181478,7 @@
     "id": "jp.pipipigiken.vpm",
     "author": "orange3134",
     "hash": "9e5347f501c89997b8426d982ba2f711f42b6b2b31527445aea5e47fb8ceaa7d",
-    "last_updated": "2026-11-09T00:59:03.000Z",
+    "last_updated": "2026-11-10T02:14:27.000Z",
     "packageCount": 2,
     "packages": {
       "jp.pipipigiken.mpavatar-package": {
@@ -187842,7 +188044,7 @@
     "id": "io.vrctools.public-listing",
     "author": "VRCTools",
     "hash": "224dea9213ca45e7075b5a46660f51047259c36ba576519fbd30ed0d965bc0b8",
-    "last_updated": "2026-10-20T17:11:23.000Z",
+    "last_updated": "2026-10-20T17:11:22.000Z",
     "packageCount": 3,
     "packages": {
       "io.vrctools.common": {
@@ -188329,8 +188531,8 @@
     "name": "WhyKnot Tools",
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
-    "hash": "55a9ee5ab01ceea1883f427f705ee41589bc4eac0071e69ad4c30abbdaa53c3c",
-    "last_updated": "2026-11-08T12:26:05.000Z",
+    "hash": "f55a664e3a5350e1f2def05a18cb6fc37d603ce465f8e21da2aa6c169d28cf0c",
+    "last_updated": "2026-11-10T00:36:24.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -188339,7 +188541,7 @@
         "displayName": "VRCFury QoL",
         "description": "Quality-of-life Editor tools for VRCFury. Right-click and inline-button affordances for things you'd otherwise dig through nested inspectors for: move/merge VRCFury components between GameObjects, replace references across a selection, auto-sync Global Parameter on Toggles, migrate child toggles into a Flipbook, missing-reference warnings on startup, hot reload + compile-error log.",
         "latestVersion": "1.2.5",
-        "versionCount": 7,
+        "versionCount": 8,
         "keywords": [
           "vrchat",
           "vrcfury",
@@ -188357,7 +188559,7 @@
             "name": "dev.whyknot.wk-vrcfury-qol",
             "displayName": "VRCFury QoL",
             "description": "Quality-of-life Editor tools for VRCFury. Right-click and inline-button affordances for things you'd otherwise dig through nested inspectors for: move/merge VRCFury components between GameObjects, replace references across a selection, auto-sync Global Parameter on Toggles, migrate child toggles into a Flipbook, missing-reference warnings on startup, hot reload + compile-error log.",
-            "url": "https://github.com/RealWhyKnot/wk-vrcfury-qol/releases/download/v1.2.5/dev.whyknot.wk-vrcfury-qol-1.2.5.zip",
+            "url": "https://vpm.whyknot.dev/packages/dev.whyknot.wk-vrcfury-qol-1.2.5.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -188369,7 +188571,7 @@
             "name": "dev.whyknot.wk-vrcfury-qol",
             "displayName": "VRCFury QoL",
             "description": "Quality-of-life Editor tools for VRCFury. Right-click and inline-button affordances for things you'd otherwise dig through nested inspectors for: move/merge VRCFury components between GameObjects, replace references across a selection, auto-sync Global Parameter on Toggles, migrate child toggles into a Flipbook, missing-reference warnings on startup, hot reload + compile-error log.",
-            "url": "https://github.com/RealWhyKnot/wk-vrcfury-qol/releases/download/v1.2.4/dev.whyknot.wk-vrcfury-qol-1.2.4.zip",
+            "url": "https://vpm.whyknot.dev/packages/dev.whyknot.wk-vrcfury-qol-1.2.4.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -188381,7 +188583,7 @@
             "name": "dev.whyknot.wk-vrcfury-qol",
             "displayName": "VRCFury QoL",
             "description": "Quality-of-life Editor tools for VRCFury. Right-click and inline-button affordances for things you'd otherwise dig through nested inspectors for: move/merge VRCFury components between GameObjects, replace references across a selection, auto-sync Global Parameter on Toggles, migrate child toggles into a Flipbook, missing-reference warnings on startup, hot reload + compile-error log.",
-            "url": "https://github.com/RealWhyKnot/wk-vrcfury-qol/releases/download/v1.2.3/dev.whyknot.wk-vrcfury-qol-1.2.3.zip",
+            "url": "https://vpm.whyknot.dev/packages/dev.whyknot.wk-vrcfury-qol-1.2.3.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -188393,7 +188595,7 @@
             "name": "dev.whyknot.wk-vrcfury-qol",
             "displayName": "VRCFury QoL",
             "description": "Quality-of-life Editor tools for VRCFury. Right-click and inline-button affordances for things you'd otherwise dig through nested inspectors for: move/merge VRCFury components between GameObjects, replace references across a selection, auto-sync Global Parameter on Toggles, migrate child toggles into a Flipbook, missing-reference warnings on startup, hot reload + compile-error log.",
-            "url": "https://github.com/RealWhyKnot/wk-vrcfury-qol/releases/download/v1.2.2/dev.whyknot.wk-vrcfury-qol-1.2.2.zip",
+            "url": "https://vpm.whyknot.dev/packages/dev.whyknot.wk-vrcfury-qol-1.2.2.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -188405,7 +188607,7 @@
             "name": "dev.whyknot.wk-vrcfury-qol",
             "displayName": "VRCFury QoL",
             "description": "Quality-of-life Editor tools for VRCFury. Right-click and inline-button affordances for things you'd otherwise dig through nested inspectors for: move/merge VRCFury components between GameObjects, replace references across a selection, auto-sync Global Parameter on Toggles, migrate child toggles into a Flipbook, missing-reference warnings on startup, hot reload + compile-error log.",
-            "url": "https://github.com/RealWhyKnot/wk-vrcfury-qol/releases/download/v1.2.1/dev.whyknot.wk-vrcfury-qol-1.2.1.zip",
+            "url": "https://vpm.whyknot.dev/packages/dev.whyknot.wk-vrcfury-qol-1.2.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -188417,7 +188619,7 @@
             "name": "dev.whyknot.wk-vrcfury-qol",
             "displayName": "VRCFury QoL",
             "description": "Quality-of-life Editor tools for VRCFury. Right-click and inline-button affordances for things you'd otherwise dig through nested inspectors for: move/merge VRCFury components between GameObjects, replace references across a selection, auto-sync Global Parameter on Toggles, migrate child toggles into a Flipbook, missing-reference warnings on startup, hot reload + compile-error log.",
-            "url": "https://github.com/RealWhyKnot/wk-vrcfury-qol/releases/download/v1.2.0/dev.whyknot.wk-vrcfury-qol-1.2.0.zip",
+            "url": "https://vpm.whyknot.dev/packages/dev.whyknot.wk-vrcfury-qol-1.2.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -188429,7 +188631,19 @@
             "name": "dev.whyknot.wk-vrcfury-qol",
             "displayName": "VRCFury QoL",
             "description": "Quality-of-life Editor tools for VRCFury. Right-click and inline-button affordances for things you'd otherwise dig through nested inspectors for: move/merge VRCFury components between GameObjects, replace references across a selection, auto-sync Global Parameter on Toggles, migrate child toggles into a Flipbook, missing-reference warnings on startup, hot reload + compile-error log.",
-            "url": "https://github.com/RealWhyKnot/wk-vrcfury-qol/releases/download/v1.2.0-beta.2/dev.whyknot.wk-vrcfury-qol-1.2.0-beta.2.zip",
+            "url": "https://vpm.whyknot.dev/packages/dev.whyknot.wk-vrcfury-qol-1.2.0-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrcfury.vrcfury": ">=1.1300.0"
+            }
+          },
+          "1.2.6": {
+            "version": "1.2.6",
+            "name": "dev.whyknot.wk-vrcfury-qol",
+            "displayName": "VRCFury QoL",
+            "description": "Quality-of-life Editor tools for VRCFury. Right-click and inline-button affordances for things you'd otherwise dig through nested inspectors for: move VRCFury components between GameObjects, replace references across a selection, auto-sync Global Parameter on Toggles, migrate child toggles into a Flipbook, missing-reference warnings on startup, hot reload + compile-error log.",
+            "url": "https://vpm.whyknot.dev/packages/dev.whyknot.wk-vrcfury-qol-1.2.6.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -197946,8 +198160,8 @@
     "name": "VR Vlog Packages",
     "id": "com.vrvlog.packages",
     "author": "VR Vlog",
-    "hash": "3b8e523e340be7f773a02c5b3483c8aac771b4838281c84a9f2f9c40e8ecce96",
-    "last_updated": "2026-11-09T03:49:22.000Z",
+    "hash": "9fba2c981031589a05fb6bc2dbf9323907c398bd38bc6e38e391c9680eefc91a",
+    "last_updated": "2026-11-10T03:32:55.000Z",
     "packageCount": 3,
     "packages": {
       "com.vrvlog.liltoon-vrm-exporter": {
@@ -197955,8 +198169,8 @@
         "name": "com.vrvlog.liltoon-vrm-exporter",
         "displayName": "VR Vlog lilToon VRM Exporter",
         "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-        "latestVersion": "1.11.0",
-        "versionCount": 104,
+        "latestVersion": "1.13.0",
+        "versionCount": 106,
         "keywords": [
           "vrm",
           "liltoon",
@@ -197968,6 +198182,26 @@
           "name": "VR Vlog"
         },
         "versions": {
+          "1.13.0": {
+            "version": "1.13.0",
+            "name": "com.vrvlog.liltoon-vrm-exporter",
+            "displayName": "VR Vlog lilToon VRM Exporter",
+            "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v1.13.0/com.vrvlog.liltoon-vrm-exporter-1.13.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.12.0": {
+            "version": "1.12.0",
+            "name": "com.vrvlog.liltoon-vrm-exporter",
+            "displayName": "VR Vlog lilToon VRM Exporter",
+            "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v1.12.0/com.vrvlog.liltoon-vrm-exporter-1.12.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.11.0": {
             "version": "1.11.0",
             "name": "com.vrvlog.liltoon-vrm-exporter",
@@ -207700,7 +207934,7 @@
     "id": "io.github.z3y.vpm-package-listing",
     "author": "z3y",
     "hash": "c8f45abe78349beb9c1c7a244eeec7d86fba39a22b3d376cd11036287d597410",
-    "last_updated": "2026-11-06T18:48:16.000Z",
+    "last_updated": "2026-11-06T18:47:50.000Z",
     "packageCount": 8,
     "packages": {
       "com.z3y.graphlit": {
