@@ -11617,7 +11617,7 @@
     "id": "com.awavr.vpm",
     "author": "AwA",
     "hash": "22064f8c95b78ec5892d45b2af7ecbc44a89d9443330c2b63733c4174e56e1f8",
-    "last_updated": "2026-09-19T19:28:38.000Z",
+    "last_updated": "2026-09-19T19:28:39.000Z",
     "packageCount": 11,
     "packages": {
       "com.awavr.core": {
@@ -14589,8 +14589,8 @@
     "name": "Orbiters VPM",
     "id": "cc.orbiters.vpm",
     "author": "blackorbit",
-    "hash": "3c9d7320de4d6d85d5cd7b8fcbbb5da110340b8d46c124330692e0c31090bd16",
-    "last_updated": "2026-11-12T05:21:52.000Z",
+    "hash": "872399b432b514598b1d0a67741ecaead96468ab8430b0daeec27520c9d5847a",
+    "last_updated": "2026-11-13T04:23:21.000Z",
     "packageCount": 12,
     "packages": {
       "orbiters.mcb": {
@@ -14598,8 +14598,8 @@
         "name": "orbiters.mcb",
         "displayName": "My Custom Base (MCB)",
         "description": "Wizard to apply a custom base with the MCB tool",
-        "latestVersion": "1.13.0",
-        "versionCount": 34,
+        "latestVersion": "1.14.0",
+        "versionCount": 35,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -14608,6 +14608,21 @@
           "email": "blackorbit.eclaire@gmail.com"
         },
         "versions": {
+          "1.14.0": {
+            "version": "1.14.0",
+            "name": "orbiters.mcb",
+            "displayName": "My Custom Base (MCB)",
+            "description": "Wizard to apply a custom base with the MCB tool",
+            "url": "https://github.com/Orbiters-cc/MyCustomBase/releases/download/1.14.0/My.Custom.Base.MCB.-1.14.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "orbiters.toolkit": ">=0.5.0 <0.6.0",
+              "com.vrchat.avatars": ">=3.7.0 <4.0.0",
+              "com.vrcfury.vrcfury": ">=1.1241.0",
+              "com.vrchat.core.vpm-resolver": ">=0.1.29 <0.2.0"
+            }
+          },
           "1.13.0": {
             "version": "1.13.0",
             "name": "orbiters.mcb",
@@ -18925,7 +18940,7 @@
     "id": "com.github.ch4rindo.vpm",
     "author": "ch4rindo",
     "hash": "622f1e0f36d6a8e11b25a886a10399eafd32b4945f0cd95b5dea7c788a739eb0",
-    "last_updated": "2026-09-28T08:46:16.000Z",
+    "last_updated": "2026-09-28T08:46:15.000Z",
     "packageCount": 2,
     "packages": {
       "dev.r1nd0.assetfinder": {
@@ -24113,7 +24128,7 @@
     "id": "com.dinetool.listing",
     "author": "Dine",
     "hash": "c52ddc33e5cd3447a76fdfe02e19be5d0d7ee3cd7baa7705116a4d3c5cf35f19",
-    "last_updated": "2026-10-30T11:53:42.000Z",
+    "last_updated": "2026-10-30T11:53:43.000Z",
     "packageCount": 1,
     "packages": {
       "com.dine.tool": {
@@ -24479,7 +24494,7 @@
     "id": "com.docme.listing",
     "author": "DocMe",
     "hash": "af1c7014ae9d567536cb160bacb02d84afd07109533ab20df579a3c7da032a40",
-    "last_updated": "2026-11-11T11:52:23.000Z",
+    "last_updated": "2026-11-12T12:40:43.000Z",
     "packageCount": 5,
     "packages": {
       "com.docme.eye-installer": {
@@ -35261,7 +35276,7 @@
     "id": "info.glintfraulein.vpm",
     "author": "GlinT Fraulein",
     "hash": "73604b5dbc89487eb98b71c30501c83b346b29d793d41781a16448cb6ed6daef",
-    "last_updated": "2026-11-04T16:39:39.000Z",
+    "last_updated": "2026-11-04T16:39:38.000Z",
     "packageCount": 1,
     "packages": {
       "info.glintfraulein.palasolu": {
@@ -36011,7 +36026,7 @@
     "id": "com.synthos.packages",
     "author": "Synthos",
     "hash": "1d52e18c2664c94e0dae7cd195887b62780fbd3fde4bf63de9c8afef6109233a",
-    "last_updated": "2026-11-12T05:35:53.000Z",
+    "last_updated": "2026-11-13T00:54:00.000Z",
     "packageCount": 8,
     "packages": {
       "com.synthos.scene-optimizer": {
@@ -39857,8 +39872,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "e29e3b0fff622210dbcd7a4862153b360e2364cc9cd7b728242b7df2483978bd",
-    "last_updated": "2026-11-12T04:50:41.000Z",
+    "hash": "692c0ca423e0995d6ae77ef9f773f770104fd43fda3df1635d5ff0e865456ee3",
+    "last_updated": "2026-11-12T19:30:53.000Z",
     "packageCount": 10,
     "packages": {
       "com.poiyomi.pro": {
@@ -39866,8 +39881,8 @@
         "name": "com.poiyomi.pro",
         "displayName": "Poiyomi Pro",
         "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
-        "latestVersion": "11.0.48",
-        "versionCount": 57,
+        "latestVersion": "11.0.49",
+        "versionCount": 58,
         "keywords": [
           "shaders",
           "vrchat",
@@ -39881,6 +39896,18 @@
           "url": "https://poiyomi.com"
         },
         "versions": {
+          "11.0.49": {
+            "version": "11.0.49",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.49/1c137ecbd3d7b2900bbcae287576e4289a5c0672ed2181aae5de927ad76c8766",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {
+              "com.unity.nuget.newtonsoft-json": "3.2.1"
+            }
+          },
           "11.0.48": {
             "version": "11.0.48",
             "name": "com.poiyomi.pro",
@@ -41101,7 +41128,7 @@
         "displayName": "Hackebein's Simple Dance Pole for Object Tracking",
         "description": "A simple dance pole prefab for avatars, prepared for the useage with Object Tracking. Drop on your Avatar, Upload, Select any basestation as tracker, Set offset, Done.",
         "latestVersion": "1.0.1",
-        "versionCount": 2,
+        "versionCount": 1,
         "keywords": [],
         "unity": null,
         "author": {
@@ -41118,17 +41145,6 @@
             "zipSha256": null,
             "vpmDependencies": {
               "hackebein.objecttracking": "*"
-            }
-          },
-          "1.0.0": {
-            "version": "1.0.0",
-            "name": "hackebein.objecttracking.examples.pole-simple",
-            "displayName": "Hackebein's Simple Dance Pole for Object Tracking",
-            "description": "A simple dance pole prefab for avatars, prepared for the useage with Object Tracking. Drop on your Avatar, Upload, Select any basestation as tracker, Set offset, Done.",
-            "url": "https://vpmm.dev/files/hackebein.objecttracking.examples.pole-simple/1.0.0/4194328c08705ce3b7ddfa130a309948b7b87266ef57359145580a731b102501",
-            "zipSha256": null,
-            "vpmDependencies": {
-              "hackebein.objecttracking": "1.0.0-beta.2"
             }
           }
         }
@@ -49100,7 +49116,7 @@
     "id": "cat.hisa.vpm",
     "author": "HisaCat",
     "hash": "164e0ed610f0a593fb9eb5867230becff0831ebe47d88f25397692d3bbae92c4",
-    "last_updated": "2026-07-03T05:26:12.000Z",
+    "last_updated": "2026-07-03T05:26:13.000Z",
     "packageCount": 3,
     "packages": {
       "cat.hisa.asset-patcher": {
@@ -49261,7 +49277,7 @@
     "id": "com.github.hkrn",
     "author": "hkrn",
     "hash": "66afe02e940c091d4b955f7a758659dfa28c963b53e571fc1c24147280761b5f",
-    "last_updated": "2026-07-12T08:29:10.000Z",
+    "last_updated": "2026-07-12T08:29:09.000Z",
     "packageCount": 1,
     "packages": {
       "com.github.hkrn.ndmf-vrm-exporter": {
@@ -49929,7 +49945,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "dc975d1397ce107372949311ebff9c87b2475ea8a0827d7b3c6c9caa9a314034",
-    "last_updated": "2026-11-11T11:05:54.000Z",
+    "last_updated": "2026-11-12T11:25:03.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -51478,7 +51494,7 @@
     "id": "dev.jetees.vpm-listing",
     "author": "JeTeeS",
     "hash": "c43d1d46596697e66705b99d7740a062daf269bacdf077d0810963cb05d466da",
-    "last_updated": "2024-05-22T15:17:51.000Z",
+    "last_updated": "2024-05-22T15:17:52.000Z",
     "packageCount": 1,
     "packages": {
       "dev.jetees.memoryoptimizer": {
@@ -60447,8 +60463,8 @@
     "name": "kmnk VPM Listing",
     "id": "dev.kmnk.vpm",
     "author": "kmnk",
-    "hash": "289bf9375caa157ddfca6bfd6627d491cc42435e8272497523d5d4bd0653c284",
-    "last_updated": "2026-11-11T18:20:33.000Z",
+    "hash": "b8e80a3ecd9ffbe408d67884261b7b555fd741f0994a4c8b9aec7ba34f1ef489",
+    "last_updated": "2026-11-12T18:22:11.000Z",
     "packageCount": 2,
     "packages": {
       "dev.kmnk.log-stream": {
@@ -60496,8 +60512,8 @@
         "name": "dev.kmnk.face-tracking-generator",
         "displayName": "Face Tracking Generator",
         "description": "Generates face tracking layers for VRChat avatars from text tables, with a table editor and preview.",
-        "latestVersion": "0.10.0",
-        "versionCount": 8,
+        "latestVersion": "0.11.0",
+        "versionCount": 9,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -60505,6 +60521,19 @@
           "url": "https://github.com/kmnk"
         },
         "versions": {
+          "0.11.0": {
+            "version": "0.11.0",
+            "name": "dev.kmnk.face-tracking-generator",
+            "displayName": "Face Tracking Generator",
+            "description": "Generates face tracking layers for VRChat avatars from text tables, with a table editor and preview.",
+            "url": "https://github.com/kmnk/VRChat_FaceTrackingGenerator/releases/download/v0.11.0/dev.kmnk.face-tracking-generator-0.11.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.6",
+              "nadena.dev.ndmf": ">=1.14.7 <2.0.0-a"
+            }
+          },
           "0.10.0": {
             "version": "0.10.0",
             "name": "dev.kmnk.face-tracking-generator",
@@ -64451,7 +64480,7 @@
     "id": "net.euan.lazyoptimiser.listing",
     "author": "euan142",
     "hash": "6a0b4ea94d87ae345649306e6fda40f7bd86325206e58e1a4c5943450a9fe4ee",
-    "last_updated": "2025-02-20T10:25:21.000Z",
+    "last_updated": "2025-02-20T10:25:22.000Z",
     "packageCount": 1,
     "packages": {
       "net.euan.lazyoptimiser": {
@@ -67305,7 +67334,7 @@
     "id": "com.lightbulb.vpm",
     "author": "Lightbulb",
     "hash": "028c8a797a7bd992d7495b57a5f4ec6d6b6d5bc7f4df749c41c2d60efc8fdf5f",
-    "last_updated": "2026-11-12T02:59:16.000Z",
+    "last_updated": "2026-11-13T00:23:46.000Z",
     "packageCount": 1,
     "packages": {
       "com.lightbulb.world-tools": {
@@ -70560,7 +70589,7 @@
     "id": "com.mame8.vpm",
     "author": "mame8",
     "hash": "880c4bc843e71444652593ac77a1a92bd04b01453281fbe2f51c3cd1ea8bf95a",
-    "last_updated": "2026-07-02T19:27:30.000Z",
+    "last_updated": "2026-07-02T19:27:29.000Z",
     "packageCount": 3,
     "packages": {
       "com.mame8.animator-controller-context": {
@@ -75389,8 +75418,8 @@
     "name": "Natane Toon Shader",
     "id": "com.natane.toonshader.listing",
     "author": "Natane",
-    "hash": "9e516230605021059ecbeb45c3be48067db3797a92157d21ddd4dcdd302fee38",
-    "last_updated": "2026-11-12T05:26:14.000Z",
+    "hash": "52f1f351d656da2afce5596eb6e8ac183fba63a3c7d3b46842bfd3dd2cc87abb",
+    "last_updated": "2026-11-12T14:27:09.000Z",
     "packageCount": 1,
     "packages": {
       "com.natane.toonshader": {
@@ -75399,7 +75428,7 @@
         "displayName": "Natane Toon Shader",
         "description": "A comprehensive cel-shading/NPR toon shader for Unity Built-in Render Pipeline. NEW v1.2.0: AudioLink support (club events), Multiple MatCaps (2nd/3rd), Distance Fade, Vertex Animation (wind/breath), Hologram/Glitch effects, Decal system, Backface Texture, Video/Render Texture support, LTCGI integration, Dithering Alpha, Shadow Color Texture, Rim Direction Control, Multi-Color Outlines. Features material preset system with 59 defaults (30 character, 10 Toon/NPR styles), intelligent inspector UI, parameter sharing, visual preset browser, material validator (VRChat optimization), interactive help system (24 glossary terms, 6 tutorials), batch processor (5 modes), realtime preview, color palette management, scene material editor, texture optimizer, cubemap reflection, environmental rim, parallax mapping, refraction, advanced lighting, VRC Light Volumes support, SSS, virtual expressions, mask textures, particle system editor, shader prewarming (VRChat-safe), asset reference checker, mask texture brush, lilToon prefab migration. Full Japanese UI localization. Designer-friendly with comprehensive non-engineer support tools.",
         "latestVersion": "1.3.2",
-        "versionCount": 44,
+        "versionCount": 45,
         "keywords": [
           "shader",
           "toon",
@@ -75865,6 +75894,16 @@
             "displayName": "Natane Toon Shader",
             "description": "A comprehensive cel-shading/NPR toon shader for Unity Built-in Render Pipeline. NEW v1.2.0: AudioLink support (club events), Multiple MatCaps (2nd/3rd), Distance Fade, Vertex Animation (wind/breath), Hologram/Glitch effects, Decal system, Backface Texture, Video/Render Texture support, LTCGI integration, Dithering Alpha, Shadow Color Texture, Rim Direction Control, Multi-Color Outlines. Features material preset system with 59 defaults (30 character, 10 Toon/NPR styles), intelligent inspector UI, parameter sharing, visual preset browser, material validator (VRChat optimization), interactive help system (24 glossary terms, 6 tutorials), batch processor (5 modes), realtime preview, color palette management, scene material editor, texture optimizer, cubemap reflection, environmental rim, parallax mapping, refraction, advanced lighting, VRC Light Volumes support, SSS, virtual expressions, mask textures, particle system editor, shader prewarming (VRChat-safe), asset reference checker, mask texture brush, lilToon prefab migration. NEW v1.3.x: Specular Intensity control, Dither Stabilize (Object-Relative dithering), Procedural MatCap, Light Snap, Angel Ring (hair highlight), Light Volume Specular, Kuwahara Filter, Color Bleeding, Watercolor Effect, 3D LUT, Fake Reflection, Eye Parallax, Screen Edge Effect, Perspective Flat, Normal Warp. Full Japanese UI localization. Designer-friendly with comprehensive non-engineer support tools.",
             "url": "https://github.com/natane010/natane_toon_shader/releases/download/v1.8.0/com.natane.toonshader-1.8.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.8.5": {
+            "version": "1.8.5",
+            "name": "com.natane.toonshader",
+            "displayName": "Natane Toon Shader",
+            "description": "A comprehensive cel-shading/NPR toon shader for Unity Built-in Render Pipeline. NEW v1.2.0: AudioLink support (club events), Multiple MatCaps (2nd/3rd), Distance Fade, Vertex Animation (wind/breath), Hologram/Glitch effects, Decal system, Backface Texture, Video/Render Texture support, LTCGI integration, Dithering Alpha, Shadow Color Texture, Rim Direction Control, Multi-Color Outlines. Features material preset system with 59 defaults (30 character, 10 Toon/NPR styles), intelligent inspector UI, parameter sharing, visual preset browser, material validator (VRChat optimization), interactive help system (24 glossary terms, 6 tutorials), batch processor (5 modes), realtime preview, color palette management, scene material editor, texture optimizer, cubemap reflection, environmental rim, parallax mapping, refraction, advanced lighting, VRC Light Volumes support, SSS, virtual expressions, mask textures, particle system editor, shader prewarming (VRChat-safe), asset reference checker, mask texture brush, lilToon prefab migration. NEW v1.3.x: Specular Intensity control, Dither Stabilize (Object-Relative dithering), Procedural MatCap, Light Snap, Angel Ring (hair highlight), Light Volume Specular, Kuwahara Filter, Color Bleeding, Watercolor Effect, 3D LUT, Fake Reflection, Eye Parallax, Screen Edge Effect, Perspective Flat, Normal Warp. Full Japanese UI localization. Designer-friendly with comprehensive non-engineer support tools.",
+            "url": "https://github.com/natane010/natane_toon_shader/releases/download/v1.8.5/com.natane.toonshader-1.8.5.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {}
@@ -77441,7 +77480,7 @@
     "id": "com.njsgdd10086.vpm-repo",
     "author": "ATRI_NAIXU",
     "hash": "2f7c6a6ba0277ad0e5ade345ce5fca40fb0f946221603b205651420fdc7ba232",
-    "last_updated": "2026-11-12T00:29:38.000Z",
+    "last_updated": "2026-11-13T02:47:31.000Z",
     "packageCount": 3,
     "packages": {
       "com.atrinaxu.nontoon.lightlimit": {
@@ -93692,7 +93731,7 @@
     "id": "com.bavi.vpm",
     "author": "Bird",
     "hash": "439ad102d9b3835c37dff0d5a993cc96aea20f89d46930d6698f6b0dcc694a50",
-    "last_updated": "2026-10-20T23:31:06.000Z",
+    "last_updated": "2026-10-20T23:31:05.000Z",
     "packageCount": 1,
     "packages": {
       "com.bavi.motion-patcher": {
@@ -101084,7 +101123,7 @@
     "id": "com.mitsuboshi-studio.vpm",
     "author": "Mitsuboshi_Studio",
     "hash": "52cde1f130302215e50bd10fbf17761cac4d336a632db50118aa96eb79cfb767",
-    "last_updated": "2026-11-12T03:00:18.000Z",
+    "last_updated": "2026-11-13T00:26:10.000Z",
     "packageCount": 8,
     "packages": {
       "com.mitsuboshi-studio.unity-power-rename": {
@@ -113473,9 +113512,9 @@
     "name": "TenteEEEE VPM Packages",
     "id": "com.tentee.vpm-repos",
     "author": "TenteEEEE",
-    "hash": "1c79767204f2160ff72bc77656adaf4777389c168c840d7138795e741fb779f5",
-    "last_updated": "2026-11-11T15:06:22.000Z",
-    "packageCount": 8,
+    "hash": "b31cde9e396121c2a703c16e7ba87f04d16d643d71e28b2da6515466d927dc5d",
+    "last_updated": "2026-11-12T12:17:10.000Z",
+    "packageCount": 9,
     "packages": {
       "com.tentee.vrc-rotation-timer": {
         "id": "com.tentee.vrc-rotation-timer",
@@ -113944,6 +113983,65 @@
           }
         }
       },
+      "com.tentee.vrc-utsushi": {
+        "id": "com.tentee.vrc-utsushi",
+        "name": "com.tentee.vrc-utsushi",
+        "displayName": "Utsushi",
+        "description": "Utsushi mirrors a Google Sheets range onto boards in a VRChat world and updates them without re-uploading the world (Apps Script -> GitHub Gist -> String Loading).",
+        "latestVersion": "0.6.2",
+        "versionCount": 3,
+        "keywords": [
+          "vrchat",
+          "worlds",
+          "udonsharp",
+          "spreadsheet",
+          "google-sheets",
+          "board"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "TenteEEEE",
+          "url": "https://github.com/TenteEEEE"
+        },
+        "versions": {
+          "0.6.2": {
+            "version": "0.6.2",
+            "name": "com.tentee.vrc-utsushi",
+            "displayName": "Utsushi",
+            "description": "Utsushi mirrors a Google Sheets range onto boards in a VRChat world and updates them without re-uploading the world (Apps Script -> GitHub Gist -> String Loading).",
+            "url": "https://github.com/TenteEEEE/vrchat-world-utsushi/releases/download/0.6.2/com.tentee.vrc-utsushi-0.6.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.0"
+            }
+          },
+          "0.6.1": {
+            "version": "0.6.1",
+            "name": "com.tentee.vrc-utsushi",
+            "displayName": "Utsushi",
+            "description": "Utsushi mirrors a Google Sheets range onto boards in a VRChat world and updates them without re-uploading the world (Apps Script -> GitHub Gist -> String Loading).",
+            "url": "https://github.com/TenteEEEE/vrchat-world-utsushi/releases/download/0.6.1/com.tentee.vrc-utsushi-0.6.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.0"
+            }
+          },
+          "0.6.0": {
+            "version": "0.6.0",
+            "name": "com.tentee.vrc-utsushi",
+            "displayName": "Utsushi",
+            "description": "Utsushi mirrors a Google Sheets range onto boards in a VRChat world and updates them without re-uploading the world (Apps Script -> GitHub Gist -> String Loading).",
+            "url": "https://github.com/TenteEEEE/vrchat-world-utsushi/releases/download/0.6.0/com.tentee.vrc-utsushi-0.6.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.0"
+            }
+          }
+        }
+      },
       "com.tentee.vrc-sheet-board": {
         "id": "com.tentee.vrc-sheet-board",
         "name": "com.tentee.vrc-sheet-board",
@@ -113970,7 +114068,7 @@
             "name": "com.tentee.vrc-sheet-board",
             "displayName": "Sheet Board",
             "description": "Show a Google Sheets range on boards in a VRChat world and update it without re-uploading the world (Apps Script -> GitHub Gist -> String Loading).",
-            "url": "https://github.com/TenteEEEE/vrchat-world-sheet-board/releases/download/0.5.0/com.tentee.vrc-sheet-board-0.5.0.zip",
+            "url": "https://github.com/TenteEEEE/vrchat-world-utsushi/releases/download/0.5.0/com.tentee.vrc-sheet-board-0.5.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -113982,7 +114080,7 @@
             "name": "com.tentee.vrc-sheet-board",
             "displayName": "Sheet Board",
             "description": "Show a Google Sheets range on boards in a VRChat world and update it without re-uploading the world (Apps Script -> GitHub Gist -> String Loading).",
-            "url": "https://github.com/TenteEEEE/vrchat-world-sheet-board/releases/download/0.4.0/com.tentee.vrc-sheet-board-0.4.0.zip",
+            "url": "https://github.com/TenteEEEE/vrchat-world-utsushi/releases/download/0.4.0/com.tentee.vrc-sheet-board-0.4.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -113994,7 +114092,7 @@
             "name": "com.tentee.vrc-sheet-board",
             "displayName": "Sheet Board",
             "description": "Show a Google Sheets range on boards in a VRChat world and update it without re-uploading the world (Apps Script -> GitHub Gist -> String Loading).",
-            "url": "https://github.com/TenteEEEE/vrchat-world-sheet-board/releases/download/0.3.1/com.tentee.vrc-sheet-board-0.3.1.zip",
+            "url": "https://github.com/TenteEEEE/vrchat-world-utsushi/releases/download/0.3.1/com.tentee.vrc-sheet-board-0.3.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -114006,7 +114104,7 @@
             "name": "com.tentee.vrc-sheet-board",
             "displayName": "Sheet Board",
             "description": "Show a Google Sheets range on boards in a VRChat world and update it without re-uploading the world (Apps Script -> GitHub Gist -> String Loading).",
-            "url": "https://github.com/TenteEEEE/vrchat-world-sheet-board/releases/download/0.3.0/com.tentee.vrc-sheet-board-0.3.0.zip",
+            "url": "https://github.com/TenteEEEE/vrchat-world-utsushi/releases/download/0.3.0/com.tentee.vrc-sheet-board-0.3.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -114018,7 +114116,7 @@
             "name": "com.tentee.vrc-sheet-board",
             "displayName": "Sheet Board",
             "description": "Show a Google Sheets range on boards in a VRChat world and update it without re-uploading the world (Apps Script -> GitHub Gist -> String Loading).",
-            "url": "https://github.com/TenteEEEE/vrchat-world-sheet-board/releases/download/0.2.1/com.tentee.vrc-sheet-board-0.2.1.zip",
+            "url": "https://github.com/TenteEEEE/vrchat-world-utsushi/releases/download/0.2.1/com.tentee.vrc-sheet-board-0.2.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -114030,7 +114128,7 @@
             "name": "com.tentee.vrc-sheet-board",
             "displayName": "Sheet Board",
             "description": "Show a Google Sheets range on boards in a VRChat world and update it without re-uploading the world (Apps Script -> GitHub Gist -> String Loading).",
-            "url": "https://github.com/TenteEEEE/vrchat-world-sheet-board/releases/download/0.2.0/com.tentee.vrc-sheet-board-0.2.0.zip",
+            "url": "https://github.com/TenteEEEE/vrchat-world-utsushi/releases/download/0.2.0/com.tentee.vrc-sheet-board-0.2.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -114042,7 +114140,7 @@
             "name": "com.tentee.vrc-sheet-board",
             "displayName": "Sheet Board",
             "description": "Show a Google Sheets range on boards in a VRChat world and update it without re-uploading the world (Apps Script -> GitHub Gist -> String Loading).",
-            "url": "https://github.com/TenteEEEE/vrchat-world-sheet-board/releases/download/0.1.1/com.tentee.vrc-sheet-board-0.1.1.zip",
+            "url": "https://github.com/TenteEEEE/vrchat-world-utsushi/releases/download/0.1.1/com.tentee.vrc-sheet-board-0.1.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -114054,7 +114152,7 @@
             "name": "com.tentee.vrc-sheet-board",
             "displayName": "Sheet Board",
             "description": "Show a Google Sheets range on boards in a VRChat world and update it without re-uploading the world (Apps Script -> GitHub Gist -> String Loading).",
-            "url": "https://github.com/TenteEEEE/vrchat-world-sheet-board/releases/download/0.1.0/com.tentee.vrc-sheet-board-0.1.0.zip",
+            "url": "https://github.com/TenteEEEE/vrchat-world-utsushi/releases/download/0.1.0/com.tentee.vrc-sheet-board-0.1.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -116854,7 +116952,7 @@
     "id": "jp.toh.package-listing",
     "author": "toh",
     "hash": "cc3967c59f319ff5c3910acb82ddac984aa9ad35b5aaec5e395d6ab2cf0dfd4f",
-    "last_updated": "2025-04-28T14:28:15.000Z",
+    "last_updated": "2025-04-28T14:28:14.000Z",
     "packageCount": 1,
     "packages": {
       "jp.toh.easy-object-switch": {
@@ -117924,7 +118022,7 @@
     "id": "com.triturbo.blendshare.listing",
     "author": "Triturbo",
     "hash": "8d43fe402736de6cd2621406d3b850107d5fa9a6bc801a1a5857547ed262526d",
-    "last_updated": "2026-07-05T12:32:45.000Z",
+    "last_updated": "2026-07-05T12:32:46.000Z",
     "packageCount": 1,
     "packages": {
       "com.triturbo.blendshare": {
@@ -118911,7 +119009,7 @@
     "id": "io.github.tumayouzyo.tools",
     "author": "tumayouzyo",
     "hash": "839a598fdb19ddf023a3206915894a7049b07a982ed34bbe3211f87562a7b689",
-    "last_updated": "2026-11-12T02:32:30.000Z",
+    "last_updated": "2026-11-12T23:53:29.000Z",
     "packageCount": 2,
     "packages": {
       "io.github.tumayouzyo.fx-facial-assistant": {
@@ -121474,7 +121572,7 @@
     "id": "co.raphii.vpm-listing",
     "author": "Raphiiko",
     "hash": "13d7c0741bdb67306d4706066396ddccd4188238b4335f6b126e26cf84767a0b",
-    "last_updated": "2026-07-03T23:15:31.000Z",
+    "last_updated": "2026-07-03T23:15:32.000Z",
     "packageCount": 1,
     "packages": {
       "co.raphii.vrti.avatarmenu": {
@@ -121537,8 +121635,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "c28795403793f94df57a8a502b90e871c6d17f59d6e5f0b960389deb223a72fe",
-    "last_updated": "2026-11-12T05:17:25.000Z",
+    "hash": "22a23785a2983eb8545712f90ec864a82bd99dd913f10406aa98124c405b3331",
+    "last_updated": "2026-11-13T04:56:03.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -121546,14 +121644,94 @@
         "name": "com.vrcfury.vrcfury",
         "displayName": "VRCFury",
         "description": "Non-Destructive Tools for VRChat Avatars",
-        "latestVersion": "1.1457.1-beta.2",
-        "versionCount": 1491,
+        "latestVersion": "1.1460.1-beta.2",
+        "versionCount": 1499,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "VRCFury"
         },
         "versions": {
+          "1.1460.1-beta.2": {
+            "version": "1.1460.1-beta.2",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1460.1-beta.2",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1460.1-beta.1": {
+            "version": "1.1460.1-beta.1",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1460.1-beta.1",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1460.0": {
+            "version": "1.1460.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1460.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1459.1-beta.3": {
+            "version": "1.1459.1-beta.3",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1459.1-beta.3",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1459.1-beta.2": {
+            "version": "1.1459.1-beta.2",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1459.1-beta.2",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1459.1-beta.1": {
+            "version": "1.1459.1-beta.1",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1459.1-beta.1",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1459.0": {
+            "version": "1.1459.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1459.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1458.0": {
+            "version": "1.1458.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1458.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.1457.1-beta.2": {
             "version": "1.1457.1-beta.2",
             "name": "com.vrcfury.vrcfury",
@@ -136627,7 +136805,7 @@
     "id": "io.mekabu.vpm-repository",
     "author": "contact@mekabu.io",
     "hash": "afb531d339483772668bf9b0fbe2f91415a0d37733b4adad67544741ae03cb2e",
-    "last_updated": "2026-11-12T05:39:16.000Z",
+    "last_updated": "2026-11-13T04:53:16.000Z",
     "packageCount": 2,
     "packages": {
       "com.mekabu.blendshape-animation-creator": {
@@ -149979,8 +150157,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "e29e3b0fff622210dbcd7a4862153b360e2364cc9cd7b728242b7df2483978bd",
-    "last_updated": "2026-11-12T04:50:41.000Z",
+    "hash": "692c0ca423e0995d6ae77ef9f773f770104fd43fda3df1635d5ff0e865456ee3",
+    "last_updated": "2026-11-12T19:30:53.000Z",
     "packageCount": 10,
     "packages": {
       "com.poiyomi.pro": {
@@ -149988,8 +150166,8 @@
         "name": "com.poiyomi.pro",
         "displayName": "Poiyomi Pro",
         "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
-        "latestVersion": "11.0.48",
-        "versionCount": 57,
+        "latestVersion": "11.0.49",
+        "versionCount": 58,
         "keywords": [
           "shaders",
           "vrchat",
@@ -150003,6 +150181,18 @@
           "url": "https://poiyomi.com"
         },
         "versions": {
+          "11.0.49": {
+            "version": "11.0.49",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.49/1c137ecbd3d7b2900bbcae287576e4289a5c0672ed2181aae5de927ad76c8766",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {
+              "com.unity.nuget.newtonsoft-json": "3.2.1"
+            }
+          },
           "11.0.48": {
             "version": "11.0.48",
             "name": "com.poiyomi.pro",
@@ -151223,7 +151413,7 @@
         "displayName": "Hackebein's Simple Dance Pole for Object Tracking",
         "description": "A simple dance pole prefab for avatars, prepared for the useage with Object Tracking. Drop on your Avatar, Upload, Select any basestation as tracker, Set offset, Done.",
         "latestVersion": "1.0.1",
-        "versionCount": 2,
+        "versionCount": 1,
         "keywords": [],
         "unity": null,
         "author": {
@@ -151240,17 +151430,6 @@
             "zipSha256": null,
             "vpmDependencies": {
               "hackebein.objecttracking": "*"
-            }
-          },
-          "1.0.0": {
-            "version": "1.0.0",
-            "name": "hackebein.objecttracking.examples.pole-simple",
-            "displayName": "Hackebein's Simple Dance Pole for Object Tracking",
-            "description": "A simple dance pole prefab for avatars, prepared for the useage with Object Tracking. Drop on your Avatar, Upload, Select any basestation as tracker, Set offset, Done.",
-            "url": "https://vpmm.dev/files/hackebein.objecttracking.examples.pole-simple/1.0.0/4194328c08705ce3b7ddfa130a309948b7b87266ef57359145580a731b102501",
-            "zipSha256": null,
-            "vpmDependencies": {
-              "hackebein.objecttracking": "1.0.0-beta.2"
             }
           }
         }
@@ -159394,7 +159573,7 @@
     "id": "dev.ladyluh.vpm",
     "author": "luna-gelmini",
     "hash": "29b50b3a46469eb3ade74e9b7cfef4546be058b5d397a4dc015b615979324093",
-    "last_updated": "2026-11-12T03:54:51.000Z",
+    "last_updated": "2026-11-13T01:56:48.000Z",
     "packageCount": 4,
     "packages": {
       "dev.ladyluh.questkit": {
@@ -165752,8 +165931,8 @@
     "name": "bd_",
     "id": "dev.nadena.vpm",
     "author": "bd_",
-    "hash": "2f1f144303d7b37636e3355acfee494c17946cb235b2e99b11e3df69b2652251",
-    "last_updated": "2026-11-12T03:22:11.000Z",
+    "hash": "2644b17284aa9284d3a4e840e38272e100b65c29e846d187bf20525f763d3574",
+    "last_updated": "2026-11-13T04:00:30.000Z",
     "packageCount": 4,
     "packages": {
       "nadena.dev.misc-vrc-tools": {
@@ -165789,7 +165968,7 @@
         "displayName": "Modular Avatar",
         "description": null,
         "latestVersion": "0.8.0",
-        "versionCount": 199,
+        "versionCount": 200,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -167416,6 +167595,18 @@
             "displayName": "Modular Avatar",
             "description": "A suite of tools for assembling your avatar out of reusable components",
             "url": "https://packages.vpm.nadena.dev/repositories/nadena.dev/packages/nadena.dev.modular-avatar/1.19.0-rc.1/b45c3752bab5e601a252fd0a06af8f6d457e280364e27df43ed4f30e45f15888.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.15.0-beta.1 <2.0.0-a"
+            }
+          },
+          "1.19.0-rc.2": {
+            "version": "1.19.0-rc.2",
+            "name": "nadena.dev.modular-avatar",
+            "displayName": "Modular Avatar",
+            "description": "A suite of tools for assembling your avatar out of reusable components",
+            "url": "https://packages.vpm.nadena.dev/repositories/nadena.dev/packages/nadena.dev.modular-avatar/1.19.0-rc.2/d9a99308a8bfa3be1e945823534136195e00995235e398d82e013a73f5b17f2a.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -181289,7 +181480,7 @@
     "id": "jp.pipipigiken.vpm",
     "author": "orange3134",
     "hash": "fdfcf0227a2be7d6ef7e840800fc48834054e85de4dd49202c7e2154a08fece3",
-    "last_updated": "2026-11-12T04:00:41.000Z",
+    "last_updated": "2026-11-13T01:55:22.000Z",
     "packageCount": 2,
     "packages": {
       "jp.pipipigiken.mpavatar-package": {
@@ -186516,7 +186707,7 @@
     "id": "dev.sleightly.vpm-listing",
     "author": "JustSleightly",
     "hash": "263ae27864a2063bd3bc8485f328fb428359ed01da756bcbd99d522d153e9c3c",
-    "last_updated": "2026-10-12T04:09:58.000Z",
+    "last_updated": "2026-10-12T04:09:57.000Z",
     "packageCount": 2,
     "packages": {
       "dev.sleightly.clipfocus": {
@@ -197888,7 +198079,7 @@
     "id": "com.vrsuya.vpm",
     "author": "VRSuya",
     "hash": "db563e00961dfd779328cef0950a49c54cb524641b56312dc63464832e7ca4cf",
-    "last_updated": "2026-11-10T16:33:22.000Z",
+    "last_updated": "2026-11-10T16:33:18.000Z",
     "packageCount": 3,
     "packages": {
       "com.vrsuya.core": {
@@ -198020,7 +198211,7 @@
     "id": "com.vrvlog.packages",
     "author": "VR Vlog",
     "hash": "90954ed40ff4be40dfa245365825c83e53569bf8396d2c6c78f6c0e559306940",
-    "last_updated": "2026-11-12T02:33:13.000Z",
+    "last_updated": "2026-11-12T15:17:21.000Z",
     "packageCount": 3,
     "packages": {
       "com.vrvlog.liltoon-vrm-exporter": {
@@ -201801,8 +201992,8 @@
     "name": "Explosive Theorem Lab. Metaverse Division",
     "id": "idv.jlchntoz.xtlcdn-listing",
     "author": "Jeremy Lam aka. Vistanz",
-    "hash": "1ad6e5d1bab176f86d51a452943b4352676c2917278728c58025c57cef24137c",
-    "last_updated": "2026-11-11T17:43:03.000Z",
+    "hash": "488a6b8a50b673887ec45cdb617770fcb1e725200107f775db7c04cbafceaf5a",
+    "last_updated": "2026-11-12T13:26:44.000Z",
     "packageCount": 14,
     "packages": {
       "idv.jlchntoz.vrcw-foundation": {
@@ -205085,8 +205276,8 @@
         "name": "idv.jlchntoz.ndextensions",
         "displayName": "Vistanz's Non Destructive Extensions",
         "description": "Non Destructive Extensions For VRChat Avatars (built on top of NDMF)",
-        "latestVersion": "0.1.3",
-        "versionCount": 44,
+        "latestVersion": "0.1.4",
+        "versionCount": 45,
         "keywords": [],
         "unity": "2022.1",
         "author": {
@@ -205095,6 +205286,18 @@
           "url": "https://xtl.booth.pm"
         },
         "versions": {
+          "0.1.4": {
+            "version": "0.1.4",
+            "name": "idv.jlchntoz.ndextensions",
+            "displayName": "Vistanz's Non Destructive Extensions",
+            "description": "Non Destructive Extensions For VRChat Avatars (built on top of NDMF)",
+            "url": "https://github.com/JLChnToZ/ndextensions/releases/download/0.1.4/idv.jlchntoz.ndextensions-0.1.4.zip",
+            "zipSha256": null,
+            "unity": "2022.1",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.9.x"
+            }
+          },
           "0.1.3": {
             "version": "0.1.3",
             "name": "idv.jlchntoz.ndextensions",
@@ -207860,8 +208063,8 @@
     "name": "z3y's packages",
     "id": "io.github.z3y.vpm-package-listing",
     "author": "z3y",
-    "hash": "1378afce057c71f180d7bcd488e4fbc967f645d70393875b18af52c5f3b129fb",
-    "last_updated": "2026-11-11T09:27:54.000Z",
+    "hash": "c3802bf9ecfca0b269786c5964e1148045aa8883b2d39b498e593ab711b3fd7f",
+    "last_updated": "2026-11-12T22:23:52.000Z",
     "packageCount": 8,
     "packages": {
       "com.z3y.graphlit": {
@@ -209572,8 +209775,8 @@
         "name": "io.github.z3y.glim",
         "displayName": "Glim Lightmapper",
         "description": "Lightmap Baker",
-        "latestVersion": "0.12.4",
-        "versionCount": 20,
+        "latestVersion": "0.12.5",
+        "versionCount": 21,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -209581,6 +209784,16 @@
           "url": "https://github.com/z3y"
         },
         "versions": {
+          "0.12.5": {
+            "version": "0.12.5",
+            "name": "io.github.z3y.glim",
+            "displayName": "Glim Lightmapper",
+            "description": "Lightmap Baker",
+            "url": "https://github.com/z3y/glim/releases/download/v0.12.5/io.github.z3y.glim-0.12.5.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "0.12.4": {
             "version": "0.12.4",
             "name": "io.github.z3y.glim",
