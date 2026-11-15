@@ -2283,8 +2283,8 @@
     "name": "An-Labo NailTool",
     "id": "world.anlabo.mdnailtool.vpm",
     "author": "An-Labo",
-    "hash": "ed6ca9fcdd82e5549ca7d5673fa012c2b79326c001758d0be6f46af0ad0b9019",
-    "last_updated": "2026-11-13T08:29:06.000Z",
+    "hash": "ee4edd79a34c2f836fe0ee3d02417027242d19930a16aa70b90f3f8de9bef093",
+    "last_updated": "2026-11-14T17:09:16.000Z",
     "packageCount": 1,
     "packages": {
       "world.anlabo.mdnailtool": {
@@ -2293,7 +2293,7 @@
         "displayName": "An-Labo NailTool",
         "description": "An-Labo NailTool",
         "latestVersion": "0.9.141",
-        "versionCount": 507,
+        "versionCount": 508,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -8403,6 +8403,19 @@
               "com.vrchat.avatars": ">=3.5.0",
               "nadena.dev.modular-avatar": ">=1.17.0"
             }
+          },
+          "0.11.19": {
+            "version": "0.11.19",
+            "name": "world.anlabo.mdnailtool",
+            "displayName": "An-Labo NailTool",
+            "description": "An-Labo NailTool",
+            "url": "https://github.com/An-Labo/An-Labo-NailTool/releases/download/0.11.19/world.anlabo.mdnailtool-0.11.19.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.5.0",
+              "nadena.dev.modular-avatar": ">=1.17.0"
+            }
           }
         }
       }
@@ -13663,7 +13676,7 @@
     "id": "befuddledlabs.linuxvrchatsdkpatch",
     "author": "BefuddledLabs",
     "hash": "3a640f66c15e35c6d7ab0de3a45670c1b6474993e4965be24d1b769863545216",
-    "last_updated": "2026-11-05T16:48:34.000Z",
+    "last_updated": "2026-11-05T16:48:35.000Z",
     "packageCount": 3,
     "packages": {
       "befuddledlabs.linuxvrchatsdkpatch-worlds": {
@@ -14602,8 +14615,8 @@
     "name": "Orbiters VPM",
     "id": "cc.orbiters.vpm",
     "author": "blackorbit",
-    "hash": "872399b432b514598b1d0a67741ecaead96468ab8430b0daeec27520c9d5847a",
-    "last_updated": "2026-11-14T04:22:20.000Z",
+    "hash": "11e092a7e7cae166ae640cbe0f7bab7018005c54d8d88bb8f638aa3346b0f9f5",
+    "last_updated": "2026-11-15T04:22:48.000Z",
     "packageCount": 12,
     "packages": {
       "orbiters.mcb": {
@@ -14611,8 +14624,8 @@
         "name": "orbiters.mcb",
         "displayName": "My Custom Base (MCB)",
         "description": "Wizard to apply a custom base with the MCB tool",
-        "latestVersion": "1.14.0",
-        "versionCount": 35,
+        "latestVersion": "1.14.1",
+        "versionCount": 36,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -14621,6 +14634,21 @@
           "email": "blackorbit.eclaire@gmail.com"
         },
         "versions": {
+          "1.14.1": {
+            "version": "1.14.1",
+            "name": "orbiters.mcb",
+            "displayName": "My Custom Base (MCB)",
+            "description": "Wizard to apply a custom base with the MCB tool",
+            "url": "https://github.com/Orbiters-cc/MyCustomBase/releases/download/1.14.1/My.Custom.Base.MCB.-1.14.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "orbiters.toolkit": ">=0.5.1 <0.6.0",
+              "com.vrchat.avatars": ">=3.7.0 <4.0.0",
+              "com.vrcfury.vrcfury": ">=1.1241.0",
+              "com.vrchat.core.vpm-resolver": ">=0.1.29 <0.2.0"
+            }
+          },
           "1.14.0": {
             "version": "1.14.0",
             "name": "orbiters.mcb",
@@ -16006,8 +16034,8 @@
         "name": "orbiters.toolkit",
         "displayName": "Orbiters Toolkit",
         "description": "Shared Orbiters account, editor UI, feature flags, VPM dependency prompts, bone matching, accessory attachment and posing preview, blendshape links, custom base refits (records, build-time blendshape links, fit checks), avatar photoshoot, mirror posing, Scene view gizmos (bones, weight paint, mesh edges, avatar budget), mesh editing primitives (BVH, neighbors, FBX writer), background window capture, N4N0 (the Orbiters companion prop) and avatar manifests for Orbiters - N4N0.",
-        "latestVersion": "0.5.0",
-        "versionCount": 44,
+        "latestVersion": "0.5.1",
+        "versionCount": 45,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -16016,6 +16044,21 @@
           "email": "blackorbit.eclaire@gmail.com"
         },
         "versions": {
+          "0.5.1": {
+            "version": "0.5.1",
+            "name": "orbiters.toolkit",
+            "displayName": "Orbiters Toolkit",
+            "description": "Shared Orbiters account, editor UI, feature flags, VPM dependency prompts, bone matching, accessory attachment and posing preview, blendshape links, custom base refits (records, build-time blendshape links, fit checks), avatar photoshoot, mirror posing, Scene view gizmos (bones, weight paint, mesh edges, avatar budget), mesh editing primitives (BVH, neighbors, FBX writer), background window capture, N4N0 (the Orbiters companion prop) and avatar manifests for Orbiters - N4N0.",
+            "url": "https://github.com/Orbiters-cc/Toolkit/releases/download/0.5.1/Toolkit-0.5.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.unity.burst": "1.8.7",
+              "com.unity.collections": "2.1.4",
+              "com.unity.mathematics": "1.3.2",
+              "com.unity.nuget.newtonsoft-json": "3.2.1"
+            }
+          },
           "0.5.0": {
             "version": "0.5.0",
             "name": "orbiters.toolkit",
@@ -17114,8 +17157,8 @@
         "name": "orbiters.unitypackagemanager",
         "displayName": "UnityPackageManager",
         "description": "Inspect .unitypackage archives, browse and edit their contents, and import selected assets anywhere in the project.",
-        "latestVersion": "0.2.1",
-        "versionCount": 5,
+        "latestVersion": "0.2.2",
+        "versionCount": 6,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -17124,6 +17167,18 @@
           "email": "blackorbit.eclaire@gmail.com"
         },
         "versions": {
+          "0.2.2": {
+            "version": "0.2.2",
+            "name": "orbiters.unitypackagemanager",
+            "displayName": "UnityPackageManager",
+            "description": "Inspect .unitypackage archives, browse and edit their contents, and import selected assets anywhere in the project.",
+            "url": "https://github.com/Orbiters-cc/Unity-Package-Manager/releases/download/0.2.2/unity-package-manager-0.2.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "orbiters.toolkit": ">=0.5.0 <0.6.0"
+            }
+          },
           "0.2.1": {
             "version": "0.2.1",
             "name": "orbiters.unitypackagemanager",
@@ -17514,7 +17569,7 @@
     "id": "com.surarin.vpm",
     "author": "Surarin",
     "hash": "01f63e49ba01b1361e52d2caf566ac678676ad7accb612ed861a8f3a37e444fb",
-    "last_updated": "2026-10-29T09:38:09.000Z",
+    "last_updated": "2026-10-29T09:38:10.000Z",
     "packageCount": 1,
     "packages": {
       "com.surarin.worldtitlegimmick": {
@@ -18860,7 +18915,7 @@
     "id": "com.github.ch4rindo.vpm",
     "author": "ch4rindo",
     "hash": "622f1e0f36d6a8e11b25a886a10399eafd32b4945f0cd95b5dea7c788a739eb0",
-    "last_updated": "2026-09-28T08:46:15.000Z",
+    "last_updated": "2026-09-28T08:46:16.000Z",
     "packageCount": 2,
     "packages": {
       "dev.r1nd0.assetfinder": {
@@ -19982,7 +20037,7 @@
     "id": "com.chikumatateshina.qvpen-avatar-follow-system",
     "author": "ChikumaTateshina",
     "hash": "c002c8b044783a1bc15e74a999e1af8a65dfbb62b0ca97d520515986173bcbb1",
-    "last_updated": "2026-10-06T04:43:27.000Z",
+    "last_updated": "2026-10-06T04:43:26.000Z",
     "packageCount": 1,
     "packages": {
       "com.chikumatateshina.qvpen-avatar-follow-system": {
@@ -20027,7 +20082,7 @@
     "id": "com.chill.vpm",
     "author": "chill",
     "hash": "218dd1fd125e7194ca6c8140e63ca3d013b40ed5b78b42e79e1ff1e1d5cd5b05",
-    "last_updated": "2026-05-21T13:11:01.000Z",
+    "last_updated": "2026-05-21T13:11:02.000Z",
     "packageCount": 1,
     "packages": {
       "com.chill.avatarscope": {
@@ -24048,7 +24103,7 @@
     "id": "com.dinetool.listing",
     "author": "Dine",
     "hash": "c52ddc33e5cd3447a76fdfe02e19be5d0d7ee3cd7baa7705116a4d3c5cf35f19",
-    "last_updated": "2026-10-30T11:53:42.000Z",
+    "last_updated": "2026-10-30T11:53:43.000Z",
     "packageCount": 1,
     "packages": {
       "com.dine.tool": {
@@ -24414,7 +24469,7 @@
     "id": "com.docme.listing",
     "author": "DocMe",
     "hash": "af1c7014ae9d567536cb160bacb02d84afd07109533ab20df579a3c7da032a40",
-    "last_updated": "2026-11-13T12:10:55.000Z",
+    "last_updated": "2026-11-14T11:27:33.000Z",
     "packageCount": 5,
     "packages": {
       "com.docme.eye-installer": {
@@ -35946,7 +36001,7 @@
     "id": "com.synthos.packages",
     "author": "Synthos",
     "hash": "1d52e18c2664c94e0dae7cd195887b62780fbd3fde4bf63de9c8afef6109233a",
-    "last_updated": "2026-11-14T00:39:08.000Z",
+    "last_updated": "2026-11-15T04:37:59.000Z",
     "packageCount": 8,
     "packages": {
       "com.synthos.scene-optimizer": {
@@ -46990,8 +47045,8 @@
     "name": "hfcReds VPM Packages",
     "id": "com.hfcred.vpm-listing",
     "author": "hfcRed",
-    "hash": "820f79767ff36ef9c2d89a9cf78291e139d0064a51cf142529a91f36c0a6c1cc",
-    "last_updated": "2026-11-13T23:32:43.000Z",
+    "hash": "d12e93901437ffd021a0e8659a97f25144e5c03433ce16a16232e6aced8db053",
+    "last_updated": "2026-11-14T18:46:27.000Z",
     "packageCount": 2,
     "packages": {
       "com.hfcred.animationrepathing": {
@@ -47315,8 +47370,8 @@
         "name": "com.hfcred.shadertoanimatorbridge",
         "displayName": "Shader To Animator Bridge",
         "description": "Send a value from a shader to your avatar's animator. Generates self-contained systems you can bundle with your packages.",
-        "latestVersion": "1.0.1",
-        "versionCount": 2,
+        "latestVersion": "1.0.0",
+        "versionCount": 1,
         "keywords": [
           "hfcRed",
           "Shader",
@@ -47330,23 +47385,11 @@
           "url": "https://hfcred.carrd.co"
         },
         "versions": {
-          "1.0.1": {
-            "version": "1.0.1",
-            "name": "com.hfcred.shadertoanimatorbridge",
-            "displayName": "Shader To Animator Bridge",
-            "description": "Send a value from a shader to your avatar's animator. Generates self-contained systems you can bundle with your packages.",
-            "url": "https://github.com/hfcRed/Shader-To-Animator-Bridge/releases/download/v1.0.1/shadertoanimatorbridge_v1.0.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          },
           "1.0.0": {
             "version": "1.0.0",
             "name": "com.hfcred.shadertoanimatorbridge",
             "displayName": "Shader To Animator Bridge",
-            "description": "Send values computed in a shader to your avatar's animator. Generates self-contained systems you can ship with your packages.",
+            "description": "Send a value from a shader to your avatar's animator. Generates self-contained systems you can bundle with your packages.",
             "url": "https://github.com/hfcRed/Shader-To-Animator-Bridge/releases/download/v1.0.0/shadertoanimatorbridge_v1.0.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
@@ -49243,7 +49286,7 @@
     "id": "com.github.hkrn",
     "author": "hkrn",
     "hash": "66afe02e940c091d4b955f7a758659dfa28c963b53e571fc1c24147280761b5f",
-    "last_updated": "2026-07-12T08:29:09.000Z",
+    "last_updated": "2026-07-12T08:29:10.000Z",
     "packageCount": 1,
     "packages": {
       "com.github.hkrn.ndmf-vrm-exporter": {
@@ -49911,7 +49954,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "dc975d1397ce107372949311ebff9c87b2475ea8a0827d7b3c6c9caa9a314034",
-    "last_updated": "2026-11-13T11:07:49.000Z",
+    "last_updated": "2026-11-14T10:35:04.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -51920,7 +51963,7 @@
     "id": "dev.kaefibot.listing",
     "author": "WoweePaw",
     "hash": "0f954512e7a69a442d27394f918fc68614873d3db3706347e1e36e0acde01244",
-    "last_updated": "2026-07-05T15:03:28.000Z",
+    "last_updated": "2026-07-05T15:03:29.000Z",
     "packageCount": 1,
     "packages": {
       "dev.kaefibot.kaefibot-controller": {
@@ -60429,8 +60472,8 @@
     "name": "kmnk VPM Listing",
     "id": "dev.kmnk.vpm",
     "author": "kmnk",
-    "hash": "c2639045777f8cbd02000d01f808c69a7bea538702d829c8d8bcabb3aa718de0",
-    "last_updated": "2026-11-13T18:20:24.000Z",
+    "hash": "2ac37014f77aa205ecbbe2bb2f1b486a86368ce3f4522628bef760fe3a143dd7",
+    "last_updated": "2026-11-14T18:19:49.000Z",
     "packageCount": 2,
     "packages": {
       "dev.kmnk.log-stream": {
@@ -60478,8 +60521,8 @@
         "name": "dev.kmnk.face-tracking-generator",
         "displayName": "Face Tracking Generator",
         "description": "Generates face tracking layers for VRChat avatars from text tables, with a table editor and preview.",
-        "latestVersion": "0.12.1",
-        "versionCount": 11,
+        "latestVersion": "0.12.2",
+        "versionCount": 12,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -60487,6 +60530,19 @@
           "url": "https://github.com/kmnk"
         },
         "versions": {
+          "0.12.2": {
+            "version": "0.12.2",
+            "name": "dev.kmnk.face-tracking-generator",
+            "displayName": "Face Tracking Generator",
+            "description": "Generates face tracking layers for VRChat avatars from text tables, with a table editor and preview.",
+            "url": "https://github.com/kmnk/VRChat_FaceTrackingGenerator/releases/download/v0.12.2/dev.kmnk.face-tracking-generator-0.12.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.6",
+              "nadena.dev.ndmf": ">=1.14.7 <2.0.0-a"
+            }
+          },
           "0.12.1": {
             "version": "0.12.1",
             "name": "dev.kmnk.face-tracking-generator",
@@ -60875,7 +60931,7 @@
     "id": "io.github.koz39.vpm-listing",
     "author": "KOZ39",
     "hash": "ea8a5b6ba57f057006723823d8913f61aaa78ccd25fe8ebacc9b19a42c15e078",
-    "last_updated": "2026-11-13T10:33:58.000Z",
+    "last_updated": "2026-11-13T10:33:59.000Z",
     "packageCount": 4,
     "packages": {
       "dev.koz39.elbow-fixer": {
@@ -67352,7 +67408,7 @@
     "id": "com.lightbulb.vpm",
     "author": "Lightbulb",
     "hash": "028c8a797a7bd992d7495b57a5f4ec6d6b6d5bc7f4df749c41c2d60efc8fdf5f",
-    "last_updated": "2026-11-14T03:15:33.000Z",
+    "last_updated": "2026-11-15T01:55:30.000Z",
     "packageCount": 1,
     "packages": {
       "com.lightbulb.world-tools": {
@@ -70891,7 +70947,7 @@
     "id": "com.mattshark.openflight.repo",
     "author": "Mattshark89, Happyrobot33",
     "hash": "2659e37b23cc128e891c29a39e5bccda5a60665b585cf2406941eca4e5123520",
-    "last_updated": "2026-11-05T20:26:21.000Z",
+    "last_updated": "2026-11-05T20:26:30.000Z",
     "packageCount": 1,
     "packages": {
       "com.mattshark.openflight": {
@@ -75437,7 +75493,7 @@
     "id": "com.natane.toonshader.listing",
     "author": "Natane",
     "hash": "52f1f351d656da2afce5596eb6e8ac183fba63a3c7d3b46842bfd3dd2cc87abb",
-    "last_updated": "2026-11-12T14:27:09.000Z",
+    "last_updated": "2026-11-12T14:27:08.000Z",
     "packageCount": 1,
     "packages": {
       "com.natane.toonshader": {
@@ -77498,7 +77554,7 @@
     "id": "com.njsgdd10086.vpm-repo",
     "author": "ATRI_NAIXU",
     "hash": "2f7c6a6ba0277ad0e5ade345ce5fca40fb0f946221603b205651420fdc7ba232",
-    "last_updated": "2026-11-14T03:35:23.000Z",
+    "last_updated": "2026-11-15T01:02:29.000Z",
     "packageCount": 3,
     "packages": {
       "com.atrinaxu.nontoon.lightlimit": {
@@ -81815,7 +81871,7 @@
     "id": "dev.omelette_ak.vpm",
     "author": "omeletteak",
     "hash": "87cd6506aa825e26b64761abbbe030e0e11ea7ac963a055d927af38e95a30b11",
-    "last_updated": "2026-06-23T11:45:38.000Z",
+    "last_updated": "2026-06-23T11:45:39.000Z",
     "packageCount": 1,
     "packages": {
       "dev.omelette_ak.vrcloth-declipper": {
@@ -93656,7 +93712,7 @@
     "id": "com.bavi.vpm",
     "author": "Bird",
     "hash": "439ad102d9b3835c37dff0d5a993cc96aea20f89d46930d6698f6b0dcc694a50",
-    "last_updated": "2026-10-20T23:31:05.000Z",
+    "last_updated": "2026-10-20T23:31:06.000Z",
     "packageCount": 1,
     "packages": {
       "com.bavi.motion-patcher": {
@@ -94054,7 +94110,7 @@
     "id": "dev.raspichu.vpm",
     "author": "Pichu",
     "hash": "9a2f82e471fcf06456f855e8c746d6e95e053484b4737bc9a83a7c2fe7bd6b32",
-    "last_updated": "2026-09-07T15:01:36.000Z",
+    "last_updated": "2026-09-07T15:01:35.000Z",
     "packageCount": 2,
     "packages": {
       "dev.raspichu.inspector-enhancements": {
@@ -98983,7 +99039,7 @@
     "id": "com.buddyworks.vpm",
     "author": "BUDDYWORKS",
     "hash": "d4a190554b811778f08229b1786a7dc5554384d8b6b4444fc30ed7e74baa181b",
-    "last_updated": "2026-07-01T21:17:06.000Z",
+    "last_updated": "2026-11-15T00:26:04.000Z",
     "packageCount": 9,
     "packages": {
       "wtf.buddyworks.framework": {
@@ -101048,7 +101104,7 @@
     "id": "com.mitsuboshi-studio.vpm",
     "author": "Mitsuboshi_Studio",
     "hash": "52cde1f130302215e50bd10fbf17761cac4d336a632db50118aa96eb79cfb767",
-    "last_updated": "2026-11-14T03:17:24.000Z",
+    "last_updated": "2026-11-15T01:56:39.000Z",
     "packageCount": 8,
     "packages": {
       "com.mitsuboshi-studio.unity-power-rename": {
@@ -101804,7 +101860,7 @@
     "id": "io.github.rurre.vpm",
     "author": "Pumkin",
     "hash": "a521b62454534e8ac91259065780938a307d6c87b5fc436008c7dfc95e5da1f4",
-    "last_updated": "2026-08-27T18:55:06.000Z",
+    "last_updated": "2026-08-27T18:55:05.000Z",
     "packageCount": 3,
     "packages": {
       "io.github.rurre.pumkinsavatartools": {
@@ -104959,7 +105015,7 @@
     "id": "com.mizore-nekoyanagi.vpm-packages",
     "author": "Mizore Nekoyanagi",
     "hash": "df5c206bda4082fc4825f6e0002aea2319d15d80cf9dc71813ef06fb4db812e7",
-    "last_updated": "2026-02-19T08:55:54.000Z",
+    "last_updated": "2026-02-19T08:55:53.000Z",
     "packageCount": 4,
     "packages": {
       "com.mizore-nekoyanagi.utils.apply-prefab-window": {
@@ -106194,8 +106250,8 @@
     "name": "SPSNDMF VPM Listing",
     "id": "net.nrzk.vpm.spsndmf",
     "author": "niriziki",
-    "hash": "4c0aee96ad1e9ed01af3ca6b300d7d5afb02fd41b2dcfdbc1a98d21ba48ce34a",
-    "last_updated": "2026-10-31T15:46:57.000Z",
+    "hash": "75cc1de797f087092e843f3f3fb2f76c7070e6cd0d5d071942c1f8a29eec4a23",
+    "last_updated": "2026-11-14T11:23:23.000Z",
     "packageCount": 3,
     "packages": {
       "net.nrzk.vfstub": {
@@ -106203,14 +106259,26 @@
         "name": "net.nrzk.vfstub",
         "displayName": "VRCFury Stub",
         "description": "Stand-in for VRCFury in projects without it. Keeps VRCFury component types (VF.* namespace, same GUIDs) so existing scenes and prefabs load, and, when NDMF and Modular Avatar are installed, provides VRCFury's inspectors for SPS Plug/Socket, Global Collider and Haptic Touch. No build processing is included; SPSNDMF Migrator converts the SPS-related components (Plug/Socket, Global Collider, Haptic Touch) for SPS for NDMF at build time.",
-        "latestVersion": "1.1434.0",
-        "versionCount": 20,
+        "latestVersion": "1.1442.0",
+        "versionCount": 21,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "niriziki"
         },
         "versions": {
+          "1.1442.0": {
+            "version": "1.1442.0",
+            "name": "net.nrzk.vfstub",
+            "displayName": "VRCFury Stub",
+            "description": "Stand-in for VRCFury in projects without it. Keeps VRCFury component types (VF.* namespace, same GUIDs) so existing scenes and prefabs load, and, when NDMF and Modular Avatar are installed, provides VRCFury's inspectors for SPS Plug/Socket, Global Collider and Haptic Touch. No build processing is included; SPSNDMF Migrator converts the SPS-related components (Plug/Socket, Global Collider, Haptic Touch) for SPS for NDMF at build time.",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/vfstub/1.1442.0/net.nrzk.vfstub-1.1442.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6"
+            }
+          },
           "1.1434.0": {
             "version": "1.1434.0",
             "name": "net.nrzk.vfstub",
@@ -106367,24 +106435,24 @@
               "com.vrchat.avatars": ">=3.7.6"
             }
           },
-          "0.2.0-beta.7": {
-            "version": "0.2.0-beta.7",
-            "name": "net.nrzk.vfstub",
-            "displayName": "VRCFury Stub",
-            "description": "Type-only stub of VRCFury's Runtime assembly. Preserves VRCFury component types (VF.* namespace, same GUIDs) so existing scenes deserialize without the full VRCFury package. No editor logic or build processing is included.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/vfstub/0.2.0-beta.7/net.nrzk.vfstub-0.2.0-beta.7.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6"
-            }
-          },
           "0.2.0-beta.8": {
             "version": "0.2.0-beta.8",
             "name": "net.nrzk.vfstub",
             "displayName": "VRCFury Stub",
             "description": "Type-only stub of VRCFury's Runtime assembly. Preserves VRCFury component types (VF.* namespace, same GUIDs) so existing scenes deserialize without the full VRCFury package. No editor logic or build processing is included.",
             "url": "https://github.com/niriziki/VRCFury/releases/download/vfstub/0.2.0-beta.8/net.nrzk.vfstub-0.2.0-beta.8.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6"
+            }
+          },
+          "0.2.0-beta.7": {
+            "version": "0.2.0-beta.7",
+            "name": "net.nrzk.vfstub",
+            "displayName": "VRCFury Stub",
+            "description": "Type-only stub of VRCFury's Runtime assembly. Preserves VRCFury component types (VF.* namespace, same GUIDs) so existing scenes deserialize without the full VRCFury package. No editor logic or build processing is included.",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/vfstub/0.2.0-beta.7/net.nrzk.vfstub-0.2.0-beta.7.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -106459,7 +106527,7 @@
         "displayName": "SPS for NDMF",
         "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
         "latestVersion": "1.1434.0",
-        "versionCount": 30,
+        "versionCount": 31,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -106472,21 +106540,6 @@
             "displayName": "SPS for NDMF",
             "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
             "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1434.0/net.nrzk.spsndmf-1.1434.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "com.unity.nuget.newtonsoft-json": "2.0.0",
-              "nadena.dev.modular-avatar": "^1.15.0",
-              "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
-            }
-          },
-          "1.1430.0": {
-            "version": "1.1430.0",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1430.0/net.nrzk.spsndmf-1.1430.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -106511,12 +106564,12 @@
               "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
             }
           },
-          "1.1429.1": {
-            "version": "1.1429.1",
+          "1.1430.0": {
+            "version": "1.1430.0",
             "name": "net.nrzk.spsndmf",
             "displayName": "SPS for NDMF",
             "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1429.1/net.nrzk.spsndmf-1.1429.1.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1430.0/net.nrzk.spsndmf-1.1430.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -106526,12 +106579,12 @@
               "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
             }
           },
-          "1.1429.2": {
-            "version": "1.1429.2",
+          "1.1442.0": {
+            "version": "1.1442.0",
             "name": "net.nrzk.spsndmf",
             "displayName": "SPS for NDMF",
             "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1429.2/net.nrzk.spsndmf-1.1429.2.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1442.0/net.nrzk.spsndmf-1.1442.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -106556,12 +106609,12 @@
               "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
             }
           },
-          "1.1429.0": {
-            "version": "1.1429.0",
+          "1.1429.2": {
+            "version": "1.1429.2",
             "name": "net.nrzk.spsndmf",
             "displayName": "SPS for NDMF",
             "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1429.0/net.nrzk.spsndmf-1.1429.0.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1429.2/net.nrzk.spsndmf-1.1429.2.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -106571,12 +106624,12 @@
               "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
             }
           },
-          "1.1426.3": {
-            "version": "1.1426.3",
+          "1.1429.1": {
+            "version": "1.1429.1",
             "name": "net.nrzk.spsndmf",
             "displayName": "SPS for NDMF",
             "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1426.3/net.nrzk.spsndmf-1.1426.3.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1429.1/net.nrzk.spsndmf-1.1429.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -106616,12 +106669,12 @@
               "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
             }
           },
-          "1.1416.1": {
-            "version": "1.1416.1",
+          "1.1429.0": {
+            "version": "1.1429.0",
             "name": "net.nrzk.spsndmf",
             "displayName": "SPS for NDMF",
             "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1416.1/net.nrzk.spsndmf-1.1416.1.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1429.0/net.nrzk.spsndmf-1.1429.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -106646,30 +106699,34 @@
               "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
             }
           },
-          "1.1416.0": {
-            "version": "1.1416.0",
+          "1.1416.1": {
+            "version": "1.1416.1",
             "name": "net.nrzk.spsndmf",
             "displayName": "SPS for NDMF",
             "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1416.0/net.nrzk.spsndmf-1.1416.0.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1416.1/net.nrzk.spsndmf-1.1416.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
               "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
+              "com.unity.nuget.newtonsoft-json": "2.0.0",
+              "nadena.dev.modular-avatar": "^1.15.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
             }
           },
-          "1.1408.2": {
-            "version": "1.1408.2",
+          "1.1426.3": {
+            "version": "1.1426.3",
             "name": "net.nrzk.spsndmf",
             "displayName": "SPS for NDMF",
             "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1408.2/net.nrzk.spsndmf-1.1408.2.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1426.3/net.nrzk.spsndmf-1.1426.3.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
               "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
+              "com.unity.nuget.newtonsoft-json": "2.0.0",
+              "nadena.dev.modular-avatar": "^1.15.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
             }
           },
           "1.1408.1": {
@@ -106685,12 +106742,38 @@
               "nadena.dev.modular-avatar": "^1.15.0"
             }
           },
+          "1.1416.0": {
+            "version": "1.1416.0",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1416.0/net.nrzk.spsndmf-1.1416.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "nadena.dev.modular-avatar": "^1.15.0"
+            }
+          },
           "1.1408.0": {
             "version": "1.1408.0",
             "name": "net.nrzk.spsndmf",
             "displayName": "SPS for NDMF",
             "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
             "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1408.0/net.nrzk.spsndmf-1.1408.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "nadena.dev.modular-avatar": "^1.15.0"
+            }
+          },
+          "1.1408.2": {
+            "version": "1.1408.2",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/1.1408.2/net.nrzk.spsndmf-1.1408.2.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -106724,19 +106807,6 @@
               "nadena.dev.modular-avatar": "^1.15.0"
             }
           },
-          "0.2.0-beta.11": {
-            "version": "0.2.0-beta.11",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.11/net.nrzk.spsndmf-0.2.0-beta.11.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
           "0.2.0-beta.9": {
             "version": "0.2.0-beta.9",
             "name": "net.nrzk.spsndmf",
@@ -106756,6 +106826,19 @@
             "displayName": "SPS for NDMF",
             "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
             "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.10/net.nrzk.spsndmf-0.2.0-beta.10.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "nadena.dev.modular-avatar": "^1.15.0"
+            }
+          },
+          "0.2.0-beta.11": {
+            "version": "0.2.0-beta.11",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.11/net.nrzk.spsndmf-0.2.0-beta.11.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -106789,19 +106872,6 @@
               "nadena.dev.modular-avatar": "^1.15.0"
             }
           },
-          "0.2.0-beta.6": {
-            "version": "0.2.0-beta.6",
-            "name": "net.nrzk.spsndmf",
-            "displayName": "SPS for NDMF",
-            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.6/net.nrzk.spsndmf-0.2.0-beta.6.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.6",
-              "nadena.dev.modular-avatar": "^1.15.0"
-            }
-          },
           "0.2.0-beta.5": {
             "version": "0.2.0-beta.5",
             "name": "net.nrzk.spsndmf",
@@ -106815,12 +106885,12 @@
               "nadena.dev.modular-avatar": "^1.15.0"
             }
           },
-          "0.2.0-beta.3": {
-            "version": "0.2.0-beta.3",
+          "0.2.0-beta.6": {
+            "version": "0.2.0-beta.6",
             "name": "net.nrzk.spsndmf",
             "displayName": "SPS for NDMF",
             "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.3/net.nrzk.spsndmf-0.2.0-beta.3.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.6/net.nrzk.spsndmf-0.2.0-beta.6.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -106841,12 +106911,12 @@
               "nadena.dev.modular-avatar": "^1.15.0"
             }
           },
-          "0.0.1-beta.1": {
-            "version": "0.0.1-beta.1",
+          "0.2.0-beta.3": {
+            "version": "0.2.0-beta.3",
             "name": "net.nrzk.spsndmf",
             "displayName": "SPS for NDMF",
             "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.0.1-beta.1/net.nrzk.spsndmf-0.0.1-beta.1.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.2.0-beta.3/net.nrzk.spsndmf-0.2.0-beta.3.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -106860,6 +106930,19 @@
             "displayName": "SPS for NDMF",
             "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
             "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.0.1-beta.2/net.nrzk.spsndmf-0.0.1-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.6",
+              "nadena.dev.modular-avatar": "^1.15.0"
+            }
+          },
+          "0.0.1-beta.1": {
+            "version": "0.0.1-beta.1",
+            "name": "net.nrzk.spsndmf",
+            "displayName": "SPS for NDMF",
+            "description": "SPS (Super Plug Shader) for NDMF/Modular Avatar",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf/0.0.1-beta.1/net.nrzk.spsndmf-0.0.1-beta.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -106909,12 +106992,12 @@
               "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
             }
           },
-          "0.2.0-beta.13": {
-            "version": "0.2.0-beta.13",
+          "1.0.0": {
+            "version": "1.0.0",
             "name": "net.nrzk.spsndmf-migrator",
             "displayName": "SPSNDMF Migrator",
             "description": "Convert SPS components between VRCFury, SPSNDMF, Modular Avatar and VRChat Contacts.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.2.0-beta.13/net.nrzk.spsndmf-migrator-0.2.0-beta.13.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/1.0.0/net.nrzk.spsndmf-migrator-1.0.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -106923,12 +107006,12 @@
               "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
             }
           },
-          "1.0.0": {
-            "version": "1.0.0",
+          "0.2.0-beta.13": {
+            "version": "0.2.0-beta.13",
             "name": "net.nrzk.spsndmf-migrator",
             "displayName": "SPSNDMF Migrator",
             "description": "Convert SPS components between VRCFury, SPSNDMF, Modular Avatar and VRChat Contacts.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/1.0.0/net.nrzk.spsndmf-migrator-1.0.0.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.2.0-beta.13/net.nrzk.spsndmf-migrator-0.2.0-beta.13.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -107049,12 +107132,12 @@
               "nadena.dev.ndmf": ">=1.11.0 <2.0.0-a"
             }
           },
-          "0.2.0-beta.3": {
-            "version": "0.2.0-beta.3",
+          "0.1.0-beta.3": {
+            "version": "0.1.0-beta.3",
             "name": "net.nrzk.spsndmf-migrator",
             "displayName": "SPSNDMF Migrator",
             "description": "Convert SPS components between VRCFury, SPSNDMF, Modular Avatar and VRChat Contacts.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.2.0-beta.3/net.nrzk.spsndmf-migrator-0.2.0-beta.3.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.1.0-beta.3/net.nrzk.spsndmf-migrator-0.1.0-beta.3.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -107062,12 +107145,12 @@
               "nadena.dev.modular-avatar": "^1.15.0"
             }
           },
-          "0.1.0-beta.3": {
-            "version": "0.1.0-beta.3",
+          "0.2.0-beta.3": {
+            "version": "0.2.0-beta.3",
             "name": "net.nrzk.spsndmf-migrator",
             "displayName": "SPSNDMF Migrator",
             "description": "Convert SPS components between VRCFury, SPSNDMF, Modular Avatar and VRChat Contacts.",
-            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.1.0-beta.3/net.nrzk.spsndmf-migrator-0.1.0-beta.3.zip",
+            "url": "https://github.com/niriziki/VRCFury/releases/download/spsndmf-migrator/0.2.0-beta.3/net.nrzk.spsndmf-migrator-0.2.0-beta.3.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -113438,7 +113521,7 @@
     "id": "com.tentee.vpm-repos",
     "author": "TenteEEEE",
     "hash": "b31cde9e396121c2a703c16e7ba87f04d16d643d71e28b2da6515466d927dc5d",
-    "last_updated": "2026-11-12T12:17:11.000Z",
+    "last_updated": "2026-11-12T12:17:10.000Z",
     "packageCount": 9,
     "packages": {
       "com.tentee.vrc-rotation-timer": {
@@ -116877,7 +116960,7 @@
     "id": "jp.toh.package-listing",
     "author": "toh",
     "hash": "cc3967c59f319ff5c3910acb82ddac984aa9ad35b5aaec5e395d6ab2cf0dfd4f",
-    "last_updated": "2025-04-28T14:28:15.000Z",
+    "last_updated": "2025-04-28T14:28:14.000Z",
     "packageCount": 1,
     "packages": {
       "jp.toh.easy-object-switch": {
@@ -117961,7 +118044,7 @@
     "id": "com.triturbo.blendshare.listing",
     "author": "Triturbo",
     "hash": "8d43fe402736de6cd2621406d3b850107d5fa9a6bc801a1a5857547ed262526d",
-    "last_updated": "2026-07-05T12:32:45.000Z",
+    "last_updated": "2026-07-05T12:32:46.000Z",
     "packageCount": 1,
     "packages": {
       "com.triturbo.blendshare": {
@@ -118948,7 +119031,7 @@
     "id": "io.github.tumayouzyo.tools",
     "author": "tumayouzyo",
     "hash": "839a598fdb19ddf023a3206915894a7049b07a982ed34bbe3211f87562a7b689",
-    "last_updated": "2026-11-14T01:50:46.000Z",
+    "last_updated": "2026-11-15T00:23:42.000Z",
     "packageCount": 2,
     "packages": {
       "io.github.tumayouzyo.fx-facial-assistant": {
@@ -119035,17 +119118,17 @@
     "name": "Udonite",
     "id": "com.udonite.listing",
     "author": "Udonite",
-    "hash": "efb6332d2cab5c1eb37139733cec1290596ce1ca516559a4830a6ff2a178d24e",
-    "last_updated": "2026-11-03T10:49:48.000Z",
-    "packageCount": 9,
+    "hash": "f2b1ea37f06a359603eda16b4ef6f10c6b0158023fd0b06f23abbb1863ce375a",
+    "last_updated": "2026-11-15T02:47:32.000Z",
+    "packageCount": 1,
     "packages": {
       "com.udonite.compiler": {
         "id": "com.udonite.compiler",
         "name": "com.udonite.compiler",
         "displayName": "Udonite",
         "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
-        "latestVersion": "2.18.0",
-        "versionCount": 19,
+        "latestVersion": "2.21.7",
+        "versionCount": 12,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -119053,639 +119136,148 @@
           "url": "https://github.com/Udonite/Udonite"
         },
         "versions": {
-          "2.18.0": {
-            "version": "2.18.0",
+          "2.21.7": {
+            "version": "2.21.7",
             "name": "com.udonite.compiler",
             "displayName": "Udonite",
             "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
-            "url": "https://github.com/Udonite/Udonite/releases/download/v2.18.0/com.udonite.compiler-2.18.0.zip",
+            "url": "https://udonite.com/vpm/public/zip/748573603/com.udonite.compiler-2.21.7.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
               "com.vrchat.worlds": "^3.10.x"
             }
           },
-          "2.17.4": {
-            "version": "2.17.4",
+          "2.21.6": {
+            "version": "2.21.6",
             "name": "com.udonite.compiler",
             "displayName": "Udonite",
             "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
-            "url": "https://github.com/Udonite/Udonite/releases/download/v2.17.4/com.udonite.compiler-2.17.4.zip",
+            "url": "https://udonite.com/vpm/public/zip/748554776/com.udonite.compiler-2.21.6.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
               "com.vrchat.worlds": "^3.10.x"
             }
           },
-          "2.17.3": {
-            "version": "2.17.3",
+          "2.21.5": {
+            "version": "2.21.5",
             "name": "com.udonite.compiler",
             "displayName": "Udonite",
             "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
-            "url": "https://github.com/Udonite/Udonite/releases/download/v2.17.3/com.udonite.compiler-2.17.3.zip",
+            "url": "https://udonite.com/vpm/public/zip/748525293/com.udonite.compiler-2.21.5.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
               "com.vrchat.worlds": "^3.10.x"
             }
           },
-          "2.17.2": {
-            "version": "2.17.2",
+          "2.21.4": {
+            "version": "2.21.4",
             "name": "com.udonite.compiler",
             "displayName": "Udonite",
             "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
-            "url": "https://github.com/Udonite/Udonite/releases/download/v2.17.2/com.udonite.compiler-2.17.2.zip",
+            "url": "https://udonite.com/vpm/public/zip/748501026/com.udonite.compiler-2.21.4.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
               "com.vrchat.worlds": "^3.10.x"
             }
           },
-          "2.17.1": {
-            "version": "2.17.1",
+          "2.21.3": {
+            "version": "2.21.3",
             "name": "com.udonite.compiler",
             "displayName": "Udonite",
             "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
-            "url": "https://github.com/Udonite/Udonite/releases/download/v2.17.1/com.udonite.compiler-2.17.1.zip",
+            "url": "https://udonite.com/vpm/public/zip/748491860/com.udonite.compiler-2.21.3.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
               "com.vrchat.worlds": "^3.10.x"
             }
           },
-          "2.17.0": {
-            "version": "2.17.0",
+          "2.21.2": {
+            "version": "2.21.2",
             "name": "com.udonite.compiler",
             "displayName": "Udonite",
             "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
-            "url": "https://github.com/Udonite/Udonite/releases/download/v2.17.0/com.udonite.compiler-2.17.0.zip",
+            "url": "https://udonite.com/vpm/public/zip/748488706/com.udonite.compiler-2.21.2.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
               "com.vrchat.worlds": "^3.10.x"
             }
           },
-          "2.16.1": {
-            "version": "2.16.1",
+          "2.21.1": {
+            "version": "2.21.1",
             "name": "com.udonite.compiler",
             "displayName": "Udonite",
             "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
-            "url": "https://github.com/Udonite/Udonite/releases/download/v2.16.1/com.udonite.compiler-2.16.1.zip",
+            "url": "https://udonite.com/vpm/public/zip/748328076/com.udonite.compiler-2.21.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
               "com.vrchat.worlds": "^3.10.x"
             }
           },
-          "2.16.0": {
-            "version": "2.16.0",
+          "2.21.0": {
+            "version": "2.21.0",
             "name": "com.udonite.compiler",
             "displayName": "Udonite",
             "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
-            "url": "https://github.com/Udonite/Udonite/releases/download/v2.16.0/com.udonite.compiler-2.16.0.zip",
+            "url": "https://udonite.com/vpm/public/zip/748202148/com.udonite.compiler-2.21.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
               "com.vrchat.worlds": "^3.10.x"
             }
           },
-          "2.15.2": {
-            "version": "2.15.2",
+          "2.20.2": {
+            "version": "2.20.2",
             "name": "com.udonite.compiler",
             "displayName": "Udonite",
             "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
-            "url": "https://github.com/Udonite/Udonite/releases/download/v2.15.2/com.udonite.compiler-2.15.2.zip",
+            "url": "https://udonite.com/vpm/public/zip/748129459/com.udonite.compiler-2.20.2.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
               "com.vrchat.worlds": "^3.10.x"
             }
           },
-          "2.15.1": {
-            "version": "2.15.1",
+          "2.20.1": {
+            "version": "2.20.1",
             "name": "com.udonite.compiler",
             "displayName": "Udonite",
             "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
-            "url": "https://github.com/Udonite/Udonite/releases/download/v2.15.1/com.udonite.compiler-2.15.1.zip",
+            "url": "https://udonite.com/vpm/public/zip/748092451/com.udonite.compiler-2.20.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
               "com.vrchat.worlds": "^3.10.x"
             }
           },
-          "2.15.0": {
-            "version": "2.15.0",
+          "2.20.0": {
+            "version": "2.20.0",
             "name": "com.udonite.compiler",
             "displayName": "Udonite",
             "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
-            "url": "https://github.com/Udonite/Udonite/releases/download/v2.15.0/com.udonite.compiler-2.15.0.zip",
+            "url": "https://udonite.com/vpm/public/zip/748087290/com.udonite.compiler-2.20.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
               "com.vrchat.worlds": "^3.10.x"
             }
           },
-          "2.14.2": {
-            "version": "2.14.2",
+          "2.19.0": {
+            "version": "2.19.0",
             "name": "com.udonite.compiler",
             "displayName": "Udonite",
             "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
-            "url": "https://github.com/Udonite/Udonite/releases/download/v2.14.2/com.udonite.compiler-2.14.2.zip",
+            "url": "https://udonite.com/vpm/public/zip/747879560/com.udonite.compiler-2.19.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
               "com.vrchat.worlds": "^3.10.x"
-            }
-          },
-          "2.14.1": {
-            "version": "2.14.1",
-            "name": "com.udonite.compiler",
-            "displayName": "Udonite",
-            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
-            "url": "https://github.com/Udonite/Udonite/releases/download/v2.14.1/com.udonite.compiler-2.14.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.10.x"
-            }
-          },
-          "2.14.0": {
-            "version": "2.14.0",
-            "name": "com.udonite.compiler",
-            "displayName": "Udonite",
-            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
-            "url": "https://github.com/Udonite/Udonite/releases/download/v2.14.0/com.udonite.compiler-2.14.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.10.x"
-            }
-          },
-          "2.13.0": {
-            "version": "2.13.0",
-            "name": "com.udonite.compiler",
-            "displayName": "Udonite",
-            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
-            "url": "https://github.com/Udonite/Udonite/releases/download/v2.13.0/com.udonite.compiler-2.13.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.10.x"
-            }
-          },
-          "2.12.0": {
-            "version": "2.12.0",
-            "name": "com.udonite.compiler",
-            "displayName": "Udonite",
-            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
-            "url": "https://github.com/Udonite/Udonite/releases/download/v2.12.0/com.udonite.compiler-2.12.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.10.x"
-            }
-          },
-          "2.11.0": {
-            "version": "2.11.0",
-            "name": "com.udonite.compiler",
-            "displayName": "Udonite",
-            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
-            "url": "https://github.com/Udonite/Udonite/releases/download/v2.11.0/com.udonite.compiler-2.11.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.10.x"
-            }
-          },
-          "2.10.0": {
-            "version": "2.10.0",
-            "name": "com.udonite.compiler",
-            "displayName": "Udonite",
-            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
-            "url": "https://github.com/Udonite/Udonite/releases/download/v2.10.0/com.udonite.compiler-2.10.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.10.x"
-            }
-          },
-          "2.9.1": {
-            "version": "2.9.1",
-            "name": "com.udonite.compiler",
-            "displayName": "Udonite",
-            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
-            "url": "https://github.com/Udonite/Udonite/releases/download/v2.9.1/com.udonite.compiler-2.9.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.10.x"
-            }
-          }
-        }
-      },
-      "com.udonite.video": {
-        "id": "com.udonite.video",
-        "name": "com.udonite.video",
-        "displayName": "Udonite Video",
-        "description": "A synced YouTube and video player for VRChat worlds: late joiners land on the same frame, pause, seek, loop, start times from links, a queue and a playlist, a lock for the instance owner, letterboxed screens, a clean default panel, and UI parts and a code API for building your own.",
-        "latestVersion": "1.1.1",
-        "versionCount": 3,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "Udonite",
-          "url": "https://github.com/Udonite"
-        },
-        "versions": {
-          "1.1.1": {
-            "version": "1.1.1",
-            "name": "com.udonite.video",
-            "displayName": "Udonite Video",
-            "description": "A synced YouTube and video player for VRChat worlds: late joiners land on the same frame, pause, seek, loop, start times from links, a queue and a playlist, a lock for the instance owner, letterboxed screens, a clean default panel, and UI parts and a code API for building your own.",
-            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.video-1.1.1/com.udonite.video-1.1.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.10.x",
-              "com.udonite.compiler": "^2.18.0",
-              "com.udonite.net": "^2.3.0"
-            }
-          },
-          "1.1.0": {
-            "version": "1.1.0",
-            "name": "com.udonite.video",
-            "displayName": "Udonite Video",
-            "description": "A synced YouTube and video player for VRChat worlds: late joiners land on the same frame, pause, seek, loop, start times from links, a queue and a playlist, a lock for the instance owner, letterboxed screens, a clean default panel, and UI parts and a code API for building your own.",
-            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.video-1.1.0/com.udonite.video-1.1.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.10.x",
-              "com.udonite.compiler": "^2.18.0",
-              "com.udonite.net": "^2.3.0"
-            }
-          },
-          "1.0.0": {
-            "version": "1.0.0",
-            "name": "com.udonite.video",
-            "displayName": "Udonite Video",
-            "description": "A synced YouTube and video player for VRChat worlds: late joiners land on the same frame, pause, seek, loop, start times from links, a queue and a playlist, a lock for the instance owner, letterboxed screens, a clean default panel, and UI parts and a code API for building your own.",
-            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.video-1.0.0/com.udonite.video-1.0.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.10.x",
-              "com.udonite.compiler": "^2.18.0",
-              "com.udonite.net": "^2.3.0"
-            }
-          }
-        }
-      },
-      "com.udonite.serialization": {
-        "id": "com.udonite.serialization",
-        "name": "com.udonite.serialization",
-        "displayName": "Udonite Serialization",
-        "description": "A binary reader/writer over Udon-safe primitives, and a thin JSON wrapper over VRCJson.",
-        "latestVersion": "1.1.1",
-        "versionCount": 2,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "Udonite",
-          "url": "https://github.com/Udonite"
-        },
-        "versions": {
-          "1.1.1": {
-            "version": "1.1.1",
-            "name": "com.udonite.serialization",
-            "displayName": "Udonite Serialization",
-            "description": "A binary reader/writer over Udon-safe primitives, and a thin JSON wrapper over VRCJson.",
-            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.serialization-1.1.1/com.udonite.serialization-1.1.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.10.x",
-              "com.udonite.compiler": "^2.16.1"
-            }
-          },
-          "1.1.0": {
-            "version": "1.1.0",
-            "name": "com.udonite.serialization",
-            "displayName": "Udonite Serialization",
-            "description": "A binary reader/writer over Udon-safe primitives, and a thin JSON wrapper over VRCJson.",
-            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.serialization-1.1.0/com.udonite.serialization-1.1.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.10.x",
-              "com.udonite.compiler": "^2.5.0"
-            }
-          }
-        }
-      },
-      "com.udonite.persistence": {
-        "id": "com.udonite.persistence",
-        "name": "com.udonite.persistence",
-        "displayName": "Udonite Persistence",
-        "description": "Saving a player's progress without the string keys: two verbs over VRChat PlayerData, and the restore timing handled for you.",
-        "latestVersion": "2.1.0",
-        "versionCount": 1,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "Udonite",
-          "url": "https://github.com/Udonite"
-        },
-        "versions": {
-          "2.1.0": {
-            "version": "2.1.0",
-            "name": "com.udonite.persistence",
-            "displayName": "Udonite Persistence",
-            "description": "Saving a player's progress without the string keys: two verbs over VRChat PlayerData, and the restore timing handled for you.",
-            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.persistence-2.1.0/com.udonite.persistence-2.1.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.10.x",
-              "com.udonite.compiler": "^2.5.0"
-            }
-          }
-        }
-      },
-      "com.udonite.pens": {
-        "id": "com.udonite.pens",
-        "name": "com.udonite.pens",
-        "displayName": "Udonite Pens",
-        "description": "Pens that draw in the air or on whiteboards in VRChat worlds, on VR, desktop and phones: a slim modern pen set and eraser on VRChat's own pickups or yours, ink caught up for late joiners, whiteboards and pixel boards, and sync settings you choose.",
-        "latestVersion": "1.2.1",
-        "versionCount": 4,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "Udonite",
-          "url": "https://github.com/Udonite"
-        },
-        "versions": {
-          "1.2.1": {
-            "version": "1.2.1",
-            "name": "com.udonite.pens",
-            "displayName": "Udonite Pens",
-            "description": "Pens that draw in the air or on whiteboards in VRChat worlds, on VR, desktop and phones: a slim modern pen set and eraser on VRChat's own pickups or yours, ink caught up for late joiners, whiteboards and pixel boards, and sync settings you choose.",
-            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.pens-1.2.1/com.udonite.pens-1.2.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.10.x",
-              "com.udonite.compiler": "^2.18.0",
-              "com.udonite.net": "^2.3.0",
-              "com.udonite.serialization": "^1.0.0"
-            }
-          },
-          "1.2.0": {
-            "version": "1.2.0",
-            "name": "com.udonite.pens",
-            "displayName": "Udonite Pens",
-            "description": "Pens that draw in the air or on whiteboards in VRChat worlds, on VR, desktop and phones: a slim modern pen set and eraser on VRChat's own pickups or yours, ink caught up for late joiners, whiteboards and pixel boards, and sync settings you choose.",
-            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.pens-1.2.0/com.udonite.pens-1.2.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.10.x",
-              "com.udonite.compiler": "^2.18.0",
-              "com.udonite.net": "^2.3.0",
-              "com.udonite.serialization": "^1.0.0"
-            }
-          },
-          "1.1.0": {
-            "version": "1.1.0",
-            "name": "com.udonite.pens",
-            "displayName": "Udonite Pens",
-            "description": "Pens that draw in the air or on whiteboards in VRChat worlds, on VR, desktop and phones: a slim modern pen set and eraser on VRChat's own pickups or yours, ink caught up for late joiners, whiteboards and pixel boards, and sync settings you choose.",
-            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.pens-1.1.0/com.udonite.pens-1.1.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.10.x",
-              "com.udonite.compiler": "^2.18.0",
-              "com.udonite.net": "^2.3.0",
-              "com.udonite.serialization": "^1.0.0"
-            }
-          },
-          "1.0.0": {
-            "version": "1.0.0",
-            "name": "com.udonite.pens",
-            "displayName": "Udonite Pens",
-            "description": "Pens that draw in the air or on whiteboards in VRChat worlds, on VR, desktop and phones: a slim modern pen set and eraser on VRChat's own pickups or yours, ink caught up for late joiners, whiteboards and pixel boards, and sync settings you choose.",
-            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.pens-1.0.0/com.udonite.pens-1.0.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.10.x",
-              "com.udonite.compiler": "^2.18.0",
-              "com.udonite.net": "^2.3.0",
-              "com.udonite.serialization": "^1.0.0"
-            }
-          }
-        }
-      },
-      "com.udonite.observables": {
-        "id": "com.udonite.observables",
-        "name": "com.udonite.observables",
-        "displayName": "Udonite Observables",
-        "description": "A value that tells its subscribers when it changes. Ordinary C# events, compiled to Udon.",
-        "latestVersion": "3.1.0",
-        "versionCount": 1,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "Udonite",
-          "url": "https://github.com/Udonite"
-        },
-        "versions": {
-          "3.1.0": {
-            "version": "3.1.0",
-            "name": "com.udonite.observables",
-            "displayName": "Udonite Observables",
-            "description": "A value that tells its subscribers when it changes. Ordinary C# events, compiled to Udon.",
-            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.observables-3.1.0/com.udonite.observables-3.1.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.10.x",
-              "com.udonite.compiler": "^2.5.0"
-            }
-          }
-        }
-      },
-      "com.udonite.net": {
-        "id": "com.udonite.net",
-        "name": "com.udonite.net",
-        "displayName": "Udonite Net",
-        "description": "Networked events, synced values and transform sync for Udonite worlds, as a library rather than compiler built-ins.",
-        "latestVersion": "2.3.1",
-        "versionCount": 6,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "Udonite",
-          "url": "https://github.com/Udonite"
-        },
-        "versions": {
-          "2.3.1": {
-            "version": "2.3.1",
-            "name": "com.udonite.net",
-            "displayName": "Udonite Net",
-            "description": "Networked events, synced values and transform sync for Udonite worlds, as a library rather than compiler built-ins.",
-            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.net-2.3.1/com.udonite.net-2.3.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.10.x",
-              "com.udonite.compiler": "^2.17.4",
-              "com.udonite.serialization": "^1.0.0"
-            }
-          },
-          "2.3.0": {
-            "version": "2.3.0",
-            "name": "com.udonite.net",
-            "displayName": "Udonite Net",
-            "description": "Networked events, synced values and transform sync for Udonite worlds, as a library rather than compiler built-ins.",
-            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.net-2.3.0/com.udonite.net-2.3.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.10.x",
-              "com.udonite.compiler": "^2.17.4",
-              "com.udonite.serialization": "^1.0.0"
-            }
-          },
-          "2.2.2": {
-            "version": "2.2.2",
-            "name": "com.udonite.net",
-            "displayName": "Udonite Net",
-            "description": "Networked events, synced values and transform sync for Udonite worlds, as a library rather than compiler built-ins.",
-            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.net-2.2.2/com.udonite.net-2.2.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.10.x",
-              "com.udonite.compiler": "^2.17.1",
-              "com.udonite.serialization": "^1.0.0"
-            }
-          },
-          "2.2.1": {
-            "version": "2.2.1",
-            "name": "com.udonite.net",
-            "displayName": "Udonite Net",
-            "description": "Networked events, synced values and transform sync for Udonite worlds, as a library rather than compiler built-ins.",
-            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.net-2.2.1/com.udonite.net-2.2.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.10.x",
-              "com.udonite.compiler": "^2.17.1",
-              "com.udonite.serialization": "^1.0.0"
-            }
-          },
-          "2.2.0": {
-            "version": "2.2.0",
-            "name": "com.udonite.net",
-            "displayName": "Udonite Net",
-            "description": "Networked events, synced values and transform sync for Udonite worlds, as a library rather than compiler built-ins.",
-            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.net-2.2.0/com.udonite.net-2.2.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.10.x",
-              "com.udonite.compiler": "^2.17.1",
-              "com.udonite.serialization": "^1.0.0"
-            }
-          },
-          "2.1.0": {
-            "version": "2.1.0",
-            "name": "com.udonite.net",
-            "displayName": "Udonite Net",
-            "description": "Networked events, synced values and transform sync for Udonite worlds, as a library rather than compiler built-ins.",
-            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.net-2.1.0/com.udonite.net-2.1.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.10.x",
-              "com.udonite.compiler": "^2.5.0",
-              "com.udonite.serialization": "^1.0.0"
-            }
-          }
-        }
-      },
-      "com.udonite.logging": {
-        "id": "com.udonite.logging",
-        "name": "com.udonite.logging",
-        "displayName": "Udonite Logging",
-        "description": "Logging that says which type, which method and which line it came from, in the Console and in a live world.",
-        "latestVersion": "2.2.0",
-        "versionCount": 1,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "Udonite",
-          "url": "https://github.com/Udonite"
-        },
-        "versions": {
-          "2.2.0": {
-            "version": "2.2.0",
-            "name": "com.udonite.logging",
-            "displayName": "Udonite Logging",
-            "description": "Logging that says which type, which method and which line it came from, in the Console and in a live world.",
-            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.logging-2.2.0/com.udonite.logging-2.2.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.10.x",
-              "com.udonite.compiler": "^2.5.0"
-            }
-          }
-        }
-      },
-      "com.udonite.binding": {
-        "id": "com.udonite.binding",
-        "name": "com.udonite.binding",
-        "displayName": "Udonite Binding",
-        "description": "Bind an Observable to a UI control, both ways, without writing a handler.",
-        "latestVersion": "2.2.1",
-        "versionCount": 2,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "Udonite",
-          "url": "https://github.com/Udonite"
-        },
-        "versions": {
-          "2.2.1": {
-            "version": "2.2.1",
-            "name": "com.udonite.binding",
-            "displayName": "Udonite Binding",
-            "description": "Bind an Observable to a UI control, both ways, without writing a handler.",
-            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.binding-2.2.1/com.udonite.binding-2.2.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.10.x",
-              "com.udonite.compiler": "^2.16.1",
-              "com.udonite.observables": "^3.1.0"
-            }
-          },
-          "2.2.0": {
-            "version": "2.2.0",
-            "name": "com.udonite.binding",
-            "displayName": "Udonite Binding",
-            "description": "Bind an Observable to a UI control, both ways, without writing a handler.",
-            "url": "https://github.com/Udonite/packages/releases/download/com.udonite.binding-2.2.0/com.udonite.binding-2.2.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.worlds": "^3.10.x",
-              "com.udonite.compiler": "^2.5.0",
-              "com.udonite.observables": "^3.1.0"
             }
           }
         }
@@ -121511,7 +121103,7 @@
     "id": "co.raphii.vpm-listing",
     "author": "Raphiiko",
     "hash": "13d7c0741bdb67306d4706066396ddccd4188238b4335f6b126e26cf84767a0b",
-    "last_updated": "2026-07-03T23:15:32.000Z",
+    "last_updated": "2026-07-03T23:15:31.000Z",
     "packageCount": 1,
     "packages": {
       "co.raphii.vrti.avatarmenu": {
@@ -121574,8 +121166,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "2dcdef38479784aa03f6544739512c7282109cb7fd5f0495882c302d13701a28",
-    "last_updated": "2026-11-14T04:49:02.000Z",
+    "hash": "2c48d7cc388d7347edf1ae3e6447312b9adc25dec502ec5d51d2a6b70603beee",
+    "last_updated": "2026-11-15T04:41:36.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -121583,14 +121175,34 @@
         "name": "com.vrcfury.vrcfury",
         "displayName": "VRCFury",
         "description": "Non-Destructive Tools for VRChat Avatars",
-        "latestVersion": "1.1463.0",
-        "versionCount": 1505,
+        "latestVersion": "1.1465.0",
+        "versionCount": 1507,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "VRCFury"
         },
         "versions": {
+          "1.1465.0": {
+            "version": "1.1465.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1465.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1464.0": {
+            "version": "1.1464.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1464.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.1463.0": {
             "version": "1.1463.0",
             "name": "com.vrcfury.vrcfury",
@@ -136852,7 +136464,7 @@
     "id": "io.mekabu.vpm-repository",
     "author": "contact@mekabu.io",
     "hash": "afb531d339483772668bf9b0fbe2f91415a0d37733b4adad67544741ae03cb2e",
-    "last_updated": "2026-11-14T04:38:14.000Z",
+    "last_updated": "2026-11-15T04:39:07.000Z",
     "packageCount": 2,
     "packages": {
       "com.mekabu.blendshape-animation-creator": {
@@ -153349,12 +152961,578 @@
   },
   {
     "url": "https://vpm.hinasense.jp/vpm.json",
-    "name": "Hinasense VPM",
-    "id": "vpm.hinasense.jp",
-    "hash": null,
-    "last_updated": "2026-08-01T16:09:51.673Z",
-    "packageCount": 0,
-    "packages": {}
+    "name": "HinaSense VPM Repository",
+    "id": "jp.hinasense.vpm",
+    "author": "HinanoAira",
+    "hash": "6101414a61af4480361097ebeaa841db500396ff4f3b1c47e3db8a078521a2fc",
+    "last_updated": "2026-11-15T04:00:01.000Z",
+    "packageCount": 2,
+    "packages": {
+      "jp.hinasense.liltoon.freak": {
+        "id": "jp.hinasense.liltoon.freak",
+        "name": "jp.hinasense.liltoon.freak",
+        "displayName": "lilToon EmissiveFreak",
+        "description": "Adds EmissiveFreak support to lilToon for advanced emissive effects.",
+        "latestVersion": "1.0.5",
+        "versionCount": 8,
+        "keywords": [
+          "Toon",
+          "Shader",
+          "Material"
+        ],
+        "unity": "2018.3",
+        "author": {
+          "name": "HinanoAira",
+          "email": "aira@hinasense.jp",
+          "url": "https://hinasense.jp"
+        },
+        "versions": {
+          "1.0.5": {
+            "version": "1.0.5",
+            "name": "jp.hinasense.liltoon.freak",
+            "displayName": "lilToon EmissiveFreak",
+            "description": "Adds EmissiveFreak support to lilToon for advanced emissive effects.",
+            "url": "https://github.com/hinanoaira/lilToon-emissivefreak/releases/download/v1.0.5/jp.hinasense.liltoon.freak-1.0.5.zip",
+            "zipSha256": null,
+            "unity": "2018.3",
+            "vpmDependencies": {
+              "jp.lilxyzw.liltoon": ">=1.9.0"
+            }
+          },
+          "1.0.4": {
+            "version": "1.0.4",
+            "name": "jp.hinasense.liltoon.freak",
+            "displayName": "lilToon EmissiveFreak",
+            "description": "Adds EmissiveFreak support to lilToon for advanced emissive effects.",
+            "url": "https://github.com/hinanoaira/lilToon-emissivefreak/releases/download/v1.0.4/jp.hinasense.liltoon.freak-1.0.4.zip",
+            "zipSha256": null,
+            "unity": "2018.3",
+            "vpmDependencies": {
+              "jp.lilxyzw.liltoon": ">=1.9.0"
+            }
+          },
+          "1.0.3": {
+            "version": "1.0.3",
+            "name": "jp.hinasense.liltoon.freak",
+            "displayName": "lilToon EmissiveFreak",
+            "description": "Adds EmissiveFreak support to lilToon for advanced emissive effects.",
+            "url": "https://github.com/hinanoaira/lilToon-emissivefreak/releases/download/v1.0.3/jp.hinasense.liltoon.freak-1.0.3.zip",
+            "zipSha256": null,
+            "unity": "2018.3",
+            "vpmDependencies": {
+              "jp.lilxyzw.liltoon": ">=1.9.0"
+            }
+          },
+          "1.0.3-pre.1": {
+            "version": "1.0.3-pre.1",
+            "name": "jp.hinasense.liltoon.freak",
+            "displayName": "lilToon EmissiveFreak",
+            "description": "Adds EmissiveFreak support to lilToon for advanced emissive effects.",
+            "url": "https://github.com/hinanoaira/lilToon-emissivefreak/releases/download/v1.0.3-pre.1/jp.hinasense.liltoon.freak-1.0.3-pre.1.zip",
+            "zipSha256": null,
+            "unity": "2018.3",
+            "vpmDependencies": {
+              "jp.lilxyzw.liltoon": ">=1.9.0"
+            }
+          },
+          "1.0.2": {
+            "version": "1.0.2",
+            "name": "jp.hinasense.liltoon.freak",
+            "displayName": "lilToon EmissiveFreak",
+            "description": "Adds EmissiveFreak support to lilToon for advanced emissive effects.",
+            "url": "https://github.com/hinanoaira/lilToon-emissivefreak/releases/download/v1.0.2/jp.hinasense.liltoon.freak-1.0.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "jp.lilxyzw.liltoon": ">=1.9.0"
+            }
+          },
+          "1.0.1": {
+            "version": "1.0.1",
+            "name": "jp.hinasense.liltoon.freak",
+            "displayName": "lilToon EmissiveFreak",
+            "description": "Adds EmissiveFreak support to lilToon for advanced emissive effects.",
+            "url": "https://github.com/hinanoaira/lilToon-emissivefreak/releases/download/v1.0.1/jp.hinasense.liltoon.freak-1.0.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "jp.lilxyzw.liltoon": ">=1.9.0"
+            }
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "jp.hinasense.liltoon.freak",
+            "displayName": "lilToon with Emissive Freak",
+            "description": "Emissive Freak additionally implemented lilToon.",
+            "url": "https://github.com/hinanoaira/lilToon-emissivefreak/releases/download/v1.0.0/jp.hinasense.liltoon.freak-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "jp.lilxyzw.liltoon": ">=1.9.0"
+            }
+          },
+          "1.0.0-pre.1": {
+            "version": "1.0.0-pre.1",
+            "name": "jp.hinasense.liltoon.freak",
+            "displayName": "lilToon with Emissive Freak",
+            "description": "Emissive Freak additionally implemented lilToon.",
+            "url": "https://github.com/hinanoaira/lilToon-emissivefreak/releases/download/v1.0.0-pre.1/jp.hinasense.liltoon.freak-1.0.0-pre.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "jp.lilxyzw.liltoon": ">=1.9.0"
+            }
+          }
+        }
+      },
+      "jp.lilxyzw.liltoon": {
+        "id": "jp.lilxyzw.liltoon",
+        "name": "jp.lilxyzw.liltoon",
+        "displayName": "lilToon",
+        "description": "Feature-rich toon shader.",
+        "latestVersion": "2.4.1",
+        "versionCount": 43,
+        "keywords": [
+          "Toon",
+          "Shader",
+          "Material"
+        ],
+        "unity": "2022.3",
+        "author": "HinanoAira",
+        "versions": {
+          "2.4.1": {
+            "version": "2.4.1",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/2.4.1/jp.lilxyzw.liltoon-2.4.1.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.4.0": {
+            "version": "2.4.0",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/2.4.0/jp.lilxyzw.liltoon-2.4.0.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.3.4": {
+            "version": "2.3.4",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/2.3.4/jp.lilxyzw.liltoon-2.3.4.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.3.3": {
+            "version": "2.3.3",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/2.3.3/jp.lilxyzw.liltoon-2.3.3.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.3.2": {
+            "version": "2.3.2",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/2.3.2/jp.lilxyzw.liltoon-2.3.2.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.3.1": {
+            "version": "2.3.1",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/2.3.1/jp.lilxyzw.liltoon-2.3.1.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.3.0": {
+            "version": "2.3.0",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/2.3.0/jp.lilxyzw.liltoon-2.3.0.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.2.1": {
+            "version": "2.2.1",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/2.2.1/jp.lilxyzw.liltoon-2.2.1.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.2.0": {
+            "version": "2.2.0",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/2.2.0/jp.lilxyzw.liltoon-2.2.0.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.1.10": {
+            "version": "2.1.10",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/2.1.10/jp.lilxyzw.liltoon-2.1.10.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.1.9": {
+            "version": "2.1.9",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/2.1.9/jp.lilxyzw.liltoon-2.1.9.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.1.8": {
+            "version": "2.1.8",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/2.1.8/jp.lilxyzw.liltoon-2.1.8.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.1.7": {
+            "version": "2.1.7",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/2.1.7/jp.lilxyzw.liltoon-2.1.7.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.1.6": {
+            "version": "2.1.6",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/2.1.6/jp.lilxyzw.liltoon-2.1.6.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.1.5": {
+            "version": "2.1.5",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/2.1.5/jp.lilxyzw.liltoon-2.1.5.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.1.4": {
+            "version": "2.1.4",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/2.1.4/jp.lilxyzw.liltoon-2.1.4.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.1.3": {
+            "version": "2.1.3",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/2.1.3/jp.lilxyzw.liltoon-2.1.3.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.1.2": {
+            "version": "2.1.2",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/2.1.2/jp.lilxyzw.liltoon-2.1.2.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.1.1": {
+            "version": "2.1.1",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/2.1.1/jp.lilxyzw.liltoon-2.1.1.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.1.0": {
+            "version": "2.1.0",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/2.1.0/jp.lilxyzw.liltoon-2.1.0.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.0.0": {
+            "version": "2.0.0",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/2.0.0/jp.lilxyzw.liltoon-2.0.0.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.10.3": {
+            "version": "1.10.3",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/1.10.3/jp.lilxyzw.liltoon-1.10.3.zip?",
+            "zipSha256": null,
+            "unity": "2018.3",
+            "vpmDependencies": {}
+          },
+          "1.10.2": {
+            "version": "1.10.2",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/1.10.2/jp.lilxyzw.liltoon-1.10.2.zip?",
+            "zipSha256": null,
+            "unity": "2018.3",
+            "vpmDependencies": {}
+          },
+          "1.10.1": {
+            "version": "1.10.1",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/1.10.1/jp.lilxyzw.liltoon-1.10.1.zip?",
+            "zipSha256": null,
+            "unity": "2018.3",
+            "vpmDependencies": {}
+          },
+          "1.10.0": {
+            "version": "1.10.0",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/1.10.0/jp.lilxyzw.liltoon-1.10.0.zip?",
+            "zipSha256": null,
+            "unity": "2018.3",
+            "vpmDependencies": {}
+          },
+          "1.9.0": {
+            "version": "1.9.0",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/1.9.0/jp.lilxyzw.liltoon-1.9.0.zip?",
+            "zipSha256": null,
+            "unity": "2018.3",
+            "vpmDependencies": {}
+          },
+          "1.8.5": {
+            "version": "1.8.5",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/1.8.5/jp.lilxyzw.liltoon-1.8.5.zip?",
+            "zipSha256": null,
+            "unity": "2018.3",
+            "vpmDependencies": {}
+          },
+          "1.8.4": {
+            "version": "1.8.4",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/1.8.4/jp.lilxyzw.liltoon-1.8.4.zip?",
+            "zipSha256": null,
+            "unity": "2018.3",
+            "vpmDependencies": {}
+          },
+          "1.8.3": {
+            "version": "1.8.3",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/1.8.3/jp.lilxyzw.liltoon-1.8.3.zip?",
+            "zipSha256": null,
+            "unity": "2018.3",
+            "vpmDependencies": {}
+          },
+          "1.8.2": {
+            "version": "1.8.2",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/1.8.2/jp.lilxyzw.liltoon-1.8.2.zip?",
+            "zipSha256": null,
+            "unity": "2018.3",
+            "vpmDependencies": {}
+          },
+          "1.8.1": {
+            "version": "1.8.1",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/1.8.1/jp.lilxyzw.liltoon-1.8.1.zip?",
+            "zipSha256": null,
+            "unity": "2018.1",
+            "vpmDependencies": {}
+          },
+          "1.8.0": {
+            "version": "1.8.0",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/1.8.0/jp.lilxyzw.liltoon-1.8.0.zip?",
+            "zipSha256": null,
+            "unity": "2018.1",
+            "vpmDependencies": {}
+          },
+          "1.7.3": {
+            "version": "1.7.3",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/1.7.3/jp.lilxyzw.liltoon-1.7.3.zip?",
+            "zipSha256": null,
+            "unity": "2018.1",
+            "vpmDependencies": {}
+          },
+          "1.7.2": {
+            "version": "1.7.2",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/1.7.2/jp.lilxyzw.liltoon-1.7.2.zip?",
+            "zipSha256": null,
+            "unity": "2018.1",
+            "vpmDependencies": {}
+          },
+          "1.7.1": {
+            "version": "1.7.1",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/1.7.1/jp.lilxyzw.liltoon-1.7.1.zip?",
+            "zipSha256": null,
+            "unity": "2018.1",
+            "vpmDependencies": {}
+          },
+          "1.7.0": {
+            "version": "1.7.0",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/1.7.0/jp.lilxyzw.liltoon-1.7.0.zip?",
+            "zipSha256": null,
+            "unity": "2018.1",
+            "vpmDependencies": {}
+          },
+          "1.6.0": {
+            "version": "1.6.0",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/1.6.0/jp.lilxyzw.liltoon-1.6.0.zip?",
+            "zipSha256": null,
+            "unity": "2018.1",
+            "vpmDependencies": {}
+          },
+          "1.5.2": {
+            "version": "1.5.2",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/1.5.2/jp.lilxyzw.liltoon-1.5.2.zip?",
+            "zipSha256": null,
+            "unity": "2018.1",
+            "vpmDependencies": {}
+          },
+          "1.5.1": {
+            "version": "1.5.1",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/1.5.1/jp.lilxyzw.liltoon-1.5.1.zip?",
+            "zipSha256": null,
+            "unity": "2018.1",
+            "vpmDependencies": {}
+          },
+          "1.5.0": {
+            "version": "1.5.0",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/1.5.0/jp.lilxyzw.liltoon-1.5.0.zip?",
+            "zipSha256": null,
+            "unity": "2018.1",
+            "vpmDependencies": {}
+          },
+          "1.4.1": {
+            "version": "1.4.1",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/1.4.1/jp.lilxyzw.liltoon-1.4.1.zip?",
+            "zipSha256": null,
+            "unity": "2018.1",
+            "vpmDependencies": {}
+          },
+          "1.4.0": {
+            "version": "1.4.0",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/1.4.0/jp.lilxyzw.liltoon-1.4.0.zip?",
+            "zipSha256": null,
+            "unity": "2018.1",
+            "vpmDependencies": {}
+          },
+          "1.3.7": {
+            "version": "1.3.7",
+            "name": "jp.lilxyzw.liltoon",
+            "displayName": "lilToon",
+            "description": "Feature-rich toon shader.",
+            "url": "https://github.com/lilxyzw/lilToon/releases/download/1.3.7/jp.lilxyzw.liltoon-1.3.7.zip",
+            "zipSha256": null,
+            "unity": "2018.1",
+            "vpmDependencies": {}
+          }
+        }
+      }
+    }
   },
   {
     "url": "https://vpm.hoshinolabs.com/vpm.json",
@@ -159620,7 +159798,7 @@
     "id": "dev.ladyluh.vpm",
     "author": "luna-gelmini",
     "hash": "29b50b3a46469eb3ade74e9b7cfef4546be058b5d397a4dc015b615979324093",
-    "last_updated": "2026-11-13T23:41:46.000Z",
+    "last_updated": "2026-11-15T02:50:12.000Z",
     "packageCount": 4,
     "packages": {
       "dev.ladyluh.questkit": {
@@ -166003,8 +166181,8 @@
     "name": "bd_",
     "id": "dev.nadena.vpm",
     "author": "bd_",
-    "hash": "2644b17284aa9284d3a4e840e38272e100b65c29e846d187bf20525f763d3574",
-    "last_updated": "2026-11-13T04:00:30.000Z",
+    "hash": "37be5329125ed5b2dee532593896eb279e69ad23cec398e6c2a3cecc2b498264",
+    "last_updated": "2026-11-15T03:50:02.000Z",
     "packageCount": 4,
     "packages": {
       "nadena.dev.misc-vrc-tools": {
@@ -166040,7 +166218,7 @@
         "displayName": "Modular Avatar",
         "description": null,
         "latestVersion": "0.8.0",
-        "versionCount": 200,
+        "versionCount": 201,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -167679,6 +167857,18 @@
             "displayName": "Modular Avatar",
             "description": "A suite of tools for assembling your avatar out of reusable components",
             "url": "https://packages.vpm.nadena.dev/repositories/nadena.dev/packages/nadena.dev.modular-avatar/1.19.0-rc.2/d9a99308a8bfa3be1e945823534136195e00995235e398d82e013a73f5b17f2a.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.15.0-beta.1 <2.0.0-a"
+            }
+          },
+          "1.19.0-rc.3": {
+            "version": "1.19.0-rc.3",
+            "name": "nadena.dev.modular-avatar",
+            "displayName": "Modular Avatar",
+            "description": "A suite of tools for assembling your avatar out of reusable components",
+            "url": "https://packages.vpm.nadena.dev/repositories/nadena.dev/packages/nadena.dev.modular-avatar/1.19.0-rc.3/3a53859754a870a0193bb55d49a495da742f053e72695037c81f1833545694ff.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -181552,7 +181742,7 @@
     "id": "jp.pipipigiken.vpm",
     "author": "orange3134",
     "hash": "fdfcf0227a2be7d6ef7e840800fc48834054e85de4dd49202c7e2154a08fece3",
-    "last_updated": "2026-11-13T23:40:23.000Z",
+    "last_updated": "2026-11-15T02:47:31.000Z",
     "packageCount": 2,
     "packages": {
       "jp.pipipigiken.mpavatar-package": {
@@ -188654,7 +188844,7 @@
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
     "hash": "f55a664e3a5350e1f2def05a18cb6fc37d603ce465f8e21da2aa6c169d28cf0c",
-    "last_updated": "2026-11-10T00:36:22.000Z",
+    "last_updated": "2026-11-10T00:36:23.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -198151,7 +198341,7 @@
     "id": "com.vrsuya.vpm",
     "author": "VRSuya",
     "hash": "db563e00961dfd779328cef0950a49c54cb524641b56312dc63464832e7ca4cf",
-    "last_updated": "2026-11-10T16:33:22.000Z",
+    "last_updated": "2026-11-10T16:33:18.000Z",
     "packageCount": 3,
     "packages": {
       "com.vrsuya.core": {
@@ -198282,8 +198472,8 @@
     "name": "VR Vlog Packages",
     "id": "com.vrvlog.packages",
     "author": "VR Vlog",
-    "hash": "90954ed40ff4be40dfa245365825c83e53569bf8396d2c6c78f6c0e559306940",
-    "last_updated": "2026-11-14T03:41:00.000Z",
+    "hash": "46f0d3681293e69ac6f5272439559f4a7a4a7116b10f39bc0f2a6b920b660ac7",
+    "last_updated": "2026-11-14T19:10:35.000Z",
     "packageCount": 3,
     "packages": {
       "com.vrvlog.liltoon-vrm-exporter": {
@@ -198291,8 +198481,8 @@
         "name": "com.vrvlog.liltoon-vrm-exporter",
         "displayName": "VR Vlog lilToon VRM Exporter",
         "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-        "latestVersion": "1.15.0",
-        "versionCount": 108,
+        "latestVersion": "1.15.1",
+        "versionCount": 109,
         "keywords": [
           "vrm",
           "liltoon",
@@ -198304,6 +198494,16 @@
           "name": "VR Vlog"
         },
         "versions": {
+          "1.15.1": {
+            "version": "1.15.1",
+            "name": "com.vrvlog.liltoon-vrm-exporter",
+            "displayName": "VR Vlog lilToon VRM Exporter",
+            "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v1.15.1/com.vrvlog.liltoon-vrm-exporter-1.15.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.15.0": {
             "version": "1.15.0",
             "name": "com.vrvlog.liltoon-vrm-exporter",
@@ -202064,8 +202264,8 @@
     "name": "Explosive Theorem Lab. Metaverse Division",
     "id": "idv.jlchntoz.xtlcdn-listing",
     "author": "Jeremy Lam aka. Vistanz",
-    "hash": "10b091af628f8d6a58b8b76778b9982cbea7ff63645bf552b90a0db7924b85f9",
-    "last_updated": "2026-11-13T17:29:24.000Z",
+    "hash": "6a34ddd403b47a8c38c28b9cf9682e168aad3a17a99caee287dd29fba41cbb80",
+    "last_updated": "2026-11-14T17:39:03.000Z",
     "packageCount": 14,
     "packages": {
       "idv.jlchntoz.vrcw-foundation": {
@@ -205361,8 +205561,8 @@
         "name": "idv.jlchntoz.ndextensions",
         "displayName": "Vistanz's Non Destructive Extensions",
         "description": "Non Destructive Extensions For VRChat Avatars (built on top of NDMF)",
-        "latestVersion": "0.1.4",
-        "versionCount": 45,
+        "latestVersion": "0.1.7",
+        "versionCount": 48,
         "keywords": [],
         "unity": "2022.1",
         "author": {
@@ -205371,6 +205571,42 @@
           "url": "https://xtl.booth.pm"
         },
         "versions": {
+          "0.1.7": {
+            "version": "0.1.7",
+            "name": "idv.jlchntoz.ndextensions",
+            "displayName": "Vistanz's Non Destructive Extensions",
+            "description": "Non Destructive Extensions For VRChat Avatars (built on top of NDMF)",
+            "url": "https://github.com/JLChnToZ/ndextensions/releases/download/0.1.7/idv.jlchntoz.ndextensions-0.1.7.zip",
+            "zipSha256": null,
+            "unity": "2022.1",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.9.x"
+            }
+          },
+          "0.1.6": {
+            "version": "0.1.6",
+            "name": "idv.jlchntoz.ndextensions",
+            "displayName": "Vistanz's Non Destructive Extensions",
+            "description": "Non Destructive Extensions For VRChat Avatars (built on top of NDMF)",
+            "url": "https://github.com/JLChnToZ/ndextensions/releases/download/0.1.6/idv.jlchntoz.ndextensions-0.1.6.zip",
+            "zipSha256": null,
+            "unity": "2022.1",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.9.x"
+            }
+          },
+          "0.1.5": {
+            "version": "0.1.5",
+            "name": "idv.jlchntoz.ndextensions",
+            "displayName": "Vistanz's Non Destructive Extensions",
+            "description": "Non Destructive Extensions For VRChat Avatars (built on top of NDMF)",
+            "url": "https://github.com/JLChnToZ/ndextensions/releases/download/0.1.5/idv.jlchntoz.ndextensions-0.1.5.zip",
+            "zipSha256": null,
+            "unity": "2022.1",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.9.x"
+            }
+          },
           "0.1.4": {
             "version": "0.1.4",
             "name": "idv.jlchntoz.ndextensions",
