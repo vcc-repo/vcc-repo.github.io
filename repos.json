@@ -11642,8 +11642,8 @@
     "name": "AwA's VRChat Tools",
     "id": "com.awavr.vpm",
     "author": "AwA",
-    "hash": "22064f8c95b78ec5892d45b2af7ecbc44a89d9443330c2b63733c4174e56e1f8",
-    "last_updated": "2026-09-19T19:28:38.000Z",
+    "hash": "84c1c0a8d4f2daa7e4d4c9874b83cdf75e2f9a828fcb11aa857ed4acc5cf09c2",
+    "last_updated": "2026-11-15T14:10:40.000Z",
     "packageCount": 11,
     "packages": {
       "com.awavr.core": {
@@ -11651,8 +11651,8 @@
         "name": "com.awavr.core",
         "displayName": "AwA - Core",
         "description": "Core for AwA's tools",
-        "latestVersion": "1.4.2-beta.1",
-        "versionCount": 9,
+        "latestVersion": "1.4.2",
+        "versionCount": 8,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -11661,16 +11661,6 @@
           "url": "https://github.com/awa-vr/vrc-tools"
         },
         "versions": {
-          "1.4.2-beta.1": {
-            "version": "1.4.2-beta.1",
-            "name": "com.awavr.core",
-            "displayName": "AwA - Core",
-            "description": "Core for AwA's tools",
-            "url": "https://github.com/awa-vr/Core/releases/download/1.4.2-beta.1/com.awavr.core-1.4.2-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {}
-          },
           "1.4.2": {
             "version": "1.4.2",
             "name": "com.awavr.core",
@@ -11758,8 +11748,8 @@
         "name": "com.awavr.vrcsdkplus",
         "displayName": "AwA - VRCSDK+",
         "description": "An alternative to the VRCSDK expression Menu & Parameters Editors that provides better functionality and quality of life features.",
-        "latestVersion": "2.1.0",
-        "versionCount": 7,
+        "latestVersion": "2.2.0",
+        "versionCount": 8,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -11768,6 +11758,19 @@
           "url": "https://github.com/awa-vr/vrc-tools"
         },
         "versions": {
+          "2.2.0": {
+            "version": "2.2.0",
+            "name": "com.awavr.vrcsdkplus",
+            "displayName": "AwA - VRCSDK+",
+            "description": "An alternative to the VRCSDK expression Menu & Parameters Editors that provides better functionality and quality of life features.",
+            "url": "https://github.com/awa-vr/VRC-SDK-Plus/releases/download/2.2.0/com.awavr.vrcsdkplus-2.2.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.0.0",
+              "com.awavr.core": "^1.2.1"
+            }
+          },
           "2.1.0": {
             "version": "2.1.0",
             "name": "com.awavr.vrcsdkplus",
@@ -12711,6 +12714,113 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {}
+          }
+        }
+      }
+    }
+  },
+  {
+    "url": "https://azelrack.github.io/VRChat-AzelVPMListing/index.json",
+    "name": "Azelrack package's Listing",
+    "id": "com.vrchat.azelrack.vpm.listing",
+    "author": "Azelrack",
+    "hash": "ae281f39ccc365cdcb1cd9e04964b7915a3d5af24705858ea05a017e34e4ed30",
+    "last_updated": "2026-11-10T00:58:18.000Z",
+    "packageCount": 1,
+    "packages": {
+      "com.azelrack.vrchat-udon-avatar-scaler": {
+        "id": "com.azelrack.vrchat-udon-avatar-scaler",
+        "name": "com.azelrack.vrchat-udon-avatar-scaler",
+        "displayName": "VRChat Udon Avatar Scaler",
+        "description": "All in one solution to control avatar height and to scale with it speed, gravity, jump, voice and audio.",
+        "latestVersion": "1.0.2",
+        "versionCount": 5,
+        "keywords": [
+          "Avatar",
+          "Scaling",
+          "Size"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "Azelrack",
+          "email": "azelrack@gmail.com",
+          "url": "https://github.com/Azelrack"
+        },
+        "versions": {
+          "1.0.2": {
+            "version": "1.0.2",
+            "name": "com.azelrack.vrchat-udon-avatar-scaler",
+            "displayName": "VRChat Udon Avatar Scaler",
+            "description": "All in one solution to control avatar height and to scale with it speed, gravity, jump, voice and audio.",
+            "url": "https://github.com/Azelrack/VRChat-UdonAvatarScaler/releases/download/1.0.2/VRChatUdonAvatarScaler-1.0.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.9.0",
+              "com.vrchat.worlds": "3.9.0",
+              "com.vrchat.core.vpm-resolver": "0.1.29",
+              "com.unity.textmeshpro": "3.0.6"
+            }
+          },
+          "1.0.1": {
+            "version": "1.0.1",
+            "name": "com.azelrack.vrchat-udon-avatar-scaler",
+            "displayName": "VRChat Udon Avatar Scaler",
+            "description": "All in one solution to control avatar height and to scale with it speed, gravity, jump, voice and audio.",
+            "url": "https://github.com/Azelrack/VRChat-UdonAvatarScaler/releases/download/1.0.1/VRChatUdonAvatarScaler-1.0.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.9.0",
+              "com.vrchat.worlds": "3.9.0",
+              "com.vrchat.core.vpm-resolver": "0.1.29",
+              "com.unity.textmeshpro": "3.0.6"
+            }
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.azelrack.vrchat-udon-avatar-scaler",
+            "displayName": "VRChat Udon Avatar Scaler",
+            "description": "All in one solution to control avatar height and to scale with it speed, gravity, jump, voice and audio.",
+            "url": "https://github.com/Azelrack/VRChat-UdonAvatarScaler/releases/download/1.0.0/VRChatUdonAvatarScaler-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.9.0",
+              "com.vrchat.worlds": "3.9.0",
+              "com.vrchat.core.vpm-resolver": "0.1.29",
+              "com.unity.textmeshpro": "3.0.6"
+            }
+          },
+          "0.1.1": {
+            "version": "0.1.1",
+            "name": "com.azelrack.vrchat-udon-avatar-scaler",
+            "displayName": "VRChat Udon Avatar Scaler",
+            "description": "All in one solution to control avatar height and to scale with it speed, gravity, jump, voice and audio.",
+            "url": "https://github.com/Azelrack/VRChat-UdonAvatarScaler/releases/download/0.1.1/VRChatUdonAvatarScaler-0.1.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.9.0",
+              "com.vrchat.worlds": "3.9.0",
+              "com.vrchat.core.vpm-resolver": "0.1.29",
+              "com.unity.textmeshpro": "3.0.6"
+            }
+          },
+          "0.1.0": {
+            "version": "0.1.0",
+            "name": "com.azelrack.vrchat-udon-avatar-scaler",
+            "displayName": "VRChat Udon Avatar Scaler",
+            "description": "All in one solution to control avatar height and to scale with it speed, gravity, jump, voice and audio.",
+            "url": "https://github.com/Azelrack/VRChat-UdonAvatarScaler/releases/download/0.1.0/VRChatUdonAvatarScaler-0.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.9.0",
+              "com.vrchat.worlds": "3.9.0",
+              "com.vrchat.core.vpm-resolver": "0.1.29",
+              "com.unity.textmeshpro": "3.0.6"
+            }
           }
         }
       }
@@ -14615,8 +14725,8 @@
     "name": "Orbiters VPM",
     "id": "cc.orbiters.vpm",
     "author": "blackorbit",
-    "hash": "11e092a7e7cae166ae640cbe0f7bab7018005c54d8d88bb8f638aa3346b0f9f5",
-    "last_updated": "2026-11-15T04:22:48.000Z",
+    "hash": "3be41fac8b80cfa6001a51fd01b3454f60d84066752f119d1cc63f44cb757bfe",
+    "last_updated": "2026-11-16T04:29:09.000Z",
     "packageCount": 12,
     "packages": {
       "orbiters.mcb": {
@@ -16034,8 +16144,8 @@
         "name": "orbiters.toolkit",
         "displayName": "Orbiters Toolkit",
         "description": "Shared Orbiters account, editor UI, feature flags, VPM dependency prompts, bone matching, accessory attachment and posing preview, blendshape links, custom base refits (records, build-time blendshape links, fit checks), avatar photoshoot, mirror posing, Scene view gizmos (bones, weight paint, mesh edges, avatar budget), mesh editing primitives (BVH, neighbors, FBX writer), background window capture, N4N0 (the Orbiters companion prop) and avatar manifests for Orbiters - N4N0.",
-        "latestVersion": "0.5.1",
-        "versionCount": 45,
+        "latestVersion": "0.5.2",
+        "versionCount": 46,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -16044,6 +16154,21 @@
           "email": "blackorbit.eclaire@gmail.com"
         },
         "versions": {
+          "0.5.2": {
+            "version": "0.5.2",
+            "name": "orbiters.toolkit",
+            "displayName": "Orbiters Toolkit",
+            "description": "Shared Orbiters account, editor UI, feature flags, VPM dependency prompts, bone matching, accessory attachment and posing preview, blendshape links, custom base refits (records, build-time blendshape links, fit checks), avatar photoshoot, mirror posing, Scene view gizmos (bones, weight paint, mesh edges, avatar budget), mesh editing primitives (BVH, neighbors, FBX writer), background window capture, N4N0 (the Orbiters companion prop) and avatar manifests for Orbiters - N4N0.",
+            "url": "https://github.com/Orbiters-cc/Toolkit/releases/download/0.5.2/Toolkit-0.5.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.unity.burst": "1.8.7",
+              "com.unity.collections": "2.1.4",
+              "com.unity.mathematics": "1.3.2",
+              "com.unity.nuget.newtonsoft-json": "3.2.1"
+            }
+          },
           "0.5.1": {
             "version": "0.5.1",
             "name": "orbiters.toolkit",
@@ -24468,8 +24593,8 @@
     "name": "DocMe Tools",
     "id": "com.docme.listing",
     "author": "DocMe",
-    "hash": "af1c7014ae9d567536cb160bacb02d84afd07109533ab20df579a3c7da032a40",
-    "last_updated": "2026-11-14T11:27:33.000Z",
+    "hash": "eb5d9f703a3ea4f0e2136fb2618d56da34f9cdf5aad5e4f8765cf1b18e212c90",
+    "last_updated": "2026-11-15T15:44:52.000Z",
     "packageCount": 5,
     "packages": {
       "com.docme.eye-installer": {
@@ -24477,8 +24602,8 @@
         "name": "com.docme.eye-installer",
         "displayName": "DocMe Eye Installer",
         "description": "Puts a procedural eye shader onto any VRChat avatar: finds the eyes, hides or reuses the original eye mesh, places the new eye, and lets you fine tune it with a live preview. Works with the DocMe eye shaders and any other flat eye material.",
-        "latestVersion": "1.5.0",
-        "versionCount": 9,
+        "latestVersion": "1.6.1",
+        "versionCount": 11,
         "keywords": [
           "vrchat",
           "avatar",
@@ -24492,6 +24617,32 @@
           "email": "docme2nd@gmail.com"
         },
         "versions": {
+          "1.6.1": {
+            "version": "1.6.1",
+            "name": "com.docme.eye-installer",
+            "displayName": "DocMe Eye Installer",
+            "description": "Puts a procedural eye shader onto any VRChat avatar: finds the eyes, hides or reuses the original eye mesh, places the new eye, and lets you fine tune it with a live preview. Works with the DocMe eye shaders and any other flat eye material.",
+            "url": "https://github.com/DocMeVR/eye-installer/releases/download/1.6.1/com.docme.eye-installer-1.6.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": ">=3.5.0",
+              "com.docme.hide-islands": ">=1.2.0"
+            }
+          },
+          "1.6.0": {
+            "version": "1.6.0",
+            "name": "com.docme.eye-installer",
+            "displayName": "DocMe Eye Installer",
+            "description": "Puts a procedural eye shader onto any VRChat avatar: finds the eyes, hides or reuses the original eye mesh, places the new eye, and lets you fine tune it with a live preview. Works with the DocMe eye shaders and any other flat eye material.",
+            "url": "https://github.com/DocMeVR/eye-installer/releases/download/1.6.0/com.docme.eye-installer-1.6.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": ">=3.5.0",
+              "com.docme.hide-islands": ">=1.2.0"
+            }
+          },
           "1.5.0": {
             "version": "1.5.0",
             "name": "com.docme.eye-installer",
@@ -24614,8 +24765,8 @@
         "name": "com.docme.hide-islands",
         "displayName": "DocMe Hide Mesh Islands",
         "description": "Hides small parts of an avatar mesh (highlights, stickers, decorations) without editing the model: select them in the Scene view, hide them in one go, bring them back any time. Also the mesh library the DocMe Eye Installer builds on.",
-        "latestVersion": "1.1.0",
-        "versionCount": 3,
+        "latestVersion": "1.2.0",
+        "versionCount": 4,
         "keywords": [
           "vrchat",
           "avatar",
@@ -24628,6 +24779,18 @@
           "email": "docme2nd@gmail.com"
         },
         "versions": {
+          "1.2.0": {
+            "version": "1.2.0",
+            "name": "com.docme.hide-islands",
+            "displayName": "DocMe Hide Mesh Islands",
+            "description": "Hides small parts of an avatar mesh (highlights, stickers, decorations) without editing the model: select them in the Scene view, hide them in one go, bring them back any time. Also the mesh library the DocMe Eye Installer builds on.",
+            "url": "https://github.com/DocMeVR/hide-islands/releases/download/1.2.0/com.docme.hide-islands-1.2.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": ">=3.5.0"
+            }
+          },
           "1.1.0": {
             "version": "1.1.0",
             "name": "com.docme.hide-islands",
@@ -32118,7 +32281,7 @@
     "id": "com.furality.repos.official",
     "author": "Furality, Inc.",
     "hash": "1f058d849e3d6f8fbf1320164b63cd1f1019b43a7993a1adfa11f274f8288e49",
-    "last_updated": "2026-08-08T02:49:10.000Z",
+    "last_updated": "2026-08-08T02:49:09.000Z",
     "packageCount": 3,
     "packages": {
       "com.furality.sylvashader": {
@@ -35251,7 +35414,7 @@
     "id": "info.glintfraulein.vpm",
     "author": "GlinT Fraulein",
     "hash": "73604b5dbc89487eb98b71c30501c83b346b29d793d41781a16448cb6ed6daef",
-    "last_updated": "2026-11-04T16:39:39.000Z",
+    "last_updated": "2026-11-04T16:39:38.000Z",
     "packageCount": 1,
     "packages": {
       "info.glintfraulein.palasolu": {
@@ -36001,7 +36164,7 @@
     "id": "com.synthos.packages",
     "author": "Synthos",
     "hash": "1d52e18c2664c94e0dae7cd195887b62780fbd3fde4bf63de9c8afef6109233a",
-    "last_updated": "2026-11-15T04:37:59.000Z",
+    "last_updated": "2026-11-16T04:33:38.000Z",
     "packageCount": 8,
     "packages": {
       "com.synthos.scene-optimizer": {
@@ -39847,8 +40010,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "f12fb40da2f39289968f15d1195ab7ff63d965fedf3c036ab7239196f2a6e82e",
-    "last_updated": "2026-11-13T22:59:41.000Z",
+    "hash": "c1fc9c56507f0280887af2cd3dfa836ddbc70431dbfcd6ac8e9564d139245158",
+    "last_updated": "2026-11-15T05:04:47.000Z",
     "packageCount": 10,
     "packages": {
       "com.poiyomi.pro": {
@@ -39856,8 +40019,8 @@
         "name": "com.poiyomi.pro",
         "displayName": "Poiyomi Pro",
         "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
-        "latestVersion": "11.0.49",
-        "versionCount": 58,
+        "latestVersion": "11.0.50",
+        "versionCount": 59,
         "keywords": [
           "shaders",
           "vrchat",
@@ -39871,6 +40034,18 @@
           "url": "https://poiyomi.com"
         },
         "versions": {
+          "11.0.50": {
+            "version": "11.0.50",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.50/10d7926f4fe201145db4abb92f842ade589440c83e09c06719014c0ce8624ccf",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {
+              "com.unity.nuget.newtonsoft-json": "3.2.1"
+            }
+          },
           "11.0.49": {
             "version": "11.0.49",
             "name": "com.poiyomi.pro",
@@ -49285,8 +49460,8 @@
     "name": "hkrn VPM registry",
     "id": "com.github.hkrn",
     "author": "hkrn",
-    "hash": "66afe02e940c091d4b955f7a758659dfa28c963b53e571fc1c24147280761b5f",
-    "last_updated": "2026-07-12T08:29:10.000Z",
+    "hash": "94ad5c5c4f69ac9e883e8868aecd23ecfa7425bd605b9a25f15851ef27489664",
+    "last_updated": "2026-11-15T10:15:52.000Z",
     "packageCount": 1,
     "packages": {
       "com.github.hkrn.ndmf-vrm-exporter": {
@@ -49295,7 +49470,7 @@
         "displayName": "NDMF VRM Exporter",
         "description": "NDMF Plugin to export the avatar as VRM 1.0 model.",
         "latestVersion": "1.0.0",
-        "versionCount": 31,
+        "versionCount": 32,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -49705,6 +49880,19 @@
               "com.vrchat.avatars": ">=3.7.0",
               "nadena.dev.ndmf": ">=1.6.0"
             }
+          },
+          "1.5.0": {
+            "version": "1.5.0",
+            "name": "com.github.hkrn.ndmf-vrm-exporter",
+            "displayName": "NDMF VRM Exporter",
+            "description": "NDMF Plugin to export the avatar as VRM 1.0 model.",
+            "url": "https://github.com/hkrn/ndmf-vrm-exporter/releases/download/1.5.0/com.github.hkrn.ndmf-vrm-exporter-1.5.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "nadena.dev.ndmf": ">=1.6.0"
+            }
           }
         }
       }
@@ -49954,7 +50142,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "dc975d1397ce107372949311ebff9c87b2475ea8a0827d7b3c6c9caa9a314034",
-    "last_updated": "2026-11-14T10:35:04.000Z",
+    "last_updated": "2026-11-15T11:05:07.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -51460,6 +51648,100 @@
     }
   },
   {
+    "url": "https://itsrenjilabs.github.io/vpm/index.json",
+    "name": "ItsRenjiLabs",
+    "id": "com.itsrenjilabs.vpm",
+    "author": "ItsRenji",
+    "hash": "8f0c3748e819ae062b6fb6fdaba4d0b841d3a20ab30a2a2c7dc9ac14cafae931",
+    "last_updated": "2026-11-09T15:41:44.000Z",
+    "packageCount": 1,
+    "packages": {
+      "com.itsrenji.conduit": {
+        "id": "com.itsrenji.conduit",
+        "name": "com.itsrenji.conduit",
+        "displayName": "Conduit",
+        "description": "MCP-native Unity bridge that gives AI coding agents the whole editor, UdonSharp and the VRChat SDK: author, inspect, compile, test, validate, build and launch without leaving the agent session.",
+        "latestVersion": "1.0.5",
+        "versionCount": 6,
+        "keywords": [
+          "mcp",
+          "ai",
+          "agent",
+          "vrchat",
+          "udonsharp",
+          "editor"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "ItsRenji",
+          "url": "https://github.com/ItsRenjiii"
+        },
+        "versions": {
+          "1.0.5": {
+            "version": "1.0.5",
+            "name": "com.itsrenji.conduit",
+            "displayName": "Conduit",
+            "description": "MCP-native Unity bridge that gives AI coding agents the whole editor, UdonSharp and the VRChat SDK: author, inspect, compile, test, validate, build and launch without leaving the agent session.",
+            "url": "https://github.com/ItsRenjiii/Conduit/releases/download/v1.0.5/com.itsrenji.conduit-1.0.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.0.4": {
+            "version": "1.0.4",
+            "name": "com.itsrenji.conduit",
+            "displayName": "Conduit",
+            "description": "MCP-native Unity bridge that gives AI coding agents the whole editor, UdonSharp and the VRChat SDK: author, inspect, compile, test, validate, build and launch without leaving the agent session.",
+            "url": "https://github.com/ItsRenjiii/Conduit/releases/download/v1.0.4/com.itsrenji.conduit-1.0.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.0.3": {
+            "version": "1.0.3",
+            "name": "com.itsrenji.conduit",
+            "displayName": "Conduit",
+            "description": "MCP-native Unity bridge that gives AI coding agents the whole editor, UdonSharp and the VRChat SDK: author, inspect, compile, test, validate, build and launch without leaving the agent session.",
+            "url": "https://github.com/ItsRenjiii/Conduit/releases/download/v1.0.3/com.itsrenji.conduit-1.0.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.0.2": {
+            "version": "1.0.2",
+            "name": "com.itsrenji.conduit",
+            "displayName": "Conduit",
+            "description": "MCP-native Unity bridge that gives AI coding agents the whole editor, UdonSharp and the VRChat SDK: author, inspect, compile, test, validate, build and launch without leaving the agent session.",
+            "url": "https://github.com/ItsRenjiii/Conduit/releases/download/v1.0.2/com.itsrenji.conduit-1.0.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.0.1": {
+            "version": "1.0.1",
+            "name": "com.itsrenji.conduit",
+            "displayName": "Conduit",
+            "description": "MCP-native Unity bridge that gives AI coding agents the whole editor, UdonSharp and the VRChat SDK: author, inspect, compile, test, validate, build and launch without leaving the agent session.",
+            "url": "https://github.com/ItsRenjiii/Conduit/releases/download/v1.0.1/com.itsrenji.conduit-1.0.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.itsrenji.conduit",
+            "displayName": "Conduit",
+            "description": "MCP-native Unity bridge that gives AI coding agents the whole editor, UdonSharp and the VRChat SDK: author, inspect, compile, test, validate, build and launch without leaving the agent session.",
+            "url": "https://github.com/ItsRenjiii/Conduit/releases/download/v1.0.0/com.itsrenji.conduit-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          }
+        }
+      }
+    }
+  },
+  {
     "url": "https://jazjasmine.github.io/VCC/index.json",
     "name": "JazJasmine's Dev Center",
     "id": "com.jazjasmine.dev-center",
@@ -51503,7 +51785,7 @@
     "id": "dev.jetees.vpm-listing",
     "author": "JeTeeS",
     "hash": "c43d1d46596697e66705b99d7740a062daf269bacdf077d0810963cb05d466da",
-    "last_updated": "2024-05-22T15:17:52.000Z",
+    "last_updated": "2024-05-22T15:17:51.000Z",
     "packageCount": 1,
     "packages": {
       "dev.jetees.memoryoptimizer": {
@@ -51963,7 +52245,7 @@
     "id": "dev.kaefibot.listing",
     "author": "WoweePaw",
     "hash": "0f954512e7a69a442d27394f918fc68614873d3db3706347e1e36e0acde01244",
-    "last_updated": "2026-07-05T15:03:29.000Z",
+    "last_updated": "2026-07-05T15:03:28.000Z",
     "packageCount": 1,
     "packages": {
       "dev.kaefibot.kaefibot-controller": {
@@ -60473,7 +60755,7 @@
     "id": "dev.kmnk.vpm",
     "author": "kmnk",
     "hash": "2ac37014f77aa205ecbbe2bb2f1b486a86368ce3f4522628bef760fe3a143dd7",
-    "last_updated": "2026-11-14T18:19:49.000Z",
+    "last_updated": "2026-11-15T18:20:08.000Z",
     "packageCount": 2,
     "packages": {
       "dev.kmnk.log-stream": {
@@ -60931,7 +61213,7 @@
     "id": "io.github.koz39.vpm-listing",
     "author": "KOZ39",
     "hash": "ea8a5b6ba57f057006723823d8913f61aaa78ccd25fe8ebacc9b19a42c15e078",
-    "last_updated": "2026-11-13T10:33:59.000Z",
+    "last_updated": "2026-11-13T10:33:58.000Z",
     "packageCount": 4,
     "packages": {
       "dev.koz39.elbow-fixer": {
@@ -64911,12 +65193,743 @@
     }
   },
   {
+    "url": "https://lgcchina.github.io/LGC-VRC-Packages/index.json",
+    "name": "LGC VRC Packages",
+    "id": "com.lgcchina.vrc-packages",
+    "author": "LgcChina",
+    "hash": "46ccf25c64ff401e9f8af73e48613da42d42db8099de2064acbe23a8f2289a2b",
+    "last_updated": "2026-11-13T12:24:28.000Z",
+    "packageCount": 14,
+    "packages": {
+      "com.lgcchina.pickup-quick-setup": {
+        "id": "com.lgcchina.pickup-quick-setup",
+        "name": "com.lgcchina.pickup-quick-setup",
+        "displayName": "LGC_VRCPickup_快速添加",
+        "description": "提供右键完成 Pickup 组件的添加",
+        "latestVersion": "1.0.4",
+        "versionCount": 5,
+        "keywords": [
+          "VRChat",
+          "Pickup",
+          "工具",
+          "Unity"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "LgcChina",
+          "url": "https://github.com/LgcChina"
+        },
+        "versions": {
+          "1.0.4": {
+            "version": "1.0.4",
+            "name": "com.lgcchina.pickup-quick-setup",
+            "displayName": "LGC_VRCPickup_快速添加",
+            "description": "提供右键完成 Pickup 组件的添加",
+            "url": "https://github.com/LgcChina/VRCPickupQuickSetup/releases/download/1.0.4/com.lgcchina.pickup-quick-setup-1.0.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.x.x"
+            }
+          },
+          "1.0.3": {
+            "version": "1.0.3",
+            "name": "com.lgcchina.pickup-quick-setup",
+            "displayName": "LGC_VRCPickup_快速添加",
+            "description": "提供右键完成 Pickup 组件的添加",
+            "url": "https://github.com/LgcChina/VRCPickupQuickSetup/releases/download/1.0.3/com.lgcchina.pickup-quick-setup-1.0.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.x.x"
+            }
+          },
+          "1.0.2": {
+            "version": "1.0.2",
+            "name": "com.lgcchina.pickup-quick-setup",
+            "displayName": "LGC_VRCPickup_快速添加",
+            "description": "提供右键完成 Pickup 组件的添加",
+            "url": "https://github.com/LgcChina/VRCPickupQuickSetup/releases/download/1.0.2/com.lgcchina.pickup-quick-setup-1.0.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.8.0"
+            }
+          },
+          "1.0.1": {
+            "version": "1.0.1",
+            "name": "com.lgcchina.pickup-quick-setup",
+            "displayName": "LGC_VRCPickup_快速添加",
+            "description": "提供右键完成 Pickup 组件的添加",
+            "url": "https://github.com/LgcChina/VRCPickupQuickSetup/releases/download/1.0.1/com.lgcchina.pickup-quick-setup-1.0.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.1.x"
+            }
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.lgcchina.pickup-quick-setup",
+            "displayName": "VRCPickup Quick Setup",
+            "description": "A quick setup tool for VRChat Pickup objects",
+            "url": "https://github.com/LgcChina/VRCPickupQuickSetup/releases/download/1.0.0/com.lgcchina.pickup-quick-setup-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          }
+        }
+      },
+      "com.lgcchina.blend-shape-cap-reducer": {
+        "id": "com.lgcchina.blend-shape-cap-reducer",
+        "name": "com.lgcchina.blend-shape-cap-reducer",
+        "displayName": "LGC_BlendShapeCapReducer_形态键上限重设",
+        "description": "调整网格BlendShape上限，支持生成替换网格、撤销生成、从FBX还原网格",
+        "latestVersion": "2.0.5",
+        "versionCount": 3,
+        "keywords": [
+          "VRChat",
+          "BlendShape",
+          "形态键",
+          "工具",
+          "Unity"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "LgcChina",
+          "url": "https://github.com/LgcChina"
+        },
+        "versions": {
+          "2.0.5": {
+            "version": "2.0.5",
+            "name": "com.lgcchina.blend-shape-cap-reducer",
+            "displayName": "LGC_BlendShapeCapReducer_形态键上限重设",
+            "description": "调整网格BlendShape上限，支持生成替换网格、撤销生成、从FBX还原网格",
+            "url": "https://github.com/LgcChina/BlendShapeCapReducer/releases/download/2.0.5/com.lgcchina.blend-shape-cap-reducer-2.0.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "3.x.x"
+            }
+          },
+          "2.0.0": {
+            "version": "2.0.0",
+            "name": "com.lgcchina.blend-shape-cap-reducer",
+            "displayName": "LGC_BlendShapeCapReducer_形态键上限重设",
+            "description": "调整网格BlendShape上限，支持生成替换网格、撤销生成、从FBX还原网格",
+            "url": "https://github.com/LgcChina/BlendShapeCapReducer/releases/download/2.0.0/com.lgcchina.blend-shape-cap-reducer-2.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "3.x.x"
+            }
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.lgcchina.blend-shape-cap-reducer",
+            "displayName": "LGC_BlendShapeCapReducer_形态键上限重设",
+            "description": "调整网格BlendShape上限，支持生成替换网格、撤销生成、从FBX还原网格",
+            "url": "https://github.com/LgcChina/BlendShapeCapReducer/releases/download/1.0.0/com.lgcchina.blend-shape-cap-reducer-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "3.x.x"
+            }
+          }
+        }
+      },
+      "com.lgcchina.fix-skinned-mesh-tool": {
+        "id": "com.lgcchina.fix-skinned-mesh-tool",
+        "name": "com.lgcchina.fix-skinned-mesh-tool",
+        "displayName": "LGC_修复蒙皮网格骨骼引用工具",
+        "description": "更新为支持还原删除的骨骼和网格，从原fbx加回场景人物",
+        "latestVersion": "2.0.1",
+        "versionCount": 3,
+        "keywords": [
+          "VRChat",
+          "Unity",
+          "SkinnedMeshRenderer",
+          "Fix",
+          "Avatar",
+          "World"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "LgcChina",
+          "url": "https://github.com/LgcChina"
+        },
+        "versions": {
+          "2.0.1": {
+            "version": "2.0.1",
+            "name": "com.lgcchina.fix-skinned-mesh-tool",
+            "displayName": "LGC_修复蒙皮网格骨骼引用工具",
+            "description": "更新为支持还原删除的骨骼和网格，从原fbx加回场景人物",
+            "url": "https://github.com/LgcChina/FixSkinnedMeshTool/releases/download/2.0.1/com.lgcchina.fix-skinned-mesh-tool-2.0.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.0.0": {
+            "version": "2.0.0",
+            "name": "com.lgcchina.fix-skinned-mesh-tool",
+            "displayName": "LGC_修复蒙皮网格骨骼引用工具",
+            "description": "更新为支持还原删除的骨骼和网格，从原fbx加回场景人物",
+            "url": "https://github.com/LgcChina/FixSkinnedMeshTool/releases/download/2.0.0/com.lgcchina.fix-skinned-mesh-tool-2.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.lgcchina.fix-skinned-mesh-tool",
+            "displayName": "LGC_修复蒙皮网格引用工具",
+            "description": "修复改模型时不小心删除网格物体，需要从原fbx加回场景人物",
+            "url": "https://github.com/LgcChina/FixSkinnedMeshTool/releases/download/1.0.0/com.lgcchina.fix-skinned-mesh-tool-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          }
+        }
+      },
+      "com.lgcchina.t-rename-tool": {
+        "id": "com.lgcchina.t-rename-tool",
+        "name": "com.lgcchina.t-rename-tool",
+        "displayName": "LGC_TRenameTool_模型菜单翻译",
+        "description": "基于物体批量重命名实现手动翻译，通常用于MA形式的菜单",
+        "latestVersion": "1.0.2",
+        "versionCount": 3,
+        "keywords": [
+          "VRChat",
+          "Menu",
+          "菜单",
+          "工具",
+          "Unity",
+          "Modular Avatar"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "LgcChina",
+          "url": "https://github.com/LgcChina"
+        },
+        "versions": {
+          "1.0.2": {
+            "version": "1.0.2",
+            "name": "com.lgcchina.t-rename-tool",
+            "displayName": "LGC_TRenameTool_模型菜单翻译",
+            "description": "基于物体批量重命名实现手动翻译，通常用于MA形式的菜单",
+            "url": "https://github.com/LgcChina/VRC_TRenameTool/releases/download/1.0.2/com.lgcchina.t-rename-tool-1.0.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "3.x.x"
+            }
+          },
+          "1.0.1": {
+            "version": "1.0.1",
+            "name": "com.lgcchina.t-rename-tool",
+            "displayName": "LGC_TRenameTool_模型菜单翻译",
+            "description": "基于物体批量重命名实现手动翻译，通常用于MA形式的菜单",
+            "url": "https://github.com/LgcChina/VRC_TRenameTool/releases/download/1.0.1/com.lgcchina.t-rename-tool-1.0.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "3.x.x"
+            }
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.lgcchina.t-rename-tool",
+            "displayName": "LGC_TRenameTool_模型菜单翻译",
+            "description": "用来翻译重命名基于物体，例如ma形式的菜单",
+            "url": "https://github.com/LgcChina/VRC_TRenameTool/releases/download/1.0.0/com.lgcchina.t-rename-tool-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "3.x.x"
+            }
+          }
+        }
+      },
+      "com.lgc.tools.materialtransfer": {
+        "id": "com.lgc.tools.materialtransfer",
+        "name": "com.lgc.tools.materialtransfer",
+        "displayName": "LGC_批量材质工具",
+        "description": "材质批量复制转移到另一个同样物体，LilToon 材质批量生成",
+        "latestVersion": "1.0.0",
+        "versionCount": 1,
+        "keywords": [
+          "VRChat",
+          "material",
+          "liltoon",
+          "工具",
+          "Unity"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "LgcChina",
+          "url": "https://github.com/LgcChina"
+        },
+        "versions": {
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.lgc.tools.materialtransfer",
+            "displayName": "LGC_批量材质工具",
+            "description": "材质批量复制转移到另一个同样物体，LilToon 材质批量生成",
+            "url": "https://github.com/LgcChina/lgc-material-transfer-tool/releases/download/1.0.0/com.lgc.tools.materialtransfer-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "3.x.x"
+            }
+          }
+        }
+      },
+      "com.lgc.action-animator-builder-ma": {
+        "id": "com.lgc.action-animator-builder-ma",
+        "name": "com.lgc.action-animator-builder-ma",
+        "displayName": "LGC Action 层动画器批量构建（MA 版）",
+        "description": "批量构建VRChat Action层Animator控制器，并生成Modular Avatar预制件与子菜单",
+        "latestVersion": "2.0.0",
+        "versionCount": 3,
+        "keywords": [
+          "VRChat",
+          "Action",
+          "Modular Avatar",
+          "工具",
+          "Unity"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "LgcChina",
+          "url": "https://github.com/LgcChina"
+        },
+        "versions": {
+          "2.0.0": {
+            "version": "2.0.0",
+            "name": "com.lgc.action-animator-builder-ma",
+            "displayName": "LGC Action 层动画器批量构建（MA 版）",
+            "description": "批量构建VRChat Action层Animator控制器，并生成Modular Avatar预制件与子菜单",
+            "url": "https://github.com/LgcChina/ActionAnimatorBuilderMA/releases/download/2.0.0/com.lgc.action-animator-builder-ma-2.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.modular-avatar": ">=1.10.0",
+              "com.vrchat.avatars": "3.x.x"
+            }
+          },
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "com.lgc.action-animator-builder-ma",
+            "displayName": "LGC Action 层动画器批量构建（MA 版）",
+            "description": "批量构建VRChat Action层Animator控制器，并生成Modular Avatar预制件与子菜单",
+            "url": "https://github.com/LgcChina/ActionAnimatorBuilderMA/releases/download/1.1.0/com.lgc.action-animator-builder-ma-1.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.modular-avatar": ">=1.10.0",
+              "com.vrchat.avatars": "3.x.x"
+            }
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.lgc.action-animator-builder-ma",
+            "displayName": "LGC Action 层动画器批量构建（MA 版）",
+            "description": "批量构建VRChat Action层Animator控制器，并生成Modular Avatar预制件与子菜单",
+            "url": "https://github.com/LgcChina/ActionAnimatorBuilderMA/releases/download/1.0.0/com.lgc.action-animator-builder-ma-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.modular-avatar": ">=1.10.0",
+              "com.vrchat.avatars": "3.x.x"
+            }
+          }
+        }
+      },
+      "com.lgc.animationconverter": {
+        "id": "com.lgc.animationconverter",
+        "name": "com.lgc.animationconverter",
+        "displayName": "LGC_实验性_骨骼动画转换物体动画",
+        "description": "实验性_将Humanoid骨骼动画转换为Generic物体动画",
+        "latestVersion": "1.0.0",
+        "versionCount": 1,
+        "keywords": [
+          "VRChat",
+          "Animation",
+          "Test",
+          "工具",
+          "Unity"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "LgcChina",
+          "url": "https://github.com/LgcChina"
+        },
+        "versions": {
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.lgc.animationconverter",
+            "displayName": "LGC_实验性_骨骼动画转换物体动画",
+            "description": "实验性_将Humanoid骨骼动画转换为Generic物体动画",
+            "url": "https://github.com/LgcChina/AnimationConverterWindow/releases/download/1.0.0/com.lgc.animationconverter-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "3.x.x"
+            }
+          }
+        }
+      },
+      "com.lgcchina.mesh-uv-painter": {
+        "id": "com.lgcchina.mesh-uv-painter",
+        "name": "com.lgcchina.mesh-uv-painter",
+        "displayName": "LGC网格UV绘画工具",
+        "description": "LGC网格UV绘画工具 - VRChat基于Unity编辑器，基于网格Mesh UV进行颜色绘制的工具，多语言切换",
+        "latestVersion": "2.7.0",
+        "versionCount": 8,
+        "keywords": [
+          "VRChat",
+          "Unity",
+          "MeshUV",
+          "颜色绘制",
+          "编辑器工具",
+          "painter",
+          "Editor"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "LgcChina",
+          "url": "https://github.com/LgcChina"
+        },
+        "versions": {
+          "2.7.0": {
+            "version": "2.7.0",
+            "name": "com.lgcchina.mesh-uv-painter",
+            "displayName": "LGC网格UV绘画工具",
+            "description": "LGC网格UV绘画工具 - VRChat基于Unity编辑器，基于网格Mesh UV进行颜色绘制的工具，多语言切换",
+            "url": "https://github.com/LgcChina/MeshUVPainter/releases/download/2.7.0/com.lgcchina.mesh-uv-painter-2.7.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.6.0": {
+            "version": "2.6.0",
+            "name": "com.lgcchina.mesh-uv-painter",
+            "displayName": "LGC网格UV绘画工具",
+            "description": "LGC网格UV绘画工具 - VRChat基于Unity编辑器，基于网格Mesh UV进行颜色绘制的工具，多语言切换",
+            "url": "https://github.com/LgcChina/MeshUVPainter/releases/download/2.6.0/com.lgcchina.mesh-uv-painter-2.6.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.5.1": {
+            "version": "2.5.1",
+            "name": "com.lgcchina.mesh-uv-painter",
+            "displayName": "LGC网格UV绘画工具",
+            "description": "LGC网格UV绘画工具 - VRChat基于Unity编辑器，基于网格Mesh UV进行颜色绘制的工具，多语言切换",
+            "url": "https://github.com/LgcChina/MeshUVPainter/releases/download/2.5.1/com.lgcchina.mesh-uv-painter-2.5.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.4.3": {
+            "version": "2.4.3",
+            "name": "com.lgcchina.mesh-uv-painter",
+            "displayName": "LGC网格UV绘画工具",
+            "description": "LGC网格UV绘画工具 - VRChat基于Unity编辑器，基于网格Mesh UV进行颜色绘制的工具，多语言切换",
+            "url": "https://github.com/LgcChina/MeshUVPainter/releases/download/2.4.3/com.lgcchina.mesh-uv-painter-2.4.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.4.1": {
+            "version": "2.4.1",
+            "name": "com.lgcchina.mesh-uv-painter",
+            "displayName": "LGC网格UV绘画工具",
+            "description": "LGC网格UV绘画工具 - VRChat基于Unity编辑器，基于网格Mesh UV进行颜色绘制的工具，多语言切换",
+            "url": "https://github.com/LgcChina/MeshUVPainter/releases/download/2.4.1/com.lgcchina.mesh-uv-painter-2.4.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.0.0": {
+            "version": "2.0.0",
+            "name": "com.lgcchina.mesh-uv-painter",
+            "displayName": "LGC网格UV绘画工具",
+            "description": "LGC网格UV绘画工具 - VRChat基于Unity编辑器，基于网格Mesh UV进行颜色绘制的工具，多语言切换",
+            "url": "https://github.com/LgcChina/MeshUVPainter/releases/download/2.0.0/com.lgcchina.mesh-uv-painter-2.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "com.lgcchina.mesh-uv-painter",
+            "displayName": "LGC网格UV绘画工具",
+            "description": "LGC网格UV绘画工具 - VRChat基于Unity编辑器，基于网格Mesh UV进行颜色绘制的工具，多语言切换",
+            "url": "https://github.com/LgcChina/MeshUVPainter/releases/download/1.1.0/com.lgcchina.mesh-uv-painter-1.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.lgcchina.mesh-uv-painter",
+            "displayName": "LGC网格UV绘画工具",
+            "description": "LGC网格UV绘画工具 - VRChat基于Unity编辑器，基于网格Mesh UV进行颜色绘制的工具，多语言切换",
+            "url": "https://github.com/LgcChina/MeshUVPainter/releases/download/1.0.0/com.lgcchina.mesh-uv-painter-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          }
+        }
+      },
+      "com.lgc.bilisonglisttool": {
+        "id": "com.lgc.bilisonglisttool",
+        "name": "com.lgc.bilisonglisttool",
+        "displayName": "LGC B站歌单工具",
+        "description": "解析B站视频合集/收藏夹，快速生成YamaPlayer/VizVid/ProTv适配的歌曲播放列表文件",
+        "latestVersion": "1.0.0",
+        "versionCount": 1,
+        "keywords": [
+          "VRChat",
+          "Tool",
+          "Unity",
+          "bilibili",
+          "B站",
+          "歌单"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "LgcChina",
+          "url": "https://github.com/LgcChina"
+        },
+        "versions": {
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.lgc.bilisonglisttool",
+            "displayName": "LGC B站歌单工具",
+            "description": "解析B站视频合集/收藏夹，快速生成YamaPlayer/VizVid/ProTv适配的歌曲播放列表文件",
+            "url": "https://github.com/LgcChina/BiliSongListTool/releases/download/1.0.0/com.lgc.bilisonglisttool-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.x.x"
+            }
+          }
+        }
+      },
+      "com.lgc.worldteleporttool": {
+        "id": "com.lgc.worldteleporttool",
+        "name": "com.lgc.worldteleporttool",
+        "displayName": "LGC 传送工具",
+        "description": "快速创建、编辑、删除场景内的简单传送点",
+        "latestVersion": "2.0.1",
+        "versionCount": 2,
+        "keywords": [
+          "Unity",
+          "Editor",
+          "Tool",
+          "Teleport",
+          "传送体",
+          "场景编辑",
+          "Undo",
+          "VRChat"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "LgcChina",
+          "url": "https://github.com/LgcChina"
+        },
+        "versions": {
+          "2.0.1": {
+            "version": "2.0.1",
+            "name": "com.lgc.worldteleporttool",
+            "displayName": "LGC 传送工具",
+            "description": "快速创建、编辑、删除场景内的简单传送点",
+            "url": "https://github.com/LgcChina/LgcWorldTeleportTool/releases/download/2.0.1/com.lgc.worldteleporttool-2.0.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.x.x"
+            }
+          },
+          "2.0.0": {
+            "version": "2.0.0",
+            "name": "com.lgc.worldteleporttool",
+            "displayName": "LGC 传送工具",
+            "description": "快速创建、编辑、删除场景内的简单传送点",
+            "url": "https://github.com/LgcChina/LgcWorldTeleportTool/releases/download/2.0.0/com.lgc.worldteleporttool-2.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.x.x"
+            }
+          }
+        }
+      },
+      "com.lgcchina.disable-child-animator": {
+        "id": "com.lgcchina.disable-child-animator",
+        "name": "com.lgcchina.disable-child-animator",
+        "displayName": "LGC_子物体Animator关闭工具",
+        "description": "用于一键生成生成关闭子物体Animator的动画器组件的动画",
+        "latestVersion": "1.0.0",
+        "versionCount": 1,
+        "keywords": [
+          "VRChat",
+          "Unity",
+          "Animator",
+          "Animation",
+          "Tool",
+          "Avatar",
+          "World"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "LgcChina",
+          "url": "https://github.com/LgcChina"
+        },
+        "versions": {
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.lgcchina.disable-child-animator",
+            "displayName": "LGC_子物体Animator关闭工具",
+            "description": "用于一键生成生成关闭子物体Animator的动画器组件的动画",
+            "url": "https://github.com/LgcChina/DisableChildAnimatorTool/releases/download/1.0.0/com.lgcchina.disable-child-animator-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          }
+        }
+      },
+      "com.lgcchina.mochies-shaders": {
+        "id": "com.lgcchina.mochies-shaders",
+        "name": "com.lgcchina.mochies-shaders",
+        "displayName": "Mochie Shaders 中文版（LGC）",
+        "description": "基于 MIT 许可上游项目 Mochie Shaders 的 VPM 中文版；仅汉化 Unity 材质检查器界面，保留 Shader 功能与内部标识不变。安装时会直接删除旧版 Assets/Mochie 且不会询问，请先把备份移到 Assets 目录外。",
+        "latestVersion": "1.78.3",
+        "versionCount": 3,
+        "keywords": [
+          "VRChat",
+          "Shader",
+          "Mochie",
+          "Chinese",
+          "Unity"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "LgcChina",
+          "url": "https://github.com/LgcChina"
+        },
+        "versions": {
+          "1.78.3": {
+            "version": "1.78.3",
+            "name": "com.lgcchina.mochies-shaders",
+            "displayName": "Mochie Shaders 中文版（LGC）",
+            "description": "基于 MIT 许可上游项目 Mochie Shaders 的 VPM 中文版；仅汉化 Unity 材质检查器界面，保留 Shader 功能与内部标识不变。安装时会直接删除旧版 Assets/Mochie 且不会询问，请先把备份移到 Assets 目录外。",
+            "url": "https://github.com/LgcChina/Mochies-Unity-Shaders/releases/download/1.78.3/com.lgcchina.mochies-shaders-1.78.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.78.2": {
+            "version": "1.78.2",
+            "name": "com.lgcchina.mochies-shaders",
+            "displayName": "Mochie Shaders 中文版（LGC）",
+            "description": "基于 MIT 许可上游项目 Mochie Shaders 的 VPM 中文版；仅汉化 Unity 材质检查器界面，保留 Shader 功能与内部标识不变。安装时会自动移除旧版 Assets/Mochie，请先备份项目。",
+            "url": "https://github.com/LgcChina/Mochies-Unity-Shaders/releases/download/1.78.2/com.lgcchina.mochies-shaders-1.78.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.78.1": {
+            "version": "1.78.1",
+            "name": "com.lgcchina.mochies-shaders",
+            "displayName": "Mochie Shaders 中文版（LGC）",
+            "description": "基于 MIT 许可上游项目 Mochie Shaders 的 VPM 中文版；仅汉化 Unity 材质检查器界面，保留 Shader 功能与内部标识不变。",
+            "url": "https://github.com/LgcChina/Mochies-Unity-Shaders/releases/download/1.78.1/com.lgcchina.mochies-shaders-1.78.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          }
+        }
+      },
+      "com.lgcchina.vrc-quick-login": {
+        "id": "com.lgcchina.vrc-quick-login",
+        "name": "com.lgcchina.vrc-quick-login",
+        "displayName": "LGC VRC 一键登录",
+        "description": "Windows Unity 编辑器多账号管理与 VRChat SDK 快捷登录。密码优先使用 Windows 凭据管理器，仅在用户选中账号后填写或提交 SDK 登录。",
+        "latestVersion": "1.1.5",
+        "versionCount": 2,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "LgcChina",
+          "email": "LgcChina@users.noreply.github.com",
+          "url": "https://github.com/LgcChina"
+        },
+        "versions": {
+          "1.1.5": {
+            "version": "1.1.5",
+            "name": "com.lgcchina.vrc-quick-login",
+            "displayName": "LGC VRC 一键登录",
+            "description": "Windows Unity 编辑器多账号管理与 VRChat SDK 快捷登录。密码优先使用 Windows 凭据管理器，仅在用户选中账号后填写或提交 SDK 登录。",
+            "url": "https://github.com/LgcChina/VRCQuickLogin/releases/download/v1.1.5/com.lgcchina.vrc-quick-login-1.1.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": ">=3.9.0"
+            }
+          },
+          "1.1.3": {
+            "version": "1.1.3",
+            "name": "com.lgcchina.vrc-quick-login",
+            "displayName": "LGC VRC 一键登录",
+            "description": "Windows Unity 编辑器多账号管理与 VRChat SDK 快捷登录。密码优先使用 Windows 凭据管理器，仅在用户选中账号后填写或提交 SDK 登录。",
+            "url": "https://github.com/LgcChina/VRCQuickLogin/releases/download/v1.1.3/com.lgcchina.vrc-quick-login-1.1.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": ">=3.10.6"
+            }
+          }
+        }
+      },
+      "com.lgcchina.blend-shape-editor": {
+        "id": "com.lgcchina.blend-shape-editor",
+        "name": "com.lgcchina.blend-shape-editor",
+        "displayName": "LGC 形态键编辑器",
+        "description": "Unity 形态键编辑工具：删除、重命名、空形态键、混合、上限调整；支持双模型预览同步、自动左右分栏、网格恢复与覆盖输出。",
+        "latestVersion": "1.6.1",
+        "versionCount": 1,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "LgcChina",
+          "email": "LgcChina@users.noreply.github.com",
+          "url": "https://github.com/LgcChina"
+        },
+        "versions": {
+          "1.6.1": {
+            "version": "1.6.1",
+            "name": "com.lgcchina.blend-shape-editor",
+            "displayName": "LGC 形态键编辑器",
+            "description": "Unity 形态键编辑工具：删除、重命名、空形态键、混合、上限调整；支持双模型预览同步、自动左右分栏、网格恢复与覆盖输出。",
+            "url": "https://github.com/LgcChina/BlendShapeEditor/releases/download/v1.6.1/com.lgcchina.blend-shape-editor-1.6.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          }
+        }
+      }
+    }
+  },
+  {
     "url": "https://lighfu.github.io/vpm/index.json",
     "name": "AjisaiFlow",
     "id": "com.ajisaiflow.vpm",
     "author": "AjisaiFlow",
     "hash": "6db2bdaa8c1cf3ec1d5149d9f90b00fa475b302eb94993ab740ad45ab96d0733",
-    "last_updated": "2026-11-13T08:13:27.000Z",
+    "last_updated": "2026-11-13T08:13:26.000Z",
     "packageCount": 4,
     "packages": {
       "net.ajisaiflow.anti-ripping": {
@@ -67408,7 +68421,7 @@
     "id": "com.lightbulb.vpm",
     "author": "Lightbulb",
     "hash": "028c8a797a7bd992d7495b57a5f4ec6d6b6d5bc7f4df749c41c2d60efc8fdf5f",
-    "last_updated": "2026-11-15T01:55:30.000Z",
+    "last_updated": "2026-11-16T02:06:58.000Z",
     "packageCount": 1,
     "packages": {
       "com.lightbulb.world-tools": {
@@ -70663,7 +71676,7 @@
     "id": "com.mame8.vpm",
     "author": "mame8",
     "hash": "880c4bc843e71444652593ac77a1a92bd04b01453281fbe2f51c3cd1ea8bf95a",
-    "last_updated": "2026-07-02T19:27:29.000Z",
+    "last_updated": "2026-07-02T19:27:30.000Z",
     "packageCount": 3,
     "packages": {
       "com.mame8.animator-controller-context": {
@@ -75493,7 +76506,7 @@
     "id": "com.natane.toonshader.listing",
     "author": "Natane",
     "hash": "52f1f351d656da2afce5596eb6e8ac183fba63a3c7d3b46842bfd3dd2cc87abb",
-    "last_updated": "2026-11-12T14:27:08.000Z",
+    "last_updated": "2026-11-12T14:27:09.000Z",
     "packageCount": 1,
     "packages": {
       "com.natane.toonshader": {
@@ -77554,7 +78567,7 @@
     "id": "com.njsgdd10086.vpm-repo",
     "author": "ATRI_NAIXU",
     "hash": "2f7c6a6ba0277ad0e5ade345ce5fca40fb0f946221603b205651420fdc7ba232",
-    "last_updated": "2026-11-15T01:02:29.000Z",
+    "last_updated": "2026-11-16T00:16:58.000Z",
     "packageCount": 3,
     "packages": {
       "com.atrinaxu.nontoon.lightlimit": {
@@ -78344,12 +79357,58 @@
     }
   },
   {
+    "url": "https://notzoeydev.github.io/ZoeyAddons/index.json",
+    "name": "Zoey's Addons",
+    "id": "dev.zoey.addons",
+    "author": "Zoey",
+    "hash": "a63ad9b0496fb8b064d07582b7be3352c9619dceaf4e4596e5c7585ab4c703d8",
+    "last_updated": "2026-11-10T21:23:58.000Z",
+    "packageCount": 1,
+    "packages": {
+      "dev.zoey.unused-asset-finder": {
+        "id": "dev.zoey.unused-asset-finder",
+        "name": "dev.zoey.unused-asset-finder",
+        "displayName": "Unused Asset Finder",
+        "description": "Lists materials and textures under Assets/ that no chosen scene uses, with sizes, keep/delete controls, and shader packages (Poiyomi, lilToon and other common VRChat shaders), Unity special folders and script-referenced assets protected. Window: Tools/Unused Asset Finder.",
+        "latestVersion": "1.0.1",
+        "versionCount": 2,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "Zoey"
+        },
+        "versions": {
+          "1.0.1": {
+            "version": "1.0.1",
+            "name": "dev.zoey.unused-asset-finder",
+            "displayName": "Unused Asset Finder",
+            "description": "Lists materials and textures under Assets/ that no chosen scene uses, with sizes, keep/delete controls, and shader packages (Poiyomi, lilToon and other common VRChat shaders), Unity special folders and script-referenced assets protected. Window: Tools/Unused Asset Finder.",
+            "url": "https://github.com/NotZoeyDev/ZoeyAddons/releases/download/dev.zoey.unused-asset-finder-v1.0.1/dev.zoey.unused-asset-finder-1.0.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "dev.zoey.unused-asset-finder",
+            "displayName": "Unused Asset Finder",
+            "description": "Lists materials and textures under Assets/ that no chosen scene uses, with sizes, keep/delete controls, and shader packages (Poiyomi, lilToon and other common VRChat shaders), Unity special folders and script-referenced assets protected. Window: Tools/Unused Asset Finder.",
+            "url": "https://github.com/NotZoeyDev/ZoeyAddons/releases/download/dev.zoey.unused-asset-finder-v1.0.0/dev.zoey.unused-asset-finder-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          }
+        }
+      }
+    }
+  },
+  {
     "url": "https://null-k.github.io/vpm-listing/index.json",
     "name": "PuddingKC's VPM Packages",
     "id": "com.puddingkc.vpm-listing",
     "author": "PuddingKC",
     "hash": "f240f36289d0cc5747481bc9b789e2732c1ec1f494a82fe81e90c798c0fde67c",
-    "last_updated": "2026-07-04T04:18:33.000Z",
+    "last_updated": "2026-07-04T04:18:32.000Z",
     "packageCount": 3,
     "packages": {
       "com.puddingkc.ma-radial-control": {
@@ -85522,6 +86581,481 @@
             "displayName": "UdonZip",
             "description": "UdonZip is a ZIP parser written in Udon for VRChat.",
             "url": "https://github.com/Sonic853/vpm-repos/releases/download/Foorack%2FUdonZip%2F0.1.0/com.foorack.udonzip.715a36d.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          }
+        }
+      }
+    }
+  },
+  {
+    "url": "https://pandanakami.github.io/UdonSharpPlus/index.json",
+    "name": "pandanakami Listing",
+    "id": "com.pandanakami.listing",
+    "author": "pandanakami",
+    "hash": "138d76ca98b105b5342af5ecd031aa7a38425e6258247f79a8abf40d7599a8bd",
+    "last_updated": "2026-11-14T06:36:55.000Z",
+    "packageCount": 1,
+    "packages": {
+      "com.pandanakami.udonsharpplus": {
+        "id": "com.pandanakami.udonsharpplus",
+        "name": "com.pandanakami.udonsharpplus",
+        "displayName": "UdonSharp Plus",
+        "description": "Editor-only extension that lets UdonSharp compile more of C#: interfaces, plain classes, generics, List / Dictionary, lambdas, LINQ, delegates and local functions. Applied with Harmony patches; depends on UdonSharp internals of VRChat Worlds SDK 3.10.x.",
+        "latestVersion": "0.1.4",
+        "versionCount": 5,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "pandanakami",
+          "url": "https://github.com/pandanakami"
+        },
+        "versions": {
+          "0.1.4": {
+            "version": "0.1.4",
+            "name": "com.pandanakami.udonsharpplus",
+            "displayName": "UdonSharp Plus",
+            "description": "Editor-only extension that lets UdonSharp compile more of C#: interfaces, plain classes, generics, List / Dictionary, lambdas, LINQ, delegates and local functions. Applied with Harmony patches; depends on UdonSharp internals of VRChat Worlds SDK 3.10.x.",
+            "url": "https://github.com/pandanakami/UdonSharpPlus/releases/download/0.1.4/com.pandanakami.udonsharpplus-0.1.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "~3.10.6"
+            }
+          },
+          "0.1.3": {
+            "version": "0.1.3",
+            "name": "com.pandanakami.udonsharpplus",
+            "displayName": "UdonSharp Plus",
+            "description": "Editor-only extension that lets UdonSharp compile more of C#: interfaces, plain classes, generics, List / Dictionary, lambdas and LINQ. Applied with Harmony patches; depends on UdonSharp internals of VRChat Worlds SDK 3.10.x.",
+            "url": "https://github.com/pandanakami/UdonSharpPlus/releases/download/0.1.3/com.pandanakami.udonsharpplus-0.1.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "~3.10.6"
+            }
+          },
+          "0.1.2": {
+            "version": "0.1.2",
+            "name": "com.pandanakami.udonsharpplus",
+            "displayName": "UdonSharp Plus",
+            "description": "Editor-only extension that lets UdonSharp compile more of C#: interfaces, plain classes, generics, List / Dictionary, lambdas and LINQ. Applied with Harmony patches; depends on UdonSharp internals of VRChat Worlds SDK 3.10.x.",
+            "url": "https://github.com/pandanakami/UdonSharpPlus/releases/download/0.1.2/com.pandanakami.udonsharpplus-0.1.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "~3.10.6"
+            }
+          },
+          "0.1.1": {
+            "version": "0.1.1",
+            "name": "com.pandanakami.udonsharpplus",
+            "displayName": "UdonSharp Plus",
+            "description": "Editor-only extension that lets UdonSharp compile more of C#: interfaces, plain classes, generics, List / Dictionary, lambdas and LINQ. Applied with Harmony patches; depends on UdonSharp internals of VRChat Worlds SDK 3.10.x.",
+            "url": "https://github.com/pandanakami/UdonSharpPlus/releases/download/0.1.1/com.pandanakami.udonsharpplus-0.1.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "~3.10.6"
+            }
+          },
+          "0.1.0": {
+            "version": "0.1.0",
+            "name": "com.pandanakami.udonsharpplus",
+            "displayName": "UdonSharp Plus",
+            "description": "Editor-only extension that lets UdonSharp compile more of C#: interfaces, plain classes, generics, List / Dictionary, lambdas and LINQ. Applied with Harmony patches; depends on UdonSharp internals of VRChat Worlds SDK 3.10.x.",
+            "url": "https://github.com/pandanakami/UdonSharpPlus/releases/download/0.1.0/com.pandanakami.udonsharpplus-0.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "~3.10.6"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "url": "https://pandanakami.github.io/vpm-package-list/index.json",
+    "name": "panda-nakami",
+    "id": "com.panda-nakami.vpm-package-listing",
+    "author": "panda-nakami",
+    "hash": "e698ce3db3f0a47ecbd1d703fd7394ad007b6d5459e889bca3c2fc01fd072d64",
+    "last_updated": "2024-08-19T10:30:53.000Z",
+    "packageCount": 1,
+    "packages": {
+      "com.panda-nakami.pandavat": {
+        "id": "com.panda-nakami.pandavat",
+        "name": "com.panda-nakami.pandavat",
+        "displayName": "PandaVAT",
+        "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+        "latestVersion": "0.0.36",
+        "versionCount": 36,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "panda-nakami",
+          "email": "kuippagure@gmail.com",
+          "url": ""
+        },
+        "versions": {
+          "0.0.36": {
+            "version": "0.0.36",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.36/com.panda-nakami.pandavat-0.0.36.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.35": {
+            "version": "0.0.35",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.35/com.panda-nakami.pandavat-0.0.35.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.34": {
+            "version": "0.0.34",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.34/com.panda-nakami.pandavat-0.0.34.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.33": {
+            "version": "0.0.33",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.33/com.panda-nakami.pandavat-0.0.33.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.32": {
+            "version": "0.0.32",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.32/com.panda-nakami.pandavat-0.0.32.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.31": {
+            "version": "0.0.31",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.31/com.panda-nakami.pandavat-0.0.31.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.30": {
+            "version": "0.0.30",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.30/com.panda-nakami.pandavat-0.0.30.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.29": {
+            "version": "0.0.29",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.29/com.panda-nakami.pandavat-0.0.29.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.28": {
+            "version": "0.0.28",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.28/com.panda-nakami.pandavat-0.0.28.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.27": {
+            "version": "0.0.27",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.27/com.panda-nakami.pandavat-0.0.27.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.26": {
+            "version": "0.0.26",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.26/com.panda-nakami.pandavat-0.0.26.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.25": {
+            "version": "0.0.25",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.25/com.panda-nakami.pandavat-0.0.25.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.24": {
+            "version": "0.0.24",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.24/com.panda-nakami.pandavat-0.0.24.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.23": {
+            "version": "0.0.23",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.23/com.panda-nakami.pandavat-0.0.23.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.22": {
+            "version": "0.0.22",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.22/com.panda-nakami.pandavat-0.0.22.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.21": {
+            "version": "0.0.21",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.21/com.panda-nakami.pandavat-0.0.21.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.20": {
+            "version": "0.0.20",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.20/com.panda-nakami.pandavat-0.0.20.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.19": {
+            "version": "0.0.19",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.19/com.panda-nakami.pandavat-0.0.19.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.18": {
+            "version": "0.0.18",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.18/com.panda-nakami.pandavat-0.0.18.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.17": {
+            "version": "0.0.17",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.17/com.panda-nakami.pandavat-0.0.17.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.16": {
+            "version": "0.0.16",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.16/com.panda-nakami.pandavat-0.0.16.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.15": {
+            "version": "0.0.15",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.15/com.panda-nakami.pandavat-0.0.15.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.14": {
+            "version": "0.0.14",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.14/com.panda-nakami.pandavat-0.0.14.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.13": {
+            "version": "0.0.13",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.13/com.panda-nakami.pandavat-0.0.13.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.12": {
+            "version": "0.0.12",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.12/com.panda-nakami.pandavat-0.0.12.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.11": {
+            "version": "0.0.11",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.11/com.panda-nakami.pandavat-0.0.11.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.10": {
+            "version": "0.0.10",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.10/com.panda-nakami.pandavat-0.0.10.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.9": {
+            "version": "0.0.9",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.9/com.panda-nakami.pandavat-0.0.9.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.8": {
+            "version": "0.0.8",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.8/com.panda-nakami.pandavat-0.0.8.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.7": {
+            "version": "0.0.7",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.7/com.panda-nakami.pandavat-0.0.7.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.6": {
+            "version": "0.0.6",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.6/com.panda-nakami.pandavat-0.0.6.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.5": {
+            "version": "0.0.5",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.5/com.panda-nakami.pandavat-0.0.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.4": {
+            "version": "0.0.4",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.4/com.panda-nakami.pandavat-0.0.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.3": {
+            "version": "0.0.3",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.3/com.panda-nakami.pandavat-0.0.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.2": {
+            "version": "0.0.2",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "PandaVAT",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.2/com.panda-nakami.pandavat-0.0.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.0.1": {
+            "version": "0.0.1",
+            "name": "com.panda-nakami.pandavat",
+            "displayName": "com.panda-nakami.pandavat",
+            "description": "About\r\nVRC World向けVertexAnimationTexture用エディタ拡張とシェーダーテンプレート",
+            "url": "https://github.com/pandanakami/PandaVAT/releases/download/0.0.1/com.panda-nakami.pandavat-0.0.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {}
@@ -92996,7 +94530,7 @@
     "id": "com.fracfloor.vpm-listing",
     "author": "raii",
     "hash": "bb8a1fb4b6497e28d58d8f4ed220692da23d2202d1dad6f3725f0921d2c66b57",
-    "last_updated": "2026-07-03T11:55:03.000Z",
+    "last_updated": "2026-07-03T11:55:04.000Z",
     "packageCount": 1,
     "packages": {
       "com.fracfloor.timeline-beat-marker": {
@@ -94110,7 +95644,7 @@
     "id": "dev.raspichu.vpm",
     "author": "Pichu",
     "hash": "9a2f82e471fcf06456f855e8c746d6e95e053484b4737bc9a83a7c2fe7bd6b32",
-    "last_updated": "2026-09-07T15:01:35.000Z",
+    "last_updated": "2026-09-07T15:01:36.000Z",
     "packageCount": 2,
     "packages": {
       "dev.raspichu.inspector-enhancements": {
@@ -95756,6 +97290,139 @@
     }
   },
   {
+    "url": "https://raw.githubusercontent.com/ainoobmanpg/avatar-fork/main/vpm/index.json",
+    "name": "Avatar Fork",
+    "id": "com.ainoobmanpg.avatar-fork.repository",
+    "author": "sakuchichi_vrc",
+    "hash": "066beb556270f7a529a03a3ba4b323af69ca6b40001ba842e48c9b661a68ba57",
+    "last_updated": "2026-11-16T04:39:09.012Z",
+    "packageCount": 1,
+    "packages": {
+      "com.ainoobmanpg.avatar-fork": {
+        "id": "com.ainoobmanpg.avatar-fork",
+        "name": "com.ainoobmanpg.avatar-fork",
+        "displayName": "Avatar Fork",
+        "description": "Create independent editable avatar copies from the current Unity scene.",
+        "latestVersion": "0.1.0-beta.1",
+        "versionCount": 10,
+        "keywords": [
+          "avatar",
+          "vrchat",
+          "editor",
+          "duplicate"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "sakuchichi_vrc",
+          "url": "https://x.com/sakuchichi_vrc",
+          "email": "259320736+ainoobmanpg@users.noreply.github.com"
+        },
+        "versions": {
+          "0.1.0-beta.1": {
+            "version": "0.1.0-beta.1",
+            "name": "com.ainoobmanpg.avatar-fork",
+            "displayName": "Avatar Fork",
+            "description": "Create independent editable avatar copies from the current Unity scene.",
+            "url": "https://github.com/ainoobmanpg/avatar-fork/releases/download/v0.1.0-beta.1/com.ainoobmanpg.avatar-fork-0.1.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.1.0-beta.2": {
+            "version": "0.1.0-beta.2",
+            "name": "com.ainoobmanpg.avatar-fork",
+            "displayName": "Avatar Fork",
+            "description": "Create independent editable avatar copies from the current Unity scene.",
+            "url": "https://github.com/ainoobmanpg/avatar-fork/releases/download/v0.1.0-beta.2/com.ainoobmanpg.avatar-fork-0.1.0-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.1.0-beta.3": {
+            "version": "0.1.0-beta.3",
+            "name": "com.ainoobmanpg.avatar-fork",
+            "displayName": "Avatar Fork",
+            "description": "Create independent editable avatar copies from the current Unity scene.",
+            "url": "https://github.com/ainoobmanpg/avatar-fork/releases/download/v0.1.0-beta.3/com.ainoobmanpg.avatar-fork-0.1.0-beta.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.1.0-beta.4": {
+            "version": "0.1.0-beta.4",
+            "name": "com.ainoobmanpg.avatar-fork",
+            "displayName": "Avatar Fork",
+            "description": "Create independent editable avatar copies from the current Unity scene.",
+            "url": "https://github.com/ainoobmanpg/avatar-fork/releases/download/v0.1.0-beta.4/com.ainoobmanpg.avatar-fork-0.1.0-beta.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.1.0-beta.5": {
+            "version": "0.1.0-beta.5",
+            "name": "com.ainoobmanpg.avatar-fork",
+            "displayName": "Avatar Fork",
+            "description": "Create independent editable avatar copies from the current Unity scene.",
+            "url": "https://github.com/ainoobmanpg/avatar-fork/releases/download/v0.1.0-beta.5/com.ainoobmanpg.avatar-fork-0.1.0-beta.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.1.0-beta.6": {
+            "version": "0.1.0-beta.6",
+            "name": "com.ainoobmanpg.avatar-fork",
+            "displayName": "Avatar Fork",
+            "description": "Create independent editable avatar copies from the current Unity scene.",
+            "url": "https://github.com/ainoobmanpg/avatar-fork/releases/download/v0.1.0-beta.6/com.ainoobmanpg.avatar-fork-0.1.0-beta.6.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.1.0": {
+            "version": "0.1.0",
+            "name": "com.ainoobmanpg.avatar-fork",
+            "displayName": "Avatar Fork",
+            "description": "Create independent editable avatar copies from the current Unity scene.",
+            "url": "https://github.com/ainoobmanpg/avatar-fork/releases/download/v0.1.0/com.ainoobmanpg.avatar-fork-0.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.1.1": {
+            "version": "0.1.1",
+            "name": "com.ainoobmanpg.avatar-fork",
+            "displayName": "Avatar Fork",
+            "description": "Create independent editable avatar copies from the current Unity scene.",
+            "url": "https://github.com/ainoobmanpg/avatar-fork/releases/download/v0.1.1/com.ainoobmanpg.avatar-fork-0.1.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.2.0": {
+            "version": "0.2.0",
+            "name": "com.ainoobmanpg.avatar-fork",
+            "displayName": "Avatar Fork",
+            "description": "Create independent editable avatar copies from the current Unity scene.",
+            "url": "https://github.com/ainoobmanpg/avatar-fork/releases/download/v0.2.0/com.ainoobmanpg.avatar-fork-0.2.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.2.1": {
+            "version": "0.2.1",
+            "name": "com.ainoobmanpg.avatar-fork",
+            "displayName": "Avatar Fork",
+            "description": "Create independent editable avatar copies from the current Unity scene.",
+            "url": "https://github.com/ainoobmanpg/avatar-fork/releases/download/v0.2.1/com.ainoobmanpg.avatar-fork-0.2.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          }
+        }
+      }
+    }
+  },
+  {
     "url": "https://raw.githubusercontent.com/APOL-StarLight/VRC-Unity-Essentials/main/vcc.json",
     "name": "VRChat Unity Essentials",
     "id": "vrchat.apolstar",
@@ -96059,6 +97726,378 @@
             "unity": "2022.3",
             "vpmDependencies": {
               "com.unity.nuget.newtonsoft-json": "3.2.1"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "url": "https://raw.githubusercontent.com/SgZincanya/Zincat/main/docs/index.json",
+    "name": "Zincat VPM Repository",
+    "id": "io.github.sgzincanya.zincat.repo",
+    "author": "SgZincanya",
+    "hash": "298d67a6a95ddd5152fc9b11ad078a4b4f285b270e4f9fa47b7b11f08d52634a",
+    "last_updated": "2026-11-16T04:39:09.014Z",
+    "packageCount": 1,
+    "packages": {
+      "io.github.sgzincanya.zincat": {
+        "id": "io.github.sgzincanya.zincat",
+        "name": "io.github.sgzincanya.zincat",
+        "displayName": "Zincat",
+        "description": "Zincat avatar tools: wardrobe, switches, lighting, password lock, avatar splitting, translation and dance previews.",
+        "latestVersion": "2.11.0",
+        "versionCount": 6,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "SgZincanya",
+          "url": "https://github.com/SgZincanya"
+        },
+        "versions": {
+          "2.11.0": {
+            "version": "2.11.0",
+            "name": "io.github.sgzincanya.zincat",
+            "displayName": "Zincat",
+            "description": "Zincat avatar tools: wardrobe, switches, lighting, password lock, avatar splitting, translation and dance previews.",
+            "url": "https://github.com/SgZincanya/Zincat/releases/download/v2.11.0/io.github.sgzincanya.zincat-2.11.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.4 <4.0.0-a",
+              "nadena.dev.modular-avatar": ">=1.18.7 <2.0.0-a",
+              "nadena.dev.ndmf": ">=1.14.8 <2.0.0-a"
+            }
+          },
+          "2.11.1": {
+            "version": "2.11.1",
+            "name": "io.github.sgzincanya.zincat",
+            "displayName": "Zincat",
+            "description": "Zincat avatar tools: wardrobe, switches, lighting, password lock, avatar splitting, translation and dance previews.",
+            "url": "https://github.com/SgZincanya/Zincat/releases/download/v2.11.1/io.github.sgzincanya.zincat-2.11.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.4 <4.0.0-a",
+              "nadena.dev.modular-avatar": ">=1.18.7 <2.0.0-a",
+              "nadena.dev.ndmf": ">=1.14.8 <2.0.0-a"
+            }
+          },
+          "2.11.2": {
+            "version": "2.11.2",
+            "name": "io.github.sgzincanya.zincat",
+            "displayName": "Zincat",
+            "description": "Zincat avatar tools: wardrobe, switches, lighting, password lock, avatar splitting, translation and dance previews.",
+            "url": "https://github.com/SgZincanya/Zincat/releases/download/v2.11.2/io.github.sgzincanya.zincat-2.11.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.4 <4.0.0-a",
+              "nadena.dev.modular-avatar": ">=1.18.7 <2.0.0-a",
+              "nadena.dev.ndmf": ">=1.14.8 <2.0.0-a"
+            }
+          },
+          "2.11.3": {
+            "version": "2.11.3",
+            "name": "io.github.sgzincanya.zincat",
+            "displayName": "Zincat",
+            "description": "Zincat avatar tools: wardrobe, switches, lighting, password lock, avatar splitting, translation and dance previews.",
+            "url": "https://github.com/SgZincanya/Zincat/releases/download/v2.11.3/io.github.sgzincanya.zincat-2.11.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.4 <4.0.0-a",
+              "nadena.dev.modular-avatar": ">=1.18.7 <2.0.0-a",
+              "nadena.dev.ndmf": ">=1.14.8 <2.0.0-a"
+            }
+          },
+          "2.11.4": {
+            "version": "2.11.4",
+            "name": "io.github.sgzincanya.zincat",
+            "displayName": "Zincat",
+            "description": "Zincat avatar tools: wardrobe, switches, lighting, password lock, avatar splitting, translation and dance previews.",
+            "url": "https://github.com/SgZincanya/Zincat/releases/download/v2.11.4/io.github.sgzincanya.zincat-2.11.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.4 <4.0.0-a",
+              "nadena.dev.modular-avatar": ">=1.18.7 <2.0.0-a",
+              "nadena.dev.ndmf": ">=1.14.8 <2.0.0-a"
+            }
+          },
+          "2.11.5": {
+            "version": "2.11.5",
+            "name": "io.github.sgzincanya.zincat",
+            "displayName": "Zincat",
+            "description": "Zincat avatar tools: wardrobe, switches, lighting, password lock, avatar splitting, translation and dance previews.",
+            "url": "https://github.com/SgZincanya/Zincat/releases/download/v2.11.5/io.github.sgzincanya.zincat-2.11.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.4 <4.0.0-a",
+              "nadena.dev.modular-avatar": ">=1.18.7 <2.0.0-a",
+              "nadena.dev.ndmf": ">=1.14.8 <2.0.0-a"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "url": "https://raw.githubusercontent.com/TeeTee-Ropan/TeeTools-vpm/main/index.json",
+    "name": "TeeTools",
+    "id": "dev.teetools.vpm",
+    "author": "TeeTee-Ropan",
+    "hash": "444500de3bb5d388709c2d2654b724a1dd3dae2556731c15f86a2611a5eba849",
+    "last_updated": "2026-11-16T04:39:09.226Z",
+    "packageCount": 2,
+    "packages": {
+      "dev.teetools.avatarhealth": {
+        "id": "dev.teetools.avatarhealth",
+        "name": "dev.teetools.avatarhealth",
+        "displayName": "TeeTools - Avatar Health Check",
+        "description": "Scans a VRChat avatar for common performance and upload issues, with a beginner-friendly report and plain-language recommendations.",
+        "latestVersion": "1.0.0",
+        "versionCount": 1,
+        "keywords": [],
+        "unity": "2019.4",
+        "author": {
+          "name": "TeeTools"
+        },
+        "versions": {
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "dev.teetools.avatarhealth",
+            "displayName": "TeeTools - Avatar Health Check",
+            "description": "Scans a VRChat avatar for common performance and upload issues, with a beginner-friendly report and plain-language recommendations.",
+            "url": "https://github.com/TeeTee-Ropan/TeeTools-vpm/releases/download/V1.0.0/dev.teetools.avatarhealth-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
+          }
+        }
+      },
+      "dev.teetools.playtester": {
+        "id": "dev.teetools.playtester",
+        "name": "dev.teetools.playtester",
+        "displayName": "TeeTools - Play Tester",
+        "description": "Walk, run, jump, crouch and prone your avatar inside Unity Play Mode with VRChat-style locomotion parameters, plus an optional personal mirror. Runs on top of Lyuma's Av3Emulator.",
+        "latestVersion": "0.1.0",
+        "versionCount": 18,
+        "keywords": [],
+        "unity": "2019.4",
+        "author": {
+          "name": "TeeTools"
+        },
+        "versions": {
+          "0.1.0": {
+            "version": "0.1.0",
+            "name": "dev.teetools.playtester",
+            "displayName": "TeeTools - Play Tester",
+            "description": "Walk, run, jump, crouch and prone your avatar inside Unity Play Mode with VRChat-style locomotion parameters, plus an optional personal mirror. Runs on top of Lyuma's Av3Emulator.",
+            "url": "https://github.com/TeeTee-Ropan/TeeTools-vpm/releases/download/V0.1.0/dev.teetools.playtester-0.1.0.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
+          },
+          "0.1.1": {
+            "version": "0.1.1",
+            "name": "dev.teetools.playtester",
+            "displayName": "TeeTools - Play Tester",
+            "description": "Walk, run, jump, crouch and prone your avatar inside Unity Play Mode with VRChat-style locomotion parameters, plus an optional personal mirror. Runs on top of Lyuma's Av3Emulator.",
+            "url": "https://github.com/TeeTee-Ropan/TeeTools-vpm/releases/download/V0.1.1/dev.teetools.playtester-0.1.1.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
+          },
+          "0.1.2": {
+            "version": "0.1.2",
+            "name": "dev.teetools.playtester",
+            "displayName": "TeeTools - Play Tester",
+            "description": "Walk, run, jump, crouch and prone your avatar inside Unity Play Mode with VRChat-style locomotion parameters, plus an optional personal mirror. Runs on top of Lyuma's Av3Emulator.",
+            "url": "https://github.com/TeeTee-Ropan/TeeTools-vpm/releases/download/V0.1.2/dev.teetools.playtester-0.1.2.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
+          },
+          "0.2.0": {
+            "version": "0.2.0",
+            "name": "dev.teetools.playtester",
+            "displayName": "TeeTools - Play Tester",
+            "description": "Walk, run, jump, crouch and prone your avatar inside Unity Play Mode with VRChat-style locomotion parameters, plus an optional personal mirror. Runs on top of Lyuma's Av3Emulator, which is installed automatically. English / 日本語.",
+            "url": "https://github.com/TeeTee-Ropan/TeeTools-vpm/releases/download/V0.2.0/dev.teetools.playtester-0.2.0.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "lyuma.av3emulator": ">=3.4.0"
+            }
+          },
+          "0.3.0": {
+            "version": "0.3.0",
+            "name": "dev.teetools.playtester",
+            "displayName": "TeeTools - Play Tester",
+            "description": "Test your avatar in Unity Play Mode without uploading: VRChat-style walk, run, jump, crouch and prone, plus an optional personal mirror, from one window. Runs on top of Lyuma's Av3Emulator, which is installed automatically. English / 日本語.",
+            "url": "https://github.com/TeeTee-Ropan/TeeTools-vpm/releases/download/V0.3.0/dev.teetools.playtester-0.3.0.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "lyuma.av3emulator": ">=3.4.0"
+            }
+          },
+          "0.3.1": {
+            "version": "0.3.1",
+            "name": "dev.teetools.playtester",
+            "displayName": "TeeTools - Play Tester",
+            "description": "Test your avatar in Unity Play Mode without uploading: VRChat-style walk, run, jump, crouch and prone, plus an optional personal mirror, from one window. Runs on top of Lyuma's Av3Emulator, which is installed automatically. English / 日本語.",
+            "url": "https://github.com/TeeTee-Ropan/TeeTools-vpm/releases/download/V0.3.1/dev.teetools.playtester-0.3.1.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "lyuma.av3emulator": ">=3.4.0"
+            }
+          },
+          "0.3.2": {
+            "version": "0.3.2",
+            "name": "dev.teetools.playtester",
+            "displayName": "TeeTools - Play Tester",
+            "description": "Test your avatar in Unity Play Mode without uploading: VRChat-style walk, run, jump, crouch and prone, plus an optional personal mirror, from one window. Runs on top of Lyuma's Av3Emulator, which is installed automatically. English / 日本語.",
+            "url": "https://github.com/TeeTee-Ropan/TeeTools-vpm/releases/download/V0.3.2/dev.teetools.playtester-0.3.2.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "lyuma.av3emulator": ">=3.4.0"
+            }
+          },
+          "0.3.3": {
+            "version": "0.3.3",
+            "name": "dev.teetools.playtester",
+            "displayName": "TeeTools - Play Tester",
+            "description": "Test your avatar in Unity Play Mode without uploading: VRChat-style walk, run, jump, crouch and prone, plus an optional personal mirror, from one window. Runs on top of Lyuma's Av3Emulator, which is installed automatically. English / 日本語.",
+            "url": "https://github.com/TeeTee-Ropan/TeeTools-vpm/releases/download/V0.3.3/dev.teetools.playtester-0.3.3.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "lyuma.av3emulator": ">=3.4.0"
+            }
+          },
+          "0.3.4": {
+            "version": "0.3.4",
+            "name": "dev.teetools.playtester",
+            "displayName": "TeeTools - Play Tester",
+            "description": "Test your avatar in Unity Play Mode without uploading: VRChat-style walk, run, jump, crouch and prone, plus an optional personal mirror, from one window. Runs on top of Lyuma's Av3Emulator, which is installed automatically. English / 日本語.",
+            "url": "https://github.com/TeeTee-Ropan/TeeTools-vpm/releases/download/V0.3.4/dev.teetools.playtester-0.3.4.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "lyuma.av3emulator": ">=3.4.0"
+            }
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "dev.teetools.playtester",
+            "displayName": "TeeTools - Play Tester",
+            "description": "Test your avatar in Unity Play Mode without uploading: VRChat-style walk, run, jump, crouch and prone, plus an optional personal mirror, from one window. Runs on top of Lyuma's Av3Emulator, which is installed automatically. English / 日本語.",
+            "url": "https://github.com/TeeTee-Ropan/TeeTools-vpm/releases/download/V1.0.0/dev.teetools.playtester-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "lyuma.av3emulator": ">=3.4.0"
+            }
+          },
+          "1.0.1": {
+            "version": "1.0.1",
+            "name": "dev.teetools.playtester",
+            "displayName": "TeeTools - Play Tester",
+            "description": "Test your avatar in Unity Play Mode without uploading: VRChat-style walk, run, jump, crouch and prone, plus an optional personal mirror, from one window. Runs on top of Lyuma's Av3Emulator, which is installed automatically. English / 日本語.",
+            "url": "https://github.com/TeeTee-Ropan/TeeTools-vpm/releases/download/V1.0.1/dev.teetools.playtester-1.0.1.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "lyuma.av3emulator": ">=3.4.0"
+            }
+          },
+          "1.0.2": {
+            "version": "1.0.2",
+            "name": "dev.teetools.playtester",
+            "displayName": "TeeTools - Play Tester",
+            "description": "Test your avatar in Unity Play Mode without uploading: VRChat-style walk, run, jump, crouch and prone, plus an optional personal mirror, from one window. Runs on top of Lyuma's Av3Emulator, which is installed automatically. English / 日本語.",
+            "url": "https://github.com/TeeTee-Ropan/TeeTools-vpm/releases/download/V1.0.2/dev.teetools.playtester-1.0.2.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "lyuma.av3emulator": ">=3.4.0"
+            }
+          },
+          "1.0.3": {
+            "version": "1.0.3",
+            "name": "dev.teetools.playtester",
+            "displayName": "TeeTools - Play Tester",
+            "description": "Test your avatar in Unity Play Mode without uploading: VRChat-style walk, run, jump, crouch and prone, plus an optional personal mirror, from one window. Runs on top of Lyuma's Av3Emulator, which is installed automatically. English / 日本語.",
+            "url": "https://github.com/TeeTee-Ropan/TeeTools-vpm/releases/download/V1.0.3/dev.teetools.playtester-1.0.3.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "lyuma.av3emulator": ">=3.4.0"
+            }
+          },
+          "1.0.4": {
+            "version": "1.0.4",
+            "name": "dev.teetools.playtester",
+            "displayName": "TeeTools - Play Tester",
+            "description": "Test your avatar in Unity Play Mode without uploading: VRChat-style walk, run, jump, crouch and prone, plus an optional personal mirror, from one window. Runs on top of Lyuma's Av3Emulator, which is installed automatically. English / 日本語.",
+            "url": "https://github.com/TeeTee-Ropan/TeeTools-vpm/releases/download/V1.0.4/dev.teetools.playtester-1.0.4.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "lyuma.av3emulator": ">=3.4.0"
+            }
+          },
+          "1.0.5": {
+            "version": "1.0.5",
+            "name": "dev.teetools.playtester",
+            "displayName": "TeeTools - Play Tester",
+            "description": "Test your avatar in Unity Play Mode without uploading: VRChat-style walk, run, jump, crouch and prone, plus an optional personal mirror, from one window. Runs on top of Lyuma's Av3Emulator, which is installed automatically. English / 日本語.",
+            "url": "https://github.com/TeeTee-Ropan/TeeTools-vpm/releases/download/V1.0.5/dev.teetools.playtester-1.0.5.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "lyuma.av3emulator": ">=3.4.0"
+            }
+          },
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "dev.teetools.playtester",
+            "displayName": "TeeTools - Play Tester",
+            "description": "Test your avatar in Unity Play Mode without uploading: VRChat-style walk, run, jump, crouch and prone, an optional personal mirror, and a dance / emote player for any animation clip, from one window. Runs on top of Lyuma's Av3Emulator, which is installed automatically. English / 日本語.",
+            "url": "https://github.com/TeeTee-Ropan/TeeTools-vpm/releases/download/V1.1.0/dev.teetools.playtester-1.1.0.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "lyuma.av3emulator": ">=3.4.0"
+            }
+          },
+          "1.1.1": {
+            "version": "1.1.1",
+            "name": "dev.teetools.playtester",
+            "displayName": "TeeTools - Play Tester",
+            "description": "Test your avatar in Unity Play Mode without uploading: VRChat-style walk, run, jump, crouch and prone, an optional personal mirror, and a dance / emote player for any animation clip, from one window. Runs on top of Lyuma's Av3Emulator, which is installed automatically. English / 日本語.",
+            "url": "https://github.com/TeeTee-Ropan/TeeTools-vpm/releases/download/V1.1.1/dev.teetools.playtester-1.1.1.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "lyuma.av3emulator": ">=3.4.0"
+            }
+          },
+          "1.2.0": {
+            "version": "1.2.0",
+            "name": "dev.teetools.playtester",
+            "displayName": "TeeTools - Play Tester",
+            "description": "Test your avatar in Unity Play Mode without uploading: VRChat-style walk, run, jump, crouch and prone, an optional personal mirror, and a dance / emote player for any animation clip, from one window. Runs on top of Lyuma's Av3Emulator, which is installed automatically. English / 日本語.",
+            "url": "https://github.com/TeeTee-Ropan/TeeTools-vpm/releases/download/V1.2.0/dev.teetools.playtester-1.2.0.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "lyuma.av3emulator": ">=3.4.0"
             }
           }
         }
@@ -101104,7 +103143,7 @@
     "id": "com.mitsuboshi-studio.vpm",
     "author": "Mitsuboshi_Studio",
     "hash": "52cde1f130302215e50bd10fbf17761cac4d336a632db50118aa96eb79cfb767",
-    "last_updated": "2026-11-15T01:56:39.000Z",
+    "last_updated": "2026-11-15T09:27:58.000Z",
     "packageCount": 8,
     "packages": {
       "com.mitsuboshi-studio.unity-power-rename": {
@@ -105015,7 +107054,7 @@
     "id": "com.mizore-nekoyanagi.vpm-packages",
     "author": "Mizore Nekoyanagi",
     "hash": "df5c206bda4082fc4825f6e0002aea2319d15d80cf9dc71813ef06fb4db812e7",
-    "last_updated": "2026-02-19T08:55:53.000Z",
+    "last_updated": "2026-02-19T08:55:54.000Z",
     "packageCount": 4,
     "packages": {
       "com.mizore-nekoyanagi.utils.apply-prefab-window": {
@@ -105679,8 +107718,8 @@
     "name": "SGimmicks VPM Repository",
     "id": "com.ysasa.sgimmicks.repository",
     "author": "ysasa",
-    "hash": "cf15c4f5c3a53448d87cfa892f2f7ef60bbc918479f831c018811fcd961e7cf8",
-    "last_updated": "2026-11-05T10:32:16.000Z",
+    "hash": "5a5393834e218947a1548d9a7e055af343e16fbddffdfd4c19aa028885bb0e55",
+    "last_updated": "2026-11-16T01:13:20.000Z",
     "packageCount": 1,
     "packages": {
       "com.ysasa.sgimmicks": {
@@ -105689,7 +107728,7 @@
         "displayName": "SGimmicks",
         "description": "PC向けVRChatワールド用ギミック集。テレポート、VIPスポーン、監視カメラ、部屋番号/RTab、強制テレポート、内線、照明、メッセージボード、キャストタイマーを収録。",
         "latestVersion": "2.0.0",
-        "versionCount": 14,
+        "versionCount": 16,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -105860,6 +107899,30 @@
             "displayName": "SGimmicks",
             "description": "PC向けVRChatワールド用ギミック集。カード受付・来店管理、テレポート、監視カメラ、内線、照明、お題表示、囁き声判定、透過画像立体化、VIZVIDシネマ、ローカル自動ドア、RTab注文・物体転送などを収録。",
             "url": "https://sora-lice.github.io/SGimmicks-VPM/packages/com.ysasa.sgimmicks-2.5.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.10.x"
+            }
+          },
+          "2.6.0": {
+            "version": "2.6.0",
+            "name": "com.ysasa.sgimmicks",
+            "displayName": "SGimmicks",
+            "description": "PC向けVRChatワールド用ギミック集。固定インスタンスポータル（検証用）、カード受付・来店管理、テレポート、監視カメラ、内線、照明、お題表示、囁き声判定、透過画像立体化、VIZVIDシネマ、ローカル自動ドア、RTab注文・物体転送などを収録。",
+            "url": "https://sora-lice.github.io/SGimmicks-VPM/packages/com.ysasa.sgimmicks-2.6.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.10.x"
+            }
+          },
+          "2.6.1": {
+            "version": "2.6.1",
+            "name": "com.ysasa.sgimmicks",
+            "displayName": "SGimmicks",
+            "description": "PC向けVRChatワールド用ギミック集。固定インスタンスポータル（検証用）、カード受付・来店管理、テレポート、監視カメラ、内線、照明、お題表示、囁き声判定、透過画像立体化、VIZVIDシネマ、ローカル自動ドア、RTab注文・物体転送などを収録。",
+            "url": "https://sora-lice.github.io/SGimmicks-VPM/packages/com.ysasa.sgimmicks-2.6.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -113520,9 +115583,9 @@
     "name": "TenteEEEE VPM Packages",
     "id": "com.tentee.vpm-repos",
     "author": "TenteEEEE",
-    "hash": "b31cde9e396121c2a703c16e7ba87f04d16d643d71e28b2da6515466d927dc5d",
-    "last_updated": "2026-11-12T12:17:10.000Z",
-    "packageCount": 9,
+    "hash": "a5b02120528046e927fa92733d163de9450a346edcf830229fa55c69cd7a6084",
+    "last_updated": "2026-11-15T11:28:03.000Z",
+    "packageCount": 10,
     "packages": {
       "com.tentee.vrc-rotation-timer": {
         "id": "com.tentee.vrc-rotation-timer",
@@ -114165,6 +116228,92 @@
             "unity": "2022.3",
             "vpmDependencies": {
               "com.vrchat.worlds": "^3.8.0"
+            }
+          }
+        }
+      },
+      "com.tentee.vrc-sangetsu": {
+        "id": "com.tentee.vrc-sangetsu",
+        "name": "com.tentee.vrc-sangetsu",
+        "displayName": "Sangetsu",
+        "description": "Same-base-avatar transformation authoring and NDMF build integration for VRChat.",
+        "latestVersion": "0.1.0",
+        "versionCount": 1,
+        "keywords": [
+          "vrchat",
+          "avatar",
+          "transformation",
+          "ndmf",
+          "modular-avatar"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "TenteEEEE",
+          "url": "https://github.com/TenteEEEE"
+        },
+        "versions": {
+          "0.1.0": {
+            "version": "0.1.0",
+            "name": "com.tentee.vrc-sangetsu",
+            "displayName": "Sangetsu",
+            "description": "Same-base-avatar transformation authoring and NDMF build integration for VRChat.",
+            "url": "https://github.com/TenteEEEE/vrchat-avatar-sangetsu/releases/download/0.1.0/com.tentee.vrc-sangetsu-0.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.10.5",
+              "nadena.dev.ndmf": "^1.14.8",
+              "nadena.dev.modular-avatar": "^1.18.7"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "url": "https://thearmagan.github.io/AUI/index.json",
+    "name": "AUI",
+    "id": "rest.armagan.aui",
+    "author": "Armagan",
+    "hash": "bb068cf90df713f7e102013d433c4c5f258c86d229f99fe8a2534b72d6ed4bd1",
+    "last_updated": "2026-11-11T17:56:03.000Z",
+    "packageCount": 1,
+    "packages": {
+      "rest.armagan.aui": {
+        "id": "rest.armagan.aui",
+        "name": "rest.armagan.aui",
+        "displayName": "AUI",
+        "description": "Baked, i18n-first UI engine for UdonSharp worlds. HTML-like markup and a small stylesheet compile in the editor to a plain uGUI hierarchy with generated UdonSharp wiring.",
+        "latestVersion": "0.2.1",
+        "versionCount": 2,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "Armagan"
+        },
+        "versions": {
+          "0.2.1": {
+            "version": "0.2.1",
+            "name": "rest.armagan.aui",
+            "displayName": "AUI",
+            "description": "Baked, i18n-first UI engine for UdonSharp worlds. HTML-like markup and a small stylesheet compile in the editor to a plain uGUI hierarchy with generated UdonSharp wiring.",
+            "url": "https://github.com/TheArmagan/AUI/releases/download/v0.2.1/rest.armagan.aui-0.2.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.4"
+            }
+          },
+          "0.2.0": {
+            "version": "0.2.0",
+            "name": "rest.armagan.aui",
+            "displayName": "AUI",
+            "description": "Baked, i18n-first UI engine for UdonSharp worlds. HTML-like markup and a small stylesheet compile in the editor to a plain uGUI hierarchy with generated UdonSharp wiring.",
+            "url": "https://github.com/TheArmagan/AUI/releases/download/v0.2.0/rest.armagan.aui-0.2.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.4"
             }
           }
         }
@@ -116640,17 +118789,17 @@
     "name": "VRCFury Auto Tools Listing",
     "id": "com.damien.vrcfury-autotools.listing",
     "author": "ToffelsKater",
-    "hash": "44566e49de2cf548568a4cbceb1cc13e8b5737c3429ef2f299eccbd45409813e",
-    "last_updated": "2026-10-17T13:42:06.000Z",
+    "hash": "b4def06036815d6f2e10536855a052667b98fc9fc5fa61f4756b3eb7e7481148",
+    "last_updated": "2026-11-15T21:40:49.000Z",
     "packageCount": 1,
     "packages": {
       "com.damien.vrcfury-autotools": {
         "id": "com.damien.vrcfury-autotools",
         "name": "com.damien.vrcfury-autotools",
         "displayName": "VRCFury Auto Tools",
-        "description": "Addon for VRCFury: automatic outfit toggle creator, zero-weight bone remover, mesh bone stripper, PhysBone collider creator, Quest copy creator and outfit fitter. Uses only VRCFury's public API.",
-        "latestVersion": "0.1.17-beta.6",
-        "versionCount": 22,
+        "description": "Addon for VRCFury: automatic outfit toggle creator, zero-weight bone remover, mesh bone stripper, PhysBone collider creator, Quest copy creator, outfit fitter and digitigrade leg setup. Uses only VRCFury's public API.",
+        "latestVersion": "0.1.21",
+        "versionCount": 28,
         "keywords": [
           "vrcfury",
           "outfit",
@@ -116664,6 +118813,84 @@
           "url": "https://github.com/ToffelsKater"
         },
         "versions": {
+          "0.1.21": {
+            "version": "0.1.21",
+            "name": "com.damien.vrcfury-autotools",
+            "displayName": "VRCFury Auto Tools",
+            "description": "Addon for VRCFury: automatic outfit toggle creator, zero-weight bone remover, mesh bone stripper, PhysBone collider creator, Quest copy creator, outfit fitter and digitigrade leg setup. Uses only VRCFury's public API.",
+            "url": "https://github.com/ToffelsKater/VRCFuryAutoTools/releases/download/0.1.21/com.damien.vrcfury-autotools-0.1.21.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "com.vrcfury.vrcfury": "*"
+            }
+          },
+          "0.1.20": {
+            "version": "0.1.20",
+            "name": "com.damien.vrcfury-autotools",
+            "displayName": "VRCFury Auto Tools",
+            "description": "Addon for VRCFury: automatic outfit toggle creator, zero-weight bone remover, mesh bone stripper, PhysBone collider creator, Quest copy creator, outfit fitter and digitigrade leg setup. Uses only VRCFury's public API.",
+            "url": "https://github.com/ToffelsKater/VRCFuryAutoTools/releases/download/0.1.20/com.damien.vrcfury-autotools-0.1.20.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "com.vrcfury.vrcfury": "*"
+            }
+          },
+          "0.1.19": {
+            "version": "0.1.19",
+            "name": "com.damien.vrcfury-autotools",
+            "displayName": "VRCFury Auto Tools",
+            "description": "Addon for VRCFury: automatic outfit toggle creator, zero-weight bone remover, mesh bone stripper, PhysBone collider creator, Quest copy creator, outfit fitter and digitigrade leg setup. Uses only VRCFury's public API.",
+            "url": "https://github.com/ToffelsKater/VRCFuryAutoTools/releases/download/0.1.19/com.damien.vrcfury-autotools-0.1.19.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "com.vrcfury.vrcfury": "*"
+            }
+          },
+          "0.1.18": {
+            "version": "0.1.18",
+            "name": "com.damien.vrcfury-autotools",
+            "displayName": "VRCFury Auto Tools",
+            "description": "Addon for VRCFury: automatic outfit toggle creator, zero-weight bone remover, mesh bone stripper, PhysBone collider creator, Quest copy creator and outfit fitter. Uses only VRCFury's public API.",
+            "url": "https://github.com/ToffelsKater/VRCFuryAutoTools/releases/download/0.1.18/com.damien.vrcfury-autotools-0.1.18.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "com.vrcfury.vrcfury": "*"
+            }
+          },
+          "0.1.17": {
+            "version": "0.1.17",
+            "name": "com.damien.vrcfury-autotools",
+            "displayName": "VRCFury Auto Tools",
+            "description": "Addon for VRCFury: automatic outfit toggle creator, zero-weight bone remover, mesh bone stripper, PhysBone collider creator, Quest copy creator and outfit fitter. Uses only VRCFury's public API.",
+            "url": "https://github.com/ToffelsKater/VRCFuryAutoTools/releases/download/0.1.17/com.damien.vrcfury-autotools-0.1.17.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "com.vrcfury.vrcfury": "*"
+            }
+          },
+          "0.1.17-beta.7": {
+            "version": "0.1.17-beta.7",
+            "name": "com.damien.vrcfury-autotools",
+            "displayName": "VRCFury Auto Tools",
+            "description": "Addon for VRCFury: automatic outfit toggle creator, zero-weight bone remover, mesh bone stripper, PhysBone collider creator, Quest copy creator and outfit fitter. Uses only VRCFury's public API.",
+            "url": "https://github.com/ToffelsKater/VRCFuryAutoTools/releases/download/0.1.17-beta.7/com.damien.vrcfury-autotools-0.1.17-beta.7.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "com.vrcfury.vrcfury": "*"
+            }
+          },
           "0.1.17-beta.6": {
             "version": "0.1.17-beta.6",
             "name": "com.damien.vrcfury-autotools",
@@ -116960,7 +119187,7 @@
     "id": "jp.toh.package-listing",
     "author": "toh",
     "hash": "cc3967c59f319ff5c3910acb82ddac984aa9ad35b5aaec5e395d6ab2cf0dfd4f",
-    "last_updated": "2025-04-28T14:28:14.000Z",
+    "last_updated": "2025-04-28T14:28:15.000Z",
     "packageCount": 1,
     "packages": {
       "jp.toh.easy-object-switch": {
@@ -117023,8 +119250,8 @@
     "name": "TpLab",
     "id": "io.github.tp-jp.vpm",
     "author": "tp.jp",
-    "hash": "867a250bd02d550c96e357f302ebde1df014f346917191db3b323459dd3e1f4e",
-    "last_updated": "2026-11-13T14:13:58.000Z",
+    "hash": "01ac52c97fc7820ed97c630cd230d2091fabdc1bd5acbecbc8b25f794d06c189",
+    "last_updated": "2026-11-15T09:28:34.000Z",
     "packageCount": 11,
     "packages": {
       "com.tp.jp.iwa-sync3-color-changer": {
@@ -117745,8 +119972,8 @@
         "name": "com.tplab.flux.fx",
         "displayName": "FluxFX",
         "description": "GPU particle and visual effects framework powered by Flux.",
-        "latestVersion": "0.1.5",
-        "versionCount": 20,
+        "latestVersion": "0.4.0",
+        "versionCount": 23,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -117754,6 +119981,48 @@
           "url": "https://github.com/tp-jp"
         },
         "versions": {
+          "0.4.0": {
+            "version": "0.4.0",
+            "name": "com.tplab.flux.fx",
+            "displayName": "FluxFX",
+            "description": "GPU particle and visual effects framework powered by Flux.",
+            "url": "https://github.com/tp-jp/FluxFX/releases/download/0.4.0/com.tplab.flux.fx-0.4.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.5",
+              "com.tplab.sceneflow": "^2.1.0",
+              "com.tplab.flux": "^0.0.5"
+            }
+          },
+          "0.3.0": {
+            "version": "0.3.0",
+            "name": "com.tplab.flux.fx",
+            "displayName": "FluxFX",
+            "description": "GPU particle and visual effects framework powered by Flux.",
+            "url": "https://github.com/tp-jp/FluxFX/releases/download/0.3.0/com.tplab.flux.fx-0.3.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.5",
+              "com.tplab.sceneflow": "^2.1.0",
+              "com.tplab.flux": "^0.0.5"
+            }
+          },
+          "0.2.0": {
+            "version": "0.2.0",
+            "name": "com.tplab.flux.fx",
+            "displayName": "FluxFX",
+            "description": "GPU particle and visual effects framework powered by Flux.",
+            "url": "https://github.com/tp-jp/FluxFX/releases/download/0.2.0/com.tplab.flux.fx-0.2.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.5",
+              "com.tplab.sceneflow": "^2.1.0",
+              "com.tplab.flux": "^0.0.5"
+            }
+          },
           "0.1.5": {
             "version": "0.1.5",
             "name": "com.tplab.flux.fx",
@@ -119031,7 +121300,7 @@
     "id": "io.github.tumayouzyo.tools",
     "author": "tumayouzyo",
     "hash": "839a598fdb19ddf023a3206915894a7049b07a982ed34bbe3211f87562a7b689",
-    "last_updated": "2026-11-15T00:23:42.000Z",
+    "last_updated": "2026-11-16T00:24:30.000Z",
     "packageCount": 2,
     "packages": {
       "io.github.tumayouzyo.fx-facial-assistant": {
@@ -119119,7 +121388,7 @@
     "id": "com.udonite.listing",
     "author": "Udonite",
     "hash": "f2b1ea37f06a359603eda16b4ef6f10c6b0158023fd0b06f23abbb1863ce375a",
-    "last_updated": "2026-11-15T02:47:32.000Z",
+    "last_updated": "2026-11-16T02:50:17.000Z",
     "packageCount": 1,
     "packages": {
       "com.udonite.compiler": {
@@ -121166,8 +123435,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "2c48d7cc388d7347edf1ae3e6447312b9adc25dec502ec5d51d2a6b70603beee",
-    "last_updated": "2026-11-15T04:41:36.000Z",
+    "hash": "2e4a800f56a39fb73ddbf20ef82241c211124944f1c639343833909b0773625a",
+    "last_updated": "2026-11-16T04:38:37.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -121175,14 +123444,64 @@
         "name": "com.vrcfury.vrcfury",
         "displayName": "VRCFury",
         "description": "Non-Destructive Tools for VRChat Avatars",
-        "latestVersion": "1.1465.0",
-        "versionCount": 1507,
+        "latestVersion": "1.1470.0",
+        "versionCount": 1512,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "VRCFury"
         },
         "versions": {
+          "1.1470.0": {
+            "version": "1.1470.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1470.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1469.0": {
+            "version": "1.1469.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1469.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1468.0": {
+            "version": "1.1468.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1468.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1467.0": {
+            "version": "1.1467.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1467.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1466.0": {
+            "version": "1.1466.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1466.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.1465.0": {
             "version": "1.1465.0",
             "name": "com.vrcfury.vrcfury",
@@ -135595,7 +137914,7 @@
     "id": "com.vixencreations.vixens-toolbox.listing",
     "author": "Vixenlicous",
     "hash": "5245ab387b22f1fdcb2b3059f77e5b47adf0bfb4045e4bfd0649e8d08475018a",
-    "last_updated": "2026-11-13T07:55:25.000Z",
+    "last_updated": "2026-11-15T10:55:05.000Z",
     "packageCount": 3,
     "packages": {
       "com.vixencreations.vixens-toolbox": {
@@ -136464,7 +138783,7 @@
     "id": "io.mekabu.vpm-repository",
     "author": "contact@mekabu.io",
     "hash": "afb531d339483772668bf9b0fbe2f91415a0d37733b4adad67544741ae03cb2e",
-    "last_updated": "2026-11-15T04:39:07.000Z",
+    "last_updated": "2026-11-16T04:37:24.000Z",
     "packageCount": 2,
     "packages": {
       "com.mekabu.blendshape-animation-creator": {
@@ -145561,7 +147880,7 @@
     "id": "org.azuretek.vpm",
     "author": "kobi32768",
     "hash": "9afa17a9cee430b616075de3b61791fa9b017b425564b6b56bd38722425d00db",
-    "last_updated": "2026-10-26T08:52:40.000Z",
+    "last_updated": "2026-11-15T05:42:05.000Z",
     "packageCount": 1,
     "packages": {
       "org.azuretek.copy-transform-shortcut": {
@@ -149816,8 +152135,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "f12fb40da2f39289968f15d1195ab7ff63d965fedf3c036ab7239196f2a6e82e",
-    "last_updated": "2026-11-13T22:59:41.000Z",
+    "hash": "c1fc9c56507f0280887af2cd3dfa836ddbc70431dbfcd6ac8e9564d139245158",
+    "last_updated": "2026-11-15T05:04:47.000Z",
     "packageCount": 10,
     "packages": {
       "com.poiyomi.pro": {
@@ -149825,8 +152144,8 @@
         "name": "com.poiyomi.pro",
         "displayName": "Poiyomi Pro",
         "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
-        "latestVersion": "11.0.49",
-        "versionCount": 58,
+        "latestVersion": "11.0.50",
+        "versionCount": 59,
         "keywords": [
           "shaders",
           "vrchat",
@@ -149840,6 +152159,18 @@
           "url": "https://poiyomi.com"
         },
         "versions": {
+          "11.0.50": {
+            "version": "11.0.50",
+            "name": "com.poiyomi.pro",
+            "displayName": "Poiyomi Pro",
+            "description": "Poiyomi Pro shaders. Downloads after authenticating with Patreon ($10+ tier).",
+            "url": "https://vpmm.dev/files/com.poiyomi.pro/11.0.50/10d7926f4fe201145db4abb92f842ade589440c83e09c06719014c0ce8624ccf",
+            "zipSha256": null,
+            "unity": "2021.3",
+            "vpmDependencies": {
+              "com.unity.nuget.newtonsoft-json": "3.2.1"
+            }
+          },
           "11.0.49": {
             "version": "11.0.49",
             "name": "com.poiyomi.pro",
@@ -152965,7 +155296,7 @@
     "id": "jp.hinasense.vpm",
     "author": "HinanoAira",
     "hash": "6101414a61af4480361097ebeaa841db500396ff4f3b1c47e3db8a078521a2fc",
-    "last_updated": "2026-11-15T04:00:01.000Z",
+    "last_updated": "2026-11-16T04:00:01.000Z",
     "packageCount": 2,
     "packages": {
       "jp.hinasense.liltoon.freak": {
@@ -159798,7 +162129,7 @@
     "id": "dev.ladyluh.vpm",
     "author": "luna-gelmini",
     "hash": "29b50b3a46469eb3ade74e9b7cfef4546be058b5d397a4dc015b615979324093",
-    "last_updated": "2026-11-15T02:50:12.000Z",
+    "last_updated": "2026-11-16T02:51:44.000Z",
     "packageCount": 4,
     "packages": {
       "dev.ladyluh.questkit": {
@@ -181742,7 +184073,7 @@
     "id": "jp.pipipigiken.vpm",
     "author": "orange3134",
     "hash": "fdfcf0227a2be7d6ef7e840800fc48834054e85de4dd49202c7e2154a08fece3",
-    "last_updated": "2026-11-15T02:47:31.000Z",
+    "last_updated": "2026-11-16T02:50:06.000Z",
     "packageCount": 2,
     "packages": {
       "jp.pipipigiken.mpavatar-package": {
@@ -186969,7 +189300,7 @@
     "id": "dev.sleightly.vpm-listing",
     "author": "JustSleightly",
     "hash": "263ae27864a2063bd3bc8485f328fb428359ed01da756bcbd99d522d153e9c3c",
-    "last_updated": "2026-10-12T04:09:57.000Z",
+    "last_updated": "2026-10-12T04:09:58.000Z",
     "packageCount": 2,
     "packages": {
       "dev.sleightly.clipfocus": {
@@ -187733,7 +190064,7 @@
     "id": "dev.thry.vpm",
     "author": "Thryrallo",
     "hash": "0189583cd590af92f6337bf072cfea3211c6a3ca90738536d8f30bcd5fab82cb",
-    "last_updated": "2024-08-05T22:13:00.000Z",
+    "last_updated": "2024-08-05T22:13:01.000Z",
     "packageCount": 1,
     "packages": {
       "de.thryrallo.vrc.avatar-performance-tools": {
@@ -188356,7 +190687,7 @@
     "id": "io.vrctools.public-listing",
     "author": "VRCTools",
     "hash": "224dea9213ca45e7075b5a46660f51047259c36ba576519fbd30ed0d965bc0b8",
-    "last_updated": "2026-10-20T17:11:23.000Z",
+    "last_updated": "2026-10-20T17:11:22.000Z",
     "packageCount": 3,
     "packages": {
       "io.vrctools.common": {
@@ -188844,7 +191175,7 @@
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
     "hash": "f55a664e3a5350e1f2def05a18cb6fc37d603ce465f8e21da2aa6c169d28cf0c",
-    "last_updated": "2026-11-10T00:36:23.000Z",
+    "last_updated": "2026-11-10T00:36:24.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -190558,6 +192889,65 @@
             "zipSha256": null,
             "vpmDependencies": {
               "com.vrchat.worlds": "3.7.1"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "url": "https://vrc-staples.github.io/vpm-packages/index.json",
+    "name": ".Staples. VRChat Tools",
+    "id": "com.staples.vpm",
+    "author": ".Staples.",
+    "hash": "c0b63f32f373d474367918e1333a098190899a6521ad905944c1b48b69a1a48a",
+    "last_updated": "2026-11-08T02:38:31.000Z",
+    "packageCount": 1,
+    "packages": {
+      "com.staples.asm-lite": {
+        "id": "com.staples.asm-lite",
+        "name": "com.staples.asm-lite",
+        "displayName": ".Staples. - Avatar Settings Manager - Lite",
+        "description": "Drop-in avatar settings manager with Save, Load, and Clear Preset for expression parameter presets across 1-8 configurable slots.",
+        "latestVersion": "1.1.0",
+        "versionCount": 2,
+        "keywords": [
+          "VRChat",
+          "Avatar",
+          "VRCFury",
+          "ASM-Lite",
+          "Parameters",
+          "Presets"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": ".Staples."
+        },
+        "versions": {
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "com.staples.asm-lite",
+            "displayName": ".Staples. - Avatar Settings Manager - Lite",
+            "description": "Drop-in avatar settings manager with Save, Load, and Clear Preset for expression parameter presets across 1-8 configurable slots.",
+            "url": "https://github.com/VRC-Staples/AvatarSettingsManager-Lite/releases/download/1.1.0/com.staples.asm-lite-1.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "com.vrcfury.vrcfury": ">=1.999.0"
+            }
+          },
+          "1.2.0-beta.2": {
+            "version": "1.2.0-beta.2",
+            "name": "com.staples.asm-lite",
+            "displayName": ".Staples. - Avatar Settings Manager - Lite",
+            "description": "Drop-in avatar settings manager with Save, Load, and Clear Preset for expression parameter presets across 1-8 configurable slots.",
+            "url": "https://github.com/VRC-Staples/AvatarSettingsManager-Lite/releases/download/1.2.0-beta.2/com.staples.asm-lite-1.2.0-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "com.vrcfury.vrcfury": ">=1.999.0"
             }
           }
         }
@@ -202264,8 +204654,8 @@
     "name": "Explosive Theorem Lab. Metaverse Division",
     "id": "idv.jlchntoz.xtlcdn-listing",
     "author": "Jeremy Lam aka. Vistanz",
-    "hash": "6a34ddd403b47a8c38c28b9cf9682e168aad3a17a99caee287dd29fba41cbb80",
-    "last_updated": "2026-11-14T17:39:03.000Z",
+    "hash": "488507d86a6fcaae5224b754932082ea5fc11671d7eee4b1fd6f596281cfba39",
+    "last_updated": "2026-11-15T09:04:30.000Z",
     "packageCount": 14,
     "packages": {
       "idv.jlchntoz.vrcw-foundation": {
@@ -205561,8 +207951,8 @@
         "name": "idv.jlchntoz.ndextensions",
         "displayName": "Vistanz's Non Destructive Extensions",
         "description": "Non Destructive Extensions For VRChat Avatars (built on top of NDMF)",
-        "latestVersion": "0.1.7",
-        "versionCount": 48,
+        "latestVersion": "0.1.8",
+        "versionCount": 49,
         "keywords": [],
         "unity": "2022.1",
         "author": {
@@ -205571,6 +207961,18 @@
           "url": "https://xtl.booth.pm"
         },
         "versions": {
+          "0.1.8": {
+            "version": "0.1.8",
+            "name": "idv.jlchntoz.ndextensions",
+            "displayName": "Vistanz's Non Destructive Extensions",
+            "description": "Non Destructive Extensions For VRChat Avatars (built on top of NDMF)",
+            "url": "https://github.com/JLChnToZ/ndextensions/releases/download/0.1.8/idv.jlchntoz.ndextensions-0.1.8.zip",
+            "zipSha256": null,
+            "unity": "2022.1",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.9.x"
+            }
+          },
           "0.1.7": {
             "version": "0.1.7",
             "name": "idv.jlchntoz.ndextensions",
@@ -206711,6 +209113,138 @@
     }
   },
   {
+    "url": "https://yakigura.github.io/vpm-qvinfox/index.json",
+    "name": "QvInfoX VPM",
+    "id": "com.yakigura.vpm.qvinfox",
+    "author": "やきたてぐらふてぃ",
+    "hash": "f5378c73eca83f884c639b72edd34f5edc13f0a1e5b54a460b7efd89e6cffbe5",
+    "last_updated": "2026-11-14T11:59:19.000Z",
+    "packageCount": 3,
+    "packages": {
+      "com.yakigura.qvinfox": {
+        "id": "com.yakigura.qvinfox",
+        "name": "com.yakigura.qvinfox",
+        "displayName": "QvInfoX",
+        "description": "Non-invasive monitoring tools for QvPen: sync progress, ink load, and per-pen preview indicator.",
+        "latestVersion": "1.0.0",
+        "versionCount": 2,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "やきたてぐらふてぃ",
+          "url": "https://github.com/Yakigura"
+        },
+        "versions": {
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.yakigura.qvinfox",
+            "displayName": "QvInfoX",
+            "description": "Non-invasive monitoring tools for QvPen: sync progress, ink load, and per-pen preview indicator.",
+            "url": "https://github.com/Yakigura/QvInfoX/releases/download/1.0.0/com.yakigura.qvinfox-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.9.0",
+              "com.vrchat.base": "^3.9.0",
+              "net.ureishi.qvpen": ">=3.3.0",
+              "com.yakigura.qvscenesetup": ">=1.0.0",
+              "com.yakigura.qvinkpreview": ">=1.0.0",
+              "com.cyan.playerobjectpool": "^1.1.2"
+            }
+          },
+          "1.0.1": {
+            "version": "1.0.1",
+            "name": "com.yakigura.qvinfox",
+            "displayName": "QvInfoX",
+            "description": "Non-invasive monitoring tools for QvPen: sync progress, ink load, and per-pen preview indicator.",
+            "url": "https://github.com/Yakigura/QvInfoX/releases/download/1.0.1/com.yakigura.qvinfox-1.0.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.9.0",
+              "com.vrchat.base": "^3.9.0",
+              "net.ureishi.qvpen": ">=3.3.0",
+              "com.yakigura.qvscenesetup": ">=1.0.1",
+              "com.yakigura.qvinkpreview": ">=1.0.0",
+              "com.cyan.playerobjectpool": "^1.1.2"
+            }
+          }
+        }
+      },
+      "com.yakigura.qvscenesetup": {
+        "id": "com.yakigura.qvscenesetup",
+        "name": "com.yakigura.qvscenesetup",
+        "displayName": "Qv Scene Setup",
+        "description": "Reversible per-scene installation records for Yakigura tools.",
+        "latestVersion": "1.0.0",
+        "versionCount": 2,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "やきたてぐらふてぃ",
+          "url": "https://github.com/Yakigura"
+        },
+        "versions": {
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.yakigura.qvscenesetup",
+            "displayName": "Qv Scene Setup",
+            "description": "Reversible per-scene installation records for Yakigura tools.",
+            "url": "https://github.com/Yakigura/QvInfoX/releases/download/1.0.0/com.yakigura.qvscenesetup-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.0.1": {
+            "version": "1.0.1",
+            "name": "com.yakigura.qvscenesetup",
+            "displayName": "Qv Scene Setup",
+            "description": "Reversible per-scene installation records for Yakigura tools.",
+            "url": "https://github.com/Yakigura/QvInfoX/releases/download/1.0.1/com.yakigura.qvscenesetup-1.0.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          }
+        }
+      },
+      "com.yakigura.qvinkpreview": {
+        "id": "com.yakigura.qvinkpreview",
+        "name": "com.yakigura.qvinkpreview",
+        "displayName": "QvInkPreview",
+        "description": "QvPen の各ペンの後ろに、現在のインクと同じマテリアル・色・太さの短い線を表示する VPM パッケージ。",
+        "latestVersion": "1.0.0",
+        "versionCount": 1,
+        "keywords": [
+          "VRChat",
+          "UdonSharp",
+          "QvPen",
+          "Preview"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "やきたてぐらふてぃ",
+          "url": "https://github.com/Yakigura"
+        },
+        "versions": {
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.yakigura.qvinkpreview",
+            "displayName": "QvInkPreview",
+            "description": "QvPen の各ペンの後ろに、現在のインクと同じマテリアル・色・太さの短い線を表示する VPM パッケージ。",
+            "url": "https://github.com/Yakigura/QvInkPreview/releases/download/1.0.0/com.yakigura.qvinkpreview-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.5.0",
+              "com.vrchat.base": "^3.5.0",
+              "net.ureishi.qvpen": ">=3.3.0"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
     "url": "https://yakigura.github.io/vpm-qvpalette/index.json",
     "name": "QvPalette VPM",
     "id": "com.yakigura.vpm.qvpalette",
@@ -207024,8 +209558,8 @@
     "name": "YGDR VPM Repo",
     "id": "com.ygdr.vpm-listing",
     "author": "YerGodDamnRight",
-    "hash": "c3caa22ec133814ded64e9540f873534380c69058dd94086eb463357a95f70de",
-    "last_updated": "2026-08-24T20:23:04.000Z",
+    "hash": "f33a8f68044ec9d92741ecd8c08eea1b4a021f866fd434b099cb4e8e80ca6e57",
+    "last_updated": "2026-11-15T16:55:44.000Z",
     "packageCount": 2,
     "packages": {
       "com.ygdr.animator": {
@@ -207033,8 +209567,8 @@
         "name": "com.ygdr.animator",
         "displayName": "YGDR Animator Editor",
         "description": "Powerful Unity Editor tool for advanced animator controller editing. Extends Animator window with multi-transition editing, state property management, VRC-specific features, and graph enhancements.",
-        "latestVersion": "1.2.1",
-        "versionCount": 19,
+        "latestVersion": "1.2.2",
+        "versionCount": 20,
         "keywords": [],
         "unity": null,
         "author": {
@@ -207043,6 +209577,17 @@
           "url": ""
         },
         "versions": {
+          "1.2.2": {
+            "version": "1.2.2",
+            "name": "com.ygdr.animator",
+            "displayName": "YGDR Animator Editor",
+            "description": "Powerful Unity Editor tool for advanced animator controller editing. Extends Animator window with multi-transition editing, state property management, VRC-specific features, and graph enhancements.",
+            "url": "https://github.com/YerGodDamnRight/YGDR-Animator-Editor/releases/download/1.2.2/com.ygdr.animator-1.2.2.zip",
+            "zipSha256": null,
+            "vpmDependencies": {
+              "com.ygdr.mdv": "^1.2.1"
+            }
+          },
           "1.2.1": {
             "version": "1.2.1",
             "name": "com.ygdr.animator",
