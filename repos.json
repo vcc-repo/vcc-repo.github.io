@@ -8598,9 +8598,9 @@
     "name": "Anosion VPM",
     "id": "jp.anosion.vpm",
     "author": "Anosion",
-    "hash": "2ab68972d6a116fbe369e30910999e7b566f9799ff9ec4d6b0dbfc84e9f0df07",
-    "last_updated": "2026-10-22T01:24:05.000Z",
-    "packageCount": 1,
+    "hash": "46f8127eb8ef588f879dc86e2582fff42b1fe53b7f65e008381eab060617388a",
+    "last_updated": "2026-11-16T07:11:48.000Z",
+    "packageCount": 2,
     "packages": {
       "jp.anosion.material-replacer": {
         "id": "jp.anosion.material-replacer",
@@ -8761,6 +8761,31 @@
             "displayName": "Material Replacer",
             "description": "Material Replacer is a custom editor extension for Unity that allows users to search and replace materials on GameObjects within the Hierarchy.",
             "url": "https://github.com/AnosionV/MaterialReplacer/releases/download/1.0.0/jp.anosion.material-replacer-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          }
+        }
+      },
+      "jp.anosion.matcap-generator": {
+        "id": "jp.anosion.matcap-generator",
+        "name": "jp.anosion.matcap-generator",
+        "displayName": "Matcap Generator",
+        "description": "Create and live-edit Matcap textures directly in the Unity Inspector without external image editing software, ready to assign to shaders like lilToon or export as PNG.",
+        "latestVersion": "0.1.0",
+        "versionCount": 1,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "Anosion"
+        },
+        "versions": {
+          "0.1.0": {
+            "version": "0.1.0",
+            "name": "jp.anosion.matcap-generator",
+            "displayName": "Matcap Generator",
+            "description": "Create and live-edit Matcap textures directly in the Unity Inspector without external image editing software, ready to assign to shaders like lilToon or export as PNG.",
+            "url": "https://github.com/AnosionV/MatcapGenerator/releases/download/0.1.0/jp.anosion.matcap-generator-0.1.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {}
@@ -12724,8 +12749,8 @@
     "name": "Azelrack package's Listing",
     "id": "com.vrchat.azelrack.vpm.listing",
     "author": "Azelrack",
-    "hash": "ae281f39ccc365cdcb1cd9e04964b7915a3d5af24705858ea05a017e34e4ed30",
-    "last_updated": "2026-11-10T00:58:18.000Z",
+    "hash": "a7c8984d2f8b7fa8f32aa3c5fad97630539f4c7a790ef457b8bb3fbb77d0fca2",
+    "last_updated": "2026-11-16T15:56:00.000Z",
     "packageCount": 1,
     "packages": {
       "com.azelrack.vrchat-udon-avatar-scaler": {
@@ -12733,8 +12758,8 @@
         "name": "com.azelrack.vrchat-udon-avatar-scaler",
         "displayName": "VRChat Udon Avatar Scaler",
         "description": "All in one solution to control avatar height and to scale with it speed, gravity, jump, voice and audio.",
-        "latestVersion": "1.0.2",
-        "versionCount": 5,
+        "latestVersion": "1.0.3",
+        "versionCount": 6,
         "keywords": [
           "Avatar",
           "Scaling",
@@ -12747,6 +12772,21 @@
           "url": "https://github.com/Azelrack"
         },
         "versions": {
+          "1.0.3": {
+            "version": "1.0.3",
+            "name": "com.azelrack.vrchat-udon-avatar-scaler",
+            "displayName": "VRChat Udon Avatar Scaler",
+            "description": "All in one solution to control avatar height and to scale with it speed, gravity, jump, voice and audio.",
+            "url": "https://github.com/Azelrack/VRChat-UdonAvatarScaler/releases/download/1.0.3/VRChatUdonAvatarScaler-1.0.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.9.0",
+              "com.vrchat.worlds": "3.9.0",
+              "com.vrchat.core.vpm-resolver": "0.1.29",
+              "com.unity.textmeshpro": "3.0.6"
+            }
+          },
           "1.0.2": {
             "version": "1.0.2",
             "name": "com.azelrack.vrchat-udon-avatar-scaler",
@@ -14725,8 +14765,8 @@
     "name": "Orbiters VPM",
     "id": "cc.orbiters.vpm",
     "author": "blackorbit",
-    "hash": "3be41fac8b80cfa6001a51fd01b3454f60d84066752f119d1cc63f44cb757bfe",
-    "last_updated": "2026-11-16T04:29:09.000Z",
+    "hash": "c383de0563f7a62e43ab42ee7422c4bdb33dc89f3a4ea782f62019602ec5ee2b",
+    "last_updated": "2026-11-17T05:22:12.000Z",
     "packageCount": 12,
     "packages": {
       "orbiters.mcb": {
@@ -14734,8 +14774,8 @@
         "name": "orbiters.mcb",
         "displayName": "My Custom Base (MCB)",
         "description": "Wizard to apply a custom base with the MCB tool",
-        "latestVersion": "1.14.1",
-        "versionCount": 36,
+        "latestVersion": "1.14.2",
+        "versionCount": 37,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -14744,6 +14784,21 @@
           "email": "blackorbit.eclaire@gmail.com"
         },
         "versions": {
+          "1.14.2": {
+            "version": "1.14.2",
+            "name": "orbiters.mcb",
+            "displayName": "My Custom Base (MCB)",
+            "description": "Wizard to apply a custom base with the MCB tool",
+            "url": "https://github.com/Orbiters-cc/MyCustomBase/releases/download/1.14.2/My.Custom.Base.MCB.-1.14.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "orbiters.toolkit": ">=0.5.1 <0.6.0",
+              "com.vrchat.avatars": ">=3.7.0 <4.0.0",
+              "com.vrcfury.vrcfury": ">=1.1241.0",
+              "com.vrchat.core.vpm-resolver": ">=0.1.29 <0.2.0"
+            }
+          },
           "1.14.1": {
             "version": "1.14.1",
             "name": "orbiters.mcb",
@@ -17694,7 +17749,7 @@
     "id": "com.surarin.vpm",
     "author": "Surarin",
     "hash": "01f63e49ba01b1361e52d2caf566ac678676ad7accb612ed861a8f3a37e444fb",
-    "last_updated": "2026-10-29T09:38:10.000Z",
+    "last_updated": "2026-10-29T09:38:09.000Z",
     "packageCount": 1,
     "packages": {
       "com.surarin.worldtitlegimmick": {
@@ -20162,7 +20217,7 @@
     "id": "com.chikumatateshina.qvpen-avatar-follow-system",
     "author": "ChikumaTateshina",
     "hash": "c002c8b044783a1bc15e74a999e1af8a65dfbb62b0ca97d520515986173bcbb1",
-    "last_updated": "2026-10-06T04:43:26.000Z",
+    "last_updated": "2026-10-06T04:43:27.000Z",
     "packageCount": 1,
     "packages": {
       "com.chikumatateshina.qvpen-avatar-follow-system": {
@@ -20207,7 +20262,7 @@
     "id": "com.chill.vpm",
     "author": "chill",
     "hash": "218dd1fd125e7194ca6c8140e63ca3d013b40ed5b78b42e79e1ff1e1d5cd5b05",
-    "last_updated": "2026-05-21T13:11:02.000Z",
+    "last_updated": "2026-05-21T13:11:01.000Z",
     "packageCount": 1,
     "packages": {
       "com.chill.avatarscope": {
@@ -24228,7 +24283,7 @@
     "id": "com.dinetool.listing",
     "author": "Dine",
     "hash": "c52ddc33e5cd3447a76fdfe02e19be5d0d7ee3cd7baa7705116a4d3c5cf35f19",
-    "last_updated": "2026-10-30T11:53:43.000Z",
+    "last_updated": "2026-10-30T11:53:42.000Z",
     "packageCount": 1,
     "packages": {
       "com.dine.tool": {
@@ -24594,7 +24649,7 @@
     "id": "com.docme.listing",
     "author": "DocMe",
     "hash": "eb5d9f703a3ea4f0e2136fb2618d56da34f9cdf5aad5e4f8765cf1b18e212c90",
-    "last_updated": "2026-11-15T15:44:52.000Z",
+    "last_updated": "2026-11-16T12:42:49.000Z",
     "packageCount": 5,
     "packages": {
       "com.docme.eye-installer": {
@@ -26264,7 +26319,7 @@
     "id": "drsakuu.vpm-listing",
     "author": "Dr. Sakuu Cuddles",
     "hash": "2a105fd547aec9762db345e7870fddf24826b446c040d67a45c038c2c7830112",
-    "last_updated": "2026-11-11T10:14:57.000Z",
+    "last_updated": "2026-11-11T10:15:02.000Z",
     "packageCount": 1,
     "packages": {
       "drsakuu.humr": {
@@ -32281,7 +32336,7 @@
     "id": "com.furality.repos.official",
     "author": "Furality, Inc.",
     "hash": "1f058d849e3d6f8fbf1320164b63cd1f1019b43a7993a1adfa11f274f8288e49",
-    "last_updated": "2026-08-08T02:49:09.000Z",
+    "last_updated": "2026-08-08T02:49:10.000Z",
     "packageCount": 3,
     "packages": {
       "com.furality.sylvashader": {
@@ -35414,7 +35469,7 @@
     "id": "info.glintfraulein.vpm",
     "author": "GlinT Fraulein",
     "hash": "73604b5dbc89487eb98b71c30501c83b346b29d793d41781a16448cb6ed6daef",
-    "last_updated": "2026-11-04T16:39:38.000Z",
+    "last_updated": "2026-11-04T16:39:39.000Z",
     "packageCount": 1,
     "packages": {
       "info.glintfraulein.palasolu": {
@@ -36164,7 +36219,7 @@
     "id": "com.synthos.packages",
     "author": "Synthos",
     "hash": "1d52e18c2664c94e0dae7cd195887b62780fbd3fde4bf63de9c8afef6109233a",
-    "last_updated": "2026-11-16T04:33:38.000Z",
+    "last_updated": "2026-11-17T02:46:00.000Z",
     "packageCount": 8,
     "packages": {
       "com.synthos.scene-optimizer": {
@@ -40010,8 +40065,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "c1fc9c56507f0280887af2cd3dfa836ddbc70431dbfcd6ac8e9564d139245158",
-    "last_updated": "2026-11-15T05:04:47.000Z",
+    "hash": "68661412bcdf9e459f634b027d8595e2d909efe6cd6a123a638294a6346f9a20",
+    "last_updated": "2026-11-16T12:59:08.000Z",
     "packageCount": 10,
     "packages": {
       "com.poiyomi.pro": {
@@ -47138,7 +47193,7 @@
     "id": "io.github.helpinghandsvr.vpm",
     "author": "Helping Hands",
     "hash": "d3cba140edcf3cb5c17c4b6034085a4238c0dbbd2ce98b5f097b608968bff8fb",
-    "last_updated": "2026-07-03T13:20:30.000Z",
+    "last_updated": "2026-07-03T13:20:29.000Z",
     "packageCount": 2,
     "packages": {
       "io.github.helpinghandsvr.helpinghands-vrchat-avatar-accessories": {
@@ -47221,7 +47276,7 @@
     "id": "com.hfcred.vpm-listing",
     "author": "hfcRed",
     "hash": "d12e93901437ffd021a0e8659a97f25144e5c03433ce16a16232e6aced8db053",
-    "last_updated": "2026-11-14T18:46:27.000Z",
+    "last_updated": "2026-11-14T18:46:28.000Z",
     "packageCount": 2,
     "packages": {
       "com.hfcred.animationrepathing": {
@@ -50142,7 +50197,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "dc975d1397ce107372949311ebff9c87b2475ea8a0827d7b3c6c9caa9a314034",
-    "last_updated": "2026-11-15T11:05:07.000Z",
+    "last_updated": "2026-11-16T11:34:13.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -52245,7 +52300,7 @@
     "id": "dev.kaefibot.listing",
     "author": "WoweePaw",
     "hash": "0f954512e7a69a442d27394f918fc68614873d3db3706347e1e36e0acde01244",
-    "last_updated": "2026-07-05T15:03:28.000Z",
+    "last_updated": "2026-07-05T15:03:29.000Z",
     "packageCount": 1,
     "packages": {
       "dev.kaefibot.kaefibot-controller": {
@@ -60306,7 +60361,7 @@
     "id": "com.kikurage1989.utilsscript",
     "author": "kikurage1989_",
     "hash": "a479bbbb44186c8db52473fa68813010d0cde6afd082f97f0ee93a79ee10ca50",
-    "last_updated": "2026-07-30T11:03:58.000Z",
+    "last_updated": "2026-07-30T11:03:57.000Z",
     "packageCount": 2,
     "packages": {
       "com.kikurage1989.utilsscript": {
@@ -60754,8 +60809,8 @@
     "name": "kmnk VPM Listing",
     "id": "dev.kmnk.vpm",
     "author": "kmnk",
-    "hash": "2ac37014f77aa205ecbbe2bb2f1b486a86368ce3f4522628bef760fe3a143dd7",
-    "last_updated": "2026-11-15T18:20:08.000Z",
+    "hash": "40c8a834d3bbf35fbd20ce33ba1d2b216367a5f51c234f35f3e232bf7db4f1ae",
+    "last_updated": "2026-11-16T18:23:25.000Z",
     "packageCount": 2,
     "packages": {
       "dev.kmnk.log-stream": {
@@ -60803,8 +60858,8 @@
         "name": "dev.kmnk.face-tracking-generator",
         "displayName": "Face Tracking Generator",
         "description": "Generates face tracking layers for VRChat avatars from text tables, with a table editor and preview.",
-        "latestVersion": "0.12.2",
-        "versionCount": 12,
+        "latestVersion": "0.13.0",
+        "versionCount": 13,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -60812,6 +60867,19 @@
           "url": "https://github.com/kmnk"
         },
         "versions": {
+          "0.13.0": {
+            "version": "0.13.0",
+            "name": "dev.kmnk.face-tracking-generator",
+            "displayName": "Face Tracking Generator",
+            "description": "Generates face tracking layers for VRChat avatars from text tables, with a table editor and preview.",
+            "url": "https://github.com/kmnk/VRChat_FaceTrackingGenerator/releases/download/v0.13.0/dev.kmnk.face-tracking-generator-0.13.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.6",
+              "nadena.dev.ndmf": ">=1.14.7 <2.0.0-a"
+            }
+          },
           "0.12.2": {
             "version": "0.12.2",
             "name": "dev.kmnk.face-tracking-generator",
@@ -61212,8 +61280,8 @@
     "name": "KOZ39",
     "id": "io.github.koz39.vpm-listing",
     "author": "KOZ39",
-    "hash": "ea8a5b6ba57f057006723823d8913f61aaa78ccd25fe8ebacc9b19a42c15e078",
-    "last_updated": "2026-11-13T10:33:58.000Z",
+    "hash": "6998109c62c77fa1d1b633621cead7948c1c1eed045d3d769a09ab1cb5720e5a",
+    "last_updated": "2026-11-16T12:21:01.000Z",
     "packageCount": 4,
     "packages": {
       "dev.koz39.elbow-fixer": {
@@ -61368,8 +61436,8 @@
         "name": "dev.koz39.icon-generator",
         "displayName": "Icon Generator",
         "description": "A Unity editor tool for creating icons of VRChat avatars and accessories.",
-        "latestVersion": "2.2.0",
-        "versionCount": 12,
+        "latestVersion": "2.2.1",
+        "versionCount": 13,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -61378,6 +61446,18 @@
           "url": "https://github.com/KOZ39"
         },
         "versions": {
+          "2.2.1": {
+            "version": "2.2.1",
+            "name": "dev.koz39.icon-generator",
+            "displayName": "Icon Generator",
+            "description": "A Unity editor tool for creating icons of VRChat avatars and accessories.",
+            "url": "https://github.com/KOZ39/Icon-Generator/releases/download/2.2.1/dev.koz39.icon-generator-2.2.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.unity.nuget.newtonsoft-json": "3.0.2"
+            }
+          },
           "2.2.0": {
             "version": "2.2.0",
             "name": "dev.koz39.icon-generator",
@@ -65928,8 +66008,8 @@
     "name": "AjisaiFlow",
     "id": "com.ajisaiflow.vpm",
     "author": "AjisaiFlow",
-    "hash": "6db2bdaa8c1cf3ec1d5149d9f90b00fa475b302eb94993ab740ad45ab96d0733",
-    "last_updated": "2026-11-13T08:13:26.000Z",
+    "hash": "de0ac8effde70d4a971e9002faaea65f1c3a9f616bcc520e53e87d1458ff4ca1",
+    "last_updated": "2026-11-17T04:55:35.000Z",
     "packageCount": 4,
     "packages": {
       "net.ajisaiflow.anti-ripping": {
@@ -65937,8 +66017,8 @@
         "name": "net.ajisaiflow.anti-ripping",
         "displayName": "Anti-Ripping",
         "description": "VRChatアバターのリッピング対策ツール。NDMFでメッシュとテクスチャの暗号化、ダミーBlendShapeの追加、各種難読化を行います。",
-        "latestVersion": "0.57.0",
-        "versionCount": 65,
+        "latestVersion": "0.58.0",
+        "versionCount": 67,
         "keywords": [
           "vrchat",
           "anti-ripping",
@@ -65952,6 +66032,20 @@
           "url": "https://github.com/lighfu"
         },
         "versions": {
+          "0.58.0": {
+            "version": "0.58.0",
+            "name": "net.ajisaiflow.anti-ripping",
+            "displayName": "Anti-Ripping",
+            "description": "VRChatアバターのリッピング対策ツール。NDMFでメッシュとテクスチャの暗号化、ダミーBlendShapeの追加、各種難読化を行います。",
+            "url": "https://github.com/lighfu/vpm/releases/download/anti-ripping-v0.58.0/net.ajisaiflow.anti-ripping-0.58.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.6",
+              "nadena.dev.ndmf": ">=1.4.0",
+              "nadena.dev.modular-avatar": ">=1.10.0"
+            }
+          },
           "0.57.0": {
             "version": "0.57.0",
             "name": "net.ajisaiflow.anti-ripping",
@@ -66039,6 +66133,20 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.4.0",
+              "nadena.dev.modular-avatar": ">=1.10.0"
+            }
+          },
+          "0.58.0-beta.1": {
+            "version": "0.58.0-beta.1",
+            "name": "net.ajisaiflow.anti-ripping",
+            "displayName": "Anti-Ripping",
+            "description": "VRChatアバターのリッピング対策ツール。NDMFでメッシュとテクスチャの暗号化、ダミーBlendShapeの追加、各種難読化を行います。",
+            "url": "https://github.com/lighfu/vpm/releases/download/anti-ripping-v0.58.0-beta.1/net.ajisaiflow.anti-ripping-0.58.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.6",
               "nadena.dev.ndmf": ">=1.4.0",
               "nadena.dev.modular-avatar": ">=1.10.0"
             }
@@ -68421,7 +68529,7 @@
     "id": "com.lightbulb.vpm",
     "author": "Lightbulb",
     "hash": "028c8a797a7bd992d7495b57a5f4ec6d6b6d5bc7f4df749c41c2d60efc8fdf5f",
-    "last_updated": "2026-11-16T02:06:58.000Z",
+    "last_updated": "2026-11-17T03:53:38.000Z",
     "packageCount": 1,
     "packages": {
       "com.lightbulb.world-tools": {
@@ -71676,7 +71784,7 @@
     "id": "com.mame8.vpm",
     "author": "mame8",
     "hash": "880c4bc843e71444652593ac77a1a92bd04b01453281fbe2f51c3cd1ea8bf95a",
-    "last_updated": "2026-07-02T19:27:30.000Z",
+    "last_updated": "2026-07-02T19:27:29.000Z",
     "packageCount": 3,
     "packages": {
       "com.mame8.animator-controller-context": {
@@ -71960,7 +72068,7 @@
     "id": "com.mattshark.openflight.repo",
     "author": "Mattshark89, Happyrobot33",
     "hash": "2659e37b23cc128e891c29a39e5bccda5a60665b585cf2406941eca4e5123520",
-    "last_updated": "2026-11-05T20:26:30.000Z",
+    "last_updated": "2026-11-05T20:26:21.000Z",
     "packageCount": 1,
     "packages": {
       "com.mattshark.openflight": {
@@ -76506,7 +76614,7 @@
     "id": "com.natane.toonshader.listing",
     "author": "Natane",
     "hash": "52f1f351d656da2afce5596eb6e8ac183fba63a3c7d3b46842bfd3dd2cc87abb",
-    "last_updated": "2026-11-12T14:27:09.000Z",
+    "last_updated": "2026-11-12T14:27:08.000Z",
     "packageCount": 1,
     "packages": {
       "com.natane.toonshader": {
@@ -78567,7 +78675,7 @@
     "id": "com.njsgdd10086.vpm-repo",
     "author": "ATRI_NAIXU",
     "hash": "2f7c6a6ba0277ad0e5ade345ce5fca40fb0f946221603b205651420fdc7ba232",
-    "last_updated": "2026-11-16T00:16:58.000Z",
+    "last_updated": "2026-11-17T00:44:25.000Z",
     "packageCount": 3,
     "packages": {
       "com.atrinaxu.nontoon.lightlimit": {
@@ -79408,7 +79516,7 @@
     "id": "com.puddingkc.vpm-listing",
     "author": "PuddingKC",
     "hash": "f240f36289d0cc5747481bc9b789e2732c1ec1f494a82fe81e90c798c0fde67c",
-    "last_updated": "2026-07-04T04:18:32.000Z",
+    "last_updated": "2026-07-04T04:18:33.000Z",
     "packageCount": 3,
     "packages": {
       "com.puddingkc.ma-radial-control": {
@@ -95246,7 +95354,7 @@
     "id": "com.bavi.vpm",
     "author": "Bird",
     "hash": "439ad102d9b3835c37dff0d5a993cc96aea20f89d46930d6698f6b0dcc694a50",
-    "last_updated": "2026-10-20T23:31:06.000Z",
+    "last_updated": "2026-10-20T23:31:05.000Z",
     "packageCount": 1,
     "packages": {
       "com.bavi.motion-patcher": {
@@ -95644,7 +95752,7 @@
     "id": "dev.raspichu.vpm",
     "author": "Pichu",
     "hash": "9a2f82e471fcf06456f855e8c746d6e95e053484b4737bc9a83a7c2fe7bd6b32",
-    "last_updated": "2026-09-07T15:01:36.000Z",
+    "last_updated": "2026-09-07T15:01:35.000Z",
     "packageCount": 2,
     "packages": {
       "dev.raspichu.inspector-enhancements": {
@@ -107054,7 +107162,7 @@
     "id": "com.mizore-nekoyanagi.vpm-packages",
     "author": "Mizore Nekoyanagi",
     "hash": "df5c206bda4082fc4825f6e0002aea2319d15d80cf9dc71813ef06fb4db812e7",
-    "last_updated": "2026-02-19T08:55:54.000Z",
+    "last_updated": "2026-02-19T08:55:53.000Z",
     "packageCount": 4,
     "packages": {
       "com.mizore-nekoyanagi.utils.apply-prefab-window": {
@@ -107718,8 +107826,8 @@
     "name": "SGimmicks VPM Repository",
     "id": "com.ysasa.sgimmicks.repository",
     "author": "ysasa",
-    "hash": "5a5393834e218947a1548d9a7e055af343e16fbddffdfd4c19aa028885bb0e55",
-    "last_updated": "2026-11-16T01:13:20.000Z",
+    "hash": "ca7bc5dcf132eb1acb3cd48d9543ac5f864ea83bf7e886254ea31714bfef756f",
+    "last_updated": "2026-11-16T07:26:25.000Z",
     "packageCount": 1,
     "packages": {
       "com.ysasa.sgimmicks": {
@@ -107728,7 +107836,7 @@
         "displayName": "SGimmicks",
         "description": "PC向けVRChatワールド用ギミック集。テレポート、VIPスポーン、監視カメラ、部屋番号/RTab、強制テレポート、内線、照明、メッセージボード、キャストタイマーを収録。",
         "latestVersion": "2.0.0",
-        "versionCount": 16,
+        "versionCount": 17,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -107923,6 +108031,18 @@
             "displayName": "SGimmicks",
             "description": "PC向けVRChatワールド用ギミック集。固定インスタンスポータル（検証用）、カード受付・来店管理、テレポート、監視カメラ、内線、照明、お題表示、囁き声判定、透過画像立体化、VIZVIDシネマ、ローカル自動ドア、RTab注文・物体転送などを収録。",
             "url": "https://sora-lice.github.io/SGimmicks-VPM/packages/com.ysasa.sgimmicks-2.6.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "3.10.x"
+            }
+          },
+          "2.7.0": {
+            "version": "2.7.0",
+            "name": "com.ysasa.sgimmicks",
+            "displayName": "SGimmicks",
+            "description": "PC向けVRChatワールド用ギミック集。RTabの複数オブジェクト表示切替、固定インスタンスポータル（検証用）、カード受付・来店管理、テレポート、監視カメラ、内線、照明、お題表示、囁き声判定、透過画像立体化、VIZVIDシネマ、ローカル自動ドア、RTab注文・物体転送などを収録。",
+            "url": "https://sora-lice.github.io/SGimmicks-VPM/packages/com.ysasa.sgimmicks-2.7.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -117141,7 +117261,7 @@
     "id": "com.aoyon.ft-vpm",
     "author": "Ao_425",
     "hash": "1602e107213535cf951ac319eb5cf0029ef20dc51d135868dfb554f857753c74",
-    "last_updated": "2026-11-08T10:50:20.000Z",
+    "last_updated": "2026-11-16T11:15:22.000Z",
     "packageCount": 1,
     "packages": {
       "aoyon.facetune": {
@@ -117448,7 +117568,7 @@
     "id": "com.aoyon.vpm",
     "author": "Ao_425",
     "hash": "f6b64ce0e430c216c256ea6f801f37f4b2f17e76fdc47c115e6cb6592b741c26",
-    "last_updated": "2026-11-08T10:50:20.000Z",
+    "last_updated": "2026-11-16T11:15:22.000Z",
     "packageCount": 9,
     "packages": {
       "com.aoyon.module-creator": {
@@ -118790,7 +118910,7 @@
     "id": "com.damien.vrcfury-autotools.listing",
     "author": "ToffelsKater",
     "hash": "b4def06036815d6f2e10536855a052667b98fc9fc5fa61f4756b3eb7e7481148",
-    "last_updated": "2026-11-15T21:40:49.000Z",
+    "last_updated": "2026-11-15T21:40:48.000Z",
     "packageCount": 1,
     "packages": {
       "com.damien.vrcfury-autotools": {
@@ -119187,7 +119307,7 @@
     "id": "jp.toh.package-listing",
     "author": "toh",
     "hash": "cc3967c59f319ff5c3910acb82ddac984aa9ad35b5aaec5e395d6ab2cf0dfd4f",
-    "last_updated": "2025-04-28T14:28:15.000Z",
+    "last_updated": "2025-04-28T14:28:14.000Z",
     "packageCount": 1,
     "packages": {
       "jp.toh.easy-object-switch": {
@@ -119250,8 +119370,8 @@
     "name": "TpLab",
     "id": "io.github.tp-jp.vpm",
     "author": "tp.jp",
-    "hash": "01ac52c97fc7820ed97c630cd230d2091fabdc1bd5acbecbc8b25f794d06c189",
-    "last_updated": "2026-11-15T09:28:34.000Z",
+    "hash": "19fe58f374ba9fb6be35f2a3b3977683297d6b1cca8ef44b7358189d993730e1",
+    "last_updated": "2026-11-16T07:28:09.000Z",
     "packageCount": 11,
     "packages": {
       "com.tp.jp.iwa-sync3-color-changer": {
@@ -119891,8 +120011,8 @@
         "name": "com.tplab.flux",
         "displayName": "Flux",
         "description": "General-purpose GPU computing framework for VRChat",
-        "latestVersion": "0.0.5",
-        "versionCount": 5,
+        "latestVersion": "0.1.0",
+        "versionCount": 6,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -119900,6 +120020,19 @@
           "url": "https://github.com/tp-jp"
         },
         "versions": {
+          "0.1.0": {
+            "version": "0.1.0",
+            "name": "com.tplab.flux",
+            "displayName": "Flux",
+            "description": "General-purpose GPU computing framework for VRChat",
+            "url": "https://github.com/tp-jp/Flux/releases/download/0.1.0/com.tplab.flux-0.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.5",
+              "com.tplab.sceneflow": "^2.1.0"
+            }
+          },
           "0.0.5": {
             "version": "0.0.5",
             "name": "com.tplab.flux",
@@ -121300,7 +121433,7 @@
     "id": "io.github.tumayouzyo.tools",
     "author": "tumayouzyo",
     "hash": "839a598fdb19ddf023a3206915894a7049b07a982ed34bbe3211f87562a7b689",
-    "last_updated": "2026-11-16T00:24:30.000Z",
+    "last_updated": "2026-11-17T01:06:15.000Z",
     "packageCount": 2,
     "packages": {
       "io.github.tumayouzyo.fx-facial-assistant": {
@@ -121388,7 +121521,7 @@
     "id": "com.udonite.listing",
     "author": "Udonite",
     "hash": "f2b1ea37f06a359603eda16b4ef6f10c6b0158023fd0b06f23abbb1863ce375a",
-    "last_updated": "2026-11-16T02:50:17.000Z",
+    "last_updated": "2026-11-17T04:38:34.000Z",
     "packageCount": 1,
     "packages": {
       "com.udonite.compiler": {
@@ -123372,7 +123505,7 @@
     "id": "co.raphii.vpm-listing",
     "author": "Raphiiko",
     "hash": "13d7c0741bdb67306d4706066396ddccd4188238b4335f6b126e26cf84767a0b",
-    "last_updated": "2026-07-03T23:15:31.000Z",
+    "last_updated": "2026-07-03T23:15:32.000Z",
     "packageCount": 1,
     "packages": {
       "co.raphii.vrti.avatarmenu": {
@@ -123435,8 +123568,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "2e4a800f56a39fb73ddbf20ef82241c211124944f1c639343833909b0773625a",
-    "last_updated": "2026-11-16T04:38:37.000Z",
+    "hash": "b0374d21b74e50c352abd7dfe375fe3aff41542f5aef3eaa8b88cf0fbfb18666",
+    "last_updated": "2026-11-17T06:23:49.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -123444,14 +123577,44 @@
         "name": "com.vrcfury.vrcfury",
         "displayName": "VRCFury",
         "description": "Non-Destructive Tools for VRChat Avatars",
-        "latestVersion": "1.1470.0",
-        "versionCount": 1512,
+        "latestVersion": "1.1473.0",
+        "versionCount": 1515,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "VRCFury"
         },
         "versions": {
+          "1.1473.0": {
+            "version": "1.1473.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1473.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1472.0": {
+            "version": "1.1472.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1472.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1471.0": {
+            "version": "1.1471.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1471.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.1470.0": {
             "version": "1.1470.0",
             "name": "com.vrcfury.vrcfury",
@@ -138783,7 +138946,7 @@
     "id": "io.mekabu.vpm-repository",
     "author": "contact@mekabu.io",
     "hash": "afb531d339483772668bf9b0fbe2f91415a0d37733b4adad67544741ae03cb2e",
-    "last_updated": "2026-11-16T04:37:24.000Z",
+    "last_updated": "2026-11-17T06:10:20.000Z",
     "packageCount": 2,
     "packages": {
       "com.mekabu.blendshape-animation-creator": {
@@ -140251,7 +140414,7 @@
     "name": "anatawa12",
     "id": "com.anatawa12.main",
     "author": "anatawa12",
-    "hash": "2d1533d8e827dc1181ae1737d0ad75d851c59fa9d94f8567557b8734c36af83e",
+    "hash": "4e30b5afe69748601a2e8916ad3dd666d86b519cd299742797209adf864a3e1e",
     "last_updated": "2026-08-01T16:09:51.342Z",
     "packageCount": 14,
     "packages": {
@@ -140261,7 +140424,7 @@
         "displayName": "Anatawa12's AvatarOpitmizer",
         "description": "Set of Anatawa12's Small Avatar Optimization Utilities",
         "latestVersion": "0.0.1",
-        "versionCount": 361,
+        "versionCount": 362,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -145010,6 +145173,19 @@
             "displayName": "AAO: Avatar Optimizer",
             "description": "Set of Anatawa12's Small Avatar Optimization Utilities",
             "url": "https://vpm.anatawa12.com/avatar-optimizer/package-1.9.22.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.8.0 <2.0.0",
+              "com.vrchat.avatars": ">=3.7.0 <3.11.0"
+            }
+          },
+          "1.9.23-rc.1": {
+            "version": "1.9.23-rc.1",
+            "name": "com.anatawa12.avatar-optimizer",
+            "displayName": "AAO: Avatar Optimizer",
+            "description": "Set of Anatawa12's Small Avatar Optimization Utilities",
+            "url": "https://vpm.anatawa12.com/avatar-optimizer/package-1.9.23-rc.1.zip?",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -152135,8 +152311,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "c1fc9c56507f0280887af2cd3dfa836ddbc70431dbfcd6ac8e9564d139245158",
-    "last_updated": "2026-11-15T05:04:47.000Z",
+    "hash": "68661412bcdf9e459f634b027d8595e2d909efe6cd6a123a638294a6346f9a20",
+    "last_updated": "2026-11-16T12:59:08.000Z",
     "packageCount": 10,
     "packages": {
       "com.poiyomi.pro": {
@@ -155296,7 +155472,7 @@
     "id": "jp.hinasense.vpm",
     "author": "HinanoAira",
     "hash": "6101414a61af4480361097ebeaa841db500396ff4f3b1c47e3db8a078521a2fc",
-    "last_updated": "2026-11-16T04:00:01.000Z",
+    "last_updated": "2026-11-17T06:00:02.000Z",
     "packageCount": 2,
     "packages": {
       "jp.hinasense.liltoon.freak": {
@@ -162129,7 +162305,7 @@
     "id": "dev.ladyluh.vpm",
     "author": "luna-gelmini",
     "hash": "29b50b3a46469eb3ade74e9b7cfef4546be058b5d397a4dc015b615979324093",
-    "last_updated": "2026-11-16T02:51:44.000Z",
+    "last_updated": "2026-11-17T04:37:52.000Z",
     "packageCount": 4,
     "packages": {
       "dev.ladyluh.questkit": {
@@ -163842,9 +164018,9 @@
     "name": "Poyo's VPM Repo",
     "id": "net.maaaaa.vpm",
     "author": "Poyotoron",
-    "hash": "59489830e90a1dcc5b651df7eb2e1c6557ce27004e8b71dd142ba4c51716cef0",
-    "last_updated": "2026-11-08T07:25:49.000Z",
-    "packageCount": 11,
+    "hash": "5decd76b308e4cedfaa92129691318754dd19b3c36dc634e1f929895c2836b36",
+    "last_updated": "2026-11-16T10:39:32.000Z",
+    "packageCount": 6,
     "packages": {
       "net.maaaaa.asset-cleaner": {
         "id": "net.maaaaa.asset-cleaner",
@@ -163874,94 +164050,6 @@
           }
         }
       },
-      "net.maaaaa.asset-keshichaumon-nator": {
-        "id": "net.maaaaa.asset-keshichaumon-nator",
-        "name": "net.maaaaa.asset-keshichaumon-nator",
-        "displayName": "いらないアセット消しちゃうもんネーター",
-        "description": "アバターから参照されていない未使用アセットを検出し、安全に退避します。",
-        "latestVersion": "0.3.3",
-        "versionCount": 6,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "Poyotoron",
-          "url": "https://github.com/Poyotoron"
-        },
-        "versions": {
-          "0.3.3": {
-            "version": "0.3.3",
-            "name": "net.maaaaa.asset-keshichaumon-nator",
-            "displayName": "いらないアセット消しちゃうもんネーター",
-            "description": "アバターから参照されていない未使用アセットを検出し、安全に退避します。",
-            "url": "https://github.com/Poyotoron/Asset-Cleaner/releases/download/0.3.3/net.maaaaa.asset-keshichaumon-nator-0.3.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.0"
-            }
-          },
-          "0.3.2": {
-            "version": "0.3.2",
-            "name": "net.maaaaa.asset-keshichaumon-nator",
-            "displayName": "いらないアセット消しちゃうもんネーター",
-            "description": "アバターから参照されていない未使用アセットを検出し、安全に退避します。",
-            "url": "https://github.com/Poyotoron/Asset-Cleaner/releases/download/0.3.2/net.maaaaa.asset-keshichaumon-nator-0.3.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.0"
-            }
-          },
-          "0.3.1": {
-            "version": "0.3.1",
-            "name": "net.maaaaa.asset-keshichaumon-nator",
-            "displayName": "いらないアセット消しちゃうもんネーター",
-            "description": "アバターから参照されていない未使用アセットを検出し、安全に退避します。",
-            "url": "https://github.com/Poyotoron/Asset-Cleaner/releases/download/0.3.1/net.maaaaa.asset-keshichaumon-nator-0.3.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.0"
-            }
-          },
-          "0.3.0": {
-            "version": "0.3.0",
-            "name": "net.maaaaa.asset-keshichaumon-nator",
-            "displayName": "いらないアセット消しちゃうもんネーター",
-            "description": "アバターから参照されていない未使用アセットを検出し、安全に退避します。",
-            "url": "https://github.com/Poyotoron/Asset-Cleaner/releases/download/0.3.0/net.maaaaa.asset-keshichaumon-nator-0.3.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.0"
-            }
-          },
-          "0.2.0": {
-            "version": "0.2.0",
-            "name": "net.maaaaa.asset-keshichaumon-nator",
-            "displayName": "いらないアセット消しちゃうもんネーター",
-            "description": "アバターから参照されていない未使用アセットを検出し、安全に退避します。",
-            "url": "https://github.com/Poyotoron/Asset-Cleaner/releases/download/0.2.0/net.maaaaa.asset-keshichaumon-nator-0.2.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.0"
-            }
-          },
-          "0.1.0": {
-            "version": "0.1.0",
-            "name": "net.maaaaa.asset-keshichaumon-nator",
-            "displayName": "いらないアセット消しちゃうもんネーター",
-            "description": "アバターから参照されていない未使用アセットを検出し、安全に退避します。",
-            "url": "https://github.com/Poyotoron/Asset-Cleaner/releases/download/0.1.0/net.maaaaa.asset-keshichaumon-nator-0.1.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.0"
-            }
-          }
-        }
-      },
       "net.maaaaa.ref-fixer": {
         "id": "net.maaaaa.ref-fixer",
         "name": "net.maaaaa.ref-fixer",
@@ -163982,52 +164070,6 @@
             "displayName": "Poyo's Reference Fixer",
             "description": "Prefab の壊れた参照 (Missing Reference) を検査・診断・修復する Editor 拡張です。",
             "url": "https://github.com/Poyotoron/Ref-Fixer/releases/download/0.3.0/net.maaaaa.ref-fixer-0.3.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {}
-          }
-        }
-      },
-      "net.maaaaa.asset-sanshounaosu-nator": {
-        "id": "net.maaaaa.asset-sanshounaosu-nator",
-        "name": "net.maaaaa.asset-sanshounaosu-nator",
-        "displayName": "アセット参照直すネーター",
-        "description": "Prefab の壊れた参照 (Missing Reference) を検査・診断・修復する Editor 拡張です。",
-        "latestVersion": "0.2.1",
-        "versionCount": 3,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "Poyotoron",
-          "url": "https://github.com/Poyotoron"
-        },
-        "versions": {
-          "0.2.1": {
-            "version": "0.2.1",
-            "name": "net.maaaaa.asset-sanshounaosu-nator",
-            "displayName": "アセット参照直すネーター",
-            "description": "Prefab の壊れた参照 (Missing Reference) を検査・診断・修復する Editor 拡張です。",
-            "url": "https://github.com/Poyotoron/Ref-Fixer/releases/download/0.2.1/net.maaaaa.asset-sanshounaosu-nator-0.2.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {}
-          },
-          "0.2.0": {
-            "version": "0.2.0",
-            "name": "net.maaaaa.asset-sanshounaosu-nator",
-            "displayName": "アセット参照直すネーター",
-            "description": "Prefab の壊れた参照 (Missing Reference) を検査・診断・修復する Editor 拡張です。",
-            "url": "https://github.com/Poyotoron/Ref-Fixer/releases/download/0.2.0/net.maaaaa.asset-sanshounaosu-nator-0.2.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {}
-          },
-          "0.1.0": {
-            "version": "0.1.0",
-            "name": "net.maaaaa.asset-sanshounaosu-nator",
-            "displayName": "アセット参照直すネーター",
-            "description": "Prefab の壊れた参照 (Missing Reference) を検査・診断・修復する Editor 拡張です。",
-            "url": "https://github.com/Poyotoron/Ref-Fixer/releases/download/0.1.0/net.maaaaa.asset-sanshounaosu-nator-0.1.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {}
@@ -164064,132 +164106,6 @@
             "displayName": "Poyo's Avatar Toolbox",
             "description": "アバター改変向けの小さなエディタ拡張をまとめたパッケージです。使うツールだけを有効にできます。",
             "url": "https://github.com/Poyotoron/Avatar-Toolbox/releases/download/0.10.0/net.maaaaa.avatar-toolbox-0.10.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {}
-          }
-        }
-      },
-      "net.maaaaa.candy-box": {
-        "id": "net.maaaaa.candy-box",
-        "name": "net.maaaaa.candy-box",
-        "displayName": "Candy Box",
-        "description": "アバター改変向けの小さなエディタ拡張をまとめたパッケージです。使うツールだけを有効にできます。",
-        "latestVersion": "0.9.0",
-        "versionCount": 11,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "Poyotoron",
-          "url": "https://github.com/Poyotoron"
-        },
-        "versions": {
-          "0.9.0": {
-            "version": "0.9.0",
-            "name": "net.maaaaa.candy-box",
-            "displayName": "Candy Box",
-            "description": "アバター改変向けの小さなエディタ拡張をまとめたパッケージです。使うツールだけを有効にできます。",
-            "url": "https://github.com/Poyotoron/Avatar-Toolbox/releases/download/0.9.0/net.maaaaa.candy-box-0.9.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {}
-          },
-          "0.8.1": {
-            "version": "0.8.1",
-            "name": "net.maaaaa.candy-box",
-            "displayName": "Candy Box",
-            "description": "アバター改変向けの小さなエディタ拡張をまとめたパッケージです。使うツールだけを有効にできます。",
-            "url": "https://github.com/Poyotoron/Avatar-Toolbox/releases/download/0.8.1/net.maaaaa.candy-box-0.8.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {}
-          },
-          "0.8.0": {
-            "version": "0.8.0",
-            "name": "net.maaaaa.candy-box",
-            "displayName": "Candy Box",
-            "description": "アバター改変向けの小さなエディタ拡張をまとめたパッケージです。使うツールだけを有効にできます。",
-            "url": "https://github.com/Poyotoron/Avatar-Toolbox/releases/download/0.8.0/net.maaaaa.candy-box-0.8.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {}
-          },
-          "0.7.0": {
-            "version": "0.7.0",
-            "name": "net.maaaaa.candy-box",
-            "displayName": "Candy Box",
-            "description": "アバター改変向けの小さなエディタ拡張をまとめたパッケージです。使うツールだけを有効にできます。",
-            "url": "https://github.com/Poyotoron/Avatar-Toolbox/releases/download/0.7.0/net.maaaaa.candy-box-0.7.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {}
-          },
-          "0.6.1": {
-            "version": "0.6.1",
-            "name": "net.maaaaa.candy-box",
-            "displayName": "Candy Box",
-            "description": "アバター改変向けの小さなエディタ拡張をまとめたパッケージです。使うツールだけを有効にできます。",
-            "url": "https://github.com/Poyotoron/Avatar-Toolbox/releases/download/0.6.1/net.maaaaa.candy-box-0.6.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {}
-          },
-          "0.6.0": {
-            "version": "0.6.0",
-            "name": "net.maaaaa.candy-box",
-            "displayName": "Candy Box",
-            "description": "アバター改変向けの小さなエディタ拡張をまとめたパッケージです。使うツールだけを有効にできます。",
-            "url": "https://github.com/Poyotoron/Avatar-Toolbox/releases/download/0.6.0/net.maaaaa.candy-box-0.6.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {}
-          },
-          "0.5.1": {
-            "version": "0.5.1",
-            "name": "net.maaaaa.candy-box",
-            "displayName": "Candy Box",
-            "description": "アバター改変向けの小さなエディタ拡張をまとめたパッケージです。使うツールだけを有効にできます。",
-            "url": "https://github.com/Poyotoron/Avatar-Toolbox/releases/download/0.5.1/net.maaaaa.candy-box-0.5.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {}
-          },
-          "0.5.0": {
-            "version": "0.5.0",
-            "name": "net.maaaaa.candy-box",
-            "displayName": "Candy Box",
-            "description": "アバター改変向けの小さなエディタ拡張をまとめたパッケージです。使うツールだけを有効にできます。",
-            "url": "https://github.com/Poyotoron/Avatar-Toolbox/releases/download/0.5.0/net.maaaaa.candy-box-0.5.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {}
-          },
-          "0.4.0": {
-            "version": "0.4.0",
-            "name": "net.maaaaa.candy-box",
-            "displayName": "Candy Box",
-            "description": "アバター改変向けの小さなエディタ拡張をまとめたパッケージです。使うツールだけを有効にできます。",
-            "url": "https://github.com/Poyotoron/Avatar-Toolbox/releases/download/0.4.0/net.maaaaa.candy-box-0.4.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {}
-          },
-          "0.2.0": {
-            "version": "0.2.0",
-            "name": "net.maaaaa.candy-box",
-            "displayName": "Candy Box",
-            "description": "アバター改変向けの小さなエディタ拡張をまとめたパッケージです。使うツールだけを有効にできます。",
-            "url": "https://github.com/Poyotoron/Avatar-Toolbox/releases/download/0.2.0/net.maaaaa.candy-box-0.2.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {}
-          },
-          "0.1.0": {
-            "version": "0.1.0",
-            "name": "net.maaaaa.candy-box",
-            "displayName": "Candy Box",
-            "description": "アバター改変向けの小さなエディタ拡張をまとめたパッケージです。使うツールだけを有効にできます。",
-            "url": "https://github.com/Poyotoron/Avatar-Toolbox/releases/download/0.1.0/net.maaaaa.candy-box-0.1.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {}
@@ -164281,50 +164197,6 @@
           }
         }
       },
-      "net.maaaaa.kaotsuki": {
-        "id": "net.maaaaa.kaotsuki",
-        "name": "net.maaaaa.kaotsuki",
-        "displayName": "Kaotsuki",
-        "description": "OSC からアバターの表情（ブレンドシェイプ）を操作するためのツールです。",
-        "latestVersion": "0.3.0",
-        "versionCount": 2,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "Poyotoron",
-          "url": "https://github.com/Poyotoron"
-        },
-        "versions": {
-          "0.3.0": {
-            "version": "0.3.0",
-            "name": "net.maaaaa.kaotsuki",
-            "displayName": "Kaotsuki",
-            "description": "OSC からアバターの表情（ブレンドシェイプ）を操作するためのツールです。",
-            "url": "https://github.com/Poyotoron/Face-Util/releases/download/0.3.0/net.maaaaa.kaotsuki-0.3.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.0",
-              "nadena.dev.modular-avatar": ">=1.17.0 <2.0.0",
-              "nadena.dev.ndmf": ">=1.14.0 <2.0.0"
-            }
-          },
-          "0.2.0": {
-            "version": "0.2.0",
-            "name": "net.maaaaa.kaotsuki",
-            "displayName": "Kaotsuki",
-            "description": "OSC からアバターの表情（ブレンドシェイプ）を操作するためのツールです。",
-            "url": "https://github.com/Poyotoron/Face-Util/releases/download/0.2.0/net.maaaaa.kaotsuki-0.2.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.7.0",
-              "nadena.dev.modular-avatar": ">=1.17.0 <2.0.0",
-              "nadena.dev.ndmf": ">=1.14.0 <2.0.0"
-            }
-          }
-        }
-      },
       "net.maaaaa.editor-toolbox": {
         "id": "net.maaaaa.editor-toolbox",
         "name": "net.maaaaa.editor-toolbox",
@@ -164345,52 +164217,6 @@
             "displayName": "Poyo's Editor Toolbox",
             "description": "Unity エディタの使い勝手を整える小さな機能をまとめたパッケージです。機能ごとに ON / OFF できます。",
             "url": "https://github.com/Poyotoron/Editor-Toolbox/releases/download/0.3.0/net.maaaaa.editor-toolbox-0.3.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {}
-          }
-        }
-      },
-      "net.maaaaa.marshmallow-jar": {
-        "id": "net.maaaaa.marshmallow-jar",
-        "name": "net.maaaaa.marshmallow-jar",
-        "displayName": "Marshmallow Jar",
-        "description": "Unity エディタの使い勝手を整える小さな機能をまとめたパッケージです。機能ごとに ON / OFF できます。",
-        "latestVersion": "0.2.1",
-        "versionCount": 3,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "Poyotoron",
-          "url": "https://github.com/Poyotoron"
-        },
-        "versions": {
-          "0.2.1": {
-            "version": "0.2.1",
-            "name": "net.maaaaa.marshmallow-jar",
-            "displayName": "Marshmallow Jar",
-            "description": "Unity エディタの使い勝手を整える小さな機能をまとめたパッケージです。機能ごとに ON / OFF できます。",
-            "url": "https://github.com/Poyotoron/Editor-Toolbox/releases/download/0.2.1/net.maaaaa.marshmallow-jar-0.2.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {}
-          },
-          "0.2.0": {
-            "version": "0.2.0",
-            "name": "net.maaaaa.marshmallow-jar",
-            "displayName": "Marshmallow Jar",
-            "description": "Unity エディタの使い勝手を整える小さな機能をまとめたパッケージです。機能ごとに ON / OFF できます。",
-            "url": "https://github.com/Poyotoron/Editor-Toolbox/releases/download/0.2.0/net.maaaaa.marshmallow-jar-0.2.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {}
-          },
-          "0.1.0": {
-            "version": "0.1.0",
-            "name": "net.maaaaa.marshmallow-jar",
-            "displayName": "Marshmallow Jar",
-            "description": "Unity エディタの使い勝手を整える小さな機能をまとめたパッケージです。機能ごとに ON / OFF できます。",
-            "url": "https://github.com/Poyotoron/Editor-Toolbox/releases/download/0.1.0/net.maaaaa.marshmallow-jar-0.1.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {}
@@ -184073,7 +183899,7 @@
     "id": "jp.pipipigiken.vpm",
     "author": "orange3134",
     "hash": "fdfcf0227a2be7d6ef7e840800fc48834054e85de4dd49202c7e2154a08fece3",
-    "last_updated": "2026-11-16T02:50:06.000Z",
+    "last_updated": "2026-11-17T04:38:23.000Z",
     "packageCount": 2,
     "packages": {
       "jp.pipipigiken.mpavatar-package": {
@@ -189300,7 +189126,7 @@
     "id": "dev.sleightly.vpm-listing",
     "author": "JustSleightly",
     "hash": "263ae27864a2063bd3bc8485f328fb428359ed01da756bcbd99d522d153e9c3c",
-    "last_updated": "2026-10-12T04:09:58.000Z",
+    "last_updated": "2026-10-12T04:09:57.000Z",
     "packageCount": 2,
     "packages": {
       "dev.sleightly.clipfocus": {
@@ -190064,7 +189890,7 @@
     "id": "dev.thry.vpm",
     "author": "Thryrallo",
     "hash": "0189583cd590af92f6337bf072cfea3211c6a3ca90738536d8f30bcd5fab82cb",
-    "last_updated": "2024-08-05T22:13:01.000Z",
+    "last_updated": "2024-08-05T22:13:00.000Z",
     "packageCount": 1,
     "packages": {
       "de.thryrallo.vrc.avatar-performance-tools": {
@@ -191175,7 +191001,7 @@
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
     "hash": "f55a664e3a5350e1f2def05a18cb6fc37d603ce465f8e21da2aa6c169d28cf0c",
-    "last_updated": "2026-11-10T00:36:24.000Z",
+    "last_updated": "2026-11-10T00:36:22.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -200731,7 +200557,7 @@
     "id": "com.vrsuya.vpm",
     "author": "VRSuya",
     "hash": "db563e00961dfd779328cef0950a49c54cb524641b56312dc63464832e7ca4cf",
-    "last_updated": "2026-11-10T16:33:18.000Z",
+    "last_updated": "2026-11-10T16:33:22.000Z",
     "packageCount": 3,
     "packages": {
       "com.vrsuya.core": {
@@ -204654,8 +204480,8 @@
     "name": "Explosive Theorem Lab. Metaverse Division",
     "id": "idv.jlchntoz.xtlcdn-listing",
     "author": "Jeremy Lam aka. Vistanz",
-    "hash": "488507d86a6fcaae5224b754932082ea5fc11671d7eee4b1fd6f596281cfba39",
-    "last_updated": "2026-11-15T09:04:30.000Z",
+    "hash": "669f491008180faafa84e42a12f783fee722ea38f3a0c74f3fd4c43330f72754",
+    "last_updated": "2026-11-16T15:35:14.000Z",
     "packageCount": 14,
     "packages": {
       "idv.jlchntoz.vrcw-foundation": {
@@ -207951,8 +207777,8 @@
         "name": "idv.jlchntoz.ndextensions",
         "displayName": "Vistanz's Non Destructive Extensions",
         "description": "Non Destructive Extensions For VRChat Avatars (built on top of NDMF)",
-        "latestVersion": "0.1.8",
-        "versionCount": 49,
+        "latestVersion": "0.1.9",
+        "versionCount": 50,
         "keywords": [],
         "unity": "2022.1",
         "author": {
@@ -207961,6 +207787,18 @@
           "url": "https://xtl.booth.pm"
         },
         "versions": {
+          "0.1.9": {
+            "version": "0.1.9",
+            "name": "idv.jlchntoz.ndextensions",
+            "displayName": "Vistanz's Non Destructive Extensions",
+            "description": "Non Destructive Extensions For VRChat Avatars (built on top of NDMF)",
+            "url": "https://github.com/JLChnToZ/ndextensions/releases/download/0.1.9/idv.jlchntoz.ndextensions-0.1.9.zip",
+            "zipSha256": null,
+            "unity": "2022.1",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.9.x"
+            }
+          },
           "0.1.8": {
             "version": "0.1.8",
             "name": "idv.jlchntoz.ndextensions",
@@ -208803,8 +208641,8 @@
         "name": "com.yank.avatartoolbox",
         "displayName": "Yan-K Avatar Toolbox",
         "description": "Yan-K Avatar Tools Collection",
-        "latestVersion": "1.8.1",
-        "versionCount": 21,
+        "latestVersion": "1.9.0",
+        "versionCount": 22,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -208812,6 +208650,16 @@
           "url": "https://Yan-K.tv/"
         },
         "versions": {
+          "1.9.0": {
+            "version": "1.9.0",
+            "name": "com.yank.avatartoolbox",
+            "displayName": "Yan-K Avatar Toolbox",
+            "description": "Yan-K Avatar Tools Collection",
+            "url": "https://github.com/Yan-K/AvatarToolbox/releases/download/1.9.0/com.yank.avatartoolbox-1.9.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.8.1": {
             "version": "1.8.1",
             "name": "com.yank.avatartoolbox",
@@ -209249,8 +209097,8 @@
     "name": "QvPalette VPM",
     "id": "com.yakigura.vpm.qvpalette",
     "author": "やきたてぐらふてぃ",
-    "hash": "ad65a4a903b9212658336a8663090a01c3db52eaacddfe7fe4f9534cd08ff0d6",
-    "last_updated": "2026-11-07T09:02:11.000Z",
+    "hash": "34478aa2a0e402058a48d3a293b303760e43d7c893e586d9c8ea1f3e2a8620c4",
+    "last_updated": "2026-11-16T10:41:55.000Z",
     "packageCount": 2,
     "packages": {
       "com.yakigura.qvpalette": {
@@ -209259,7 +209107,7 @@
         "displayName": "QvPalette",
         "description": "QvPen の非公式拡張。ペン 1 本で最大 4096 色・1024 段階の太さを同期するインクパレット。",
         "latestVersion": "0.1.0-beta.6",
-        "versionCount": 4,
+        "versionCount": 5,
         "keywords": [
           "VRChat",
           "UdonSharp",
@@ -209323,6 +209171,21 @@
             "displayName": "QvPalette",
             "description": "QvPen の非公式拡張。ペン 1 本で最大 4096 のインクを使用できるQvPen拡張ツール",
             "url": "https://github.com/Yakigura/QvPalette/releases/download/1.0.0/com.yakigura.qvpalette-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.5.0",
+              "com.vrchat.base": "^3.5.0",
+              "net.ureishi.qvpen": ">=3.3.15 <3.4.0",
+              "com.yakigura.qvinkpreview": "^1.0.0"
+            }
+          },
+          "1.0.1": {
+            "version": "1.0.1",
+            "name": "com.yakigura.qvpalette",
+            "displayName": "QvPalette",
+            "description": "QvPen の非公式拡張。ペン 1 本で最大 4096 のインクを使用できるQvPen拡張ツール / Unofficial QvPen extension: use up to 4096 inks with one pen / QvPen 비공식 확장: 펜 1개로 최대 4096개의 잉크 사용",
+            "url": "https://github.com/Yakigura/QvPalette/releases/download/1.0.1/com.yakigura.qvpalette-1.0.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
