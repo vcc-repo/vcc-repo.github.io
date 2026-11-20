@@ -11065,8 +11065,8 @@
     "name": "あらまあ素敵なショップ",
     "id": "io.github.aramaa.vpm",
     "author": "あらまあ",
-    "hash": "4a2a8b9cc93ff02d6d7e1aaa8ef4f9db68ff3f218fca3e046e09f6c190f5dd1a",
-    "last_updated": "2026-11-17T14:45:23.000Z",
+    "hash": "fd04ca047b42999ec4a38e52a8becec697085aa021c05ea1cee653239a94784f",
+    "last_updated": "2026-11-19T15:19:48.000Z",
     "packageCount": 3,
     "packages": {
       "jp.aramaa.ochibi-chans-converter-tool": {
@@ -11493,7 +11493,7 @@
         "displayName": "だこちてギミック【ワールド版】",
         "description": "VRChat Worlds向けのプレイヤー抱っこ・投げギミック。",
         "latestVersion": "0.1.0-beta.1",
-        "versionCount": 3,
+        "versionCount": 5,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -11531,6 +11531,30 @@
             "displayName": "だこちてギミック【ワールド版】",
             "description": "VRChat Worlds向けのプレイヤー抱っこ・投げギミック。",
             "url": "https://github.com/aramaa-vr/player-carry-and-throw/releases/download/0.1.1-alpha.1/jp.aramaa.player-carry-and-throw-0.1.1-alpha.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.10.5 <4.0.0"
+            }
+          },
+          "0.1.1-alpha.2": {
+            "version": "0.1.1-alpha.2",
+            "name": "jp.aramaa.player-carry-and-throw",
+            "displayName": "だこちてギミック【ワールド版】",
+            "description": "VRChat Worlds向けのプレイヤー抱っこ・投げギミック。",
+            "url": "https://github.com/aramaa-vr/player-carry-and-throw/releases/download/0.1.1-alpha.2/jp.aramaa.player-carry-and-throw-0.1.1-alpha.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.10.5 <4.0.0"
+            }
+          },
+          "0.1.1": {
+            "version": "0.1.1",
+            "name": "jp.aramaa.player-carry-and-throw",
+            "displayName": "だこちてギミック【ワールド版】",
+            "description": "VRChat Worlds向けのプレイヤー抱っこ・投げギミック。",
+            "url": "https://github.com/aramaa-vr/player-carry-and-throw/releases/download/0.1.1/jp.aramaa.player-carry-and-throw-0.1.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -12784,9 +12808,9 @@
     "name": "Azelrack package's Listing",
     "id": "com.vrchat.azelrack.vpm.listing",
     "author": "Azelrack",
-    "hash": "6cbc07680e2bbec53ce8cc6e44325c0b1ce004f928ce0cbd036f2f20fdf83c4a",
-    "last_updated": "2026-11-18T15:49:28.000Z",
-    "packageCount": 2,
+    "hash": "8fe54fdfff5d960874ce0b10ff7ef9a61a47f5b3ad2bd7bcbc270d07d4ef48d0",
+    "last_updated": "2026-11-19T23:08:19.000Z",
+    "packageCount": 3,
     "packages": {
       "com.azelrack.vrchat-udon-avatar-scaler": {
         "id": "com.azelrack.vrchat-udon-avatar-scaler",
@@ -12902,10 +12926,10 @@
       "com.azelrack.vrchat-udon-player-pickup": {
         "id": "com.azelrack.vrchat-udon-player-pickup",
         "name": "com.azelrack.vrchat-udon-player-pickup",
-        "displayName": "VRChat Udon Player Pickup",
+        "displayName": "Udon Player Pickup",
         "description": "Scripts and prefab allowing players to pickup each others, with a extra options and features!",
-        "latestVersion": "0.1.0",
-        "versionCount": 1,
+        "latestVersion": "0.2.1",
+        "versionCount": 3,
         "keywords": [
           "Script",
           "Prefab",
@@ -12919,6 +12943,36 @@
           "url": "https://github.com/Azelrack"
         },
         "versions": {
+          "0.2.1": {
+            "version": "0.2.1",
+            "name": "com.azelrack.vrchat-udon-player-pickup",
+            "displayName": "Udon Player Pickup",
+            "description": "Scripts and prefab allowing players to pickup each others, with a extra options and features!",
+            "url": "https://github.com/Azelrack/VRChat-UdonPlayerPickup/releases/download/0.2.1/VRChatUdonPlayerPickup.v0.2.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.6",
+              "com.vrchat.worlds": "3.10.6",
+              "com.vrchat.core.vpm-resolver": "0.1.29",
+              "com.azelrack.vrchat-udon-common-tools": "0.1.1"
+            }
+          },
+          "0.2.0": {
+            "version": "0.2.0",
+            "name": "com.azelrack.vrchat-udon-player-pickup",
+            "displayName": "Udon Player Pickup",
+            "description": "Scripts and prefab allowing players to pickup each others, with a extra options and features!",
+            "url": "https://github.com/Azelrack/VRChat-UdonPlayerPickup/releases/download/0.2.0/VRChatUdonPlayerPickup.v0.2.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.6",
+              "com.vrchat.worlds": "3.10.6",
+              "com.vrchat.core.vpm-resolver": "0.1.29",
+              "com.azelrack.vrchat-udon-common-tools": "0.1.0"
+            }
+          },
           "0.1.0": {
             "version": "0.1.0",
             "name": "com.azelrack.vrchat-udon-player-pickup",
@@ -12930,6 +12984,57 @@
             "vpmDependencies": {
               "com.vrchat.base": "3.9.0",
               "com.vrchat.worlds": "3.9.0",
+              "com.vrchat.core.vpm-resolver": "0.1.29",
+              "com.unity.textmeshpro": "3.0.6"
+            }
+          }
+        }
+      },
+      "com.azelrack.vrchat-udon-common-tools": {
+        "id": "com.azelrack.vrchat-udon-common-tools",
+        "name": "com.azelrack.vrchat-udon-common-tools",
+        "displayName": "Udon Common Tools",
+        "description": "Collection of scripts and prefabs used in multiple of my packages. Mostly basic UI bricks.",
+        "latestVersion": "0.1.1",
+        "versionCount": 2,
+        "keywords": [
+          "Script",
+          "Prefab",
+          "UI"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "Azelrack",
+          "email": "azelrack@gmail.com",
+          "url": "https://github.com/Azelrack"
+        },
+        "versions": {
+          "0.1.1": {
+            "version": "0.1.1",
+            "name": "com.azelrack.vrchat-udon-common-tools",
+            "displayName": "Udon Common Tools",
+            "description": "Collection of scripts and prefabs used in multiple of my packages. Mostly basic UI bricks.",
+            "url": "https://github.com/Azelrack/VRChat-UdonCommonTools/releases/download/0.1.1/VRChatUdonCommonTools-0.1.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.6",
+              "com.vrchat.worlds": "3.10.6",
+              "com.vrchat.core.vpm-resolver": "0.1.29",
+              "com.unity.textmeshpro": "3.0.6"
+            }
+          },
+          "0.1.0": {
+            "version": "0.1.0",
+            "name": "com.azelrack.vrchat-udon-common-tools",
+            "displayName": "VRChat Udon Common Tools",
+            "description": "Collection of scripts and prefabs used in multiple of my packages. Mostly basic UI bricks.",
+            "url": "https://github.com/Azelrack/VRChat-UdonCommonTools/releases/download/0.1.0/Azelrack-VRchatUdonCommonTools-0.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.6",
+              "com.vrchat.worlds": "3.10.6",
               "com.vrchat.core.vpm-resolver": "0.1.29",
               "com.unity.textmeshpro": "3.0.6"
             }
@@ -14838,7 +14943,7 @@
     "id": "cc.orbiters.vpm",
     "author": "blackorbit",
     "hash": "c383de0563f7a62e43ab42ee7422c4bdb33dc89f3a4ea782f62019602ec5ee2b",
-    "last_updated": "2026-11-19T05:22:31.000Z",
+    "last_updated": "2026-11-20T05:22:52.000Z",
     "packageCount": 12,
     "packages": {
       "orbiters.mcb": {
@@ -19050,6 +19155,57 @@
     }
   },
   {
+    "url": "https://cdn.moii.me/vpm/index.json",
+    "name": "Moiime",
+    "id": "me.moii.vpm",
+    "author": "Moiime",
+    "hash": "630c07f4d79d44b44866cc63a48abc504af16186a6d557ece1353c2f57cc7a30",
+    "last_updated": "2026-11-17T03:21:12.000Z",
+    "packageCount": 1,
+    "packages": {
+      "me.moii.vrchat-setup": {
+        "id": "me.moii.vrchat-setup",
+        "name": "me.moii.vrchat-setup",
+        "displayName": "Moiime VRChat Setup",
+        "description": "Turn a Moiime avatar (Unity FBX from moii.me) into a VRChat avatar: one-click convert with lip sync, blink, face tracking, emotes and gesture expressions, plus body and face pickers.",
+        "latestVersion": "1.0.0",
+        "versionCount": 2,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "Moiime",
+          "url": "https://moii.me"
+        },
+        "versions": {
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "me.moii.vrchat-setup",
+            "displayName": "Moiime VRChat Setup",
+            "description": "Turn a Moiime avatar (Unity FBX from moii.me) into a VRChat avatar: one-click convert with lip sync, blink, face tracking, emotes and gesture expressions, plus body and face pickers.",
+            "url": "https://cdn.moii.me/vpm/me.moii.vrchat-setup-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.6"
+            }
+          },
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "me.moii.vrchat-setup",
+            "displayName": "Moiime VRChat Setup",
+            "description": "Turn a Moiime avatar (Unity FBX from moii.me) into a VRChat avatar: one-click convert with lip sync, blink, face tracking, emotes and gesture expressions, plus body and face pickers.",
+            "url": "https://cdn.moii.me/vpm/me.moii.vrchat-setup-1.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.6"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
     "url": "https://Centauri2442.github.io/VRCMasterFailureCheck/index.json",
     "name": "CentauriCore - Master Failure Check Listing",
     "id": "centauricore.masterchecker.listing",
@@ -20289,7 +20445,7 @@
     "id": "com.chikumatateshina.qvpen-avatar-follow-system",
     "author": "ChikumaTateshina",
     "hash": "c002c8b044783a1bc15e74a999e1af8a65dfbb62b0ca97d520515986173bcbb1",
-    "last_updated": "2026-10-06T04:43:27.000Z",
+    "last_updated": "2026-10-06T04:43:26.000Z",
     "packageCount": 1,
     "packages": {
       "com.chikumatateshina.qvpen-avatar-follow-system": {
@@ -20334,7 +20490,7 @@
     "id": "com.chill.vpm",
     "author": "chill",
     "hash": "218dd1fd125e7194ca6c8140e63ca3d013b40ed5b78b42e79e1ff1e1d5cd5b05",
-    "last_updated": "2026-05-21T13:11:01.000Z",
+    "last_updated": "2026-05-21T13:11:02.000Z",
     "packageCount": 1,
     "packages": {
       "com.chill.avatarscope": {
@@ -24747,7 +24903,7 @@
     "id": "com.docme.listing",
     "author": "DocMe",
     "hash": "eb5d9f703a3ea4f0e2136fb2618d56da34f9cdf5aad5e4f8765cf1b18e212c90",
-    "last_updated": "2026-11-18T13:00:36.000Z",
+    "last_updated": "2026-11-19T13:00:01.000Z",
     "packageCount": 5,
     "packages": {
       "com.docme.eye-installer": {
@@ -26341,7 +26497,7 @@
     "id": "drsakuu.vpm-listing",
     "author": "Dr. Sakuu Cuddles",
     "hash": "2a105fd547aec9762db345e7870fddf24826b446c040d67a45c038c2c7830112",
-    "last_updated": "2026-11-11T10:14:57.000Z",
+    "last_updated": "2026-11-11T10:15:02.000Z",
     "packageCount": 1,
     "packages": {
       "drsakuu.humr": {
@@ -32358,7 +32514,7 @@
     "id": "com.furality.repos.official",
     "author": "Furality, Inc.",
     "hash": "1f058d849e3d6f8fbf1320164b63cd1f1019b43a7993a1adfa11f274f8288e49",
-    "last_updated": "2026-08-08T02:49:09.000Z",
+    "last_updated": "2026-08-08T02:49:10.000Z",
     "packageCount": 3,
     "packages": {
       "com.furality.sylvashader": {
@@ -36241,7 +36397,7 @@
     "id": "com.synthos.packages",
     "author": "Synthos",
     "hash": "4422ef45283f8ed16f915e9a4ab2c9c388ebe058cfe5c26987d830d18552a57c",
-    "last_updated": "2026-11-19T01:41:02.000Z",
+    "last_updated": "2026-11-20T05:33:26.000Z",
     "packageCount": 9,
     "packages": {
       "com.synthos.scene-optimizer": {
@@ -40167,8 +40323,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "277fdfd5949670ddca89e07960dc3961a051e762bc93dc6d31e5857b2483ebe5",
-    "last_updated": "2026-11-18T10:44:51.000Z",
+    "hash": "c16ad61d2ba6a8ead712f364771968e7e7febf4dfa4adfd0322bc8d8a8d5b1cd",
+    "last_updated": "2026-11-19T20:42:46.000Z",
     "packageCount": 10,
     "packages": {
       "com.poiyomi.pro": {
@@ -41166,8 +41322,8 @@
         "name": "hackebein.objecttracking",
         "displayName": "Hackebein's Object Tracking",
         "description": "Hackebein's setup for Object Tracking in VRChat",
-        "latestVersion": "1.0.6",
-        "versionCount": 14,
+        "latestVersion": "1.0.7",
+        "versionCount": 15,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -41176,6 +41332,20 @@
           "url": "https://hackebein.de"
         },
         "versions": {
+          "1.0.7": {
+            "version": "1.0.7",
+            "name": "hackebein.objecttracking",
+            "displayName": "Hackebein's Object Tracking",
+            "description": "Hackebein's setup for Object Tracking in VRChat",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking/1.0.7/1de5a4277f46c25cbaa7d9c9139d21255542a8f6ca4d2c7bfa25d1c2b84c3ee8",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.6",
+              "com.ygdr.mdv": ">=1.2.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0"
+            }
+          },
           "1.0.6": {
             "version": "1.0.6",
             "name": "hackebein.objecttracking",
@@ -43363,8 +43533,8 @@
     "name": "https://docs.hai-vr.dev",
     "id": "dev.hai-vr.vpm",
     "author": "Haï~",
-    "hash": "ab697d71299e8ff5a86b6f9c5e4ff0845b81d37b074e0665e6b93e7b2838a67c",
-    "last_updated": "2026-11-01T00:06:24.000Z",
+    "hash": "cd0f91938b040a0c2f1c6a58f6498799d737976e4ff8b140225444400996d13e",
+    "last_updated": "2026-11-19T14:56:05.000Z",
     "packageCount": 28,
     "packages": {
       "dev.hai-vr.animation-viewer": {
@@ -45195,14 +45365,24 @@
         "name": "dev.hai-vr.lightbox-viewer",
         "displayName": "Haï ~ Lightbox Viewer",
         "description": "Visualize changes in shader material settings under different lighting conditions, simultaneously https://docs.hai-vr.dev/docs/products/lightbox-viewer",
-        "latestVersion": "2.5.0-beta.5",
-        "versionCount": 20,
+        "latestVersion": "2.5.0-beta.6",
+        "versionCount": 21,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "Haï~"
         },
         "versions": {
+          "2.5.0-beta.6": {
+            "version": "2.5.0-beta.6",
+            "name": "dev.hai-vr.lightbox-viewer",
+            "displayName": "Haï ~ Lightbox Viewer",
+            "description": "Visualize changes in shader material settings under different lighting conditions, simultaneously https://docs.hai-vr.dev/docs/products/lightbox-viewer",
+            "url": "https://github.com/hai-vr/lightbox-viewer/releases/download/2.5.0-beta.6/dev.hai-vr.lightbox-viewer-2.5.0-beta.6.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "2.5.0-beta.5": {
             "version": "2.5.0-beta.5",
             "name": "dev.hai-vr.lightbox-viewer",
@@ -47309,7 +47489,7 @@
     "id": "io.github.helpinghandsvr.vpm",
     "author": "Helping Hands",
     "hash": "d3cba140edcf3cb5c17c4b6034085a4238c0dbbd2ce98b5f097b608968bff8fb",
-    "last_updated": "2026-07-03T13:20:30.000Z",
+    "last_updated": "2026-07-03T13:20:29.000Z",
     "packageCount": 2,
     "packages": {
       "io.github.helpinghandsvr.helpinghands-vrchat-avatar-accessories": {
@@ -50313,7 +50493,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "dc975d1397ce107372949311ebff9c87b2475ea8a0827d7b3c6c9caa9a314034",
-    "last_updated": "2026-11-18T15:58:18.000Z",
+    "last_updated": "2026-11-19T15:58:30.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -52416,7 +52596,7 @@
     "id": "dev.kaefibot.listing",
     "author": "WoweePaw",
     "hash": "0f954512e7a69a442d27394f918fc68614873d3db3706347e1e36e0acde01244",
-    "last_updated": "2026-07-05T15:03:29.000Z",
+    "last_updated": "2026-07-05T15:03:28.000Z",
     "packageCount": 1,
     "packages": {
       "dev.kaefibot.kaefibot-controller": {
@@ -61014,8 +61194,8 @@
     "name": "kmnk VPM Listing",
     "id": "dev.kmnk.vpm",
     "author": "kmnk",
-    "hash": "f60bbd5207bd50fbef2afe4314c5c6e674bf10aa47c6ee185d697ccd7e56519b",
-    "last_updated": "2026-11-19T03:13:31.000Z",
+    "hash": "836470da127bcc3efed4fbd359f2e756e70f42651cef27adf0866dfe39c65ba0",
+    "last_updated": "2026-11-19T18:23:03.000Z",
     "packageCount": 2,
     "packages": {
       "dev.kmnk.log-stream": {
@@ -61063,8 +61243,8 @@
         "name": "dev.kmnk.face-tracking-generator",
         "displayName": "Face Tracking Generator",
         "description": "Generates face tracking layers for VRChat avatars from text tables, with a table editor and preview.",
-        "latestVersion": "0.16.0",
-        "versionCount": 16,
+        "latestVersion": "0.18.0",
+        "versionCount": 18,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -61072,6 +61252,32 @@
           "url": "https://github.com/kmnk"
         },
         "versions": {
+          "0.18.0": {
+            "version": "0.18.0",
+            "name": "dev.kmnk.face-tracking-generator",
+            "displayName": "Face Tracking Generator",
+            "description": "Generates face tracking layers for VRChat avatars from text tables, with a table editor and preview.",
+            "url": "https://github.com/kmnk/VRChat_FaceTrackingGenerator/releases/download/v0.18.0/dev.kmnk.face-tracking-generator-0.18.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.6",
+              "nadena.dev.ndmf": ">=1.14.7 <2.0.0-a"
+            }
+          },
+          "0.17.0": {
+            "version": "0.17.0",
+            "name": "dev.kmnk.face-tracking-generator",
+            "displayName": "Face Tracking Generator",
+            "description": "Generates face tracking layers for VRChat avatars from text tables, with a table editor and preview.",
+            "url": "https://github.com/kmnk/VRChat_FaceTrackingGenerator/releases/download/v0.17.0/dev.kmnk.face-tracking-generator-0.17.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.6",
+              "nadena.dev.ndmf": ">=1.14.7 <2.0.0-a"
+            }
+          },
           "0.16.0": {
             "version": "0.16.0",
             "name": "dev.kmnk.face-tracking-generator",
@@ -65521,9 +65727,9 @@
     "name": "LGC VRC Packages",
     "id": "com.lgcchina.vrc-packages",
     "author": "LgcChina",
-    "hash": "d9be93d50e08a7083aa8c5102360fd23b412022369b5d9e245cb414a7dde3400",
-    "last_updated": "2026-11-18T13:56:53.000Z",
-    "packageCount": 14,
+    "hash": "950c15d492acb143109e7f9a2703078d2f06b5e6469ef81acd58edc30fa414c1",
+    "last_updated": "2026-11-19T15:58:56.000Z",
+    "packageCount": 15,
     "packages": {
       "com.lgcchina.pickup-quick-setup": {
         "id": "com.lgcchina.pickup-quick-setup",
@@ -66252,6 +66458,42 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {}
+          }
+        }
+      },
+      "com.lgcchina.ma-fury-localization": {
+        "id": "com.lgcchina.ma-fury-localization",
+        "name": "com.lgcchina.ma-fury-localization",
+        "displayName": "LGC_MAFury_中文拓展",
+        "description": "自动检测 Modular Avatar 与 VRCFury 的独立简体中文界面拓展，分别支持停用还原与重载词典；覆盖 MA 和 VRCFury 组件、动作、菜单与 SPS 面板。",
+        "latestVersion": "2.0.0",
+        "versionCount": 1,
+        "keywords": [
+          "modular-avatar",
+          "vrcfury",
+          "localization",
+          "chinese",
+          "vpm",
+          "vrchat"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "LgcChina",
+          "email": "13570527493@163.com",
+          "url": "https://github.com/LgcChina"
+        },
+        "versions": {
+          "2.0.0": {
+            "version": "2.0.0",
+            "name": "com.lgcchina.ma-fury-localization",
+            "displayName": "LGC_MAFury_中文拓展",
+            "description": "自动检测 Modular Avatar 与 VRCFury 的独立简体中文界面拓展，分别支持停用还原与重载词典；覆盖 MA 和 VRCFury 组件、动作、菜单与 SPS 面板。",
+            "url": "https://github.com/LgcChina/LGC_MA_Fury_Localization/releases/download/v2.0.0/com.lgcchina.ma-fury-localization-2.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "*"
+            }
           }
         }
       }
@@ -68797,7 +69039,7 @@
     "id": "com.lightbulb.vpm",
     "author": "Lightbulb",
     "hash": "028c8a797a7bd992d7495b57a5f4ec6d6b6d5bc7f4df749c41c2d60efc8fdf5f",
-    "last_updated": "2026-11-19T03:27:24.000Z",
+    "last_updated": "2026-11-20T03:14:23.000Z",
     "packageCount": 1,
     "packages": {
       "com.lightbulb.world-tools": {
@@ -71525,7 +71767,7 @@
     "id": "net.magma-mc.packages",
     "author": "MagmaMc",
     "hash": "d1300df8dc6f8a9c54c16d1723e06d10381ba1633210dea1fdae41388b3a5502",
-    "last_updated": "2026-11-10T20:24:15.000Z",
+    "last_updated": "2026-11-10T20:24:16.000Z",
     "packageCount": 7,
     "packages": {
       "net.magma-mc.shaders": {
@@ -79023,7 +79265,7 @@
     "id": "com.njsgdd10086.vpm-repo",
     "author": "ATRI_NAIXU",
     "hash": "2f7c6a6ba0277ad0e5ade345ce5fca40fb0f946221603b205651420fdc7ba232",
-    "last_updated": "2026-11-19T04:22:42.000Z",
+    "last_updated": "2026-11-20T02:50:48.000Z",
     "packageCount": 3,
     "packages": {
       "com.atrinaxu.nontoon.lightlimit": {
@@ -79864,7 +80106,7 @@
     "id": "com.puddingkc.vpm-listing",
     "author": "PuddingKC",
     "hash": "f240f36289d0cc5747481bc9b789e2732c1ec1f494a82fe81e90c798c0fde67c",
-    "last_updated": "2026-07-04T04:18:32.000Z",
+    "last_updated": "2026-07-04T04:18:33.000Z",
     "packageCount": 3,
     "packages": {
       "com.puddingkc.ma-radial-control": {
@@ -83386,7 +83628,7 @@
     "id": "dev.omelette_ak.vpm",
     "author": "omeletteak",
     "hash": "87cd6506aa825e26b64761abbbe030e0e11ea7ac963a055d927af38e95a30b11",
-    "last_updated": "2026-06-23T11:45:39.000Z",
+    "last_updated": "2026-06-23T11:45:38.000Z",
     "packageCount": 1,
     "packages": {
       "dev.omelette_ak.vrcloth-declipper": {
@@ -94025,9 +94267,9 @@
     "name": "Purpzie's VCC Packages",
     "id": "com.purpzie.vpm",
     "author": "Purpzie",
-    "hash": "1714d2e35e2c1ca7bae96e7d7df44dc700930b12d5e0882fe23e15fba484569c",
-    "last_updated": "2026-10-03T18:22:19.000Z",
-    "packageCount": 2,
+    "hash": "793b67e3992389ec4f6427461862dc438a26d32fb69b15bbe09e86afc775f588",
+    "last_updated": "2026-11-19T23:03:32.000Z",
+    "packageCount": 3,
     "packages": {
       "purpzie.bulkavataruploader": {
         "id": "purpzie.bulkavataruploader",
@@ -94092,6 +94334,34 @@
             "vpmDependencies": {
               "com.vrchat.base": ">=0.1.29 <0.2.0",
               "com.vrchat.avatars": ">=3.10.5 <4.0.0"
+            }
+          }
+        }
+      },
+      "purpzie.utils": {
+        "id": "purpzie.utils",
+        "name": "purpzie.utils",
+        "displayName": "Purpzie's Utilities",
+        "description": "A collection of scripts, prefabs, and tools for VRChat.",
+        "latestVersion": "1.0.0",
+        "versionCount": 1,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "Purpzie"
+        },
+        "versions": {
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "purpzie.utils",
+            "displayName": "Purpzie's Utilities",
+            "description": "A collection of scripts, prefabs, and tools for VRChat.",
+            "url": "https://github.com/Purpzie/VRCUtils/releases/download/v1.0.0/purpzie.utils-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": ">=3.10.6 <4.0.0",
+              "com.vrchat.avatars": ">=3.10.6 <4.0.0"
             }
           }
         }
@@ -94998,7 +95268,7 @@
     "id": "com.fracfloor.vpm-listing",
     "author": "raii",
     "hash": "bb8a1fb4b6497e28d58d8f4ed220692da23d2202d1dad6f3725f0921d2c66b57",
-    "last_updated": "2026-07-03T11:55:03.000Z",
+    "last_updated": "2026-07-03T11:55:04.000Z",
     "packageCount": 1,
     "packages": {
       "com.fracfloor.timeline-beat-marker": {
@@ -95714,7 +95984,7 @@
     "id": "com.bavi.vpm",
     "author": "Bird",
     "hash": "439ad102d9b3835c37dff0d5a993cc96aea20f89d46930d6698f6b0dcc694a50",
-    "last_updated": "2026-10-20T23:31:06.000Z",
+    "last_updated": "2026-10-20T23:31:05.000Z",
     "packageCount": 1,
     "packages": {
       "com.bavi.motion-patcher": {
@@ -98194,6 +98464,52 @@
             "unity": "2022.3",
             "vpmDependencies": {
               "com.unity.nuget.newtonsoft-json": "3.2.1"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "url": "https://raw.githubusercontent.com/kureh4/NN-Quest-Converter/main/Website/index.json",
+    "name": "NN - Quest Converter Listing",
+    "id": "com.nekoneko.nn-quest-converter.listing",
+    "author": "ねこねこ",
+    "hash": "4a71e7ac609e8d545ad61fcd91af368b829ff0ac2283e952abc3e5c08cd367b7",
+    "last_updated": "2026-11-20T05:38:26.928Z",
+    "packageCount": 1,
+    "packages": {
+      "com.nekoneko.nn-quest-converter": {
+        "id": "com.nekoneko.nn-quest-converter",
+        "name": "com.nekoneko.nn-quest-converter",
+        "displayName": "NN - Quest Converter",
+        "description": "PC向けVRChatアバターを、できるだけ見た目や揺れものを残しながらQuest / Android向けへ変換するUnity Editorツールです。",
+        "latestVersion": "1.0.0",
+        "versionCount": 1,
+        "keywords": [
+          "vrchat",
+          "avatar",
+          "quest",
+          "android",
+          "converter",
+          "editor"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "ねこねこ",
+          "url": "https://github.com/kureh4/NN-Quest-Converter"
+        },
+        "versions": {
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.nekoneko.nn-quest-converter",
+            "displayName": "NN - Quest Converter",
+            "description": "PC向けVRChatアバターを、できるだけ見た目や揺れものを残しながらQuest / Android向けへ変換するUnity Editorツールです。",
+            "url": "https://github.com/kureh4/NN-Quest-Converter/releases/download/1.0.0/com.nekoneko.nn-quest-converter-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.5.0 <4.0.0"
             }
           }
         }
@@ -103248,10 +103564,192 @@
     "name": "Numeira VPM Repository",
     "id": "numeira",
     "author": "Numeira",
-    "hash": "c0620324ffc07e2b0e3073af4e036bb9b4c861d64612e392467003319abc95e0",
-    "last_updated": "2026-07-10T05:54:04.000Z",
-    "packageCount": 6,
+    "hash": "3616897adde9db8bee6884883a975a93a7178c827e9e5485c68e983f788d9a0f",
+    "last_updated": "2026-11-19T11:30:30.000Z",
+    "packageCount": 7,
     "packages": {
+      "numeira.ndmf-manual-bake-assets": {
+        "id": "numeira.ndmf-manual-bake-assets",
+        "name": "numeira.ndmf-manual-bake-assets",
+        "displayName": "NDMF Manual Bake Assets",
+        "description": "Changes the output location of Manual Bake to a subdirectory within this package.",
+        "latestVersion": "1.0.1",
+        "versionCount": 2,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": "Numeira",
+        "versions": {
+          "1.0.1": {
+            "version": "1.0.1",
+            "name": "numeira.ndmf-manual-bake-assets",
+            "displayName": "NDMF Manual Bake Assets",
+            "description": "Changes the output location of Manual Bake to a subdirectory within this package.",
+            "url": "https://github.com/Rerigferl/ndmf-manual-bake-assets/releases/download/1.0.1/numeira.ndmf-manual-bake-assets.1.0.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": "^1.10.0"
+            }
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "numeira.ndmf-manual-bake-assets",
+            "displayName": "NDMF Manual Bake Assets",
+            "description": "Changes the output location of Manual Bake to a subdirectory within this package.",
+            "url": "https://github.com/Rerigferl/ndmf-manual-bake-assets/releases/download/1.0.0/numeira.ndmf-manual-bake-assets.1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          }
+        }
+      },
+      "numeira.modular-avatar-copy-scale-adjuster": {
+        "id": "numeira.modular-avatar-copy-scale-adjuster",
+        "name": "numeira.modular-avatar-copy-scale-adjuster",
+        "displayName": "Copy Scale Adjuster",
+        "description": null,
+        "latestVersion": "1.0.2",
+        "versionCount": 3,
+        "keywords": [],
+        "unity": null,
+        "author": "Numeira",
+        "versions": {
+          "1.0.2": {
+            "version": "1.0.2",
+            "name": "numeira.modular-avatar-copy-scale-adjuster",
+            "displayName": "Copy Scale Adjuster",
+            "description": "",
+            "url": "https://github.com/Rerigferl/modular-avatar-copy-scale-adjuster/releases/download/1.0.2/numeira.modular-avatar-copy-scale-adjuster.1.0.2.zip",
+            "zipSha256": null,
+            "vpmDependencies": {
+              "nadena.dev.modular-avatar": "^1.9.16"
+            }
+          },
+          "1.0.1": {
+            "version": "1.0.1",
+            "name": "numeira.modular-avatar-copy-scale-adjuster",
+            "displayName": "Copy Scale Adjuster",
+            "description": "",
+            "url": "https://github.com/Rerigferl/modular-avatar-copy-scale-adjuster/releases/download/1.0.1/numeira.modular-avatar-copy-scale-adjuster.1.0.1.zip",
+            "zipSha256": null,
+            "vpmDependencies": {
+              "nadena.dev.modular-avatar": "^1.9.16"
+            }
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "numeira.modular-avatar-copy-scale-adjuster",
+            "displayName": "Copy Scale Adjuster",
+            "description": "",
+            "url": "https://github.com/Rerigferl/modular-avatar-copy-scale-adjuster/releases/download/1.0.0/numeira.modular-avatar-copy-scale-adjuster.1.0.0.zip",
+            "zipSha256": null,
+            "vpmDependencies": {
+              "nadena.dev.modular-avatar": "^1.9.16"
+            }
+          }
+        }
+      },
+      "numeira.gameobject-contextmenu-manager": {
+        "id": "numeira.gameobject-contextmenu-manager",
+        "name": "numeira.gameobject-contextmenu-manager",
+        "displayName": "GameObject ContextMenu Manager",
+        "description": null,
+        "latestVersion": "2.0.0",
+        "versionCount": 3,
+        "keywords": [],
+        "unity": null,
+        "author": "Numeira",
+        "versions": {
+          "2.0.0": {
+            "version": "2.0.0",
+            "name": "numeira.gameobject-contextmenu-manager",
+            "displayName": "GameObject ContextMenu Manager",
+            "description": "",
+            "url": "https://github.com/Rerigferl/GameObjectContextMenuManager/releases/download/2.0.0/numeira.gameobject-contextmenu-manager.2.0.0.zip",
+            "zipSha256": null,
+            "vpmDependencies": {}
+          },
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "numeira.gameobject-contextmenu-manager",
+            "displayName": "GameObject ContextMenu Manager",
+            "description": "",
+            "url": "https://github.com/Rerigferl/GameObjectContextMenuManager/releases/download/1.1.0/numeira.gameobject-contextmenu-manager.1.1.0.zip",
+            "zipSha256": null,
+            "vpmDependencies": {}
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "numeira.gameobject-contextmenu-manager",
+            "displayName": "GameObject ContextMenu Manager",
+            "description": "",
+            "url": "https://github.com/Rerigferl/GameObjectContextMenuManager/releases/download/1.0.0/numeira.gameobject-contextmenu-manager.1.0.0.zip",
+            "zipSha256": null,
+            "vpmDependencies": {}
+          }
+        }
+      },
+      "numeira.shader-fallback-overwriter": {
+        "id": "numeira.shader-fallback-overwriter",
+        "name": "numeira.shader-fallback-overwriter",
+        "displayName": "Shader Fallback Overwriter",
+        "description": "An editor extension for easy modification of the shader fallback.",
+        "latestVersion": "1.0.0-beta.1",
+        "versionCount": 4,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": "Numeira",
+        "versions": {
+          "1.0.0-beta.1": {
+            "version": "1.0.0-beta.1",
+            "name": "numeira.shader-fallback-overwriter",
+            "displayName": "Shader Fallback Overwriter",
+            "description": "An editor extension for easy modification of the shader fallback.",
+            "url": "https://github.com/Rerigferl/shader-fallback-overwriter/releases/download/1.0.0-beta.1/numeira.shader-fallback-overwriter.1.0.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": "^1.4.1"
+            }
+          },
+          "1.0.0-alpha.4": {
+            "version": "1.0.0-alpha.4",
+            "name": "numeira.shader-fallback-overwriter",
+            "displayName": "Shader Fallback Overwriter",
+            "description": "An editor extension for easy modification of the shader fallback.",
+            "url": "https://github.com/Rerigferl/shader-fallback-overwriter/releases/download/1.0.0-alpha.4/numeira.shader-fallback-overwriter.1.0.0-alpha.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": "^1.4.1"
+            }
+          },
+          "1.0.0-alpha.3": {
+            "version": "1.0.0-alpha.3",
+            "name": "numeira.shader-fallback-overwriter",
+            "displayName": "Shader Fallback Overwriter",
+            "description": "An editor extension for easy modification of the shader fallback.",
+            "url": "https://github.com/Rerigferl/shader-fallback-overwriter/releases/download/1.0.0-alpha.3/numeira.shader-fallback-overwriter.1.0.0-alpha.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": "^1.4.1"
+            }
+          },
+          "1.0.0-alpha.2": {
+            "version": "1.0.0-alpha.2",
+            "name": "numeira.shader-fallback-overwriter",
+            "displayName": "Shader Fallback Overwriter",
+            "description": "An editor extension for easy modification of the shader fallback.",
+            "url": "https://github.com/Rerigferl/shader-fallback-overwriter/releases/download/1.0.0-alpha.2/numeira.shader-fallback-overwriter.1.0.0-alpha.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": "^1.4.1"
+            }
+          }
+        }
+      },
       "numeira.mod-emo": {
         "id": "numeira.mod-emo",
         "name": "numeira.mod-emo",
@@ -103317,113 +103815,6 @@
           }
         }
       },
-      "numeira.shader-fallback-overwriter": {
-        "id": "numeira.shader-fallback-overwriter",
-        "name": "numeira.shader-fallback-overwriter",
-        "displayName": "Shader Fallback Overwriter",
-        "description": "An editor extension for easy modification of the shader fallback.",
-        "latestVersion": "1.0.0-beta.1",
-        "versionCount": 4,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": "Numeira",
-        "versions": {
-          "1.0.0-beta.1": {
-            "version": "1.0.0-beta.1",
-            "name": "numeira.shader-fallback-overwriter",
-            "displayName": "Shader Fallback Overwriter",
-            "description": "An editor extension for easy modification of the shader fallback.",
-            "url": "https://github.com/Rerigferl/shader-fallback-overwriter/releases/download/1.0.0-beta.1/numeira.shader-fallback-overwriter.1.0.0-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "nadena.dev.ndmf": "^1.4.1"
-            }
-          },
-          "1.0.0-alpha.4": {
-            "version": "1.0.0-alpha.4",
-            "name": "numeira.shader-fallback-overwriter",
-            "displayName": "Shader Fallback Overwriter",
-            "description": "An editor extension for easy modification of the shader fallback.",
-            "url": "https://github.com/Rerigferl/shader-fallback-overwriter/releases/download/1.0.0-alpha.4/numeira.shader-fallback-overwriter.1.0.0-alpha.4.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "nadena.dev.ndmf": "^1.4.1"
-            }
-          },
-          "1.0.0-alpha.3": {
-            "version": "1.0.0-alpha.3",
-            "name": "numeira.shader-fallback-overwriter",
-            "displayName": "Shader Fallback Overwriter",
-            "description": "An editor extension for easy modification of the shader fallback.",
-            "url": "https://github.com/Rerigferl/shader-fallback-overwriter/releases/download/1.0.0-alpha.3/numeira.shader-fallback-overwriter.1.0.0-alpha.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "nadena.dev.ndmf": "^1.4.1"
-            }
-          },
-          "1.0.0-alpha.2": {
-            "version": "1.0.0-alpha.2",
-            "name": "numeira.shader-fallback-overwriter",
-            "displayName": "Shader Fallback Overwriter",
-            "description": "An editor extension for easy modification of the shader fallback.",
-            "url": "https://github.com/Rerigferl/shader-fallback-overwriter/releases/download/1.0.0-alpha.2/numeira.shader-fallback-overwriter.1.0.0-alpha.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "nadena.dev.ndmf": "^1.4.1"
-            }
-          }
-        }
-      },
-      "numeira.modular-avatar-copy-scale-adjuster": {
-        "id": "numeira.modular-avatar-copy-scale-adjuster",
-        "name": "numeira.modular-avatar-copy-scale-adjuster",
-        "displayName": "Copy Scale Adjuster",
-        "description": null,
-        "latestVersion": "1.0.2",
-        "versionCount": 3,
-        "keywords": [],
-        "unity": null,
-        "author": "Numeira",
-        "versions": {
-          "1.0.2": {
-            "version": "1.0.2",
-            "name": "numeira.modular-avatar-copy-scale-adjuster",
-            "displayName": "Copy Scale Adjuster",
-            "description": "",
-            "url": "https://github.com/Rerigferl/modular-avatar-copy-scale-adjuster/releases/download/1.0.2/numeira.modular-avatar-copy-scale-adjuster.1.0.2.zip",
-            "zipSha256": null,
-            "vpmDependencies": {
-              "nadena.dev.modular-avatar": "^1.9.16"
-            }
-          },
-          "1.0.1": {
-            "version": "1.0.1",
-            "name": "numeira.modular-avatar-copy-scale-adjuster",
-            "displayName": "Copy Scale Adjuster",
-            "description": "",
-            "url": "https://github.com/Rerigferl/modular-avatar-copy-scale-adjuster/releases/download/1.0.1/numeira.modular-avatar-copy-scale-adjuster.1.0.1.zip",
-            "zipSha256": null,
-            "vpmDependencies": {
-              "nadena.dev.modular-avatar": "^1.9.16"
-            }
-          },
-          "1.0.0": {
-            "version": "1.0.0",
-            "name": "numeira.modular-avatar-copy-scale-adjuster",
-            "displayName": "Copy Scale Adjuster",
-            "description": "",
-            "url": "https://github.com/Rerigferl/modular-avatar-copy-scale-adjuster/releases/download/1.0.0/numeira.modular-avatar-copy-scale-adjuster.1.0.0.zip",
-            "zipSha256": null,
-            "vpmDependencies": {
-              "nadena.dev.modular-avatar": "^1.9.16"
-            }
-          }
-        }
-      },
       "numeira.enhanced-blendshape-editor": {
         "id": "numeira.enhanced-blendshape-editor",
         "name": "numeira.enhanced-blendshape-editor",
@@ -103443,46 +103834,6 @@
             "url": "https://github.com/Rerigferl/EnhancedBlendShapeEditor/releases/download/1.0.0/numeira.enhanced-blendshape-editor-1.0.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
-            "vpmDependencies": {}
-          }
-        }
-      },
-      "numeira.gameobject-contextmenu-manager": {
-        "id": "numeira.gameobject-contextmenu-manager",
-        "name": "numeira.gameobject-contextmenu-manager",
-        "displayName": "GameObject ContextMenu Manager",
-        "description": null,
-        "latestVersion": "2.0.0",
-        "versionCount": 3,
-        "keywords": [],
-        "unity": null,
-        "author": "Numeira",
-        "versions": {
-          "2.0.0": {
-            "version": "2.0.0",
-            "name": "numeira.gameobject-contextmenu-manager",
-            "displayName": "GameObject ContextMenu Manager",
-            "description": "",
-            "url": "https://github.com/Rerigferl/GameObjectContextMenuManager/releases/download/2.0.0/numeira.gameobject-contextmenu-manager.2.0.0.zip",
-            "zipSha256": null,
-            "vpmDependencies": {}
-          },
-          "1.1.0": {
-            "version": "1.1.0",
-            "name": "numeira.gameobject-contextmenu-manager",
-            "displayName": "GameObject ContextMenu Manager",
-            "description": "",
-            "url": "https://github.com/Rerigferl/GameObjectContextMenuManager/releases/download/1.1.0/numeira.gameobject-contextmenu-manager.1.1.0.zip",
-            "zipSha256": null,
-            "vpmDependencies": {}
-          },
-          "1.0.0": {
-            "version": "1.0.0",
-            "name": "numeira.gameobject-contextmenu-manager",
-            "displayName": "GameObject ContextMenu Manager",
-            "description": "",
-            "url": "https://github.com/Rerigferl/GameObjectContextMenuManager/releases/download/1.0.0/numeira.gameobject-contextmenu-manager.1.0.0.zip",
-            "zipSha256": null,
             "vpmDependencies": {}
           }
         }
@@ -106565,8 +106916,8 @@
     "name": "UzumoreShader Listing",
     "id": "jp.sigmal00.uzumore-shader.listing",
     "author": "sigmal00",
-    "hash": "21fe07e532b92a22de5c755bc7812646a103bac5e3c24fba6f3a567921147334",
-    "last_updated": "2026-07-16T12:23:57.000Z",
+    "hash": "3a70785c60190acea2ea97394666b532dc1559dabb713be74672601ba20994bf",
+    "last_updated": "2026-11-19T11:34:50.000Z",
     "packageCount": 1,
     "packages": {
       "jp.sigmal00.uzumore-shader": {
@@ -106574,8 +106925,8 @@
         "name": "jp.sigmal00.uzumore-shader",
         "displayName": "UzumoreShader",
         "description": "埋もれシェーダーはカメラがメッシュの内側に潜り込んだ際に頂点をカメラの正面まで押し戻すことでメッシュの内側を見えなくするシェーダーです。",
-        "latestVersion": "1.0.20",
-        "versionCount": 10,
+        "latestVersion": "1.0.31",
+        "versionCount": 11,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -106583,24 +106934,36 @@
           "url": "https://github.com/sigmal00"
         },
         "versions": {
-          "1.0.20": {
-            "version": "1.0.20",
+          "1.0.31": {
+            "version": "1.0.31",
             "name": "jp.sigmal00.uzumore-shader",
             "displayName": "UzumoreShader",
             "description": "埋もれシェーダーはカメラがメッシュの内側に潜り込んだ際に頂点をカメラの正面まで押し戻すことでメッシュの内側を見えなくするシェーダーです。",
-            "url": "https://github.com/sigmal00/UzumoreShaderVPM/releases/download/1.0.20/jp.sigmal00.uzumore-shader-1.0.20.zip",
+            "url": "https://github.com/sigmal00/UzumoreShaderVPM/releases/download/1.0.31/jp.sigmal00.uzumore-shader-1.0.31.zip",
             "zipSha256": null,
             "unity": "2019.4",
             "vpmDependencies": {
               "jp.lilxyzw.liltoon": ">=1.9.0"
             }
           },
-          "1.0.2": {
-            "version": "1.0.2",
+          "1.0.30": {
+            "version": "1.0.30",
             "name": "jp.sigmal00.uzumore-shader",
             "displayName": "UzumoreShader",
             "description": "埋もれシェーダーはカメラがメッシュの内側に潜り込んだ際に頂点をカメラの正面まで押し戻すことでメッシュの内側を見えなくするシェーダーです。",
-            "url": "https://github.com/sigmal00/UzumoreShaderVPM/releases/download/1.0.2/jp.sigmal00.uzumore-shader-1.0.2.zip",
+            "url": "https://github.com/sigmal00/UzumoreShaderVPM/releases/download/1.0.30/jp.sigmal00.uzumore-shader-1.0.30.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "jp.lilxyzw.liltoon": ">=1.9.0"
+            }
+          },
+          "1.0.20": {
+            "version": "1.0.20",
+            "name": "jp.sigmal00.uzumore-shader",
+            "displayName": "UzumoreShader",
+            "description": "埋もれシェーダーはカメラがメッシュの内側に潜り込んだ際に頂点をカメラの正面まで押し戻すことでメッシュの内側を見えなくするシェーダーです。",
+            "url": "https://github.com/sigmal00/UzumoreShaderVPM/releases/download/1.0.20/jp.sigmal00.uzumore-shader-1.0.20.zip",
             "zipSha256": null,
             "unity": "2019.4",
             "vpmDependencies": {
@@ -121793,7 +122156,7 @@
     "id": "io.github.tumayouzyo.tools",
     "author": "tumayouzyo",
     "hash": "3e96edf0b0a1de7a98f9fcd5baaedac2eea1f346b75c3986382b319e3685d5ed",
-    "last_updated": "2026-11-19T04:13:14.000Z",
+    "last_updated": "2026-11-19T23:53:42.000Z",
     "packageCount": 3,
     "packages": {
       "io.github.tumayouzyo.fx-facial-assistant": {
@@ -121926,8 +122289,8 @@
     "name": "Udonite",
     "id": "com.udonite.listing",
     "author": "Udonite",
-    "hash": "f2b1ea37f06a359603eda16b4ef6f10c6b0158023fd0b06f23abbb1863ce375a",
-    "last_updated": "2026-11-19T03:39:07.000Z",
+    "hash": "3d6a066fd87cec2ce44536e609d8108477867cc68156c8f301bd738850742acd",
+    "last_updated": "2026-11-20T03:34:00.000Z",
     "packageCount": 1,
     "packages": {
       "com.udonite.compiler": {
@@ -121935,15 +122298,111 @@
         "name": "com.udonite.compiler",
         "displayName": "Udonite",
         "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
-        "latestVersion": "2.21.7",
-        "versionCount": 12,
+        "latestVersion": "2.23.1",
+        "versionCount": 20,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "Udonite",
-          "url": "https://github.com/Udonite/Udonite"
+          "url": "https://udonite.com"
         },
         "versions": {
+          "2.23.1": {
+            "version": "2.23.1",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://udonite.com/vpm/public/zip/769909138/com.udonite.compiler-2.23.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
+          "2.23.0": {
+            "version": "2.23.0",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://udonite.com/vpm/public/zip/769542300/com.udonite.compiler-2.23.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
+          "2.22.5": {
+            "version": "2.22.5",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://udonite.com/vpm/public/zip/767890934/com.udonite.compiler-2.22.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
+          "2.22.4": {
+            "version": "2.22.4",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://udonite.com/vpm/public/zip/767876276/com.udonite.compiler-2.22.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
+          "2.22.3": {
+            "version": "2.22.3",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://udonite.com/vpm/public/zip/767840939/com.udonite.compiler-2.22.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
+          "2.22.2": {
+            "version": "2.22.2",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://udonite.com/vpm/public/zip/767108455/com.udonite.compiler-2.22.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
+          "2.22.1": {
+            "version": "2.22.1",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://udonite.com/vpm/public/zip/767050444/com.udonite.compiler-2.22.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
+          "2.22.0": {
+            "version": "2.22.0",
+            "name": "com.udonite.compiler",
+            "displayName": "Udonite",
+            "description": "Ordinary Unity C# for VRChat worlds. Compiles your MonoBehaviours to Udon.",
+            "url": "https://udonite.com/vpm/public/zip/766804377/com.udonite.compiler-2.22.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.x"
+            }
+          },
           "2.21.7": {
             "version": "2.21.7",
             "name": "com.udonite.compiler",
@@ -123986,8 +124445,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "6a9f5ffa74bbef82cf890a990dbe462f1aaa00f0ab19a058992df34a9d0c0dfd",
-    "last_updated": "2026-11-19T05:48:00.000Z",
+    "hash": "b4f84c3aadc15266f00c6d6fc8c17ab6b63e6fa2ee6fcb506bad2c090362dd94",
+    "last_updated": "2026-11-20T05:38:00.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -123995,14 +124454,104 @@
         "name": "com.vrcfury.vrcfury",
         "displayName": "VRCFury",
         "description": "Non-Destructive Tools for VRChat Avatars",
-        "latestVersion": "1.1480.0",
-        "versionCount": 1522,
+        "latestVersion": "1.1489.0",
+        "versionCount": 1531,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "VRCFury"
         },
         "versions": {
+          "1.1489.0": {
+            "version": "1.1489.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1489.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1488.0": {
+            "version": "1.1488.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1488.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1487.0": {
+            "version": "1.1487.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1487.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1486.0": {
+            "version": "1.1486.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1486.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1485.0": {
+            "version": "1.1485.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1485.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1484.0": {
+            "version": "1.1484.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1484.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1483.0": {
+            "version": "1.1483.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1483.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1482.0": {
+            "version": "1.1482.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1482.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1481.0": {
+            "version": "1.1481.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1481.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.1480.0": {
             "version": "1.1480.0",
             "name": "com.vrcfury.vrcfury",
@@ -138564,8 +139113,8 @@
     "name": "Vixens Toolbox",
     "id": "com.vixencreations.vixens-toolbox.listing",
     "author": "Vixenlicous",
-    "hash": "5245ab387b22f1fdcb2b3059f77e5b47adf0bfb4045e4bfd0649e8d08475018a",
-    "last_updated": "2026-11-18T17:39:14.000Z",
+    "hash": "ca07311a2ca51ade19b3c866d12cffc0960f093529543ff39de03c4627bc020c",
+    "last_updated": "2026-11-19T14:40:09.000Z",
     "packageCount": 3,
     "packages": {
       "com.vixencreations.vixens-toolbox": {
@@ -138573,8 +139122,8 @@
         "name": "com.vixencreations.vixens-toolbox",
         "displayName": "Vixen Tool Box",
         "description": "A Feature-rich suite of Unity Editor tools for VRChat creators, hand-built by VixForge Interactive supporting both Avatars and Worlds with over 4,500 Downloads!",
-        "latestVersion": "2.22.0",
-        "versionCount": 60,
+        "latestVersion": "2.23.0",
+        "versionCount": 61,
         "keywords": [
           "shaders",
           "tools",
@@ -138588,6 +139137,18 @@
           "url": "https://github.com/VixenCreations"
         },
         "versions": {
+          "2.23.0": {
+            "version": "2.23.0",
+            "name": "com.vixencreations.vixens-toolbox",
+            "displayName": "Vixen Tool Box",
+            "description": "A Feature-rich suite of Unity Editor tools for VRChat creators, hand-built by VixForge Interactive supporting both Avatars and Worlds with over 4,500 Downloads!",
+            "url": "https://github.com/VixenCreations/VixenToolBox/releases/download/2.23.0/com.vixen.tools-2.23.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "^3.10.3"
+            }
+          },
           "2.22.0": {
             "version": "2.22.0",
             "name": "com.vixencreations.vixens-toolbox",
@@ -139434,7 +139995,7 @@
     "id": "io.mekabu.vpm-repository",
     "author": "contact@mekabu.io",
     "hash": "afb531d339483772668bf9b0fbe2f91415a0d37733b4adad67544741ae03cb2e",
-    "last_updated": "2026-11-19T05:40:34.000Z",
+    "last_updated": "2026-11-20T05:27:02.000Z",
     "packageCount": 2,
     "packages": {
       "com.mekabu.blendshape-animation-creator": {
@@ -152826,8 +153387,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "277fdfd5949670ddca89e07960dc3961a051e762bc93dc6d31e5857b2483ebe5",
-    "last_updated": "2026-11-18T10:44:51.000Z",
+    "hash": "c16ad61d2ba6a8ead712f364771968e7e7febf4dfa4adfd0322bc8d8a8d5b1cd",
+    "last_updated": "2026-11-19T20:42:46.000Z",
     "packageCount": 10,
     "packages": {
       "com.poiyomi.pro": {
@@ -153825,8 +154386,8 @@
         "name": "hackebein.objecttracking",
         "displayName": "Hackebein's Object Tracking",
         "description": "Hackebein's setup for Object Tracking in VRChat",
-        "latestVersion": "1.0.6",
-        "versionCount": 14,
+        "latestVersion": "1.0.7",
+        "versionCount": 15,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -153835,6 +154396,20 @@
           "url": "https://hackebein.de"
         },
         "versions": {
+          "1.0.7": {
+            "version": "1.0.7",
+            "name": "hackebein.objecttracking",
+            "displayName": "Hackebein's Object Tracking",
+            "description": "Hackebein's setup for Object Tracking in VRChat",
+            "url": "https://vpmm.dev/files/hackebein.objecttracking/1.0.7/1de5a4277f46c25cbaa7d9c9139d21255542a8f6ca4d2c7bfa25d1c2b84c3ee8",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.6",
+              "com.ygdr.mdv": ">=1.2.0",
+              "nadena.dev.ndmf": ">=1.11.0 <2.0.0"
+            }
+          },
           "1.0.6": {
             "version": "1.0.6",
             "name": "hackebein.objecttracking",
@@ -156001,7 +156576,7 @@
     "id": "jp.hinasense.vpm",
     "author": "HinanoAira",
     "hash": "6101414a61af4480361097ebeaa841db500396ff4f3b1c47e3db8a078521a2fc",
-    "last_updated": "2026-11-19T05:00:02.000Z",
+    "last_updated": "2026-11-20T05:00:02.000Z",
     "packageCount": 2,
     "packages": {
       "jp.hinasense.liltoon.freak": {
@@ -162834,7 +163409,7 @@
     "id": "dev.ladyluh.vpm",
     "author": "luna-gelmini",
     "hash": "29b50b3a46469eb3ade74e9b7cfef4546be058b5d397a4dc015b615979324093",
-    "last_updated": "2026-11-19T03:40:26.000Z",
+    "last_updated": "2026-11-20T03:31:29.000Z",
     "packageCount": 4,
     "packages": {
       "dev.ladyluh.questkit": {
@@ -184454,7 +185029,7 @@
     "id": "jp.pipipigiken.vpm",
     "author": "orange3134",
     "hash": "fdfcf0227a2be7d6ef7e840800fc48834054e85de4dd49202c7e2154a08fece3",
-    "last_updated": "2026-11-19T03:38:50.000Z",
+    "last_updated": "2026-11-20T03:32:43.000Z",
     "packageCount": 2,
     "packages": {
       "jp.pipipigiken.mpavatar-package": {
@@ -190457,7 +191032,7 @@
     "id": "dev.thry.vpm",
     "author": "Thryrallo",
     "hash": "0189583cd590af92f6337bf072cfea3211c6a3ca90738536d8f30bcd5fab82cb",
-    "last_updated": "2024-08-05T22:13:00.000Z",
+    "last_updated": "2024-08-05T22:13:01.000Z",
     "packageCount": 1,
     "packages": {
       "de.thryrallo.vrc.avatar-performance-tools": {
@@ -191568,7 +192143,7 @@
     "id": "dev.whyknot.vpm",
     "author": "WhyKnot",
     "hash": "f55a664e3a5350e1f2def05a18cb6fc37d603ce465f8e21da2aa6c169d28cf0c",
-    "last_updated": "2026-11-10T00:36:24.000Z",
+    "last_updated": "2026-11-10T00:36:22.000Z",
     "packageCount": 1,
     "packages": {
       "dev.whyknot.wk-vrcfury-qol": {
@@ -195065,25 +195640,1204 @@
     "name": "Official",
     "id": "com.vrchat.repos.official",
     "author": "VRChat",
-    "hash": "ab2b60cf8c290cc5ea71d45b0a687e159a0525d6d2ab6c860ab2ec7c7741e5a5",
-    "last_updated": "2026-10-30T16:32:21.000Z",
+    "hash": "90900cffb411a78b7972cb8b120747cb37318a83df88d845e30efd2b5aaa6ca3",
+    "last_updated": "2026-11-19T20:04:52.000Z",
     "packageCount": 4,
     "packages": {
-      "com.vrchat.base": {
-        "id": "com.vrchat.base",
-        "name": "com.vrchat.base",
-        "displayName": "VRChat SDK - Base",
-        "description": "Base for VRChat SDK",
-        "latestVersion": "3.10.6",
-        "versionCount": 97,
+      "com.vrchat.avatars": {
+        "id": "com.vrchat.avatars",
+        "name": "com.vrchat.avatars",
+        "displayName": "VRChat SDK - Avatars",
+        "description": "Our powerful Avatars 3.0 System",
+        "latestVersion": "3.11.0-beta.1",
+        "versionCount": 95,
         "keywords": [],
-        "unity": "2022.3",
+        "unity": "6000.0",
         "author": {
           "name": "VRChat",
           "email": "developer@vrchat.com",
           "url": "https://github.com/vrchat/packages"
         },
         "versions": {
+          "3.11.0-beta.1": {
+            "version": "3.11.0-beta.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.11.0-beta.1/com.vrchat.avatars-3.11.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "6000.0",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.11.0-beta.1"
+            }
+          },
+          "3.10.6": {
+            "version": "3.10.6",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.6/com.vrchat.avatars-3.10.6.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.6"
+            }
+          },
+          "3.10.6-beta.4": {
+            "version": "3.10.6-beta.4",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.6-beta.4/com.vrchat.avatars-3.10.6-beta.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.6-beta.4"
+            }
+          },
+          "3.10.6-beta.3": {
+            "version": "3.10.6-beta.3",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.6-beta.3/com.vrchat.avatars-3.10.6-beta.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.6-beta.3"
+            }
+          },
+          "3.10.6-beta.2": {
+            "version": "3.10.6-beta.2",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.6-beta.2/com.vrchat.avatars-3.10.6-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.6-beta.2"
+            }
+          },
+          "3.10.6-beta.1": {
+            "version": "3.10.6-beta.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.6-beta.1/com.vrchat.avatars-3.10.6-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.6-beta.1"
+            }
+          },
+          "3.10.5": {
+            "version": "3.10.5",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.5/com.vrchat.avatars-3.10.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.5"
+            }
+          },
+          "3.10.5-beta.2": {
+            "version": "3.10.5-beta.2",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.5-beta.2/com.vrchat.avatars-3.10.5-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.5-beta.2"
+            }
+          },
+          "3.10.5-beta.1": {
+            "version": "3.10.5-beta.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.5-beta.1/com.vrchat.avatars-3.10.5-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.5-beta.1"
+            }
+          },
+          "3.10.4": {
+            "version": "3.10.4",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.4/com.vrchat.avatars-3.10.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.4"
+            }
+          },
+          "3.10.4-beta.3": {
+            "version": "3.10.4-beta.3",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.4-beta.3/com.vrchat.avatars-3.10.4-beta.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.4-beta.3"
+            }
+          },
+          "3.10.4-beta.1": {
+            "version": "3.10.4-beta.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.4-beta.1/com.vrchat.avatars-3.10.4-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.4-beta.1"
+            }
+          },
+          "3.10.3": {
+            "version": "3.10.3",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.3/com.vrchat.avatars-3.10.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.3"
+            }
+          },
+          "3.10.3-beta.2": {
+            "version": "3.10.3-beta.2",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.3-beta.2/com.vrchat.avatars-3.10.3-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.3-beta.2"
+            }
+          },
+          "3.10.3-beta.1": {
+            "version": "3.10.3-beta.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.3-beta.1/com.vrchat.avatars-3.10.3-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.3-beta.1"
+            }
+          },
+          "3.10.2": {
+            "version": "3.10.2",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.2/com.vrchat.avatars-3.10.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.2"
+            }
+          },
+          "3.10.2-beta.1": {
+            "version": "3.10.2-beta.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.2-beta.1/com.vrchat.avatars-3.10.2-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.2-beta.1"
+            }
+          },
+          "3.10.1": {
+            "version": "3.10.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.1/com.vrchat.avatars-3.10.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.1"
+            }
+          },
+          "3.10.0": {
+            "version": "3.10.0",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.0/com.vrchat.avatars-3.10.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.0"
+            }
+          },
+          "3.10.0-beta.1": {
+            "version": "3.10.0-beta.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.10.0-beta.1/com.vrchat.avatars-3.10.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.0-beta.1"
+            }
+          },
+          "3.9.1-beta.2": {
+            "version": "3.9.1-beta.2",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.9.1-beta.2/com.vrchat.avatars-3.9.1-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.9.1-beta.2"
+            }
+          },
+          "3.9.1-beta.1": {
+            "version": "3.9.1-beta.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.9.1-beta.1/com.vrchat.avatars-3.9.1-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.9.1-beta.1"
+            }
+          },
+          "3.9.0": {
+            "version": "3.9.0",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.9.0/com.vrchat.avatars-3.9.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.9.0"
+            }
+          },
+          "3.9.0-beta.1": {
+            "version": "3.9.0-beta.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.9.0-beta.1/com.vrchat.avatars-3.9.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.9.0-beta.1"
+            }
+          },
+          "3.8.2": {
+            "version": "3.8.2",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.8.2/com.vrchat.avatars-3.8.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.8.2"
+            }
+          },
+          "3.8.2-beta.1": {
+            "version": "3.8.2-beta.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.8.2-beta.1/com.vrchat.avatars-3.8.2-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.8.2-beta.1"
+            }
+          },
+          "3.8.1": {
+            "version": "3.8.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.8.1/com.vrchat.avatars-3.8.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.8.1"
+            }
+          },
+          "3.8.1-beta.4": {
+            "version": "3.8.1-beta.4",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.8.1-beta.4/com.vrchat.avatars-3.8.1-beta.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.8.1-beta.4"
+            }
+          },
+          "3.8.1-beta.3": {
+            "version": "3.8.1-beta.3",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.8.1-beta.3/com.vrchat.avatars-3.8.1-beta.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.8.1-beta.3"
+            }
+          },
+          "3.8.1-beta.2": {
+            "version": "3.8.1-beta.2",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.8.1-beta.2/com.vrchat.avatars-3.8.1-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.8.1-beta.2"
+            }
+          },
+          "3.8.1-beta.1": {
+            "version": "3.8.1-beta.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.8.1-beta.1/com.vrchat.avatars-3.8.1-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.8.1-beta.1"
+            }
+          },
+          "3.8.0": {
+            "version": "3.8.0",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.8.0/com.vrchat.avatars-3.8.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.8.0"
+            }
+          },
+          "3.7.7-beta.1": {
+            "version": "3.7.7-beta.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.7-beta.1/com.vrchat.avatars-3.7.7-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.7-beta.1"
+            }
+          },
+          "3.7.6": {
+            "version": "3.7.6",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.6/com.vrchat.avatars-3.7.6.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.6"
+            }
+          },
+          "3.7.6-beta.2": {
+            "version": "3.7.6-beta.2",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.6-beta.2/com.vrchat.avatars-3.7.6-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.6-beta.2"
+            }
+          },
+          "3.7.6-beta.1": {
+            "version": "3.7.6-beta.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.6-beta.1/com.vrchat.avatars-3.7.6-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.6-beta.1"
+            }
+          },
+          "3.7.5": {
+            "version": "3.7.5",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.5/com.vrchat.avatars-3.7.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.5"
+            }
+          },
+          "3.7.4": {
+            "version": "3.7.4",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.4/com.vrchat.avatars-3.7.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.4"
+            }
+          },
+          "3.7.3": {
+            "version": "3.7.3",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.3/com.vrchat.avatars-3.7.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.3"
+            }
+          },
+          "3.7.2": {
+            "version": "3.7.2",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.2/com.vrchat.avatars-3.7.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.2"
+            }
+          },
+          "3.7.2-beta.3": {
+            "version": "3.7.2-beta.3",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.2-beta.3/com.vrchat.avatars-3.7.2-beta.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.2-beta.3"
+            }
+          },
+          "3.7.2-beta.2": {
+            "version": "3.7.2-beta.2",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.2-beta.2/com.vrchat.avatars-3.7.2-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.2-beta.2"
+            }
+          },
+          "3.7.2-beta.1": {
+            "version": "3.7.2-beta.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.2-beta.1/com.vrchat.avatars-3.7.2-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.2-beta.1"
+            }
+          },
+          "3.7.1-beta.2": {
+            "version": "3.7.1-beta.2",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.1-beta.2/com.vrchat.avatars-3.7.1-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.1-beta.2"
+            }
+          },
+          "3.7.1-beta.1": {
+            "version": "3.7.1-beta.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.1-beta.1/com.vrchat.avatars-3.7.1-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.1-beta.1"
+            }
+          },
+          "3.7.1": {
+            "version": "3.7.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.1/com.vrchat.avatars-3.7.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.1"
+            }
+          },
+          "3.7.0-beta.2": {
+            "version": "3.7.0-beta.2",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.0-beta.2/com.vrchat.avatars-3.7.0-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.0-beta.2"
+            }
+          },
+          "3.7.0-beta.1": {
+            "version": "3.7.0-beta.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.0-beta.1/com.vrchat.avatars-3.7.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.0-beta.1"
+            }
+          },
+          "3.7.0": {
+            "version": "3.7.0",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.7.0/com.vrchat.avatars-3.7.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.7.0"
+            }
+          },
+          "3.6.2-constraints.4": {
+            "version": "3.6.2-constraints.4",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.6.2-constraints.4/com.vrchat.avatars-3.6.2-constraints.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.6.2-constraints.4"
+            }
+          },
+          "3.6.2-constraints.3": {
+            "version": "3.6.2-constraints.3",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.6.2-constraints.3/com.vrchat.avatars-3.6.2-constraints.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.6.2-constraints.3"
+            }
+          },
+          "3.6.2-constraints.2": {
+            "version": "3.6.2-constraints.2",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.6.2-constraints.2/com.vrchat.avatars-3.6.2-constraints.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.6.2-constraints.2"
+            }
+          },
+          "3.6.2-constraints.1": {
+            "version": "3.6.2-constraints.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.6.2-constraints.1/com.vrchat.avatars-3.6.2-constraints.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.6.2-constraints.1"
+            }
+          },
+          "3.6.2-beta.1": {
+            "version": "3.6.2-beta.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.6.2-beta.1/com.vrchat.avatars-3.6.2-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.6.2-beta.1"
+            }
+          },
+          "3.6.1-beta.3": {
+            "version": "3.6.1-beta.3",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.6.1-beta.3/com.vrchat.avatars-3.6.1-beta.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.6.1-beta.3"
+            }
+          },
+          "3.6.1-beta.2": {
+            "version": "3.6.1-beta.2",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.6.1-beta.2/com.vrchat.avatars-3.6.1-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.6.1-beta.2"
+            }
+          },
+          "3.6.1": {
+            "version": "3.6.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.6.1/com.vrchat.avatars-3.6.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.6.1"
+            }
+          },
+          "3.6.0-beta.1": {
+            "version": "3.6.0-beta.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.6.0-beta.1/com.vrchat.avatars-3.6.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.6.0-beta.1"
+            }
+          },
+          "3.6.0": {
+            "version": "3.6.0",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.6.0/com.vrchat.avatars-3.6.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.6.0"
+            }
+          },
+          "3.5.3-beta.2": {
+            "version": "3.5.3-beta.2",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.5.3-beta.2/com.vrchat.avatars-3.5.3-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.5.3-beta.2"
+            }
+          },
+          "3.5.2": {
+            "version": "3.5.2",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.5.2-release/com.vrchat.avatars-3.5.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.5.2"
+            }
+          },
+          "3.5.2-beta.2": {
+            "version": "3.5.2-beta.2",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.5.2-beta.2/com.vrchat.avatars-3.5.2-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.5.2-beta.2"
+            }
+          },
+          "3.5.2-beta.1": {
+            "version": "3.5.2-beta.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.5.2/com.vrchat.avatars-3.5.2-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.5.2-beta.1"
+            }
+          },
+          "3.5.1": {
+            "version": "3.5.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.5.1/com.vrchat.avatars-3.5.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.5.1"
+            }
+          },
+          "3.5.0-beta.1": {
+            "version": "3.5.0-beta.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.5.0/com.vrchat.avatars-3.5.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.5.0-beta.1"
+            }
+          },
+          "3.5.0": {
+            "version": "3.5.0",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.5.0/com.vrchat.avatars-3.5.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.5.0"
+            }
+          },
+          "3.4.2": {
+            "version": "3.4.2",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.4.2/com.vrchat.avatars-3.4.2.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.4.2"
+            }
+          },
+          "3.4.1": {
+            "version": "3.4.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.4.1/com.vrchat.avatars-3.4.1.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.4.1"
+            }
+          },
+          "3.4.0-beta.1": {
+            "version": "3.4.0-beta.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.4.0/com.vrchat.avatars-3.4.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.4.0-beta.1"
+            }
+          },
+          "3.4.0-beta.2": {
+            "version": "3.4.0-beta.2",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.4.0/com.vrchat.avatars-3.4.0-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.4.0-beta.2"
+            }
+          },
+          "3.4.0": {
+            "version": "3.4.0",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.4.0/com.vrchat.avatars-3.4.0.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.4.0"
+            }
+          },
+          "3.3.0-beta.1": {
+            "version": "3.3.0-beta.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.3.0/com.vrchat.avatars-3.3.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.3.0-beta.1"
+            }
+          },
+          "3.3.0": {
+            "version": "3.3.0",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.3.0/com.vrchat.avatars-3.3.0.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.3.0"
+            }
+          },
+          "3.2.3": {
+            "version": "3.2.3",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.2.3/com.vrchat.avatars-3.2.3.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.2.3"
+            }
+          },
+          "3.2.2-beta.1": {
+            "version": "3.2.2-beta.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.2.2/com.vrchat.avatars-3.2.2-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.2.2-beta.1"
+            }
+          },
+          "3.2.2": {
+            "version": "3.2.2",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.2.2/com.vrchat.avatars-3.2.2.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.2.2"
+            }
+          },
+          "3.2.1": {
+            "version": "3.2.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.2.1/com.vrchat.avatars-3.2.1.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "^3.2.1"
+            }
+          },
+          "3.2.0-beta.1": {
+            "version": "3.2.0-beta.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.2.0/com.vrchat.avatars-3.2.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.2.0-beta.1"
+            }
+          },
+          "3.2.0-beta.2": {
+            "version": "3.2.0-beta.2",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.2.0/com.vrchat.avatars-3.2.0-beta.2.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.2.0-beta.2"
+            }
+          },
+          "3.2.0": {
+            "version": "3.2.0",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.2.0/com.vrchat.avatars-3.2.0.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.2.0"
+            }
+          },
+          "3.1.13": {
+            "version": "3.1.13",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.13/com.vrchat.avatars-3.1.13.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.1.13"
+            }
+          },
+          "3.1.12": {
+            "version": "3.1.12",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.12/com.vrchat.avatars-3.1.12.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.1.12"
+            }
+          },
+          "3.1.10": {
+            "version": "3.1.10",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.10/com.vrchat.avatars-3.1.10.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.1.x"
+            }
+          },
+          "3.0.9": {
+            "version": "3.0.9",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.avatars-3.0.9.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.0.9"
+            }
+          },
+          "3.1.0": {
+            "version": "3.1.0",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.avatars-3.1.0.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.1.0"
+            }
+          },
+          "3.1.1": {
+            "version": "3.1.1",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.avatars-3.1.1.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.1.x"
+            }
+          },
+          "3.1.2": {
+            "version": "3.1.2",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.avatars-3.1.2.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.1.x"
+            }
+          },
+          "3.1.3": {
+            "version": "3.1.3",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.avatars-3.1.3.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.1.x"
+            }
+          },
+          "3.1.4": {
+            "version": "3.1.4",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.avatars-3.1.4.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.1.x"
+            }
+          },
+          "3.1.5": {
+            "version": "3.1.5",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.avatars-3.1.5.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.1.x"
+            }
+          },
+          "3.1.6": {
+            "version": "3.1.6",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.avatars-3.1.6.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.1.x"
+            }
+          },
+          "3.1.7": {
+            "version": "3.1.7",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.avatars-3.1.7.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.1.x"
+            }
+          },
+          "3.1.8": {
+            "version": "3.1.8",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.avatars-3.1.8.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.1.x"
+            }
+          },
+          "3.1.9": {
+            "version": "3.1.9",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.avatars-3.1.9.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.1.x"
+            }
+          },
+          "3.1.11": {
+            "version": "3.1.11",
+            "name": "com.vrchat.avatars",
+            "displayName": "VRChat SDK - Avatars",
+            "description": "Our powerful Avatars 3.0 System",
+            "url": "https://github.com/vrchat/packages/releases/download/3.1.11/com.vrchat.avatars-3.1.11.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.1.11"
+            }
+          }
+        }
+      },
+      "com.vrchat.base": {
+        "id": "com.vrchat.base",
+        "name": "com.vrchat.base",
+        "displayName": "VRChat SDK - Base",
+        "description": "Base for VRChat SDK",
+        "latestVersion": "3.11.0-beta.1",
+        "versionCount": 98,
+        "keywords": [],
+        "unity": "6000.0",
+        "author": {
+          "name": "VRChat",
+          "email": "developer@vrchat.com",
+          "url": "https://github.com/vrchat/packages"
+        },
+        "versions": {
+          "3.11.0-beta.1": {
+            "version": "3.11.0-beta.1",
+            "name": "com.vrchat.base",
+            "displayName": "VRChat SDK - Base",
+            "description": "Base for VRChat SDK",
+            "url": "https://github.com/vrchat/packages/releases/download/3.11.0-beta.1/com.vrchat.base-3.11.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "6000.0",
+            "vpmDependencies": {
+              "com.unity.burst": "1.8.24",
+              "com.unity.collections": "2.1.4",
+              "com.unity.mathematics": "1.2.6",
+              "com.unity.nuget.newtonsoft-json": "3.2.1",
+              "com.unity.timeline": "1.8.8",
+              "com.unity.xr.management": "4.4.1",
+              "com.unity.xr.oculus": "4.0.0",
+              "com.unity.postprocessing": "3.2.2",
+              "com.unity.ugui": "2.0.0",
+              "com.unity.test-framework": "1.4.3",
+              "com.unity.modules.androidjni": "1.0.0"
+            }
+          },
           "3.10.6": {
             "version": "3.10.6",
             "name": "com.vrchat.base",
@@ -196824,16 +198578,28 @@
         "name": "com.vrchat.worlds",
         "displayName": "VRChat SDK - Worlds",
         "description": "Tools for creating interactive VRChat worlds using Udon",
-        "latestVersion": "3.10.6",
-        "versionCount": 93,
+        "latestVersion": "3.11.0-beta.1",
+        "versionCount": 94,
         "keywords": [],
-        "unity": "2022.3",
+        "unity": "6000.0",
         "author": {
           "name": "VRChat",
           "email": "developer@vrchat.com",
           "url": "https://github.com/vrchat/packages"
         },
         "versions": {
+          "3.11.0-beta.1": {
+            "version": "3.11.0-beta.1",
+            "name": "com.vrchat.worlds",
+            "displayName": "VRChat SDK - Worlds",
+            "description": "Tools for creating interactive VRChat worlds using Udon",
+            "url": "https://github.com/vrchat/packages/releases/download/3.11.0-beta.1/com.vrchat.worlds-3.11.0-beta.1.zip",
+            "zipSha256": null,
+            "unity": "6000.0",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.11.0-beta.1"
+            }
+          },
           "3.10.6": {
             "version": "3.10.6",
             "name": "com.vrchat.worlds",
@@ -197944,1151 +199710,6 @@
             "displayName": "VRChat SDK - Worlds",
             "description": "Tools for creating interactive VRChat worlds using Udon",
             "url": "https://github.com/vrchat/packages/releases/download/3.1.11/com.vrchat.worlds-3.1.11.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.1.11"
-            }
-          }
-        }
-      },
-      "com.vrchat.avatars": {
-        "id": "com.vrchat.avatars",
-        "name": "com.vrchat.avatars",
-        "displayName": "VRChat SDK - Avatars",
-        "description": "Our powerful Avatars 3.0 System",
-        "latestVersion": "3.10.6",
-        "versionCount": 94,
-        "keywords": [],
-        "unity": "2022.3",
-        "author": {
-          "name": "VRChat",
-          "email": "developer@vrchat.com",
-          "url": "https://github.com/vrchat/packages"
-        },
-        "versions": {
-          "3.10.6": {
-            "version": "3.10.6",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.6/com.vrchat.avatars-3.10.6.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.6"
-            }
-          },
-          "3.10.6-beta.4": {
-            "version": "3.10.6-beta.4",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.6-beta.4/com.vrchat.avatars-3.10.6-beta.4.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.6-beta.4"
-            }
-          },
-          "3.10.6-beta.3": {
-            "version": "3.10.6-beta.3",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.6-beta.3/com.vrchat.avatars-3.10.6-beta.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.6-beta.3"
-            }
-          },
-          "3.10.6-beta.2": {
-            "version": "3.10.6-beta.2",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.6-beta.2/com.vrchat.avatars-3.10.6-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.6-beta.2"
-            }
-          },
-          "3.10.6-beta.1": {
-            "version": "3.10.6-beta.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.6-beta.1/com.vrchat.avatars-3.10.6-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.6-beta.1"
-            }
-          },
-          "3.10.5": {
-            "version": "3.10.5",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.5/com.vrchat.avatars-3.10.5.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.5"
-            }
-          },
-          "3.10.5-beta.2": {
-            "version": "3.10.5-beta.2",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.5-beta.2/com.vrchat.avatars-3.10.5-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.5-beta.2"
-            }
-          },
-          "3.10.5-beta.1": {
-            "version": "3.10.5-beta.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.5-beta.1/com.vrchat.avatars-3.10.5-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.5-beta.1"
-            }
-          },
-          "3.10.4": {
-            "version": "3.10.4",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.4/com.vrchat.avatars-3.10.4.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.4"
-            }
-          },
-          "3.10.4-beta.3": {
-            "version": "3.10.4-beta.3",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.4-beta.3/com.vrchat.avatars-3.10.4-beta.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.4-beta.3"
-            }
-          },
-          "3.10.4-beta.1": {
-            "version": "3.10.4-beta.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.4-beta.1/com.vrchat.avatars-3.10.4-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.4-beta.1"
-            }
-          },
-          "3.10.3": {
-            "version": "3.10.3",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.3/com.vrchat.avatars-3.10.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.3"
-            }
-          },
-          "3.10.3-beta.2": {
-            "version": "3.10.3-beta.2",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.3-beta.2/com.vrchat.avatars-3.10.3-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.3-beta.2"
-            }
-          },
-          "3.10.3-beta.1": {
-            "version": "3.10.3-beta.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.3-beta.1/com.vrchat.avatars-3.10.3-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.3-beta.1"
-            }
-          },
-          "3.10.2": {
-            "version": "3.10.2",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.2/com.vrchat.avatars-3.10.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.2"
-            }
-          },
-          "3.10.2-beta.1": {
-            "version": "3.10.2-beta.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.2-beta.1/com.vrchat.avatars-3.10.2-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.2-beta.1"
-            }
-          },
-          "3.10.1": {
-            "version": "3.10.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.1/com.vrchat.avatars-3.10.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.1"
-            }
-          },
-          "3.10.0": {
-            "version": "3.10.0",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.0/com.vrchat.avatars-3.10.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.0"
-            }
-          },
-          "3.10.0-beta.1": {
-            "version": "3.10.0-beta.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.10.0-beta.1/com.vrchat.avatars-3.10.0-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.10.0-beta.1"
-            }
-          },
-          "3.9.1-beta.2": {
-            "version": "3.9.1-beta.2",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.9.1-beta.2/com.vrchat.avatars-3.9.1-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.9.1-beta.2"
-            }
-          },
-          "3.9.1-beta.1": {
-            "version": "3.9.1-beta.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.9.1-beta.1/com.vrchat.avatars-3.9.1-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.9.1-beta.1"
-            }
-          },
-          "3.9.0": {
-            "version": "3.9.0",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.9.0/com.vrchat.avatars-3.9.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.9.0"
-            }
-          },
-          "3.9.0-beta.1": {
-            "version": "3.9.0-beta.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.9.0-beta.1/com.vrchat.avatars-3.9.0-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.9.0-beta.1"
-            }
-          },
-          "3.8.2": {
-            "version": "3.8.2",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.8.2/com.vrchat.avatars-3.8.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.8.2"
-            }
-          },
-          "3.8.2-beta.1": {
-            "version": "3.8.2-beta.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.8.2-beta.1/com.vrchat.avatars-3.8.2-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.8.2-beta.1"
-            }
-          },
-          "3.8.1": {
-            "version": "3.8.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.8.1/com.vrchat.avatars-3.8.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.8.1"
-            }
-          },
-          "3.8.1-beta.4": {
-            "version": "3.8.1-beta.4",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.8.1-beta.4/com.vrchat.avatars-3.8.1-beta.4.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.8.1-beta.4"
-            }
-          },
-          "3.8.1-beta.3": {
-            "version": "3.8.1-beta.3",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.8.1-beta.3/com.vrchat.avatars-3.8.1-beta.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.8.1-beta.3"
-            }
-          },
-          "3.8.1-beta.2": {
-            "version": "3.8.1-beta.2",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.8.1-beta.2/com.vrchat.avatars-3.8.1-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.8.1-beta.2"
-            }
-          },
-          "3.8.1-beta.1": {
-            "version": "3.8.1-beta.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.8.1-beta.1/com.vrchat.avatars-3.8.1-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.8.1-beta.1"
-            }
-          },
-          "3.8.0": {
-            "version": "3.8.0",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.8.0/com.vrchat.avatars-3.8.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.8.0"
-            }
-          },
-          "3.7.7-beta.1": {
-            "version": "3.7.7-beta.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.7-beta.1/com.vrchat.avatars-3.7.7-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.7-beta.1"
-            }
-          },
-          "3.7.6": {
-            "version": "3.7.6",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.6/com.vrchat.avatars-3.7.6.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.6"
-            }
-          },
-          "3.7.6-beta.2": {
-            "version": "3.7.6-beta.2",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.6-beta.2/com.vrchat.avatars-3.7.6-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.6-beta.2"
-            }
-          },
-          "3.7.6-beta.1": {
-            "version": "3.7.6-beta.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.6-beta.1/com.vrchat.avatars-3.7.6-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.6-beta.1"
-            }
-          },
-          "3.7.5": {
-            "version": "3.7.5",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.5/com.vrchat.avatars-3.7.5.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.5"
-            }
-          },
-          "3.7.4": {
-            "version": "3.7.4",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.4/com.vrchat.avatars-3.7.4.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.4"
-            }
-          },
-          "3.7.3": {
-            "version": "3.7.3",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.3/com.vrchat.avatars-3.7.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.3"
-            }
-          },
-          "3.7.2": {
-            "version": "3.7.2",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.2/com.vrchat.avatars-3.7.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.2"
-            }
-          },
-          "3.7.2-beta.3": {
-            "version": "3.7.2-beta.3",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.2-beta.3/com.vrchat.avatars-3.7.2-beta.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.2-beta.3"
-            }
-          },
-          "3.7.2-beta.2": {
-            "version": "3.7.2-beta.2",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.2-beta.2/com.vrchat.avatars-3.7.2-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.2-beta.2"
-            }
-          },
-          "3.7.2-beta.1": {
-            "version": "3.7.2-beta.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.2-beta.1/com.vrchat.avatars-3.7.2-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.2-beta.1"
-            }
-          },
-          "3.7.1-beta.2": {
-            "version": "3.7.1-beta.2",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.1-beta.2/com.vrchat.avatars-3.7.1-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.1-beta.2"
-            }
-          },
-          "3.7.1-beta.1": {
-            "version": "3.7.1-beta.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.1-beta.1/com.vrchat.avatars-3.7.1-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.1-beta.1"
-            }
-          },
-          "3.7.1": {
-            "version": "3.7.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.1/com.vrchat.avatars-3.7.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.1"
-            }
-          },
-          "3.7.0-beta.2": {
-            "version": "3.7.0-beta.2",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.0-beta.2/com.vrchat.avatars-3.7.0-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.0-beta.2"
-            }
-          },
-          "3.7.0-beta.1": {
-            "version": "3.7.0-beta.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.0-beta.1/com.vrchat.avatars-3.7.0-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.0-beta.1"
-            }
-          },
-          "3.7.0": {
-            "version": "3.7.0",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.7.0/com.vrchat.avatars-3.7.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.7.0"
-            }
-          },
-          "3.6.2-constraints.4": {
-            "version": "3.6.2-constraints.4",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.6.2-constraints.4/com.vrchat.avatars-3.6.2-constraints.4.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.6.2-constraints.4"
-            }
-          },
-          "3.6.2-constraints.3": {
-            "version": "3.6.2-constraints.3",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.6.2-constraints.3/com.vrchat.avatars-3.6.2-constraints.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.6.2-constraints.3"
-            }
-          },
-          "3.6.2-constraints.2": {
-            "version": "3.6.2-constraints.2",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.6.2-constraints.2/com.vrchat.avatars-3.6.2-constraints.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.6.2-constraints.2"
-            }
-          },
-          "3.6.2-constraints.1": {
-            "version": "3.6.2-constraints.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.6.2-constraints.1/com.vrchat.avatars-3.6.2-constraints.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.6.2-constraints.1"
-            }
-          },
-          "3.6.2-beta.1": {
-            "version": "3.6.2-beta.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.6.2-beta.1/com.vrchat.avatars-3.6.2-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.6.2-beta.1"
-            }
-          },
-          "3.6.1-beta.3": {
-            "version": "3.6.1-beta.3",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.6.1-beta.3/com.vrchat.avatars-3.6.1-beta.3.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.6.1-beta.3"
-            }
-          },
-          "3.6.1-beta.2": {
-            "version": "3.6.1-beta.2",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.6.1-beta.2/com.vrchat.avatars-3.6.1-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.6.1-beta.2"
-            }
-          },
-          "3.6.1": {
-            "version": "3.6.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.6.1/com.vrchat.avatars-3.6.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.6.1"
-            }
-          },
-          "3.6.0-beta.1": {
-            "version": "3.6.0-beta.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.6.0-beta.1/com.vrchat.avatars-3.6.0-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.6.0-beta.1"
-            }
-          },
-          "3.6.0": {
-            "version": "3.6.0",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.6.0/com.vrchat.avatars-3.6.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.6.0"
-            }
-          },
-          "3.5.3-beta.2": {
-            "version": "3.5.3-beta.2",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.5.3-beta.2/com.vrchat.avatars-3.5.3-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.5.3-beta.2"
-            }
-          },
-          "3.5.2": {
-            "version": "3.5.2",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.5.2-release/com.vrchat.avatars-3.5.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.5.2"
-            }
-          },
-          "3.5.2-beta.2": {
-            "version": "3.5.2-beta.2",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.5.2-beta.2/com.vrchat.avatars-3.5.2-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.5.2-beta.2"
-            }
-          },
-          "3.5.2-beta.1": {
-            "version": "3.5.2-beta.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.5.2/com.vrchat.avatars-3.5.2-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.5.2-beta.1"
-            }
-          },
-          "3.5.1": {
-            "version": "3.5.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.5.1/com.vrchat.avatars-3.5.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.5.1"
-            }
-          },
-          "3.5.0-beta.1": {
-            "version": "3.5.0-beta.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.5.0/com.vrchat.avatars-3.5.0-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.5.0-beta.1"
-            }
-          },
-          "3.5.0": {
-            "version": "3.5.0",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.5.0/com.vrchat.avatars-3.5.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.5.0"
-            }
-          },
-          "3.4.2": {
-            "version": "3.4.2",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.4.2/com.vrchat.avatars-3.4.2.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.4.2"
-            }
-          },
-          "3.4.1": {
-            "version": "3.4.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.4.1/com.vrchat.avatars-3.4.1.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.4.1"
-            }
-          },
-          "3.4.0-beta.1": {
-            "version": "3.4.0-beta.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.4.0/com.vrchat.avatars-3.4.0-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.4.0-beta.1"
-            }
-          },
-          "3.4.0-beta.2": {
-            "version": "3.4.0-beta.2",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.4.0/com.vrchat.avatars-3.4.0-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.4.0-beta.2"
-            }
-          },
-          "3.4.0": {
-            "version": "3.4.0",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.4.0/com.vrchat.avatars-3.4.0.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.4.0"
-            }
-          },
-          "3.3.0-beta.1": {
-            "version": "3.3.0-beta.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.3.0/com.vrchat.avatars-3.3.0-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.3.0-beta.1"
-            }
-          },
-          "3.3.0": {
-            "version": "3.3.0",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.3.0/com.vrchat.avatars-3.3.0.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.3.0"
-            }
-          },
-          "3.2.3": {
-            "version": "3.2.3",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.2.3/com.vrchat.avatars-3.2.3.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.2.3"
-            }
-          },
-          "3.2.2-beta.1": {
-            "version": "3.2.2-beta.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.2.2/com.vrchat.avatars-3.2.2-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.2.2-beta.1"
-            }
-          },
-          "3.2.2": {
-            "version": "3.2.2",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.2.2/com.vrchat.avatars-3.2.2.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.2.2"
-            }
-          },
-          "3.2.1": {
-            "version": "3.2.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.2.1/com.vrchat.avatars-3.2.1.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "^3.2.1"
-            }
-          },
-          "3.2.0-beta.1": {
-            "version": "3.2.0-beta.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.2.0/com.vrchat.avatars-3.2.0-beta.1.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.2.0-beta.1"
-            }
-          },
-          "3.2.0-beta.2": {
-            "version": "3.2.0-beta.2",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.2.0/com.vrchat.avatars-3.2.0-beta.2.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.2.0-beta.2"
-            }
-          },
-          "3.2.0": {
-            "version": "3.2.0",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.2.0/com.vrchat.avatars-3.2.0.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.2.0"
-            }
-          },
-          "3.1.13": {
-            "version": "3.1.13",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.13/com.vrchat.avatars-3.1.13.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.1.13"
-            }
-          },
-          "3.1.12": {
-            "version": "3.1.12",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.12/com.vrchat.avatars-3.1.12.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.1.12"
-            }
-          },
-          "3.1.10": {
-            "version": "3.1.10",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.10/com.vrchat.avatars-3.1.10.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.1.x"
-            }
-          },
-          "3.0.9": {
-            "version": "3.0.9",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.avatars-3.0.9.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.0.9"
-            }
-          },
-          "3.1.0": {
-            "version": "3.1.0",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.avatars-3.1.0.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.1.0"
-            }
-          },
-          "3.1.1": {
-            "version": "3.1.1",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.avatars-3.1.1.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.1.x"
-            }
-          },
-          "3.1.2": {
-            "version": "3.1.2",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.avatars-3.1.2.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.1.x"
-            }
-          },
-          "3.1.3": {
-            "version": "3.1.3",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.avatars-3.1.3.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.1.x"
-            }
-          },
-          "3.1.4": {
-            "version": "3.1.4",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.avatars-3.1.4.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.1.x"
-            }
-          },
-          "3.1.5": {
-            "version": "3.1.5",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.avatars-3.1.5.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.1.x"
-            }
-          },
-          "3.1.6": {
-            "version": "3.1.6",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.avatars-3.1.6.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.1.x"
-            }
-          },
-          "3.1.7": {
-            "version": "3.1.7",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.avatars-3.1.7.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.1.x"
-            }
-          },
-          "3.1.8": {
-            "version": "3.1.8",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.avatars-3.1.8.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.1.x"
-            }
-          },
-          "3.1.9": {
-            "version": "3.1.9",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.9/com.vrchat.avatars-3.1.9.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {
-              "com.vrchat.base": "3.1.x"
-            }
-          },
-          "3.1.11": {
-            "version": "3.1.11",
-            "name": "com.vrchat.avatars",
-            "displayName": "VRChat SDK - Avatars",
-            "description": "Our powerful Avatars 3.0 System",
-            "url": "https://github.com/vrchat/packages/releases/download/3.1.11/com.vrchat.avatars-3.1.11.zip",
             "zipSha256": null,
             "unity": "2019.4",
             "vpmDependencies": {
