@@ -12808,8 +12808,8 @@
     "name": "Azelrack package's Listing",
     "id": "com.vrchat.azelrack.vpm.listing",
     "author": "Azelrack",
-    "hash": "8fe54fdfff5d960874ce0b10ff7ef9a61a47f5b3ad2bd7bcbc270d07d4ef48d0",
-    "last_updated": "2026-11-19T23:08:19.000Z",
+    "hash": "3425baa9eef6368bb6c4ee0361633af2f709e442669a45f12c9c2f0f9c56671c",
+    "last_updated": "2026-11-20T22:57:18.000Z",
     "packageCount": 3,
     "packages": {
       "com.azelrack.vrchat-udon-avatar-scaler": {
@@ -12994,9 +12994,9 @@
         "id": "com.azelrack.vrchat-udon-common-tools",
         "name": "com.azelrack.vrchat-udon-common-tools",
         "displayName": "Udon Common Tools",
-        "description": "Collection of scripts and prefabs used in multiple of my packages. Mostly basic UI bricks.",
-        "latestVersion": "0.1.1",
-        "versionCount": 2,
+        "description": "Collection of scripts and prefabs used in my packages. Mostly UI bricks.",
+        "latestVersion": "0.1.2",
+        "versionCount": 3,
         "keywords": [
           "Script",
           "Prefab",
@@ -13009,6 +13009,20 @@
           "url": "https://github.com/Azelrack"
         },
         "versions": {
+          "0.1.2": {
+            "version": "0.1.2",
+            "name": "com.azelrack.vrchat-udon-common-tools",
+            "displayName": "Udon Common Tools",
+            "description": "Collection of scripts and prefabs used in my packages. Mostly UI bricks.",
+            "url": "https://github.com/Azelrack/VRChat-UdonCommonTools/releases/download/0.1.2/VRChatUdonCommonTools.0.1.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "3.10.6",
+              "com.vrchat.worlds": "3.10.6",
+              "com.vrchat.core.vpm-resolver": "0.1.29"
+            }
+          },
           "0.1.1": {
             "version": "0.1.1",
             "name": "com.azelrack.vrchat-udon-common-tools",
@@ -14942,8 +14956,8 @@
     "name": "Orbiters VPM",
     "id": "cc.orbiters.vpm",
     "author": "blackorbit",
-    "hash": "c383de0563f7a62e43ab42ee7422c4bdb33dc89f3a4ea782f62019602ec5ee2b",
-    "last_updated": "2026-11-20T05:22:52.000Z",
+    "hash": "3e0d32889e8bd28e7b5d847b324fa526998261de2c7ad9981a62f4a31b5eb833",
+    "last_updated": "2026-11-21T05:22:09.000Z",
     "packageCount": 12,
     "packages": {
       "orbiters.mcb": {
@@ -14951,8 +14965,8 @@
         "name": "orbiters.mcb",
         "displayName": "My Custom Base (MCB)",
         "description": "Wizard to apply a custom base with the MCB tool",
-        "latestVersion": "1.14.2",
-        "versionCount": 37,
+        "latestVersion": "1.14.4",
+        "versionCount": 39,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -14961,6 +14975,36 @@
           "email": "blackorbit.eclaire@gmail.com"
         },
         "versions": {
+          "1.14.4": {
+            "version": "1.14.4",
+            "name": "orbiters.mcb",
+            "displayName": "My Custom Base (MCB)",
+            "description": "Wizard to apply a custom base with the MCB tool",
+            "url": "https://github.com/Orbiters-cc/MyCustomBase/releases/download/1.14.4/My.Custom.Base.MCB.-1.14.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "orbiters.toolkit": ">=0.5.3 <0.6.0",
+              "com.vrchat.avatars": ">=3.7.0 <4.0.0",
+              "com.vrcfury.vrcfury": ">=1.1241.0",
+              "com.vrchat.core.vpm-resolver": ">=0.1.29 <0.2.0"
+            }
+          },
+          "1.14.3": {
+            "version": "1.14.3",
+            "name": "orbiters.mcb",
+            "displayName": "My Custom Base (MCB)",
+            "description": "Wizard to apply a custom base with the MCB tool",
+            "url": "https://github.com/Orbiters-cc/MyCustomBase/releases/download/1.14.3/My.Custom.Base.MCB.-1.14.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "orbiters.toolkit": ">=0.5.3 <0.6.0",
+              "com.vrchat.avatars": ">=3.7.0 <4.0.0",
+              "com.vrcfury.vrcfury": ">=1.1241.0",
+              "com.vrchat.core.vpm-resolver": ">=0.1.29 <0.2.0"
+            }
+          },
           "1.14.2": {
             "version": "1.14.2",
             "name": "orbiters.mcb",
@@ -16376,8 +16420,8 @@
         "name": "orbiters.toolkit",
         "displayName": "Orbiters Toolkit",
         "description": "Shared Orbiters account, editor UI, feature flags, VPM dependency prompts, bone matching, accessory attachment and posing preview, blendshape links, custom base refits (records, build-time blendshape links, fit checks), avatar photoshoot, mirror posing, Scene view gizmos (bones, weight paint, mesh edges, avatar budget), mesh editing primitives (BVH, neighbors, FBX writer), background window capture, N4N0 (the Orbiters companion prop) and avatar manifests for Orbiters - N4N0.",
-        "latestVersion": "0.5.2",
-        "versionCount": 46,
+        "latestVersion": "0.5.4",
+        "versionCount": 48,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -16386,6 +16430,36 @@
           "email": "blackorbit.eclaire@gmail.com"
         },
         "versions": {
+          "0.5.4": {
+            "version": "0.5.4",
+            "name": "orbiters.toolkit",
+            "displayName": "Orbiters Toolkit",
+            "description": "Shared Orbiters account, editor UI, feature flags, VPM dependency prompts, bone matching, accessory attachment and posing preview, blendshape links, custom base refits (records, build-time blendshape links, fit checks), avatar photoshoot, mirror posing, Scene view gizmos (bones, weight paint, mesh edges, avatar budget), mesh editing primitives (BVH, neighbors, FBX writer), background window capture, N4N0 (the Orbiters companion prop) and avatar manifests for Orbiters - N4N0.",
+            "url": "https://github.com/Orbiters-cc/Toolkit/releases/download/0.5.4/Toolkit-0.5.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.unity.burst": "1.8.7",
+              "com.unity.collections": "2.1.4",
+              "com.unity.mathematics": "1.3.2",
+              "com.unity.nuget.newtonsoft-json": "3.2.1"
+            }
+          },
+          "0.5.3": {
+            "version": "0.5.3",
+            "name": "orbiters.toolkit",
+            "displayName": "Orbiters Toolkit",
+            "description": "Shared Orbiters account, editor UI, feature flags, VPM dependency prompts, bone matching, accessory attachment and posing preview, blendshape links, custom base refits (records, build-time blendshape links, fit checks), avatar photoshoot, mirror posing, Scene view gizmos (bones, weight paint, mesh edges, avatar budget), mesh editing primitives (BVH, neighbors, FBX writer), background window capture, N4N0 (the Orbiters companion prop) and avatar manifests for Orbiters - N4N0.",
+            "url": "https://github.com/Orbiters-cc/Toolkit/releases/download/0.5.3/Toolkit-0.5.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.unity.burst": "1.8.7",
+              "com.unity.collections": "2.1.4",
+              "com.unity.mathematics": "1.3.2",
+              "com.unity.nuget.newtonsoft-json": "3.2.1"
+            }
+          },
           "0.5.2": {
             "version": "0.5.2",
             "name": "orbiters.toolkit",
@@ -17926,7 +18000,7 @@
     "id": "com.surarin.vpm",
     "author": "Surarin",
     "hash": "01f63e49ba01b1361e52d2caf566ac678676ad7accb612ed861a8f3a37e444fb",
-    "last_updated": "2026-10-29T09:38:09.000Z",
+    "last_updated": "2026-10-29T09:38:10.000Z",
     "packageCount": 1,
     "packages": {
       "com.surarin.worldtitlegimmick": {
@@ -20445,7 +20519,7 @@
     "id": "com.chikumatateshina.qvpen-avatar-follow-system",
     "author": "ChikumaTateshina",
     "hash": "c002c8b044783a1bc15e74a999e1af8a65dfbb62b0ca97d520515986173bcbb1",
-    "last_updated": "2026-10-06T04:43:26.000Z",
+    "last_updated": "2026-10-06T04:43:27.000Z",
     "packageCount": 1,
     "packages": {
       "com.chikumatateshina.qvpen-avatar-follow-system": {
@@ -20490,7 +20564,7 @@
     "id": "com.chill.vpm",
     "author": "chill",
     "hash": "218dd1fd125e7194ca6c8140e63ca3d013b40ed5b78b42e79e1ff1e1d5cd5b05",
-    "last_updated": "2026-05-21T13:11:02.000Z",
+    "last_updated": "2026-05-21T13:11:01.000Z",
     "packageCount": 1,
     "packages": {
       "com.chill.avatarscope": {
@@ -21053,8 +21127,8 @@
     "name": "CucumberWorks",
     "id": "io.github.cucumberworks.vpm",
     "author": "CucumberWorks",
-    "hash": "f1dccba257808a3a71eec466e474e14d8bcae4c0b6e4524c5c4d6ac52b546dee",
-    "last_updated": "2026-11-10T13:57:12.000Z",
+    "hash": "17283efe6af9fe9f672936b115d9f5b534ad8e5d2b50e976b16f52d92b596f9f",
+    "last_updated": "2026-11-21T03:20:25.000Z",
     "packageCount": 3,
     "packages": {
       "com.soulflame.vrm-exporter": {
@@ -21063,7 +21137,7 @@
         "displayName": "SoulFlame VRM Exporter",
         "description": "Captures a source avatar's selected Play Mode appearance and exports one self-contained VRM 1.0 3D model.",
         "latestVersion": "0.1.0-beta.1",
-        "versionCount": 39,
+        "versionCount": 40,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -21671,6 +21745,23 @@
               "com.unity.timeline": "1.7.6",
               "com.unity.ugui": "1.0.0"
             }
+          },
+          "0.7.2": {
+            "version": "0.7.2",
+            "name": "com.soulflame.vrm-exporter",
+            "displayName": "SoulFlame VRM Exporter (VRChat avatar to VRM)",
+            "description": "Converts a VRChat avatar into a VRM 1.0 file (or VRM 0.x for apps such as VSeeFace), as it looks in Play Mode. Open it from VRM > SoulFlame VRM Exporter or Tools > CucumberWorks > SoulFlame VRM Exporter.",
+            "url": "https://github.com/CucumberWorks/vpm/releases/download/0.7.2/com.soulflame.vrm-exporter-0.7.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.unity.mathematics": "1.2.6",
+              "com.unity.modules.animation": "1.0.0",
+              "com.unity.modules.imageconversion": "1.0.0",
+              "com.unity.modules.imgui": "1.0.0",
+              "com.unity.timeline": "1.7.6",
+              "com.unity.ugui": "1.0.0"
+            }
           }
         }
       },
@@ -22241,8 +22332,8 @@
     "name": "d4rkpl4y3r",
     "id": "io.github.d4rkc0d3r",
     "author": "d4rkpl4y3r",
-    "hash": "548fa3c172dbd58a0255c3f099ad34f496425fe03f277833257ce64f469354a5",
-    "last_updated": "2026-11-07T21:54:27.000Z",
+    "hash": "60f6e9608155facbd7278fcc173eb278f3d7bf41cf7b85eb82fa53e84b020eae",
+    "last_updated": "2026-11-20T19:07:25.000Z",
     "packageCount": 1,
     "packages": {
       "d4rkpl4y3r.d4rkavataroptimizer": {
@@ -22251,7 +22342,7 @@
         "displayName": "d4rkAvatarOptimizer",
         "description": "An optimizer aiming to reduce mesh & material count and more of VRChat 3.0 avatars.",
         "latestVersion": "2.0.0",
-        "versionCount": 102,
+        "versionCount": 103,
         "keywords": [],
         "unity": "2019.4",
         "author": "d4rkpl4y3r",
@@ -23335,6 +23426,18 @@
             "vpmDependencies": {
               "com.vrchat.avatars": ">=3.10.6 <3.11.0-a"
             }
+          },
+          "4.7.3": {
+            "version": "4.7.3",
+            "name": "d4rkpl4y3r.d4rkavataroptimizer",
+            "displayName": "d4rkAvatarOptimizer",
+            "description": "An optimizer aiming to reduce mesh & material count and more of VRChat 3.0 avatars.",
+            "url": "https://github.com/d4rkc0d3r/d4rkAvatarOptimizer/releases/download/v4.7.3/d4rkpl4y3r.d4rkavataroptimizer-4.7.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.6 <3.11.0-a"
+            }
           }
         }
       }
@@ -23345,8 +23448,8 @@
     "name": "D9speed Unity Tools",
     "id": "io.github.d9speed.unity_tools",
     "author": "d9speed <d09pseed@gmail.com>",
-    "hash": "25e2147e6f6359ae6ac68f0acab5cc4ce38417cf2d702bbfd4207b8318855f2b",
-    "last_updated": "2026-11-17T10:21:39.000Z",
+    "hash": "2e720309759d3115d79f0600f3b5e25cbf8eb68cb3ba358ea77d6ae7ab79ac27",
+    "last_updated": "2026-11-21T05:03:30.000Z",
     "packageCount": 11,
     "packages": {
       "io.github.d9speed.editor_core": {
@@ -23355,7 +23458,7 @@
         "displayName": "D9speed Editor Core",
         "description": "Shared Editor helpers for D9speed tools. This initial package provides EditorObjectHelper.",
         "latestVersion": "0.1.0",
-        "versionCount": 14,
+        "versionCount": 15,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -23500,6 +23603,16 @@
             "displayName": "D9speed Editor Core",
             "description": "Shared Editor helpers, hierarchy and blend shape search, Transform tools, EditorOnly guide board prefab creation, and preferences for D9speed tools.",
             "url": "https://github.com/d9speed/unity_editor_tools/releases/download/editor_core_v0.1.13/io.github.d9speed.editor_core-0.1.13.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "0.1.15": {
+            "version": "0.1.15",
+            "name": "io.github.d9speed.editor_core",
+            "displayName": "D9speed Editor Core",
+            "description": "Shared Editor helpers, hierarchy and blend shape search, Transform tools, guide text Sprite creation, lilToon material setup, and preferences for D9speed tools.",
+            "url": "https://github.com/d9speed/unity_editor_tools/releases/download/editor_core_v0.1.15/io.github.d9speed.editor_core-0.1.15.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {}
@@ -24903,7 +25016,7 @@
     "id": "com.docme.listing",
     "author": "DocMe",
     "hash": "eb5d9f703a3ea4f0e2136fb2618d56da34f9cdf5aad5e4f8765cf1b18e212c90",
-    "last_updated": "2026-11-19T13:00:01.000Z",
+    "last_updated": "2026-11-20T12:51:37.000Z",
     "packageCount": 5,
     "packages": {
       "com.docme.eye-installer": {
@@ -26496,8 +26609,8 @@
     "name": "Sakuu's VRChat Package Listing",
     "id": "drsakuu.vpm-listing",
     "author": "Dr. Sakuu Cuddles",
-    "hash": "2a105fd547aec9762db345e7870fddf24826b446c040d67a45c038c2c7830112",
-    "last_updated": "2026-11-11T10:15:02.000Z",
+    "hash": "d6488fa796c9e14f118bdf3b1d566aa04c1d93f5ea8bbfc6835f8d1d9cd2b987",
+    "last_updated": "2026-11-20T18:32:29.000Z",
     "packageCount": 1,
     "packages": {
       "drsakuu.humr": {
@@ -26505,8 +26618,8 @@
         "name": "drsakuu.humr",
         "displayName": "Hyakuashi Udon Motion Recorder",
         "description": "HUMR is a motion capture tool that records player's movements into the VRChat log files and then exports them to FBX in a Unity project. This is version 2, which uses a new log format.",
-        "latestVersion": "2.1.2",
-        "versionCount": 9,
+        "latestVersion": "2.2.0",
+        "versionCount": 10,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -26514,6 +26627,16 @@
           "url": "https://drsakuu.carrd.co"
         },
         "versions": {
+          "2.2.0": {
+            "version": "2.2.0",
+            "name": "drsakuu.humr",
+            "displayName": "Hyakuashi Udon Motion Recorder",
+            "description": "HUMR is a motion capture tool that records player's movements into the VRChat log files and then exports them to FBX in a Unity project. This is version 2, which uses a new log format.",
+            "url": "https://github.com/DrSakuu/HyakuashiUdonMotionRecorder/releases/download/v2.2.0/drsakuu.humr-2.2.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "2.1.2": {
             "version": "2.1.2",
             "name": "drsakuu.humr",
@@ -36396,8 +36519,8 @@
     "name": "Synthos VRC Packages",
     "id": "com.synthos.packages",
     "author": "Synthos",
-    "hash": "4422ef45283f8ed16f915e9a4ab2c9c388ebe058cfe5c26987d830d18552a57c",
-    "last_updated": "2026-11-20T05:33:26.000Z",
+    "hash": "4fe97d024df78bd31d8d8921321be42ee335bafc9fe32e4600e33c5c58708705",
+    "last_updated": "2026-11-21T01:04:30.000Z",
     "packageCount": 9,
     "packages": {
       "com.synthos.scene-optimizer": {
@@ -37400,8 +37523,8 @@
         "name": "com.synthos.avatar-compressor",
         "displayName": "Avatar Compressor (Synthos Edition)",
         "description": "Avatar Compressor: Non-Destructive Avatar Compression Utilities. Runs at VRChat avatar build time and works with VRCFury.",
-        "latestVersion": "1.4.2-beta.7",
-        "versionCount": 32,
+        "latestVersion": "1.4.2-beta.9",
+        "versionCount": 34,
         "keywords": [
           "lac",
           "avatar",
@@ -37418,6 +37541,36 @@
           "url": "https://github.com/Limitex/avatar-compressor"
         },
         "versions": {
+          "1.4.2-beta.9": {
+            "version": "1.4.2-beta.9",
+            "name": "com.synthos.avatar-compressor",
+            "displayName": "Avatar Compressor (Synthos Edition)",
+            "description": "Avatar Compressor: Non-Destructive Avatar Compression Utilities. Runs at VRChat avatar build time and works with VRCFury.",
+            "url": "https://github.com/GRIMREAPER35487/avatar-compressor-Synthos/releases/download/v1.4.2-beta.9/com.synthos.avatar-compressor-1.4.2-beta.9.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": ">=3.10.0",
+              "com.vrchat.avatars": ">=3.10.0",
+              "com.vrcfury.vrcfury": ">=1.1298.0",
+              "com.synthos.texture-analysis": ">=1.4.2-beta.9"
+            }
+          },
+          "1.4.2-beta.8": {
+            "version": "1.4.2-beta.8",
+            "name": "com.synthos.avatar-compressor",
+            "displayName": "Avatar Compressor (Synthos Edition)",
+            "description": "Avatar Compressor: Non-Destructive Avatar Compression Utilities. Runs at VRChat avatar build time and works with VRCFury.",
+            "url": "https://github.com/GRIMREAPER35487/avatar-compressor-Synthos/releases/download/v1.4.2-beta.8/com.synthos.avatar-compressor-1.4.2-beta.8.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": ">=3.10.0",
+              "com.vrchat.avatars": ">=3.10.0",
+              "com.vrcfury.vrcfury": ">=1.1298.0",
+              "com.synthos.texture-analysis": ">=1.4.2-beta.8"
+            }
+          },
           "1.4.2-beta.7": {
             "version": "1.4.2-beta.7",
             "name": "com.synthos.avatar-compressor",
@@ -37893,8 +38046,8 @@
         "name": "com.synthos.texture-analysis",
         "displayName": "Synthos Texture Analysis",
         "description": "Shared texture analysis used by Synthos tools: detail scoring, resizing and compression format choice. Installed automatically as a dependency.",
-        "latestVersion": "1.4.2-beta.7",
-        "versionCount": 22,
+        "latestVersion": "1.4.2-beta.9",
+        "versionCount": 24,
         "keywords": [
           "texture",
           "compression",
@@ -37907,6 +38060,26 @@
           "url": "https://github.com/GRIMREAPER35487"
         },
         "versions": {
+          "1.4.2-beta.9": {
+            "version": "1.4.2-beta.9",
+            "name": "com.synthos.texture-analysis",
+            "displayName": "Synthos Texture Analysis",
+            "description": "Shared texture analysis used by Synthos tools: detail scoring, resizing and compression format choice. Installed automatically as a dependency.",
+            "url": "https://github.com/GRIMREAPER35487/avatar-compressor-Synthos/releases/download/v1.4.2-beta.9/com.synthos.texture-analysis-1.4.2-beta.9.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.4.2-beta.8": {
+            "version": "1.4.2-beta.8",
+            "name": "com.synthos.texture-analysis",
+            "displayName": "Synthos Texture Analysis",
+            "description": "Shared texture analysis used by Synthos tools: detail scoring, resizing and compression format choice. Installed automatically as a dependency.",
+            "url": "https://github.com/GRIMREAPER35487/avatar-compressor-Synthos/releases/download/v1.4.2-beta.8/com.synthos.texture-analysis-1.4.2-beta.8.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.4.2-beta.7": {
             "version": "1.4.2-beta.7",
             "name": "com.synthos.texture-analysis",
@@ -47489,7 +47662,7 @@
     "id": "io.github.helpinghandsvr.vpm",
     "author": "Helping Hands",
     "hash": "d3cba140edcf3cb5c17c4b6034085a4238c0dbbd2ce98b5f097b608968bff8fb",
-    "last_updated": "2026-07-03T13:20:29.000Z",
+    "last_updated": "2026-07-03T13:20:30.000Z",
     "packageCount": 2,
     "packages": {
       "io.github.helpinghandsvr.helpinghands-vrchat-avatar-accessories": {
@@ -50493,7 +50666,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "dc975d1397ce107372949311ebff9c87b2475ea8a0827d7b3c6c9caa9a314034",
-    "last_updated": "2026-11-19T15:58:30.000Z",
+    "last_updated": "2026-11-20T11:48:59.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -53551,8 +53724,8 @@
     "name": "kb10uy VRChat Package Repository",
     "id": "org.kb10uy.vrc-repository",
     "author": "kb10uy",
-    "hash": "cfa82dbbfe2034539ac7e004bc231847df02bd9891025b7a3cea56e5b5156a58",
-    "last_updated": "2026-11-18T04:45:46.000Z",
+    "hash": "c8ca1bb2122b344c3a7bbace8c77c1ce2e4e0a72c256b45dd87dce88c60cd95f",
+    "last_updated": "2026-11-20T08:55:42.000Z",
     "packageCount": 9,
     "packages": {
       "jp.lilxyzw.liltoon": {
@@ -59165,8 +59338,8 @@
         "name": "org.kb10uy.zatools",
         "displayName": "Zatools: kb10uy's Various Tools",
         "description": "Various tools developed by kb10uy",
-        "latestVersion": "7.0.0",
-        "versionCount": 89,
+        "latestVersion": "7.1.0",
+        "versionCount": 90,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -59175,6 +59348,19 @@
           "url": "https://kb10uy.org"
         },
         "versions": {
+          "7.1.0": {
+            "version": "7.1.0",
+            "name": "org.kb10uy.zatools",
+            "displayName": "Zatools: kb10uy's Various Tools",
+            "description": "Various tools developed by kb10uy",
+            "url": "https://github.com/kb10uy/kb10uy-zatools/releases/download/7.1.0/org.kb10uy.zatools.7.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.15.0",
+              "nadena.dev.modular-avatar": ">=1.19.0"
+            }
+          },
           "7.0.0": {
             "version": "7.0.0",
             "name": "org.kb10uy.zatools",
@@ -60746,7 +60932,7 @@
     "id": "com.kikurage1989.utilsscript",
     "author": "kikurage1989_",
     "hash": "a479bbbb44186c8db52473fa68813010d0cde6afd082f97f0ee93a79ee10ca50",
-    "last_updated": "2026-07-30T11:03:58.000Z",
+    "last_updated": "2026-07-30T11:03:57.000Z",
     "packageCount": 2,
     "packages": {
       "com.kikurage1989.utilsscript": {
@@ -61194,8 +61380,8 @@
     "name": "kmnk VPM Listing",
     "id": "dev.kmnk.vpm",
     "author": "kmnk",
-    "hash": "836470da127bcc3efed4fbd359f2e756e70f42651cef27adf0866dfe39c65ba0",
-    "last_updated": "2026-11-19T18:23:03.000Z",
+    "hash": "26a43f221eaac1403d7e88cc553a98d977857e9da1cee2ac4deffef86b2fbb0c",
+    "last_updated": "2026-11-20T18:22:59.000Z",
     "packageCount": 2,
     "packages": {
       "dev.kmnk.log-stream": {
@@ -61243,8 +61429,8 @@
         "name": "dev.kmnk.face-tracking-generator",
         "displayName": "Face Tracking Generator",
         "description": "Generates face tracking layers for VRChat avatars from text tables, with a table editor and preview.",
-        "latestVersion": "0.18.0",
-        "versionCount": 18,
+        "latestVersion": "0.19.0",
+        "versionCount": 19,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -61252,6 +61438,19 @@
           "url": "https://github.com/kmnk"
         },
         "versions": {
+          "0.19.0": {
+            "version": "0.19.0",
+            "name": "dev.kmnk.face-tracking-generator",
+            "displayName": "Face Tracking Generator",
+            "description": "Generates face tracking layers for VRChat avatars from text tables, with a table editor and preview.",
+            "url": "https://github.com/kmnk/VRChat_FaceTrackingGenerator/releases/download/v0.19.0/dev.kmnk.face-tracking-generator-0.19.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.6",
+              "nadena.dev.ndmf": ">=1.14.7 <2.0.0-a"
+            }
+          },
           "0.18.0": {
             "version": "0.18.0",
             "name": "dev.kmnk.face-tracking-generator",
@@ -65353,7 +65552,7 @@
     "id": "net.euan.lazyoptimiser.listing",
     "author": "euan142",
     "hash": "6a0b4ea94d87ae345649306e6fda40f7bd86325206e58e1a4c5943450a9fe4ee",
-    "last_updated": "2025-02-20T10:25:21.000Z",
+    "last_updated": "2025-02-20T10:25:22.000Z",
     "packageCount": 1,
     "packages": {
       "net.euan.lazyoptimiser": {
@@ -65727,8 +65926,8 @@
     "name": "LGC VRC Packages",
     "id": "com.lgcchina.vrc-packages",
     "author": "LgcChina",
-    "hash": "950c15d492acb143109e7f9a2703078d2f06b5e6469ef81acd58edc30fa414c1",
-    "last_updated": "2026-11-19T15:58:56.000Z",
+    "hash": "224792371c939642e2495b42ce1f2f22fb9ef95823aa5b1be1b8eb789004d503",
+    "last_updated": "2026-11-20T16:11:30.000Z",
     "packageCount": 15,
     "packages": {
       "com.lgcchina.pickup-quick-setup": {
@@ -66464,10 +66663,10 @@
       "com.lgcchina.ma-fury-localization": {
         "id": "com.lgcchina.ma-fury-localization",
         "name": "com.lgcchina.ma-fury-localization",
-        "displayName": "LGC_MAFury_中文拓展",
-        "description": "自动检测 Modular Avatar 与 VRCFury 的独立简体中文界面拓展，分别支持停用还原与重载词典；覆盖 MA 和 VRCFury 组件、动作、菜单与 SPS 面板。",
-        "latestVersion": "2.0.0",
-        "versionCount": 1,
+        "displayName": "LGC_VRCMAFury_中文拓展",
+        "description": "自动检测 VRChat SDK、Modular Avatar 与 VRCFury 的独立简体中文界面拓展，支持停用还原与重载词典；覆盖常用 SDK 组件、人物描述器、登录、上传与设置界面，以及 MA / VRCFury。",
+        "latestVersion": "2.3.6",
+        "versionCount": 2,
         "keywords": [
           "modular-avatar",
           "vrcfury",
@@ -66483,6 +66682,18 @@
           "url": "https://github.com/LgcChina"
         },
         "versions": {
+          "2.3.6": {
+            "version": "2.3.6",
+            "name": "com.lgcchina.ma-fury-localization",
+            "displayName": "LGC_VRCMAFury_中文拓展",
+            "description": "自动检测 VRChat SDK、Modular Avatar 与 VRCFury 的独立简体中文界面拓展，支持停用还原与重载词典；覆盖常用 SDK 组件、人物描述器、登录、上传与设置界面，以及 MA / VRCFury。",
+            "url": "https://github.com/LgcChina/LGC_MA_Fury_Localization/releases/download/v2.3.6/com.lgcchina.ma-fury-localization-2.3.6.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "*"
+            }
+          },
           "2.0.0": {
             "version": "2.0.0",
             "name": "com.lgcchina.ma-fury-localization",
@@ -69038,8 +69249,8 @@
     "name": "Lightbulb Packages",
     "id": "com.lightbulb.vpm",
     "author": "Lightbulb",
-    "hash": "028c8a797a7bd992d7495b57a5f4ec6d6b6d5bc7f4df749c41c2d60efc8fdf5f",
-    "last_updated": "2026-11-20T03:14:23.000Z",
+    "hash": "3e433b1c178764fa5d8f17e4e4d5a53a1f1094ef6684e9155a6ef6ddf39568c6",
+    "last_updated": "2026-11-21T02:14:15.000Z",
     "packageCount": 1,
     "packages": {
       "com.lightbulb.world-tools": {
@@ -69047,8 +69258,8 @@
         "name": "com.lightbulb.world-tools",
         "displayName": "Lightbulb World Tools",
         "description": "Unity editor tools for AreaLit occlusion baking and configuration audits, scene-wide Mochie Light Volumes settings, the reversible Bakery LV3 Swapper, scene texture Crunch compression, disabled-object reference auditing, material cleanup and Mochie packing, texture resizing, duplicate lightmap usage and geometry diagnostics, and targeted repairs.",
-        "latestVersion": "0.1.29",
-        "versionCount": 30,
+        "latestVersion": "0.1.30",
+        "versionCount": 31,
         "keywords": [
           "VRChat",
           "optimization",
@@ -69064,6 +69275,16 @@
           "url": "https://github.com/lightbulb4"
         },
         "versions": {
+          "0.1.30": {
+            "version": "0.1.30",
+            "name": "com.lightbulb.world-tools",
+            "displayName": "Lightbulb World Tools",
+            "description": "Unity editor tools for AreaLit occlusion baking and configuration audits, scene-wide Mochie Light Volumes settings, the reversible Bakery LV3 Swapper, scene texture Crunch compression, disabled-object reference auditing, material cleanup and Mochie packing, texture resizing, duplicate lightmap usage and geometry diagnostics, and targeted repairs.",
+            "url": "https://github.com/lightbulb4/lightbulb-world-tools/releases/download/0.1.30/com.lightbulb.world-tools-0.1.30.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "0.1.29": {
             "version": "0.1.29",
             "name": "com.lightbulb.world-tools",
@@ -72254,8 +72475,8 @@
     "name": "baxter's VPM Packages",
     "id": "io.github.baxter.vpm",
     "author": "Baxter",
-    "hash": "64cbf7a6dc614b887239990ee80cb9aa57a56884bc39a2dd64a4276efb21bc22",
-    "last_updated": "2026-11-18T08:16:53.000Z",
+    "hash": "5f867cbfc1667870b0c3f2d63533a9f9cad0095c29c088ac704855dd9da4a1df",
+    "last_updated": "2026-11-20T06:42:49.000Z",
     "packageCount": 2,
     "packages": {
       "com.baxter.material-override-vrm": {
@@ -72316,7 +72537,7 @@
         "displayName": "Material Override VRM for VRChat",
         "description": "Export material overrides from VRChat avatars alongside an exported VRM.",
         "latestVersion": "0.1.0",
-        "versionCount": 1,
+        "versionCount": 2,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -72330,6 +72551,21 @@
             "displayName": "Material Override VRM for VRChat",
             "description": "Export material overrides from VRChat avatars alongside an exported VRM.",
             "url": "https://github.com/malaybaku/MaterialOverrideVrmVRC/releases/download/0.1.0/com.baxter.material-override-vrm-vrc-0.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.github.hkrn.ndmf-vrm-exporter": ">=1.4.0",
+              "nadena.dev.ndmf": ">=1.14.0",
+              "com.baxter.material-override-vrm": ">=0.3.4 <0.4.0",
+              "com.vrchat.avatars": ">=3.7.0"
+            }
+          },
+          "0.1.1": {
+            "version": "0.1.1",
+            "name": "com.baxter.material-override-vrm-vrc",
+            "displayName": "Material Override VRM for VRChat",
+            "description": "Export material overrides from VRChat avatars alongside an exported VRM.",
+            "url": "https://github.com/malaybaku/MaterialOverrideVrmVRC/releases/download/0.1.1/com.baxter.material-override-vrm-vrc-0.1.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -72633,7 +72869,7 @@
     "id": "com.mattshark.openflight.repo",
     "author": "Mattshark89, Happyrobot33",
     "hash": "2659e37b23cc128e891c29a39e5bccda5a60665b585cf2406941eca4e5123520",
-    "last_updated": "2026-11-05T20:26:30.000Z",
+    "last_updated": "2026-11-05T20:26:21.000Z",
     "packageCount": 1,
     "packages": {
       "com.mattshark.openflight": {
@@ -73469,8 +73705,8 @@
     "name": "Mashiro Small Theater",
     "id": "com.mashirotheater.vpm",
     "author": "Mashiro Small Theater",
-    "hash": "2758324d4b4b4c3fa45a63c8b62122f5ac472d8ab12501f9eada7507ae7d3d7f",
-    "last_updated": "2026-11-17T11:18:30.000Z",
+    "hash": "72b8e05119929d3621c9d5bc5f194ac111ca34c262c5ff1e340c1b15f5499131",
+    "last_updated": "2026-11-21T01:47:25.000Z",
     "packageCount": 2,
     "packages": {
       "com.mashirotheater.stagetimelinetools": {
@@ -73478,8 +73714,8 @@
         "name": "com.mashirotheater.stagetimelinetools",
         "displayName": "Mashiro Stage Timeline Tools",
         "description": "舞台進行タイムラインの生成（Builder）と実行時の進行管理（Manager）。",
-        "latestVersion": "0.3.0",
-        "versionCount": 6,
+        "latestVersion": "0.4.0",
+        "versionCount": 7,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -73487,6 +73723,19 @@
           "url": "https://github.com/meadowsage/mashirotheater-vpm"
         },
         "versions": {
+          "0.4.0": {
+            "version": "0.4.0",
+            "name": "com.mashirotheater.stagetimelinetools",
+            "displayName": "Mashiro Stage Timeline Tools",
+            "description": "舞台進行タイムラインの生成（Builder）と実行時の進行管理（Manager）。",
+            "url": "https://github.com/meadowsage/mashirotheater-vpm/releases/download/v0.4.0/com.mashirotheater.stagetimelinetools-0.4.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.8.1",
+              "com.mashirotheater.utils": ">=0.4.0"
+            }
+          },
           "0.3.0": {
             "version": "0.3.0",
             "name": "com.mashirotheater.stagetimelinetools",
@@ -73572,8 +73821,8 @@
         "name": "com.mashirotheater.utils",
         "displayName": "Mashiro Utils",
         "description": "AutoDoor などの小規模ギミック、灯体（LightGroup）、各パッケージが共有するシェーダ・フォント・アイコン。",
-        "latestVersion": "0.3.0",
-        "versionCount": 6,
+        "latestVersion": "0.4.0",
+        "versionCount": 7,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -73581,6 +73830,18 @@
           "url": "https://github.com/meadowsage/mashirotheater-vpm"
         },
         "versions": {
+          "0.4.0": {
+            "version": "0.4.0",
+            "name": "com.mashirotheater.utils",
+            "displayName": "Mashiro Utils",
+            "description": "AutoDoor などの小規模ギミック、灯体（LightGroup）、各パッケージが共有するシェーダ・フォント・アイコン。",
+            "url": "https://github.com/meadowsage/mashirotheater-vpm/releases/download/v0.4.0/com.mashirotheater.utils-0.4.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.7.0"
+            }
+          },
           "0.3.0": {
             "version": "0.3.0",
             "name": "com.mashirotheater.utils",
@@ -77703,7 +77964,7 @@
     "id": "com.nekoare.vpm.bundled",
     "author": "nekoare",
     "hash": "ccc227bab5300b3d54d8f3bf7184caa4ca66b355ec954901f20299aaff2c8b1a",
-    "last_updated": "2026-10-24T21:02:41.000Z",
+    "last_updated": "2026-11-20T07:37:27.000Z",
     "packageCount": 2,
     "packages": {
       "com.nekoare.chimera-hair-master": {
@@ -78808,8 +79069,8 @@
     "name": "Avatar Recovery Unity",
     "id": "com.nickel-jp.repos.avatar-recovery",
     "author": "Nickel-JP",
-    "hash": "01c7632c16a327c265b2739acdded80cc723d21868320fafb3c2c3cd9e771cf0",
-    "last_updated": "2026-11-17T17:55:24.000Z",
+    "hash": "c413883ac42d8a1fd89c20aa26eed480e25967097d8b03a7f254e084c233a45d",
+    "last_updated": "2026-11-20T14:52:56.000Z",
     "packageCount": 1,
     "packages": {
       "com.nickel-jp.avatar-recovery": {
@@ -78817,7 +79078,7 @@
         "name": "com.nickel-jp.avatar-recovery",
         "displayName": "Avatar Recovery",
         "description": "Unity Editor tools for recovering VRChat avatar, world, prop, and avatar part assets from VRCA/VRCW/VRCP/VRCAP files.",
-        "latestVersion": "1.2.28",
+        "latestVersion": "2.0.0",
         "versionCount": 3,
         "keywords": [
           "vrchat",
@@ -78837,6 +79098,18 @@
           "url": "https://github.com/Nickel-JP"
         },
         "versions": {
+          "2.0.0": {
+            "version": "2.0.0",
+            "name": "com.nickel-jp.avatar-recovery",
+            "displayName": "Avatar Recovery",
+            "description": "Unity Editor tools for recovering VRChat avatar, world, prop, and avatar part assets from VRCA/VRCW/VRCP/VRCAP files.",
+            "url": "https://nickel-jp.github.io/avatar-recovery-unity/packages/com.nickel-jp.avatar-recovery-2.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": ">=3.10.5 <3.11.0"
+            }
+          },
           "1.2.28": {
             "version": "1.2.28",
             "name": "com.nickel-jp.avatar-recovery",
@@ -78855,18 +79128,6 @@
             "displayName": "Avatar Recovery",
             "description": "Unity Editor tools for recovering VRChat avatar, world, prop, and avatar part assets from VRCA/VRCW/VRCP/VRCAP files.",
             "url": "https://nickel-jp.github.io/avatar-recovery-unity/packages/com.nickel-jp.avatar-recovery-1.2.27.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.base": ">=3.10.5 <3.11.0"
-            }
-          },
-          "1.2.26": {
-            "version": "1.2.26",
-            "name": "com.nickel-jp.avatar-recovery",
-            "displayName": "Avatar Recovery",
-            "description": "Unity Editor tools for recovering VRChat avatar, world, prop, and avatar part assets from VRCA/VRCW/VRCP/VRCAP files.",
-            "url": "https://nickel-jp.github.io/avatar-recovery-unity/packages/com.nickel-jp.avatar-recovery-1.2.26.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -79265,7 +79526,7 @@
     "id": "com.njsgdd10086.vpm-repo",
     "author": "ATRI_NAIXU",
     "hash": "2f7c6a6ba0277ad0e5ade345ce5fca40fb0f946221603b205651420fdc7ba232",
-    "last_updated": "2026-11-20T02:50:48.000Z",
+    "last_updated": "2026-11-21T00:42:24.000Z",
     "packageCount": 3,
     "packages": {
       "com.atrinaxu.nontoon.lightlimit": {
@@ -80106,7 +80367,7 @@
     "id": "com.puddingkc.vpm-listing",
     "author": "PuddingKC",
     "hash": "f240f36289d0cc5747481bc9b789e2732c1ec1f494a82fe81e90c798c0fde67c",
-    "last_updated": "2026-07-04T04:18:33.000Z",
+    "last_updated": "2026-07-04T04:18:32.000Z",
     "packageCount": 3,
     "packages": {
       "com.puddingkc.ma-radial-control": {
@@ -95984,7 +96245,7 @@
     "id": "com.bavi.vpm",
     "author": "Bird",
     "hash": "439ad102d9b3835c37dff0d5a993cc96aea20f89d46930d6698f6b0dcc694a50",
-    "last_updated": "2026-10-20T23:31:05.000Z",
+    "last_updated": "2026-10-20T23:31:06.000Z",
     "packageCount": 1,
     "packages": {
       "com.bavi.motion-patcher": {
@@ -119632,17 +119893,17 @@
     "name": "VRCFury Auto Tools Listing",
     "id": "com.damien.vrcfury-autotools.listing",
     "author": "ToffelsKater",
-    "hash": "b4def06036815d6f2e10536855a052667b98fc9fc5fa61f4756b3eb7e7481148",
-    "last_updated": "2026-11-15T21:40:48.000Z",
+    "hash": "0da17f07fdbb48247fd8cf8521c13d07e93f969acb2fae41cc40d6819b7eaf48",
+    "last_updated": "2026-11-20T20:50:03.000Z",
     "packageCount": 1,
     "packages": {
       "com.damien.vrcfury-autotools": {
         "id": "com.damien.vrcfury-autotools",
         "name": "com.damien.vrcfury-autotools",
         "displayName": "VRCFury Auto Tools",
-        "description": "Addon for VRCFury: automatic outfit toggle creator, zero-weight bone remover, mesh bone stripper, PhysBone collider creator, Quest copy creator, outfit fitter and digitigrade leg setup. Uses only VRCFury's public API.",
-        "latestVersion": "0.1.21",
-        "versionCount": 28,
+        "description": "Addon for VRCFury: automatic outfit toggle creator, zero-weight bone remover, mesh bone stripper, PhysBone collider creator, Quest copy creator, outfit fitter, digitigrade leg setup and Poiyomi shader feature toggles. Uses only VRCFury's public API.",
+        "latestVersion": "0.1.22",
+        "versionCount": 29,
         "keywords": [
           "vrcfury",
           "outfit",
@@ -119656,6 +119917,19 @@
           "url": "https://github.com/ToffelsKater"
         },
         "versions": {
+          "0.1.22": {
+            "version": "0.1.22",
+            "name": "com.damien.vrcfury-autotools",
+            "displayName": "VRCFury Auto Tools",
+            "description": "Addon for VRCFury: automatic outfit toggle creator, zero-weight bone remover, mesh bone stripper, PhysBone collider creator, Quest copy creator, outfit fitter, digitigrade leg setup and Poiyomi shader feature toggles. Uses only VRCFury's public API.",
+            "url": "https://github.com/ToffelsKater/VRCFuryAutoTools/releases/download/0.1.22/com.damien.vrcfury-autotools-0.1.22.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "com.vrcfury.vrcfury": "*"
+            }
+          },
           "0.1.21": {
             "version": "0.1.21",
             "name": "com.damien.vrcfury-autotools",
@@ -120030,7 +120304,7 @@
     "id": "jp.toh.package-listing",
     "author": "toh",
     "hash": "cc3967c59f319ff5c3910acb82ddac984aa9ad35b5aaec5e395d6ab2cf0dfd4f",
-    "last_updated": "2025-04-28T14:28:14.000Z",
+    "last_updated": "2025-04-28T14:28:15.000Z",
     "packageCount": 1,
     "packages": {
       "jp.toh.easy-object-switch": {
@@ -121169,7 +121443,7 @@
     "id": "com.triturbo.blendshare.listing",
     "author": "Triturbo",
     "hash": "8d43fe402736de6cd2621406d3b850107d5fa9a6bc801a1a5857547ed262526d",
-    "last_updated": "2026-07-05T12:32:46.000Z",
+    "last_updated": "2026-07-05T12:32:45.000Z",
     "packageCount": 1,
     "packages": {
       "com.triturbo.blendshare": {
@@ -122155,8 +122429,8 @@
     "name": "T_Y_Tools",
     "id": "io.github.tumayouzyo.tools",
     "author": "tumayouzyo",
-    "hash": "3e96edf0b0a1de7a98f9fcd5baaedac2eea1f346b75c3986382b319e3685d5ed",
-    "last_updated": "2026-11-19T23:53:42.000Z",
+    "hash": "02e90aa005330dd16adb3b46e36609428ede3d98d4d4cd297bba02c0342ba102",
+    "last_updated": "2026-11-21T03:59:47.000Z",
     "packageCount": 3,
     "packages": {
       "io.github.tumayouzyo.fx-facial-assistant": {
@@ -122241,8 +122515,8 @@
         "name": "io.github.tumayouzyo.ty-editor-tools",
         "displayName": "TY_EditorTools",
         "description": "Unity Editor utilities.",
-        "latestVersion": "0.1.2",
-        "versionCount": 3,
+        "latestVersion": "0.1.3",
+        "versionCount": 4,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -122250,6 +122524,16 @@
           "url": "https://github.com/tumayouzyo"
         },
         "versions": {
+          "0.1.3": {
+            "version": "0.1.3",
+            "name": "io.github.tumayouzyo.ty-editor-tools",
+            "displayName": "TY_EditorTools",
+            "description": "Unity Editor utilities.",
+            "url": "https://github.com/tumayouzyo/TY_EditorTools/releases/download/v0.1.3/io.github.tumayouzyo.ty-editor-tools-0.1.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "0.1.2": {
             "version": "0.1.2",
             "name": "io.github.tumayouzyo.ty-editor-tools",
@@ -122290,7 +122574,7 @@
     "id": "com.udonite.listing",
     "author": "Udonite",
     "hash": "3d6a066fd87cec2ce44536e609d8108477867cc68156c8f301bd738850742acd",
-    "last_updated": "2026-11-20T03:34:00.000Z",
+    "last_updated": "2026-11-21T02:32:10.000Z",
     "packageCount": 1,
     "packages": {
       "com.udonite.compiler": {
@@ -123639,8 +123923,8 @@
     "name": "AITSYS VCC",
     "id": "dev.aitsys.vcc",
     "author": "Lala Sabathil",
-    "hash": "f25bad42e26352f155c687f768da879263a7f50f460d51bb292028f856ccefcd",
-    "last_updated": "2026-07-31T17:46:07.000Z",
+    "hash": "0a38da773bfc9c2eb42319357b87c0ab7ec103bf3d6add573d472259d7fd4185",
+    "last_updated": "2026-11-20T23:53:50.000Z",
     "packageCount": 1,
     "packages": {
       "dev.aitsys.vrc-discord-rpc": {
@@ -123648,8 +123932,8 @@
         "name": "dev.aitsys.vrc-discord-rpc",
         "displayName": "VRC Unity Discord RPC",
         "description": "Discord Rich Presence for Unity projects with optional VRChat SDK integration.",
-        "latestVersion": "1.0.3",
-        "versionCount": 4,
+        "latestVersion": "2.0.0",
+        "versionCount": 5,
         "keywords": [
           "AITSYS",
           "Discord",
@@ -123657,13 +123941,25 @@
           "Unity",
           "VRChat"
         ],
-        "unity": "2022.3",
+        "unity": "6000.0",
         "author": {
           "name": "Lala Sabathil",
           "email": "aiko@aitsys.dev",
           "url": "https://github.com/Lulalaby"
         },
         "versions": {
+          "2.0.0": {
+            "version": "2.0.0",
+            "name": "dev.aitsys.vrc-discord-rpc",
+            "displayName": "VRC Unity Discord RPC",
+            "description": "Discord Rich Presence for Unity projects with optional VRChat SDK integration.",
+            "url": "https://github.com/Aiko-IT-Systems/AITSYS.VRChat.DiscordRPC/releases/download/v2.0.0/dev.aitsys.vrc-discord-rpc-2.0.0.zip",
+            "zipSha256": null,
+            "unity": "6000.0",
+            "vpmDependencies": {
+              "com.vrchat.base": ">=3.11.0-beta.1"
+            }
+          },
           "1.0.3": {
             "version": "1.0.3",
             "name": "dev.aitsys.vrc-discord-rpc",
@@ -124382,7 +124678,7 @@
     "id": "co.raphii.vpm-listing",
     "author": "Raphiiko",
     "hash": "13d7c0741bdb67306d4706066396ddccd4188238b4335f6b126e26cf84767a0b",
-    "last_updated": "2026-07-03T23:15:31.000Z",
+    "last_updated": "2026-07-03T23:15:32.000Z",
     "packageCount": 1,
     "packages": {
       "co.raphii.vrti.avatarmenu": {
@@ -124445,8 +124741,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "b4f84c3aadc15266f00c6d6fc8c17ab6b63e6fa2ee6fcb506bad2c090362dd94",
-    "last_updated": "2026-11-20T05:38:00.000Z",
+    "hash": "a332824a738e7e8a6e123ea2b8082629bf5cdffec92d93b57915ebfee4f44f7f",
+    "last_updated": "2026-11-21T05:30:46.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -124454,14 +124750,44 @@
         "name": "com.vrcfury.vrcfury",
         "displayName": "VRCFury",
         "description": "Non-Destructive Tools for VRChat Avatars",
-        "latestVersion": "1.1489.0",
-        "versionCount": 1531,
+        "latestVersion": "1.1492.0",
+        "versionCount": 1534,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "VRCFury"
         },
         "versions": {
+          "1.1492.0": {
+            "version": "1.1492.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1492.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1491.0": {
+            "version": "1.1491.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1491.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1490.0": {
+            "version": "1.1490.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1490.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.1489.0": {
             "version": "1.1489.0",
             "name": "com.vrcfury.vrcfury",
@@ -139114,7 +139440,7 @@
     "id": "com.vixencreations.vixens-toolbox.listing",
     "author": "Vixenlicous",
     "hash": "ca07311a2ca51ade19b3c866d12cffc0960f093529543ff39de03c4627bc020c",
-    "last_updated": "2026-11-19T14:40:09.000Z",
+    "last_updated": "2026-11-21T00:41:03.000Z",
     "packageCount": 3,
     "packages": {
       "com.vixencreations.vixens-toolbox": {
@@ -139995,7 +140321,7 @@
     "id": "io.mekabu.vpm-repository",
     "author": "contact@mekabu.io",
     "hash": "afb531d339483772668bf9b0fbe2f91415a0d37733b4adad67544741ae03cb2e",
-    "last_updated": "2026-11-20T05:27:02.000Z",
+    "last_updated": "2026-11-21T05:27:57.000Z",
     "packageCount": 2,
     "packages": {
       "com.mekabu.blendshape-animation-creator": {
@@ -140069,7 +140395,7 @@
     "name": "32ba VPM repository",
     "id": "net.32ba.vpm",
     "author": "32ba",
-    "hash": "d5534693ea9d79affc7226379019826bbfd98e85a7d0d4918e93cbb4bcb9de9d",
+    "hash": "db53c1f72b033cffb97cf79a6b66300a1214ca457bde289b8798ad82e0e97133",
     "last_updated": "2026-08-01T16:09:51.341Z",
     "packageCount": 11,
     "packages": {
@@ -140170,14 +140496,38 @@
         "name": "net.32ba.lattice-deformation-tool",
         "displayName": "Lattice Deformation Tool",
         "description": "Non-destructive layered mesh deformation for MeshRenderer and SkinnedMeshRenderer, with lattice, brush, vertex editing, BlendShape I/O, and NDMF Preview/Bake. Formerly known as Mesh Deformation Tool.",
-        "latestVersion": "2.0.0-beta.1",
-        "versionCount": 43,
+        "latestVersion": "2.0.0-beta.3",
+        "versionCount": 45,
         "keywords": [],
-        "unity": "2022.3",
+        "unity": "6000.0",
         "author": {
           "name": "32ba"
         },
         "versions": {
+          "2.0.0-beta.3": {
+            "version": "2.0.0-beta.3",
+            "name": "net.32ba.lattice-deformation-tool",
+            "displayName": "Lattice Deformation Tool",
+            "description": "Non-destructive layered mesh deformation for MeshRenderer and SkinnedMeshRenderer, with lattice, brush, vertex editing, BlendShape I/O, and NDMF Preview/Bake. Formerly known as Mesh Deformation Tool.",
+            "url": "https://github.com/32ba/VRC-lattice-deformation-tool/releases/download/2.0.0-beta.3/net.32ba.lattice-deformation-tool-2.0.0-beta.3.zip",
+            "zipSha256": null,
+            "unity": "6000.0",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.15.0"
+            }
+          },
+          "2.0.0-beta.2": {
+            "version": "2.0.0-beta.2",
+            "name": "net.32ba.lattice-deformation-tool",
+            "displayName": "Lattice Deformation Tool",
+            "description": "Non-destructive layered mesh deformation for MeshRenderer and SkinnedMeshRenderer, with lattice, brush, vertex editing, BlendShape I/O, and NDMF Preview/Bake. Formerly known as Mesh Deformation Tool.",
+            "url": "https://github.com/32ba/VRC-lattice-deformation-tool/releases/download/2.0.0-beta.2/net.32ba.lattice-deformation-tool-2.0.0-beta.2.zip",
+            "zipSha256": null,
+            "unity": "6000.0",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.15.0"
+            }
+          },
           "2.0.0-beta.1": {
             "version": "2.0.0-beta.1",
             "name": "net.32ba.lattice-deformation-tool",
@@ -156576,7 +156926,7 @@
     "id": "jp.hinasense.vpm",
     "author": "HinanoAira",
     "hash": "6101414a61af4480361097ebeaa841db500396ff4f3b1c47e3db8a078521a2fc",
-    "last_updated": "2026-11-20T05:00:02.000Z",
+    "last_updated": "2026-11-21T05:00:02.000Z",
     "packageCount": 2,
     "packages": {
       "jp.hinasense.liltoon.freak": {
@@ -158711,37 +159061,31 @@
     "name": "THE_cattail",
     "id": "com.the-cattail.vpm",
     "author": "THE_cattail",
-    "hash": "a7454c66e8b68210c056167a8e61228ffae72bcbc63d86880f949b57daf56a94",
-    "last_updated": "2026-08-24T04:16:48.000Z",
+    "hash": "831819d2aaf13c49c40b9276ba3a482257e8957aa633fe3a7f696ba9a0764852",
+    "last_updated": "2026-11-20T15:40:06.000Z",
     "packageCount": 1,
     "packages": {
       "com.the-cattail.afk-motion-patcher": {
         "id": "com.the-cattail.afk-motion-patcher",
         "name": "com.the-cattail.afk-motion-patcher",
         "displayName": "AFK Motion Patcher",
-        "description": "Retarget a source VRChat avatar's AFK behavior graph to a target avatar through explicit mappings at NDMF build time.",
-        "latestVersion": "1.0.0",
+        "description": "Non-destructive NDMF editor tool for retargeting a source VRChat avatar's AFK motion to any target avatar while preserving existing Action layers (GoGoLoco, dances, poses), with smart Auto-Match, Rest-Pose Delta, Humanoid contact & pose tuning, intuitive pose sliders, and live Source/Result preview.",
+        "latestVersion": "2.0.1",
         "versionCount": 1,
-        "keywords": [
-          "vrchat",
-          "ndmf",
-          "afk",
-          "animation",
-          "retargeting"
-        ],
+        "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "THE_cattail",
           "email": "THE_cattail@k-neco.com",
-          "url": "https://github.com/k-neco-lab/afk-motion-patcher"
+          "url": "https://github.com/rinchan-hoshino/afk-motion-patcher"
         },
         "versions": {
-          "1.0.0": {
-            "version": "1.0.0",
+          "2.0.1": {
+            "version": "2.0.1",
             "name": "com.the-cattail.afk-motion-patcher",
             "displayName": "AFK Motion Patcher",
-            "description": "Retarget a source VRChat avatar's AFK behavior graph to a target avatar through explicit mappings at NDMF build time.",
-            "url": "https://github.com/k-neco-lab/afk-motion-patcher/releases/download/v1.0.0/com.the-cattail.afk-motion-patcher-1.0.0.zip",
+            "description": "Non-destructive NDMF editor tool for retargeting a source VRChat avatar's AFK motion to any target avatar while preserving existing Action layers (GoGoLoco, dances, poses), with smart Auto-Match, Rest-Pose Delta, Humanoid contact & pose tuning, intuitive pose sliders, and live Source/Result preview.",
+            "url": "https://github.com/rinchan-hoshino/afk-motion-patcher/releases/download/v2.0.1/com.the-cattail.afk-motion-patcher-2.0.1.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -163409,7 +163753,7 @@
     "id": "dev.ladyluh.vpm",
     "author": "luna-gelmini",
     "hash": "29b50b3a46469eb3ade74e9b7cfef4546be058b5d397a4dc015b615979324093",
-    "last_updated": "2026-11-20T03:31:29.000Z",
+    "last_updated": "2026-11-21T02:31:10.000Z",
     "packageCount": 4,
     "packages": {
       "dev.ladyluh.questkit": {
@@ -185029,7 +185373,7 @@
     "id": "jp.pipipigiken.vpm",
     "author": "orange3134",
     "hash": "fdfcf0227a2be7d6ef7e840800fc48834054e85de4dd49202c7e2154a08fece3",
-    "last_updated": "2026-11-20T03:32:43.000Z",
+    "last_updated": "2026-11-21T02:32:51.000Z",
     "packageCount": 2,
     "packages": {
       "jp.pipipigiken.mpavatar-package": {
@@ -203380,13 +203724,56 @@
   },
   {
     "url": "https://waya0125.com/vpm",
-    "name": "Waya0125 VPM",
-    "id": "waya0125.com",
+    "name": "waya0125 Package List",
+    "id": "com.waya0125",
     "author": "waya0125@waya0125.com",
-    "hash": null,
+    "hash": "35e4bd158cb01957dee5221de0cc7188cacc11aa43571ef6a972ebc425e10934",
     "last_updated": "2024-07-10T03:49:01.000Z",
-    "packageCount": 0,
-    "packages": {}
+    "packageCount": 1,
+    "packages": {
+      "com.waya0125.screencapture": {
+        "id": "com.waya0125.screencapture",
+        "name": "com.waya0125.screencapture",
+        "displayName": "waya0125 - Screen Capture",
+        "description": "This software is intended to photograph characters.",
+        "latestVersion": "1.0.1",
+        "versionCount": 2,
+        "keywords": [
+          "Screen",
+          "Capture",
+          "Avatar",
+          "waya0125"
+        ],
+        "unity": "2017.1",
+        "author": {
+          "name": "wayamoti2015@waya0125",
+          "email": "wayamoti2015@waya0125.com",
+          "url": "https://misskey.waya0125.com/@waya"
+        },
+        "versions": {
+          "1.0.1": {
+            "version": "1.0.1",
+            "name": "com.waya0125.screencapture",
+            "displayName": "waya0125 - Screen Capture",
+            "description": "This software is intended to photograph characters.",
+            "url": "https://files.waya0125.com/vpm/ScreenCapture/ScreenCapture_1.0.1.zip",
+            "zipSha256": null,
+            "unity": "2017.1",
+            "vpmDependencies": {}
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.waya0125.screencapture",
+            "displayName": "waya0125 - Screen Capture",
+            "description": "This software is intended to photograph characters.",
+            "url": "https://files.waya0125.com/vpm/ScreenCapture/ScreenCapture_1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2017.1",
+            "vpmDependencies": {}
+          }
+        }
+      }
+    }
   },
   {
     "url": "https://whiteflare.github.io/vpm-repos/vpm.json",
