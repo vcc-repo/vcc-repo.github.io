@@ -1079,8 +1079,8 @@
     "name": "Akiiray VPM Repository",
     "id": "com.akiiray.vpm",
     "author": "akiiray",
-    "hash": "54f51ea223792b9c5bb55d9b2205f16d9b5e1f3067bd0563a9d5f4205c4f8661",
-    "last_updated": "2026-11-23T05:35:12.000Z",
+    "hash": "a6ad883e6154e254a57e8337d849e9dcf04367b71e788baa7967f879f668223a",
+    "last_updated": "2026-11-23T12:00:57.000Z",
     "packageCount": 2,
     "packages": {
       "com.akiiray.vrc-avatar-toolkit-plus": {
@@ -1356,7 +1356,7 @@
         "displayName": "VRC Avatar LiteKit Plus",
         "description": "VRChat avatar optimization and mobile conversion toolkit.",
         "latestVersion": "0.1.0",
-        "versionCount": 7,
+        "versionCount": 8,
         "keywords": [
           "vrchat",
           "avatar",
@@ -1444,6 +1444,19 @@
             "displayName": "VRC Avatar LiteKit Plus",
             "description": "VRChat avatar diagnostics, parameter compression, and mobile conversion toolkit.",
             "url": "https://github.com/Akiiray/vrc-avatar-litekit-plus/releases/download/v0.3.0-preview.3/com.akiiray.vrc-avatar-litekit-plus-v0.3.0-preview.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.7.0",
+              "nadena.dev.ndmf": ">=1.6.0"
+            }
+          },
+          "0.3.0": {
+            "version": "0.3.0",
+            "name": "com.akiiray.vrc-avatar-litekit-plus",
+            "displayName": "VRC Avatar LiteKit Plus",
+            "description": "VRChat avatar diagnostics, parameter compression, and mobile conversion toolkit.",
+            "url": "https://github.com/Akiiray/vrc-avatar-litekit-plus/releases/download/v0.3.0/com.akiiray.vrc-avatar-litekit-plus-v0.3.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -11105,7 +11118,7 @@
     "id": "io.github.aramaa.vpm",
     "author": "あらまあ",
     "hash": "4cf76c8b456f1facab67aff8ed09daef27d447578181ff13cfb19f5c2524d11c",
-    "last_updated": "2026-11-22T03:31:20.000Z",
+    "last_updated": "2026-11-22T03:31:21.000Z",
     "packageCount": 3,
     "packages": {
       "jp.aramaa.ochibi-chans-converter-tool": {
@@ -12859,8 +12872,8 @@
     "name": "Azelrack package's Listing",
     "id": "com.vrchat.azelrack.vpm.listing",
     "author": "Azelrack",
-    "hash": "dd696f0c0548e763bb797ecd915af393c1f718a9b12482ce015120cd12f7b384",
-    "last_updated": "2026-11-22T22:52:34.000Z",
+    "hash": "5756eb333e051371be83fdcb5d4bb259e243e32edb5dff47fee4ba50b7be0c75",
+    "last_updated": "2026-11-23T17:20:16.000Z",
     "packageCount": 3,
     "packages": {
       "com.azelrack.vrchat-udon-avatar-scaler": {
@@ -12868,12 +12881,13 @@
         "name": "com.azelrack.vrchat-udon-avatar-scaler",
         "displayName": "Udon Avatar Scaler",
         "description": "All in one solution to control avatar height and to scale with it speed, gravity, jump, voice and audio.",
-        "latestVersion": "1.0.4",
-        "versionCount": 7,
+        "latestVersion": "1.0.5",
+        "versionCount": 8,
         "keywords": [
           "Avatar",
           "Scaling",
-          "Size"
+          "Size",
+          "Prefab"
         ],
         "unity": "2022.3",
         "author": {
@@ -12882,6 +12896,21 @@
           "url": "https://github.com/Azelrack"
         },
         "versions": {
+          "1.0.5": {
+            "version": "1.0.5",
+            "name": "com.azelrack.vrchat-udon-avatar-scaler",
+            "displayName": "Udon Avatar Scaler",
+            "description": "All in one solution to control avatar height and to scale with it speed, gravity, jump, voice and audio.",
+            "url": "https://github.com/Azelrack/VRChat-UdonAvatarScaler/releases/download/1.0.5/VRChatUdonAvatarScaler.v1.0.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": ">=3.9.0",
+              "com.vrchat.worlds": ">=3.9.0",
+              "com.vrchat.core.vpm-resolver": ">=0.1.29",
+              "com.azelrack.vrchat-udon-common-tools": "^0.1.3"
+            }
+          },
           "1.0.4": {
             "version": "1.0.4",
             "name": "com.azelrack.vrchat-udon-avatar-scaler",
@@ -14111,7 +14140,7 @@
     "id": "befuddledlabs.linuxvrchatsdkpatch",
     "author": "BefuddledLabs",
     "hash": "3a640f66c15e35c6d7ab0de3a45670c1b6474993e4965be24d1b769863545216",
-    "last_updated": "2026-11-05T16:48:35.000Z",
+    "last_updated": "2026-11-05T16:48:34.000Z",
     "packageCount": 3,
     "packages": {
       "befuddledlabs.linuxvrchatsdkpatch-worlds": {
@@ -15051,7 +15080,7 @@
     "id": "cc.orbiters.vpm",
     "author": "blackorbit",
     "hash": "3e0d32889e8bd28e7b5d847b324fa526998261de2c7ad9981a62f4a31b5eb833",
-    "last_updated": "2026-11-23T05:24:18.000Z",
+    "last_updated": "2026-11-24T07:23:35.000Z",
     "packageCount": 12,
     "packages": {
       "orbiters.mcb": {
@@ -18094,7 +18123,7 @@
     "id": "com.surarin.vpm",
     "author": "Surarin",
     "hash": "01f63e49ba01b1361e52d2caf566ac678676ad7accb612ed861a8f3a37e444fb",
-    "last_updated": "2026-10-29T09:38:09.000Z",
+    "last_updated": "2026-10-29T09:38:10.000Z",
     "packageCount": 1,
     "packages": {
       "com.surarin.worldtitlegimmick": {
@@ -20613,7 +20642,7 @@
     "id": "com.chikumatateshina.qvpen-avatar-follow-system",
     "author": "ChikumaTateshina",
     "hash": "c002c8b044783a1bc15e74a999e1af8a65dfbb62b0ca97d520515986173bcbb1",
-    "last_updated": "2026-10-06T04:43:26.000Z",
+    "last_updated": "2026-10-06T04:43:27.000Z",
     "packageCount": 1,
     "packages": {
       "com.chikumatateshina.qvpen-avatar-follow-system": {
@@ -22426,8 +22455,8 @@
     "name": "d4rkpl4y3r",
     "id": "io.github.d4rkc0d3r",
     "author": "d4rkpl4y3r",
-    "hash": "af23a56eafa3c20281e330678f84295e7ddc299c83e569d3ef033f376257f9bc",
-    "last_updated": "2026-11-21T17:15:52.000Z",
+    "hash": "f56b851635549289014cb6b8d5ecf17ba3f90f64a59bc9e6e97a8dfe120b6dcd",
+    "last_updated": "2026-11-23T18:20:26.000Z",
     "packageCount": 1,
     "packages": {
       "d4rkpl4y3r.d4rkavataroptimizer": {
@@ -22436,7 +22465,7 @@
         "displayName": "d4rkAvatarOptimizer",
         "description": "An optimizer aiming to reduce mesh & material count and more of VRChat 3.0 avatars.",
         "latestVersion": "2.0.0",
-        "versionCount": 104,
+        "versionCount": 105,
         "keywords": [],
         "unity": "2019.4",
         "author": "d4rkpl4y3r",
@@ -23543,6 +23572,18 @@
             "unity": "2022.3",
             "vpmDependencies": {
               "com.vrchat.avatars": ">=3.10.6 <3.11.0-a"
+            }
+          },
+          "4.7.5": {
+            "version": "4.7.5",
+            "name": "d4rkpl4y3r.d4rkavataroptimizer",
+            "displayName": "d4rkAvatarOptimizer",
+            "description": "An optimizer aiming to reduce mesh & material count and more of VRChat 3.0 avatars.",
+            "url": "https://github.com/d4rkc0d3r/d4rkAvatarOptimizer/releases/download/v4.7.5/d4rkpl4y3r.d4rkavataroptimizer-4.7.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.6 <3.12.0-a"
             }
           }
         }
@@ -25156,7 +25197,7 @@
     "id": "com.docme.listing",
     "author": "DocMe",
     "hash": "eb5d9f703a3ea4f0e2136fb2618d56da34f9cdf5aad5e4f8765cf1b18e212c90",
-    "last_updated": "2026-11-21T12:36:58.000Z",
+    "last_updated": "2026-11-23T14:34:39.000Z",
     "packageCount": 5,
     "packages": {
       "com.docme.eye-installer": {
@@ -35964,7 +36005,7 @@
     "id": "info.glintfraulein.vpm",
     "author": "GlinT Fraulein",
     "hash": "73604b5dbc89487eb98b71c30501c83b346b29d793d41781a16448cb6ed6daef",
-    "last_updated": "2026-11-04T16:39:38.000Z",
+    "last_updated": "2026-11-04T16:39:39.000Z",
     "packageCount": 1,
     "packages": {
       "info.glintfraulein.palasolu": {
@@ -36714,7 +36755,7 @@
     "id": "com.synthos.packages",
     "author": "Synthos",
     "hash": "0e0906d142a51d4f1fcaba075616616a6eb28e8196cd9fbe7566af15a1ea0c85",
-    "last_updated": "2026-11-23T05:32:48.000Z",
+    "last_updated": "2026-11-24T04:35:33.000Z",
     "packageCount": 9,
     "packages": {
       "com.synthos.scene-optimizer": {
@@ -40714,8 +40755,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "9381c6d57d9a2d9d6d24cb2eeef40d9b5b4c6f7f791e59a4e77ac608ef2bd44b",
-    "last_updated": "2026-11-21T20:57:44.000Z",
+    "hash": "0ec464f6ada079d7736bfbd75c898fd375363a26b2b5fd05bc4f0d2cc03a400e",
+    "last_updated": "2026-11-23T08:39:27.000Z",
     "packageCount": 10,
     "packages": {
       "com.poiyomi.pro": {
@@ -47670,47 +47711,12 @@
   {
     "url": "https://hakari-lab.github.io/vpm/index.json",
     "name": "hakari-lab",
-    "id": "com.hakari-lab.vpm",
+    "id": "hakari-lab",
     "author": "hakari-lab",
-    "hash": "48317838ac6e5c96dd03822ffe1545f9a8ac8d38fff612c66c85328939036fd3",
+    "hash": null,
     "last_updated": "2026-08-14T19:17:18.000Z",
-    "packageCount": 1,
-    "packages": {
-      "com.hakari-lab.atodoredake": {
-        "id": "com.hakari-lab.atodoredake",
-        "name": "com.hakari-lab.atodoredake",
-        "displayName": "あとどれだけ",
-        "description": "目標のパフォーマンスランクを選ぶと、そこへ届くために「何を」「あとどれだけ」削ればいいかを出します。VRChat SDK が個別に出す警告を、指標同士の連動を解いて「打つべき手」にまとめます。アバターのデータは変更しません。",
-        "latestVersion": "1.0.0",
-        "versionCount": 1,
-        "keywords": [
-          "vrchat",
-          "avatar",
-          "performance",
-          "optimization",
-          "quest"
-        ],
-        "unity": "2022.3",
-        "author": {
-          "name": "hakari-lab",
-          "url": "https://hakari-lab.booth.pm/"
-        },
-        "versions": {
-          "1.0.0": {
-            "version": "1.0.0",
-            "name": "com.hakari-lab.atodoredake",
-            "displayName": "あとどれだけ",
-            "description": "目標のパフォーマンスランクを選ぶと、そこへ届くために「何を」「あとどれだけ」削ればいいかを出します。VRChat SDK が個別に出す警告を、指標同士の連動を解いて「打つべき手」にまとめます。アバターのデータは変更しません。",
-            "url": "https://github.com/hakari-lab/atodoredake/releases/download/1.0.0/com.hakari-lab.atodoredake-1.0.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.5.0"
-            }
-          }
-        }
-      }
-    }
+    "packageCount": 0,
+    "packages": {}
   },
   {
     "url": "https://hellcat-m18.github.io/vpm-repos/index.json",
@@ -47894,7 +47900,7 @@
     "id": "io.github.helpinghandsvr.vpm",
     "author": "Helping Hands",
     "hash": "d3cba140edcf3cb5c17c4b6034085a4238c0dbbd2ce98b5f097b608968bff8fb",
-    "last_updated": "2026-07-03T13:20:29.000Z",
+    "last_updated": "2026-07-03T13:20:30.000Z",
     "packageCount": 2,
     "packages": {
       "io.github.helpinghandsvr.helpinghands-vrchat-avatar-accessories": {
@@ -50056,7 +50062,7 @@
     "id": "cat.hisa.vpm",
     "author": "HisaCat",
     "hash": "164e0ed610f0a593fb9eb5867230becff0831ebe47d88f25397692d3bbae92c4",
-    "last_updated": "2026-07-03T05:26:12.000Z",
+    "last_updated": "2026-07-03T05:26:13.000Z",
     "packageCount": 3,
     "packages": {
       "cat.hisa.asset-patcher": {
@@ -50898,7 +50904,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "dc975d1397ce107372949311ebff9c87b2475ea8a0827d7b3c6c9caa9a314034",
-    "last_updated": "2026-11-22T11:34:46.000Z",
+    "last_updated": "2026-11-23T12:59:31.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -61664,8 +61670,8 @@
     "name": "kmnk VPM Listing",
     "id": "dev.kmnk.vpm",
     "author": "kmnk",
-    "hash": "60bb11f29c61a4abd3396d1307b3d880de741545ff95253ec12aa35aefc1cde0",
-    "last_updated": "2026-11-23T05:38:37.000Z",
+    "hash": "9201a91f384f78944fbd021c8d7906cd827b530edb02bd17b9b3b4c354d653f5",
+    "last_updated": "2026-11-23T08:25:20.000Z",
     "packageCount": 2,
     "packages": {
       "dev.kmnk.log-stream": {
@@ -61713,8 +61719,8 @@
         "name": "dev.kmnk.face-tracking-generator",
         "displayName": "Face Tracking Generator",
         "description": "Generates face tracking layers for VRChat avatars from text tables, with a table editor and preview.",
-        "latestVersion": "1.0.0",
-        "versionCount": 24,
+        "latestVersion": "1.0.4",
+        "versionCount": 28,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -61722,6 +61728,58 @@
           "url": "https://github.com/kmnk"
         },
         "versions": {
+          "1.0.4": {
+            "version": "1.0.4",
+            "name": "dev.kmnk.face-tracking-generator",
+            "displayName": "Face Tracking Generator",
+            "description": "Generates face tracking layers for VRChat avatars from text tables, with a table editor and preview.",
+            "url": "https://github.com/kmnk/VRChat_FaceTrackingGenerator/releases/download/v1.0.4/dev.kmnk.face-tracking-generator-1.0.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.6",
+              "nadena.dev.ndmf": ">=1.14.7 <2.0.0-a"
+            }
+          },
+          "1.0.3": {
+            "version": "1.0.3",
+            "name": "dev.kmnk.face-tracking-generator",
+            "displayName": "Face Tracking Generator",
+            "description": "Generates face tracking layers for VRChat avatars from text tables, with a table editor and preview.",
+            "url": "https://github.com/kmnk/VRChat_FaceTrackingGenerator/releases/download/v1.0.3/dev.kmnk.face-tracking-generator-1.0.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.6",
+              "nadena.dev.ndmf": ">=1.14.7 <2.0.0-a"
+            }
+          },
+          "1.0.2": {
+            "version": "1.0.2",
+            "name": "dev.kmnk.face-tracking-generator",
+            "displayName": "Face Tracking Generator",
+            "description": "Generates face tracking layers for VRChat avatars from text tables, with a table editor and preview.",
+            "url": "https://github.com/kmnk/VRChat_FaceTrackingGenerator/releases/download/v1.0.2/dev.kmnk.face-tracking-generator-1.0.2.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.6",
+              "nadena.dev.ndmf": ">=1.14.7 <2.0.0-a"
+            }
+          },
+          "1.0.1": {
+            "version": "1.0.1",
+            "name": "dev.kmnk.face-tracking-generator",
+            "displayName": "Face Tracking Generator",
+            "description": "Generates face tracking layers for VRChat avatars from text tables, with a table editor and preview.",
+            "url": "https://github.com/kmnk/VRChat_FaceTrackingGenerator/releases/download/v1.0.1/dev.kmnk.face-tracking-generator-1.0.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.6",
+              "nadena.dev.ndmf": ">=1.14.7 <2.0.0-a"
+            }
+          },
           "1.0.0": {
             "version": "1.0.0",
             "name": "dev.kmnk.face-tracking-generator",
@@ -63799,7 +63857,7 @@
     "id": "com.github.kurotu.vpm",
     "author": "kurotu",
     "hash": "33372f92e9d5c4963d2ae818d028220969b8f2ed2ec107515ed08b55942663df",
-    "last_updated": "2026-11-23T01:30:03.000Z",
+    "last_updated": "2026-11-23T01:30:02.000Z",
     "packageCount": 4,
     "packages": {
       "com.github.kurotu.vrc-quest-tools": {
@@ -70111,7 +70169,7 @@
     "id": "com.lightbulb.vpm",
     "author": "Lightbulb",
     "hash": "1b337802135b5f291752b4606f8472a844acd846fb9f045356e8edcd1c882771",
-    "last_updated": "2026-11-23T00:52:59.000Z",
+    "last_updated": "2026-11-23T21:23:56.000Z",
     "packageCount": 1,
     "packages": {
       "com.lightbulb.world-tools": {
@@ -78873,8 +78931,8 @@
     "name": "Nekoare VPM Packages（同梱版）",
     "id": "com.nekoare.vpm.bundled",
     "author": "nekoare",
-    "hash": "ccc227bab5300b3d54d8f3bf7184caa4ca66b355ec954901f20299aaff2c8b1a",
-    "last_updated": "2026-11-21T18:16:14.000Z",
+    "hash": "895440e0e852775a2511c0bf8fca4638fcc337bc3ebb4b253c0225d42eed2c03",
+    "last_updated": "2026-11-23T20:33:49.000Z",
     "packageCount": 2,
     "packages": {
       "com.nekoare.chimera-hair-master": {
@@ -78882,8 +78940,8 @@
         "name": "com.nekoare.chimera-hair-master",
         "displayName": "キメラヘアマスター",
         "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
-        "latestVersion": "2.1.2",
-        "versionCount": 61,
+        "latestVersion": "2.1.3",
+        "versionCount": 62,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -78891,6 +78949,18 @@
           "url": "https://neko-to-same.booth.pm/"
         },
         "versions": {
+          "2.1.3": {
+            "version": "2.1.3",
+            "name": "com.nekoare.chimera-hair-master",
+            "displayName": "キメラヘアマスター",
+            "description": "VRChat用キメラヘア作成支援ツール。カラーマッチング・UV統合・マテリアル統合機能を提供します。",
+            "url": "https://github.com/nekoare-vpm/chimera-hair-master/releases/download/v2.1.3/com.nekoare.chimera-hair-master-2.1.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.14.0"
+            }
+          },
           "2.1.2": {
             "version": "2.1.2",
             "name": "com.nekoare.chimera-hair-master",
@@ -79980,7 +80050,7 @@
     "id": "com.nickel-jp.repos.avatar-recovery",
     "author": "Nickel-JP",
     "hash": "c413883ac42d8a1fd89c20aa26eed480e25967097d8b03a7f254e084c233a45d",
-    "last_updated": "2026-11-20T14:52:57.000Z",
+    "last_updated": "2026-11-20T14:52:56.000Z",
     "packageCount": 1,
     "packages": {
       "com.nickel-jp.avatar-recovery": {
@@ -80435,8 +80505,8 @@
     "name": "ATRI_NAIXU VPM Packages",
     "id": "com.njsgdd10086.vpm-repo",
     "author": "ATRI_NAIXU",
-    "hash": "2f7c6a6ba0277ad0e5ade345ce5fca40fb0f946221603b205651420fdc7ba232",
-    "last_updated": "2026-11-23T02:44:58.000Z",
+    "hash": "8eb7ef3d40daad7419a0265faf691b20f3070224ef1502e661bf9162c3b2c517",
+    "last_updated": "2026-11-24T06:46:29.000Z",
     "packageCount": 3,
     "packages": {
       "com.atrinaxu.nontoon.lightlimit": {
@@ -80722,8 +80792,8 @@
         "name": "com.nontoon.switcher",
         "displayName": "LilToNonToon Switcher",
         "description": "右键把 lilToon 材质一键转换为 NonToon（输出 <名称>_nontoon.mat），并自动生成 Modular Avatar 的 MA Material Setter + 菜单开关。",
-        "latestVersion": "1.4.2",
-        "versionCount": 28,
+        "latestVersion": "1.4.3",
+        "versionCount": 29,
         "keywords": [
           "liltoon",
           "nontoon",
@@ -80737,6 +80807,20 @@
           "url": "https://github.com/njsgdd10086"
         },
         "versions": {
+          "1.4.3": {
+            "version": "1.4.3",
+            "name": "com.nontoon.switcher",
+            "displayName": "LilToNonToon Switcher",
+            "description": "右键把 lilToon 材质一键转换为 NonToon（输出 <名称>_nontoon.mat），并自动生成 Modular Avatar 的 MA Material Setter + 菜单开关。",
+            "url": "https://github.com/njsgdd10086/LilToNonToonSwitcher/releases/download/v1.4.3/com.nontoon.switcher-1.4.3.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "jp.lilxyzw.shadercore": ">=0.1.5",
+              "jp.lilxyzw.nontoon": ">=0.1.3",
+              "com.nontoon.modules": ">=0.1.0"
+            }
+          },
           "1.4.2": {
             "version": "1.4.2",
             "name": "com.nontoon.switcher",
@@ -84799,7 +84883,7 @@
     "id": "dev.omelette_ak.vpm",
     "author": "omeletteak",
     "hash": "87cd6506aa825e26b64761abbbe030e0e11ea7ac963a055d927af38e95a30b11",
-    "last_updated": "2026-06-23T11:45:39.000Z",
+    "last_updated": "2026-06-23T11:45:38.000Z",
     "packageCount": 1,
     "packages": {
       "dev.omelette_ak.vrcloth-declipper": {
@@ -96490,7 +96574,7 @@
     "id": "com.fracfloor.vpm-listing",
     "author": "raii",
     "hash": "bb8a1fb4b6497e28d58d8f4ed220692da23d2202d1dad6f3725f0921d2c66b57",
-    "last_updated": "2026-07-03T11:55:03.000Z",
+    "last_updated": "2026-07-03T11:55:04.000Z",
     "packageCount": 1,
     "packages": {
       "com.fracfloor.timeline-beat-marker": {
@@ -97604,7 +97688,7 @@
     "id": "dev.raspichu.vpm",
     "author": "Pichu",
     "hash": "9a2f82e471fcf06456f855e8c746d6e95e053484b4737bc9a83a7c2fe7bd6b32",
-    "last_updated": "2026-09-07T15:01:36.000Z",
+    "last_updated": "2026-09-07T15:01:35.000Z",
     "packageCount": 2,
     "packages": {
       "dev.raspichu.inspector-enhancements": {
@@ -108195,7 +108279,7 @@
     "id": "jp.sigmal00.uzumore-shader.listing",
     "author": "sigmal00",
     "hash": "3a70785c60190acea2ea97394666b532dc1559dabb713be74672601ba20994bf",
-    "last_updated": "2026-11-19T11:34:51.000Z",
+    "last_updated": "2026-11-19T11:34:50.000Z",
     "packageCount": 1,
     "packages": {
       "jp.sigmal00.uzumore-shader": {
@@ -108557,8 +108641,8 @@
     "name": "sizimityper_VPM",
     "id": "com.sizimityper.vpm",
     "author": "sizimityper",
-    "hash": "933d54440198bf1213dbf06658497dcb598bfbd95d42ad921e527e33387348aa",
-    "last_updated": "2026-10-02T13:48:24.000Z",
+    "hash": "c7e21e4a7f59d9e7393ff020db1e341cd428f8a6172699471152480c26cd4c1a",
+    "last_updated": "2026-11-23T05:46:32.000Z",
     "packageCount": 6,
     "packages": {
       "com.sizimityper.blinking-led-shader": {
@@ -108808,7 +108892,7 @@
         "displayName": "sizimityper Headlight Shader",
         "description": "VRChat BRP向け ヘッドライト インテリアマッピングシェーダー（レンズフルート屈折・リフレクター・バルブエミッション）by sizimityper",
         "latestVersion": "0.12.0",
-        "versionCount": 14,
+        "versionCount": 11,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -108847,16 +108931,6 @@
             "unity": "2019.4",
             "vpmDependencies": {}
           },
-          "0.9.0": {
-            "version": "0.9.0",
-            "name": "com.sizimityper.headlight-shader",
-            "displayName": "sizimityper Headlight Shader",
-            "description": "VRChat BRP向け ヘッドライト インテリアマッピングシェーダー（レンズフルート屈折・リフレクター・バルブエミッション）by sizimityper",
-            "url": "https://github.com/sizimityper/headlight-shader/releases/download/0.9.0/com.sizimityper.headlight-shader-0.9.0.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {}
-          },
           "0.8.0": {
             "version": "0.8.0",
             "name": "com.sizimityper.headlight-shader",
@@ -108873,26 +108947,6 @@
             "displayName": "sizimityper Headlight Shader",
             "description": "VRChat BRP向け ヘッドライト インテリアマッピングシェーダー（レンズフルート屈折・リフレクター・バルブエミッション）by sizimityper",
             "url": "https://github.com/sizimityper/headlight-shader/releases/download/0.7.0/com.sizimityper.headlight-shader-0.7.0.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {}
-          },
-          "0.6.2": {
-            "version": "0.6.2",
-            "name": "com.sizimityper.headlight-shader",
-            "displayName": "sizimityper Headlight Shader",
-            "description": "VRChat BRP向け ヘッドライト インテリアマッピングシェーダー（レンズフルート屈折・リフレクター・バルブエミッション）by sizimityper",
-            "url": "https://github.com/sizimityper/headlight-shader/releases/download/0.6.2/com.sizimityper.headlight-shader-0.6.2.zip",
-            "zipSha256": null,
-            "unity": "2019.4",
-            "vpmDependencies": {}
-          },
-          "0.6.1": {
-            "version": "0.6.1",
-            "name": "com.sizimityper.headlight-shader",
-            "displayName": "sizimityper Headlight Shader",
-            "description": "VRChat BRP向け ヘッドライト インテリアマッピングシェーダー（レンズフルート屈折・リフレクター・バルブエミッション）by sizimityper",
-            "url": "https://github.com/sizimityper/headlight-shader/releases/download/0.6.1/com.sizimityper.headlight-shader-0.6.1.zip",
             "zipSha256": null,
             "unity": "2019.4",
             "vpmDependencies": {}
@@ -109163,7 +109217,7 @@
     "id": "com.mizore-nekoyanagi.vpm-packages",
     "author": "Mizore Nekoyanagi",
     "hash": "df5c206bda4082fc4825f6e0002aea2319d15d80cf9dc71813ef06fb4db812e7",
-    "last_updated": "2026-02-19T08:55:54.000Z",
+    "last_updated": "2026-02-19T08:55:53.000Z",
     "packageCount": 4,
     "packages": {
       "com.mizore-nekoyanagi.utils.apply-prefab-window": {
@@ -117704,8 +117758,8 @@
     "name": "TenteEEEE VPM Packages",
     "id": "com.tentee.vpm-repos",
     "author": "TenteEEEE",
-    "hash": "c360afb05d3a1d4958c6f44ae08f30c4b8c5f7e8caa832fcd4dced7a74c73a08",
-    "last_updated": "2026-11-22T10:56:12.000Z",
+    "hash": "f1883e2e0a02722f85b5ea95fd0e8a2a3bc5be5df4ce5693c991d0e22b59b37b",
+    "last_updated": "2026-11-23T09:23:19.000Z",
     "packageCount": 10,
     "packages": {
       "com.tentee.vrc-rotation-timer": {
@@ -118358,8 +118412,8 @@
         "name": "com.tentee.vrc-sangetsu",
         "displayName": "Sangetsu",
         "description": "Avatar transformation authoring and NDMF build integration for VRChat: switches outfits on a shared base or swaps the whole avatar.",
-        "latestVersion": "0.2.0",
-        "versionCount": 2,
+        "latestVersion": "0.2.1",
+        "versionCount": 3,
         "keywords": [
           "vrchat",
           "avatar",
@@ -118373,6 +118427,20 @@
           "url": "https://github.com/TenteEEEE"
         },
         "versions": {
+          "0.2.1": {
+            "version": "0.2.1",
+            "name": "com.tentee.vrc-sangetsu",
+            "displayName": "Sangetsu",
+            "description": "Avatar transformation authoring and NDMF build integration for VRChat: switches outfits on a shared base or swaps the whole avatar.",
+            "url": "https://github.com/TenteEEEE/vrchat-avatar-sangetsu/releases/download/0.2.1/com.tentee.vrc-sangetsu-0.2.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": "^3.10.5",
+              "nadena.dev.ndmf": "^1.14.8",
+              "nadena.dev.modular-avatar": "^1.18.7"
+            }
+          },
           "0.2.0": {
             "version": "0.2.0",
             "name": "com.tentee.vrc-sangetsu",
@@ -121426,7 +121494,7 @@
     "id": "jp.toh.package-listing",
     "author": "toh",
     "hash": "cc3967c59f319ff5c3910acb82ddac984aa9ad35b5aaec5e395d6ab2cf0dfd4f",
-    "last_updated": "2025-04-28T14:28:15.000Z",
+    "last_updated": "2025-04-28T14:28:14.000Z",
     "packageCount": 1,
     "packages": {
       "jp.toh.easy-object-switch": {
@@ -123622,7 +123690,7 @@
     "id": "io.github.tumayouzyo.tools",
     "author": "tumayouzyo",
     "hash": "30c3d971761241c4e6f1c5a55b9b6fdb25537668ed0e4871b043c8a9def43f64",
-    "last_updated": "2026-11-23T04:40:28.000Z",
+    "last_updated": "2026-11-24T06:27:48.000Z",
     "packageCount": 3,
     "packages": {
       "io.github.tumayouzyo.fx-facial-assistant": {
@@ -124225,8 +124293,8 @@
     "name": "Valenvrc Listing",
     "id": "com.valenvrc.package_listing",
     "author": "valenvrc",
-    "hash": "22416b2df3c84ce639c1387e7a8fd5296f4f713c5cb65670a97af5ba120de6b2",
-    "last_updated": "2026-09-16T21:30:57.000Z",
+    "hash": "67293b5565129e09a77776a124d8af3792fe3464d9cff4584b304d29abea07dd",
+    "last_updated": "2026-11-24T05:26:34.000Z",
     "packageCount": 6,
     "packages": {
       "com.valenvrc.common": {
@@ -124234,8 +124302,8 @@
         "name": "com.valenvrc.common",
         "displayName": "Valenvrc - Common",
         "description": "A compilation of all my utility scripts for VRChat. Mostly are dependences for my other assets.",
-        "latestVersion": "2.10.1",
-        "versionCount": 13,
+        "latestVersion": "2.10.2",
+        "versionCount": 14,
         "keywords": [
           "scripts",
           "udon",
@@ -124252,6 +124320,19 @@
           "url": "https://valenvrc.com"
         },
         "versions": {
+          "2.10.2": {
+            "version": "2.10.2",
+            "name": "com.valenvrc.common",
+            "displayName": "Valenvrc - Common",
+            "description": "A compilation of all my utility scripts for VRChat. Mostly are dependences for my other assets.",
+            "url": "https://github.com/ElMoha943/com.valenvrc.common/releases/download/v2.10.2/com.valenvrc.common.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.10.5",
+              "com.vrchat.base": ">=3.10.5"
+            }
+          },
           "2.10.1": {
             "version": "2.10.1",
             "name": "com.valenvrc.common",
@@ -125985,8 +126066,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "0faa2d7d2adb8aac156405447803594cdbf9852c3d0795f84cb7446e89a8926e",
-    "last_updated": "2026-11-23T05:38:28.000Z",
+    "hash": "0b5ac0a5da78f7504be40601ae9f1a4022e57d0c3b4c87a81dc90a516c990e25",
+    "last_updated": "2026-11-24T08:14:44.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -125994,14 +126075,114 @@
         "name": "com.vrcfury.vrcfury",
         "displayName": "VRCFury",
         "description": "Non-Destructive Tools for VRChat Avatars",
-        "latestVersion": "1.1499.0",
-        "versionCount": 1541,
+        "latestVersion": "1.1509.0",
+        "versionCount": 1551,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "VRCFury"
         },
         "versions": {
+          "1.1509.0": {
+            "version": "1.1509.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1509.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1508.0": {
+            "version": "1.1508.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1508.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1507.0": {
+            "version": "1.1507.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1507.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1506.0": {
+            "version": "1.1506.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1506.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1505.0": {
+            "version": "1.1505.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1505.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1504.0": {
+            "version": "1.1504.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1504.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1503.0": {
+            "version": "1.1503.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1503.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1502.0": {
+            "version": "1.1502.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1502.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1501.0": {
+            "version": "1.1501.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1501.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1500.0": {
+            "version": "1.1500.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1500.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.1499.0": {
             "version": "1.1499.0",
             "name": "com.vrcfury.vrcfury",
@@ -140754,7 +140935,7 @@
     "id": "com.vixencreations.vixens-toolbox.listing",
     "author": "Vixenlicous",
     "hash": "ca07311a2ca51ade19b3c866d12cffc0960f093529543ff39de03c4627bc020c",
-    "last_updated": "2026-11-22T17:56:43.000Z",
+    "last_updated": "2026-11-23T21:44:07.000Z",
     "packageCount": 3,
     "packages": {
       "com.vixencreations.vixens-toolbox": {
@@ -141635,7 +141816,7 @@
     "id": "io.mekabu.vpm-repository",
     "author": "contact@mekabu.io",
     "hash": "afb531d339483772668bf9b0fbe2f91415a0d37733b4adad67544741ae03cb2e",
-    "last_updated": "2026-11-23T05:25:57.000Z",
+    "last_updated": "2026-11-24T08:10:23.000Z",
     "packageCount": 2,
     "packages": {
       "com.mekabu.blendshape-animation-creator": {
@@ -143127,7 +143308,7 @@
     "name": "anatawa12",
     "id": "com.anatawa12.main",
     "author": "anatawa12",
-    "hash": "aad95c5b9fa05624d6c0cf4b053a60f8a9aa37425c0929b26d428e05db94ae4b",
+    "hash": "3380f1657cf3a9e76eb7d3c4bac9d0e10c75b3ac57420f2557254bb67091b906",
     "last_updated": "2026-08-01T16:09:51.342Z",
     "packageCount": 14,
     "packages": {
@@ -143137,7 +143318,7 @@
         "displayName": "Anatawa12's AvatarOpitmizer",
         "description": "Set of Anatawa12's Small Avatar Optimization Utilities",
         "latestVersion": "0.0.1",
-        "versionCount": 363,
+        "versionCount": 364,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -147912,6 +148093,19 @@
             "displayName": "AAO: Avatar Optimizer",
             "description": "Set of Anatawa12's Small Avatar Optimization Utilities",
             "url": "https://vpm.anatawa12.com/avatar-optimizer/package-1.9.23.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.8.0 <2.0.0",
+              "com.vrchat.avatars": ">=3.7.0 <3.11.0"
+            }
+          },
+          "1.9.24-beta.1": {
+            "version": "1.9.24-beta.1",
+            "name": "com.anatawa12.avatar-optimizer",
+            "displayName": "AAO: Avatar Optimizer",
+            "description": "Set of Anatawa12's Small Avatar Optimization Utilities",
+            "url": "https://vpm.anatawa12.com/avatar-optimizer/package-1.9.24-beta.1.zip?",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -153771,9 +153965,9 @@
     "name": "GokouKotori's VRChat Package Listing",
     "id": "com.gokoukotori.vpm",
     "author": "GokouKotori",
-    "hash": "212b3d588951cefb4fc0b30922e1dd8c1f6566ee8fc26a69ac6d5cce552680c6",
-    "last_updated": "2026-11-21T10:11:27.000Z",
-    "packageCount": 9,
+    "hash": "56b43d74474ef51b27b93c2e4831f5fb0ecca2d6af06fb6152a9f39dddb7c91f",
+    "last_updated": "2026-11-24T01:57:51.000Z",
+    "packageCount": 10,
     "packages": {
       "com.gokoukotori.posetune": {
         "id": "com.gokoukotori.posetune",
@@ -154526,6 +154720,31 @@
             }
           }
         }
+      },
+      "com.gokoukotori.sdf-auto-generator.ndmf": {
+        "id": "com.gokoukotori.sdf-auto-generator.ndmf",
+        "name": "com.gokoukotori.sdf-auto-generator.ndmf",
+        "displayName": "SDF Auto Generator For NDMF",
+        "description": "VRChat アバターのビルド時に、lilToon の SDF 影マスク (_ShadowStrengthMask) を自動生成する NDMF プラグイン。必要環境: NDMF 1.15.0 以上、lilToon 2.x。",
+        "latestVersion": "0.1.0",
+        "versionCount": 1,
+        "keywords": [],
+        "unity": "2022.3",
+        "author": {
+          "name": "GokouKotori"
+        },
+        "versions": {
+          "0.1.0": {
+            "version": "0.1.0",
+            "name": "com.gokoukotori.sdf-auto-generator.ndmf",
+            "displayName": "SDF Auto Generator For NDMF",
+            "description": "VRChat アバターのビルド時に、lilToon の SDF 影マスク (_ShadowStrengthMask) を自動生成する NDMF プラグイン。必要環境: NDMF 1.15.0 以上、lilToon 2.x。",
+            "url": "https://github.com/gokoukotori/SDFAutoGeneratorForNDMF/releases/download/0.1.0/com.gokoukotori.sdf-auto-generator.ndmf-0.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          }
+        }
       }
     }
   },
@@ -155079,8 +155298,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "9381c6d57d9a2d9d6d24cb2eeef40d9b5b4c6f7f791e59a4e77ac608ef2bd44b",
-    "last_updated": "2026-11-21T20:57:44.000Z",
+    "hash": "0ec464f6ada079d7736bfbd75c898fd375363a26b2b5fd05bc4f0d2cc03a400e",
+    "last_updated": "2026-11-23T08:39:27.000Z",
     "packageCount": 10,
     "packages": {
       "com.poiyomi.pro": {
@@ -158282,7 +158501,7 @@
     "id": "jp.hinasense.vpm",
     "author": "HinanoAira",
     "hash": "6101414a61af4480361097ebeaa841db500396ff4f3b1c47e3db8a078521a2fc",
-    "last_updated": "2026-11-23T05:00:02.000Z",
+    "last_updated": "2026-11-24T08:00:02.000Z",
     "packageCount": 2,
     "packages": {
       "jp.hinasense.liltoon.freak": {
@@ -171168,8 +171387,8 @@
     "name": "bd_",
     "id": "dev.nadena.vpm",
     "author": "bd_",
-    "hash": "b178888c9f9284f3b2970747ee92c47b514f2a692c062ecbc4c83d38be6c0c8f",
-    "last_updated": "2026-11-21T06:37:20.000Z",
+    "hash": "9ea568342f8ebc896cafa7023154ea30b0bfbdba5c4b8e386c6e787a2f63c24e",
+    "last_updated": "2026-11-24T05:31:59.000Z",
     "packageCount": 4,
     "packages": {
       "nadena.dev.misc-vrc-tools": {
@@ -171205,7 +171424,7 @@
         "displayName": "Modular Avatar",
         "description": null,
         "latestVersion": "0.8.0",
-        "versionCount": 202,
+        "versionCount": 203,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -172868,6 +173087,18 @@
             "displayName": "Modular Avatar",
             "description": "A suite of tools for assembling your avatar out of reusable components",
             "url": "https://packages.vpm.nadena.dev/repositories/nadena.dev/packages/nadena.dev.modular-avatar/1.19.0-rc.3/3a53859754a870a0193bb55d49a495da742f053e72695037c81f1833545694ff.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.15.0-beta.1 <2.0.0-a"
+            }
+          },
+          "1.19.1-beta.0": {
+            "version": "1.19.1-beta.0",
+            "name": "nadena.dev.modular-avatar",
+            "displayName": "Modular Avatar",
+            "description": "A suite of tools for assembling your avatar out of reusable components",
+            "url": "https://packages.vpm.nadena.dev/repositories/nadena.dev/packages/nadena.dev.modular-avatar/1.19.1-beta.0/4131fa8be680d98e9ec830f9629424a85a0f5a133491b011e92eb309fed8b12b.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -186933,7 +187164,7 @@
     "name": "Pukorufu Packages",
     "id": "net.puk06.vpm",
     "author": "Pukorufu",
-    "hash": "ec3a8ef074615d45b5dd7864b3cbfaed7e51f776baaedfd9b4ba5661d6558501",
+    "hash": "690690b4a4f491bb19a7d439dadfa9e5095058a4b87eda178a02443601f77ddf",
     "last_updated": "2026-08-01T16:09:53.410Z",
     "packageCount": 13,
     "packages": {
@@ -187033,7 +187264,7 @@
         "displayName": "Color Changer For Unity",
         "description": "VRC Color Changer For Unity!",
         "latestVersion": "1.0.0",
-        "versionCount": 52,
+        "versionCount": 53,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -187742,6 +187973,20 @@
               "com.vrchat.base": ">=3.5.0",
               "net.puk06.texture-replacer": ">=1.0.1"
             }
+          },
+          "2.2.0": {
+            "version": "2.2.0",
+            "name": "net.puk06.color-changer",
+            "displayName": "Color Changer For Unity",
+            "description": "Non-destructive Color Changer For Unity!",
+            "url": "https://github.com/puk06/Color-Changer-For-Unity/releases/download/v2.2.0/net.puk06.color-changer-v2.2.0.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.5.0",
+              "com.vrchat.base": ">=3.5.0",
+              "net.puk06.texture-replacer": ">=1.0.1"
+            }
           }
         }
       },
@@ -187751,7 +187996,7 @@
         "displayName": "TexStackEditor",
         "description": "An advanced layer-based texture editing and baking tool for VRChat avatars in Unity.",
         "latestVersion": "1.0.0",
-        "versionCount": 20,
+        "versionCount": 21,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -188013,6 +188258,19 @@
             "displayName": "TexStackEditor",
             "description": "An advanced layer-based texture editing and baking tool for VRChat avatars in Unity.",
             "url": "https://github.com/puk06/TexStackEditor/releases/download/v1.4.0/net.puk06.tex-stack-editor-v1.4.0.zip?",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "nadena.dev.ndmf": ">=1.5.0",
+              "com.vrchat.base": ">=3.5.0"
+            }
+          },
+          "1.5.0": {
+            "version": "1.5.0",
+            "name": "net.puk06.tex-stack-editor",
+            "displayName": "TexStackEditor",
+            "description": "An advanced layer-based texture editing and baking tool for VRChat avatars in Unity.",
+            "url": "https://github.com/puk06/TexStackEditor/releases/download/v1.5.0/net.puk06.tex-stack-editor-v1.5.0.zip?",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -191996,7 +192254,7 @@
     "id": "dev.sleightly.vpm-listing",
     "author": "JustSleightly",
     "hash": "263ae27864a2063bd3bc8485f328fb428359ed01da756bcbd99d522d153e9c3c",
-    "last_updated": "2026-10-12T04:09:57.000Z",
+    "last_updated": "2026-10-12T04:09:58.000Z",
     "packageCount": 2,
     "packages": {
       "dev.sleightly.clipfocus": {
@@ -192772,7 +193030,7 @@
     "id": "dev.thry.vpm",
     "author": "Thryrallo",
     "hash": "0189583cd590af92f6337bf072cfea3211c6a3ca90738536d8f30bcd5fab82cb",
-    "last_updated": "2024-08-05T22:13:01.000Z",
+    "last_updated": "2024-08-05T22:13:00.000Z",
     "packageCount": 1,
     "packages": {
       "de.thryrallo.vrc.avatar-performance-tools": {
@@ -201748,8 +202006,8 @@
     "name": "HierarchyDecorator | VRCLearn",
     "id": "io.github.vrclearn.hierarchydecorator",
     "author": "VRCLearn",
-    "hash": "2df4292a2b0fd7a2787b2189f4341e4a34a1b992fd4763d4549c41fa4cb2a158",
-    "last_updated": "2026-11-03T22:29:26.000Z",
+    "hash": "de6fa284a469f5d9b51957a4e4bcb0ae74cc208c04def26e4183eff130611ce9",
+    "last_updated": "2026-11-23T17:49:49.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrclearn.hierarchydecorator": {
@@ -201757,8 +202015,8 @@
         "name": "com.vrclearn.hierarchydecorator",
         "displayName": "HierarchyDecorator",
         "description": "Customize the Unity Hierarchy with headers, component icons, tags, layers and multilingual settings. Independently maintained by VRCLearn.",
-        "latestVersion": "1.3.0",
-        "versionCount": 6,
+        "latestVersion": "1.4.0",
+        "versionCount": 7,
         "keywords": [
           "hierarchy",
           "editor"
@@ -201770,6 +202028,16 @@
           "email": "185041488+CQMHV@users.noreply.github.com"
         },
         "versions": {
+          "1.4.0": {
+            "version": "1.4.0",
+            "name": "com.vrclearn.hierarchydecorator",
+            "displayName": "HierarchyDecorator",
+            "description": "Customize the Unity Hierarchy with headers, component icons, tags, layers and multilingual settings. Independently maintained by VRCLearn.",
+            "url": "https://github.com/VRCLearn/HierarchyDecorator/releases/download/1.4.0/com.vrclearn.hierarchydecorator-1.4.0.zip",
+            "zipSha256": null,
+            "unity": "2018.4",
+            "vpmDependencies": {}
+          },
           "1.3.0": {
             "version": "1.3.0",
             "name": "com.vrclearn.hierarchydecorator",
@@ -203617,7 +203885,7 @@
     "id": "com.vrvlog.packages",
     "author": "VR Vlog",
     "hash": "f59abc767ef08f4c8a4bca4c23a537736c94e282ab026d6d5044a860db59f5ea",
-    "last_updated": "2026-11-21T18:35:50.000Z",
+    "last_updated": "2026-11-23T14:31:31.000Z",
     "packageCount": 3,
     "packages": {
       "com.vrvlog.liltoon-vrm-exporter": {
