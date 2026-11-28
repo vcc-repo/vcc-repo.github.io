@@ -641,7 +641,7 @@
     "id": "adjerry91.vrcft.templates.listing",
     "author": "Adjerry91",
     "hash": "ecfc6d19f46027d7b791f7ff06d9371447096bd420bf26ba145bd0283b2b020d",
-    "last_updated": "2026-11-26T05:25:57.000Z",
+    "last_updated": "2026-11-27T14:32:13.000Z",
     "packageCount": 1,
     "packages": {
       "adjerry91.vrcft.templates": {
@@ -14270,7 +14270,7 @@
     "id": "befuddledlabs.linuxvrchatsdkpatch",
     "author": "BefuddledLabs",
     "hash": "3a640f66c15e35c6d7ab0de3a45670c1b6474993e4965be24d1b769863545216",
-    "last_updated": "2026-11-05T16:48:35.000Z",
+    "last_updated": "2026-11-05T16:48:34.000Z",
     "packageCount": 3,
     "packages": {
       "befuddledlabs.linuxvrchatsdkpatch-worlds": {
@@ -15210,7 +15210,7 @@
     "id": "cc.orbiters.vpm",
     "author": "blackorbit",
     "hash": "e09b640a53c94d69e45f35f29e9d4d7b6205987568eb15eaf13936520900257e",
-    "last_updated": "2026-11-27T06:32:47.000Z",
+    "last_updated": "2026-11-28T05:22:26.000Z",
     "packageCount": 12,
     "packages": {
       "orbiters.mcb": {
@@ -20845,7 +20845,7 @@
     "id": "com.chikumatateshina.qvpen-avatar-follow-system",
     "author": "ChikumaTateshina",
     "hash": "c002c8b044783a1bc15e74a999e1af8a65dfbb62b0ca97d520515986173bcbb1",
-    "last_updated": "2026-10-06T04:43:27.000Z",
+    "last_updated": "2026-10-06T04:43:26.000Z",
     "packageCount": 1,
     "packages": {
       "com.chikumatateshina.qvpen-avatar-follow-system": {
@@ -25412,7 +25412,7 @@
     "id": "com.docme.listing",
     "author": "DocMe",
     "hash": "eb5d9f703a3ea4f0e2136fb2618d56da34f9cdf5aad5e4f8765cf1b18e212c90",
-    "last_updated": "2026-11-26T13:52:40.000Z",
+    "last_updated": "2026-11-27T13:50:04.000Z",
     "packageCount": 5,
     "packages": {
       "com.docme.eye-installer": {
@@ -31412,29 +31412,55 @@
     "name": "eyemono",
     "id": "moe.eyemono.vpm",
     "author": "eyemono",
-    "hash": "c41110b3e9d048047b7ce2c82f9d1be04e0b7a9a5266f2c055fddcf71c78f48c",
-    "last_updated": "2026-10-30T12:32:12.000Z",
+    "hash": "b1a723886eaf9aa961f895073346d310531e3bdbe2d2615780cdb695947e03d1",
+    "last_updated": "2026-11-28T03:33:43.000Z",
     "packageCount": 1,
     "packages": {
-      "moe.eyemono.hitokoto": {
-        "id": "moe.eyemono.hitokoto",
-        "name": "moe.eyemono.hitokoto",
-        "displayName": "hitokoto",
-        "description": "VRChat avatar status bubble driven over OSC.",
-        "latestVersion": "0.2.0",
-        "versionCount": 1,
+      "moe.eyemono.madochat": {
+        "id": "moe.eyemono.madochat",
+        "name": "moe.eyemono.madochat",
+        "displayName": "madochat",
+        "description": "A window above your VRChat avatar's head, written from the browser over OSC.",
+        "latestVersion": "0.1.0",
+        "versionCount": 3,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "eyemono"
         },
         "versions": {
+          "0.1.0": {
+            "version": "0.1.0",
+            "name": "moe.eyemono.madochat",
+            "displayName": "madochat",
+            "description": "A window above your VRChat avatar's head, written from the browser over OSC.",
+            "url": "https://github.com/eyemono-moe/vpm/releases/download/madochat-v0.1.0/moe.eyemono.madochat-0.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.0",
+              "nadena.dev.modular-avatar": ">=1.18.0"
+            }
+          },
+          "0.1.1": {
+            "version": "0.1.1",
+            "name": "moe.eyemono.madochat",
+            "displayName": "madoChat",
+            "description": "A window above your VRChat avatar's head, written from the browser over OSC.",
+            "url": "https://github.com/eyemono-moe/vpm/releases/download/madochat-v0.1.1/moe.eyemono.madochat-0.1.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.0",
+              "nadena.dev.modular-avatar": ">=1.18.0"
+            }
+          },
           "0.2.0": {
             "version": "0.2.0",
-            "name": "moe.eyemono.hitokoto",
-            "displayName": "hitokoto",
-            "description": "VRChat avatar status bubble driven over OSC.",
-            "url": "https://github.com/eyemono-moe/vpm/releases/download/hitokoto-v0.2.0/moe.eyemono.hitokoto-0.2.0.zip",
+            "name": "moe.eyemono.madochat",
+            "displayName": "madoChat",
+            "description": "A window above your VRChat avatar's head, written from the browser over OSC.",
+            "url": "https://github.com/eyemono-moe/vpm/releases/download/madochat-v0.2.0/moe.eyemono.madochat-0.2.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -32720,7 +32746,7 @@
     "id": "com.furality.repos.official",
     "author": "Furality, Inc.",
     "hash": "1f058d849e3d6f8fbf1320164b63cd1f1019b43a7993a1adfa11f274f8288e49",
-    "last_updated": "2026-08-08T02:49:10.000Z",
+    "last_updated": "2026-08-08T02:49:09.000Z",
     "packageCount": 3,
     "packages": {
       "com.furality.sylvashader": {
@@ -35853,7 +35879,7 @@
     "id": "info.glintfraulein.vpm",
     "author": "GlinT Fraulein",
     "hash": "73604b5dbc89487eb98b71c30501c83b346b29d793d41781a16448cb6ed6daef",
-    "last_updated": "2026-11-04T16:39:39.000Z",
+    "last_updated": "2026-11-04T16:39:38.000Z",
     "packageCount": 1,
     "packages": {
       "info.glintfraulein.palasolu": {
@@ -36603,7 +36629,7 @@
     "id": "com.synthos.packages",
     "author": "Synthos",
     "hash": "0e0906d142a51d4f1fcaba075616616a6eb28e8196cd9fbe7566af15a1ea0c85",
-    "last_updated": "2026-11-27T02:38:44.000Z",
+    "last_updated": "2026-11-28T06:05:39.000Z",
     "packageCount": 9,
     "packages": {
       "com.synthos.scene-optimizer": {
@@ -40603,8 +40629,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "e41926d9e3786d8780c9cb84627b91d5206d0777dfc1ba107a2b71d4922b91f1",
-    "last_updated": "2026-11-27T05:06:04.000Z",
+    "hash": "59d894d3c898e4ff2f1310d8e4a6692cf4d46c64b9cbe520470f92c1966aec09",
+    "last_updated": "2026-11-27T17:51:49.000Z",
     "packageCount": 10,
     "packages": {
       "com.poiyomi.pro": {
@@ -48217,7 +48243,7 @@
     "id": "com.hhotatea.avatar-pose-library.listing",
     "author": "HhotateA",
     "hash": "a41974ff48bfadda8ca1a3c9ab17f8ff2a4f1089fd96f49fe473b98a8cf5ecb9",
-    "last_updated": "2026-10-05T08:57:46.000Z",
+    "last_updated": "2026-11-27T14:58:23.000Z",
     "packageCount": 1,
     "packages": {
       "com.hhotatea.avatar-pose-library": {
@@ -50679,8 +50705,8 @@
     "name": "アセットノート / Asset Notebook",
     "id": "com.horicraft.asset-catalog.vpm",
     "author": "HoriCraft",
-    "hash": "71a0eb98f3c5048c6ffac36f7dea18d7c2d8bf6502890a44457ba80de16bbc78",
-    "last_updated": "2026-10-29T05:27:54.000Z",
+    "hash": "fc503ce9f6d36cd54670cab8a8eb3d4bcd6cc7a6e71ce4bf8337133d7af1e5e5",
+    "last_updated": "2026-11-27T15:42:07.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.booth-library-unity": {
@@ -50689,7 +50715,7 @@
         "displayName": "HoriCraft Asset Catalog",
         "description": "A paid, offline-activated unofficial Unity Editor extension by HoriCraft that connects to BOOTH Library Manager to browse products and link imported assets.",
         "latestVersion": "1.0.0-candidate.3",
-        "versionCount": 7,
+        "versionCount": 8,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -50766,6 +50792,16 @@
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {}
+          },
+          "1.3.0": {
+            "version": "1.3.0",
+            "name": "com.horicraft.booth-library-unity",
+            "displayName": "アセットノート / Asset Notebook",
+            "description": "A paid, offline-activated unofficial Unity Editor extension by HoriCraft that connects to BOOTH Library Manager to browse products and link imported assets.",
+            "url": "https://horicraft.github.io/asset-catalog-vpm/packages/com.horicraft.booth-library-unity-1.3.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
           }
         }
       }
@@ -50777,7 +50813,7 @@
     "id": "com.horicraft.vpm",
     "author": "HoriCraft",
     "hash": "dc975d1397ce107372949311ebff9c87b2475ea8a0827d7b3c6c9caa9a314034",
-    "last_updated": "2026-11-27T02:37:52.000Z",
+    "last_updated": "2026-11-27T15:56:57.000Z",
     "packageCount": 1,
     "packages": {
       "com.horicraft.texslim": {
@@ -52932,7 +52968,7 @@
     "id": "dev.kaefibot.listing",
     "author": "WoweePaw",
     "hash": "0f954512e7a69a442d27394f918fc68614873d3db3706347e1e36e0acde01244",
-    "last_updated": "2026-07-05T15:03:29.000Z",
+    "last_updated": "2026-07-05T15:03:28.000Z",
     "packageCount": 1,
     "packages": {
       "dev.kaefibot.kaefibot-controller": {
@@ -61095,7 +61131,7 @@
     "id": "com.kikurage1989.utilsscript",
     "author": "kikurage1989_",
     "hash": "a479bbbb44186c8db52473fa68813010d0cde6afd082f97f0ee93a79ee10ca50",
-    "last_updated": "2026-07-30T11:03:58.000Z",
+    "last_updated": "2026-07-30T11:03:57.000Z",
     "packageCount": 2,
     "packages": {
       "com.kikurage1989.utilsscript": {
@@ -61544,7 +61580,7 @@
     "id": "dev.kmnk.vpm",
     "author": "kmnk",
     "hash": "9201a91f384f78944fbd021c8d7906cd827b530edb02bd17b9b3b4c354d653f5",
-    "last_updated": "2026-11-26T18:22:43.000Z",
+    "last_updated": "2026-11-27T18:22:10.000Z",
     "packageCount": 2,
     "packages": {
       "dev.kmnk.log-stream": {
@@ -63743,7 +63779,7 @@
     "id": "com.github.kurotu.vpm",
     "author": "kurotu",
     "hash": "33372f92e9d5c4963d2ae818d028220969b8f2ed2ec107515ed08b55942663df",
-    "last_updated": "2026-11-23T01:30:02.000Z",
+    "last_updated": "2026-11-23T01:30:03.000Z",
     "packageCount": 4,
     "packages": {
       "com.github.kurotu.vrc-quest-tools": {
@@ -66473,7 +66509,7 @@
     "id": "lereldarion",
     "author": "Lereldarion",
     "hash": "fa9cc79e70fb00eb2aa70863c05e008271c255affd1e14192f26540239c3a213",
-    "last_updated": "2026-06-25T19:36:15.000Z",
+    "last_updated": "2026-06-25T19:36:14.000Z",
     "packageCount": 2,
     "packages": {
       "lereldarion.unity-shaders": {
@@ -78395,7 +78431,7 @@
     "id": "com.natane.toonshader.listing",
     "author": "Natane",
     "hash": "52f1f351d656da2afce5596eb6e8ac183fba63a3c7d3b46842bfd3dd2cc87abb",
-    "last_updated": "2026-11-12T14:27:09.000Z",
+    "last_updated": "2026-11-12T14:27:08.000Z",
     "packageCount": 1,
     "packages": {
       "com.natane.toonshader": {
@@ -78894,7 +78930,7 @@
     "id": "com.nekoare.vpm.bundled",
     "author": "nekoare",
     "hash": "895440e0e852775a2511c0bf8fca4638fcc337bc3ebb4b253c0225d42eed2c03",
-    "last_updated": "2026-11-23T20:33:49.000Z",
+    "last_updated": "2026-11-27T21:37:13.000Z",
     "packageCount": 2,
     "packages": {
       "com.nekoare.chimera-hair-master": {
@@ -80468,7 +80504,7 @@
     "id": "com.njsgdd10086.vpm-repo",
     "author": "ATRI_NAIXU",
     "hash": "8eb7ef3d40daad7419a0265faf691b20f3070224ef1502e661bf9162c3b2c517",
-    "last_updated": "2026-11-27T04:33:35.000Z",
+    "last_updated": "2026-11-28T04:32:00.000Z",
     "packageCount": 3,
     "packages": {
       "com.atrinaxu.nontoon.lightlimit": {
@@ -84845,7 +84881,7 @@
     "id": "dev.omelette_ak.vpm",
     "author": "omeletteak",
     "hash": "87cd6506aa825e26b64761abbbe030e0e11ea7ac963a055d927af38e95a30b11",
-    "last_updated": "2026-06-23T11:45:39.000Z",
+    "last_updated": "2026-06-23T11:45:38.000Z",
     "packageCount": 1,
     "packages": {
       "dev.omelette_ak.vrcloth-declipper": {
@@ -108174,8 +108210,8 @@
     "name": "UzumoreShader Listing",
     "id": "jp.sigmal00.uzumore-shader.listing",
     "author": "sigmal00",
-    "hash": "3a70785c60190acea2ea97394666b532dc1559dabb713be74672601ba20994bf",
-    "last_updated": "2026-11-19T11:34:51.000Z",
+    "hash": "90185afa1c2aa6fb044b65c9a13b74be83b7fe5b407a70abc9d552ab7222f86c",
+    "last_updated": "2026-11-27T15:18:51.000Z",
     "packageCount": 1,
     "packages": {
       "jp.sigmal00.uzumore-shader": {
@@ -108183,8 +108219,8 @@
         "name": "jp.sigmal00.uzumore-shader",
         "displayName": "UzumoreShader",
         "description": "埋もれシェーダーはカメラがメッシュの内側に潜り込んだ際に頂点をカメラの正面まで押し戻すことでメッシュの内側を見えなくするシェーダーです。",
-        "latestVersion": "1.0.31",
-        "versionCount": 11,
+        "latestVersion": "1.1.1",
+        "versionCount": 13,
         "keywords": [],
         "unity": "2019.4",
         "author": {
@@ -108192,6 +108228,30 @@
           "url": "https://github.com/sigmal00"
         },
         "versions": {
+          "1.1.1": {
+            "version": "1.1.1",
+            "name": "jp.sigmal00.uzumore-shader",
+            "displayName": "UzumoreShader",
+            "description": "埋もれシェーダーはカメラがメッシュの内側に潜り込んだ際に頂点をカメラの正面まで押し戻すことでメッシュの内側を見えなくするシェーダーです。",
+            "url": "https://github.com/sigmal00/UzumoreShaderVPM/releases/download/1.1.1/jp.sigmal00.uzumore-shader-1.1.1.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "jp.lilxyzw.liltoon": ">=1.9.0"
+            }
+          },
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "jp.sigmal00.uzumore-shader",
+            "displayName": "UzumoreShader",
+            "description": "埋もれシェーダーはカメラがメッシュの内側に潜り込んだ際に頂点をカメラの正面まで押し戻すことでメッシュの内側を見えなくするシェーダーです。",
+            "url": "https://github.com/sigmal00/UzumoreShaderVPM/releases/download/1.1.0/jp.sigmal00.uzumore-shader-1.1.0.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {
+              "jp.lilxyzw.liltoon": ">=1.9.0"
+            }
+          },
           "1.0.31": {
             "version": "1.0.31",
             "name": "jp.sigmal00.uzumore-shader",
@@ -109143,7 +109203,7 @@
     "id": "com.mizore-nekoyanagi.vpm-packages",
     "author": "Mizore Nekoyanagi",
     "hash": "df5c206bda4082fc4825f6e0002aea2319d15d80cf9dc71813ef06fb4db812e7",
-    "last_updated": "2026-02-19T08:55:53.000Z",
+    "last_updated": "2026-02-19T08:55:54.000Z",
     "packageCount": 4,
     "packages": {
       "com.mizore-nekoyanagi.utils.apply-prefab-window": {
@@ -109808,7 +109868,7 @@
     "id": "com.ysasa.sgimmicks.repository",
     "author": "ysasa",
     "hash": "ca7bc5dcf132eb1acb3cd48d9543ac5f864ea83bf7e886254ea31714bfef756f",
-    "last_updated": "2026-11-16T07:26:25.000Z",
+    "last_updated": "2026-11-16T07:26:24.000Z",
     "packageCount": 1,
     "packages": {
       "com.ysasa.sgimmicks": {
@@ -112202,8 +112262,8 @@
     "name": "yukiyosanako's VPM Repository",
     "id": "io.github.ykysnk.vpm",
     "author": "yukiyosanako / ゆきよさなこ",
-    "hash": "d044ac4b548bafd15aea4db38a0edb122d138ade76493b9c92ad192b72fa770f",
-    "last_updated": "2026-11-27T00:55:11.000Z",
+    "hash": "5570e33167412ae0633b384c7cc232077a3d99c244de5e0143da3ab4dc1089c4",
+    "last_updated": "2026-11-27T08:35:16.000Z",
     "packageCount": 17,
     "packages": {
       "io.github.ykysnk.utils": {
@@ -112211,8 +112271,8 @@
         "name": "io.github.ykysnk.utils",
         "displayName": "Utils for VPM and Unity",
         "description": "Shared runtime and editor helpers for the VPM packages: logging, reflection, an inspector base, GUI and menu helpers, a UPM client and Harmony patches.",
-        "latestVersion": "1.10.3",
-        "versionCount": 133,
+        "latestVersion": "1.10.4",
+        "versionCount": 134,
         "keywords": [
           "unity",
           "vpm",
@@ -112230,6 +112290,16 @@
           "url": "https://github.com/T2PeNBiX99wcoxKv3A4g"
         },
         "versions": {
+          "1.10.4": {
+            "version": "1.10.4",
+            "name": "io.github.ykysnk.utils",
+            "displayName": "Utils for VPM and Unity",
+            "description": "Shared runtime and editor helpers for the VPM packages: logging, reflection, an inspector base, GUI and menu helpers, a UPM client and Harmony patches.",
+            "url": "https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.Utils/releases/download/1.10.4/io.github.ykysnk.utils-1.10.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.10.3": {
             "version": "1.10.3",
             "name": "io.github.ykysnk.utils",
@@ -116176,8 +116246,8 @@
         "name": "io.github.ykysnk.localization",
         "displayName": "Localization",
         "description": "Key-based editor localization for VPM and Unity: one asset per language, keys in UXML, live language switching, and JSON/PO import and export.",
-        "latestVersion": "1.0.4",
-        "versionCount": 44,
+        "latestVersion": "1.0.5",
+        "versionCount": 45,
         "keywords": [
           "unity",
           "vpm",
@@ -116195,6 +116265,18 @@
           "url": "https://github.com/T2PeNBiX99wcoxKv3A4g"
         },
         "versions": {
+          "1.0.5": {
+            "version": "1.0.5",
+            "name": "io.github.ykysnk.localization",
+            "displayName": "Localization",
+            "description": "Key-based editor localization for VPM and Unity: one asset per language, keys in UXML, live language switching, and JSON/PO import and export.",
+            "url": "https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.Localization/releases/download/1.0.5/io.github.ykysnk.localization-1.0.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "io.github.ykysnk.utils": ">=0.33.2"
+            }
+          },
           "1.0.4": {
             "version": "1.0.4",
             "name": "io.github.ykysnk.localization",
@@ -116711,10 +116793,19 @@
         "id": "io.github.ykysnk.yky-toolkit",
         "name": "io.github.ykysnk.yky-toolkit",
         "displayName": "YKY Toolkit",
-        "description": "Toolkit for Unity",
-        "latestVersion": "1.1.3",
-        "versionCount": 49,
-        "keywords": [],
+        "description": "Editor toolkit for Unity: a UPM package installer, import watcher, delete history, resource monitor, cache cleanup and an enhanced transform inspector.",
+        "latestVersion": "1.2.1",
+        "versionCount": 51,
+        "keywords": [
+          "unity",
+          "vpm",
+          "vrc",
+          "vrchat",
+          "editor",
+          "toolkit",
+          "transform",
+          "upm"
+        ],
         "unity": "2022.3",
         "author": {
           "name": "yukiyosanako / ゆきよさなこ",
@@ -116722,6 +116813,32 @@
           "url": "https://github.com/T2PeNBiX99wcoxKv3A4g"
         },
         "versions": {
+          "1.2.1": {
+            "version": "1.2.1",
+            "name": "io.github.ykysnk.yky-toolkit",
+            "displayName": "YKY Toolkit",
+            "description": "Editor toolkit for Unity: a UPM package installer, import watcher, delete history, resource monitor, cache cleanup and an enhanced transform inspector.",
+            "url": "https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.YKYToolKit/releases/download/1.2.1/io.github.ykysnk.yky-toolkit-1.2.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "io.github.ykysnk.utils": ">=1.9.2",
+              "io.github.ykysnk.localization": ">=1.0.0"
+            }
+          },
+          "1.2.0": {
+            "version": "1.2.0",
+            "name": "io.github.ykysnk.yky-toolkit",
+            "displayName": "YKY Toolkit",
+            "description": "Editor toolkit for Unity: a UPM package installer, import watcher, delete history, resource monitor, cache cleanup and an enhanced transform inspector.",
+            "url": "https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.YKYToolKit/releases/download/1.2.0/io.github.ykysnk.yky-toolkit-1.2.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "io.github.ykysnk.utils": ">=1.9.2",
+              "io.github.ykysnk.localization": ">=1.0.0"
+            }
+          },
           "1.1.3": {
             "version": "1.1.3",
             "name": "io.github.ykysnk.yky-toolkit",
@@ -120979,8 +121096,8 @@
     "name": "Fur Grooming Tool Listing",
     "id": "com.furgrooming.tool.listing",
     "author": "ToffelsKater",
-    "hash": "464ccdb44176e537377045a18c239f12280e4fd8456f2ea0290a428933d29ef7",
-    "last_updated": "2026-11-24T23:55:52.000Z",
+    "hash": "7ca0c59ae7ce9ea20c526765b576e9f5347e0d8efd67621d9b8496b95f79b441",
+    "last_updated": "2026-11-28T00:50:42.000Z",
     "packageCount": 1,
     "packages": {
       "com.furgrooming.tool": {
@@ -120988,8 +121105,8 @@
         "name": "com.furgrooming.tool",
         "displayName": "Fur Grooming Tool",
         "description": "Paint fur direction, length, and presence over a UV layout and export liltoon-ready normal/length/alpha textures. A component on an outfit root grooms the fur out from under that outfit and swaps the result in with its toggle, and a panel bakes a fur material per outfit to swap in with VRC-Fury. Editor-only.",
-        "latestVersion": "1.7.0",
-        "versionCount": 14,
+        "latestVersion": "1.8.0",
+        "versionCount": 15,
         "keywords": [
           "liltoon",
           "fur",
@@ -121004,6 +121121,16 @@
           "name": "ToffelsKater"
         },
         "versions": {
+          "1.8.0": {
+            "version": "1.8.0",
+            "name": "com.furgrooming.tool",
+            "displayName": "Fur Grooming Tool",
+            "description": "Paint fur direction, length, and presence over a UV layout and export liltoon-ready normal/length/alpha textures. A component on an outfit root grooms the fur out from under that outfit and swaps the result in with its toggle, and a panel bakes a fur material per outfit to swap in with VRC-Fury. Editor-only.",
+            "url": "https://github.com/ToffelsKater/fur-grooming-tool/releases/download/1.8.0/com.furgrooming.tool-1.8.0.zip",
+            "zipSha256": null,
+            "unity": "2019.4",
+            "vpmDependencies": {}
+          },
           "1.7.0": {
             "version": "1.7.0",
             "name": "com.furgrooming.tool",
@@ -121805,8 +121932,8 @@
     "name": "TpLab",
     "id": "io.github.tp-jp.vpm",
     "author": "tp.jp",
-    "hash": "b4fcf14ecf5a783fca41f77dc80379f9eb1e43c7be5b654de653a0f610a9f572",
-    "last_updated": "2026-11-27T03:48:34.000Z",
+    "hash": "963d3f3dc06f7918eb0a1f439c2876e01d884be5d809b2fd7983ec3f77671e14",
+    "last_updated": "2026-11-27T16:50:49.000Z",
     "packageCount": 11,
     "packages": {
       "com.tp.jp.iwa-sync3-color-changer": {
@@ -122540,8 +122667,8 @@
         "name": "com.tplab.flux.fx",
         "displayName": "FluxFX",
         "description": "GPU particle and visual effects framework powered by Flux.",
-        "latestVersion": "0.7.3",
-        "versionCount": 31,
+        "latestVersion": "0.7.4",
+        "versionCount": 32,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -122549,6 +122676,20 @@
           "url": "https://github.com/tp-jp"
         },
         "versions": {
+          "0.7.4": {
+            "version": "0.7.4",
+            "name": "com.tplab.flux.fx",
+            "displayName": "FluxFX",
+            "description": "GPU particle and visual effects framework powered by Flux.",
+            "url": "https://github.com/tp-jp/FluxFX/releases/download/0.7.4/com.tplab.flux.fx-0.7.4.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": "^3.10.5",
+              "com.tplab.sceneflow": "^2.1.0",
+              "com.tplab.flux": "^0.1.0"
+            }
+          },
           "0.7.3": {
             "version": "0.7.3",
             "name": "com.tplab.flux.fx",
@@ -123980,7 +124121,7 @@
     "id": "io.github.tumayouzyo.tools",
     "author": "tumayouzyo",
     "hash": "30c3d971761241c4e6f1c5a55b9b6fdb25537668ed0e4871b043c8a9def43f64",
-    "last_updated": "2026-11-27T05:24:49.000Z",
+    "last_updated": "2026-11-28T05:01:46.000Z",
     "packageCount": 3,
     "packages": {
       "io.github.tumayouzyo.fx-facial-assistant": {
@@ -125539,7 +125680,7 @@
     "id": "dev.aitsys.vcc",
     "author": "Lala Sabathil",
     "hash": "0a38da773bfc9c2eb42319357b87c0ab7ec103bf3d6add573d472259d7fd4185",
-    "last_updated": "2026-11-20T23:53:51.000Z",
+    "last_updated": "2026-11-20T23:53:50.000Z",
     "packageCount": 1,
     "packages": {
       "dev.aitsys.vrc-discord-rpc": {
@@ -125632,8 +125773,8 @@
     "name": "Pawlygon VCC",
     "id": "net.pawlygon.vcc-packages",
     "author": "Pawlygon",
-    "hash": "ec7ae67b83994ba2f94ce5c592994fabc2205b9dfffbd7353950aaa1736fff19",
-    "last_updated": "2026-11-27T05:31:17.000Z",
+    "hash": "0084e5faac62729fc5ec08cd97c35403aae1ef0a8fdf9a7acc4a7469029a8174",
+    "last_updated": "2026-11-27T18:07:51.000Z",
     "packageCount": 2,
     "packages": {
       "net.pawlygon.vrc-facetracking": {
@@ -125642,7 +125783,7 @@
         "displayName": "Pawlygon - VRC Facetracking",
         "description": "Template to be used on models with Unified Expressions Face Tracking",
         "latestVersion": "1.0.0",
-        "versionCount": 49,
+        "versionCount": 50,
         "keywords": [
           "vrchat",
           "facetracking",
@@ -126176,6 +126317,18 @@
             "vpmDependencies": {
               "com.vrchat.avatars": ">=3.10.6"
             }
+          },
+          "2.3.0": {
+            "version": "2.3.0",
+            "name": "net.pawlygon.vrc-facetracking",
+            "displayName": "Pawlygon - VRC Facetracking",
+            "description": "Non-destructive VRChat native face tracking for avatars with Unified Expressions blendshapes.",
+            "url": "https://github.com/PawlygonStudio/VRC-Facetracking/releases/download/2.3.0/net.pawlygon.vrc-facetracking-2.3.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.6"
+            }
           }
         }
       },
@@ -126317,7 +126470,7 @@
     "id": "co.raphii.vpm-listing",
     "author": "Raphiiko",
     "hash": "13d7c0741bdb67306d4706066396ddccd4188238b4335f6b126e26cf84767a0b",
-    "last_updated": "2026-07-03T23:15:32.000Z",
+    "last_updated": "2026-07-03T23:15:31.000Z",
     "packageCount": 1,
     "packages": {
       "co.raphii.vrti.avatarmenu": {
@@ -126380,8 +126533,8 @@
     "name": "VRCFury Repo",
     "id": "com.vrcfury.vcc",
     "author": "VRCFury Developers",
-    "hash": "2e0ad4ab5d5e3b0424e3b533526b2ef43e958443f79790a48f1dc891ee91cb30",
-    "last_updated": "2026-11-27T06:35:37.000Z",
+    "hash": "9b7118bcf78f8a2273c06257b922db48f38454d4bf4b7633ea4dec8b09c2b251",
+    "last_updated": "2026-11-28T06:09:37.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrcfury.vrcfury": {
@@ -126389,14 +126542,44 @@
         "name": "com.vrcfury.vrcfury",
         "displayName": "VRCFury",
         "description": "Non-Destructive Tools for VRChat Avatars",
-        "latestVersion": "1.1523.0",
-        "versionCount": 1565,
+        "latestVersion": "1.1526.0",
+        "versionCount": 1568,
         "keywords": [],
         "unity": "2022.3",
         "author": {
           "name": "VRCFury"
         },
         "versions": {
+          "1.1526.0": {
+            "version": "1.1526.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1526.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1525.0": {
+            "version": "1.1525.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1525.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "1.1524.0": {
+            "version": "1.1524.0",
+            "name": "com.vrcfury.vrcfury",
+            "displayName": "VRCFury",
+            "description": "Non-Destructive Tools for VRChat Avatars",
+            "url": "https://vcc.vrcfury.com/download/1.1524.0",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "1.1523.0": {
             "version": "1.1523.0",
             "name": "com.vrcfury.vrcfury",
@@ -141388,8 +141571,8 @@
     "name": "Vixens Toolbox",
     "id": "com.vixencreations.vixens-toolbox.listing",
     "author": "Vixenlicous",
-    "hash": "ca07311a2ca51ade19b3c866d12cffc0960f093529543ff39de03c4627bc020c",
-    "last_updated": "2026-11-25T21:46:30.000Z",
+    "hash": "b20e754558cd75b9e4153117a69934be9d78b7c4da7a085907ac06abc9cd85a4",
+    "last_updated": "2026-11-28T01:40:26.000Z",
     "packageCount": 3,
     "packages": {
       "com.vixencreations.vixens-toolbox": {
@@ -141397,8 +141580,8 @@
         "name": "com.vixencreations.vixens-toolbox",
         "displayName": "Vixen Tool Box",
         "description": "A Feature-rich suite of Unity Editor tools for VRChat creators, hand-built by VixForge Interactive supporting both Avatars and Worlds with over 4,500 Downloads!",
-        "latestVersion": "2.23.0",
-        "versionCount": 61,
+        "latestVersion": "2.24.0",
+        "versionCount": 62,
         "keywords": [
           "shaders",
           "tools",
@@ -141412,6 +141595,18 @@
           "url": "https://github.com/VixenCreations"
         },
         "versions": {
+          "2.24.0": {
+            "version": "2.24.0",
+            "name": "com.vixencreations.vixens-toolbox",
+            "displayName": "Vixen Tool Box",
+            "description": "A Feature-rich suite of Unity Editor tools for VRChat creators, hand-built by VixForge Interactive supporting both Avatars and Worlds with over 4,500 Downloads!",
+            "url": "https://github.com/VixenCreations/VixenToolBox/releases/download/2.24.0/com.vixen.tools-2.24.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "^3.10.3"
+            }
+          },
           "2.23.0": {
             "version": "2.23.0",
             "name": "com.vixencreations.vixens-toolbox",
@@ -142154,49 +142349,13 @@
           }
         }
       },
-      "com.vixencreations.vixen-mmd": {
-        "id": "com.vixencreations.vixen-mmd",
-        "name": "com.vixencreations.vixen-mmd",
-        "displayName": "VixenMMD",
-        "description": "Gets your avatar dancing in MMD worlds. Builds the MMD face shapes those worlds animate from your avatar's face tracking shapes and visemes when you upload, so your avatar files never change. Needs NDMF, which comes with Modular Avatar.",
-        "latestVersion": "1.0.0",
-        "versionCount": 1,
-        "keywords": [
-          "mmd",
-          "dance",
-          "blendshapes",
-          "face tracking",
-          "ndmf"
-        ],
-        "unity": "2022.3",
-        "author": {
-          "name": "VixenCreations",
-          "email": "Vixenlicious@outlook.com",
-          "url": "https://github.com/VixenCreations"
-        },
-        "versions": {
-          "1.0.0": {
-            "version": "1.0.0",
-            "name": "com.vixencreations.vixen-mmd",
-            "displayName": "VixenMMD",
-            "description": "Gets your avatar dancing in MMD worlds. Builds the MMD face shapes those worlds animate from your avatar's face tracking shapes and visemes when you upload, so your avatar files never change. Needs NDMF, which comes with Modular Avatar.",
-            "url": "https://github.com/VixenCreations/VixenToolBox/releases/download/vixen-mmd-1.0.0/com.vixencreations.vixen-mmd-1.0.0.zip",
-            "zipSha256": null,
-            "unity": "2022.3",
-            "vpmDependencies": {
-              "com.vrchat.avatars": ">=3.10.6 <4.0.0-a",
-              "nadena.dev.ndmf": ">=1.14.7 <2.0.0-a"
-            }
-          }
-        }
-      },
       "com.vixencreations.vixforge-shaders": {
         "id": "com.vixencreations.vixforge-shaders",
         "name": "com.vixencreations.vixforge-shaders",
         "displayName": "VixForge Shaders",
         "description": "All six VixForge shaders: Latex Ultra, Toon, Clothing Pro, Fur Pro, World Surface and World Fur, with the Shader Hub and its tools. This is the previous release; the newest version comes out first on Gumroad. Use either this package or the Gumroad copy in a project, not both.",
-        "latestVersion": "5.8.0",
-        "versionCount": 4,
+        "latestVersion": "5.10.0",
+        "versionCount": 5,
         "keywords": [
           "shaders",
           "latex",
@@ -142212,6 +142371,18 @@
           "url": "https://github.com/VixenCreations"
         },
         "versions": {
+          "5.10.0": {
+            "version": "5.10.0",
+            "name": "com.vixencreations.vixforge-shaders",
+            "displayName": "VixForge Shaders",
+            "description": "All six VixForge shaders: Latex Ultra, Toon, Clothing Pro, Fur Pro, World Surface and World Fur, with the Shader Hub and its tools. This is the previous release; the newest version comes out first on Gumroad. Use either this package or the Gumroad copy in a project, not both.",
+            "url": "https://github.com/VixenCreations/VixenToolBox/releases/download/vixforge-shaders-5.10.0/com.vixencreations.vixforge-shaders-5.10.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.base": "^3.7.0"
+            }
+          },
           "5.8.0": {
             "version": "5.8.0",
             "name": "com.vixencreations.vixforge-shaders",
@@ -142261,6 +142432,42 @@
             }
           }
         }
+      },
+      "com.vixencreations.vixen-mmd": {
+        "id": "com.vixencreations.vixen-mmd",
+        "name": "com.vixencreations.vixen-mmd",
+        "displayName": "VixenMMD",
+        "description": "Gets your avatar dancing in MMD worlds. Builds the MMD face shapes those worlds animate from your avatar's face tracking shapes and visemes when you upload, so your avatar files never change. Needs NDMF, which comes with Modular Avatar.",
+        "latestVersion": "1.0.0",
+        "versionCount": 1,
+        "keywords": [
+          "mmd",
+          "dance",
+          "blendshapes",
+          "face tracking",
+          "ndmf"
+        ],
+        "unity": "2022.3",
+        "author": {
+          "name": "VixenCreations",
+          "email": "Vixenlicious@outlook.com",
+          "url": "https://github.com/VixenCreations"
+        },
+        "versions": {
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.vixencreations.vixen-mmd",
+            "displayName": "VixenMMD",
+            "description": "Gets your avatar dancing in MMD worlds. Builds the MMD face shapes those worlds animate from your avatar's face tracking shapes and visemes when you upload, so your avatar files never change. Needs NDMF, which comes with Modular Avatar.",
+            "url": "https://github.com/VixenCreations/VixenToolBox/releases/download/vixen-mmd-1.0.0/com.vixencreations.vixen-mmd-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.avatars": ">=3.10.6 <4.0.0-a",
+              "nadena.dev.ndmf": ">=1.14.7 <2.0.0-a"
+            }
+          }
+        }
       }
     }
   },
@@ -142270,7 +142477,7 @@
     "id": "io.mekabu.vpm-repository",
     "author": "contact@mekabu.io",
     "hash": "afb531d339483772668bf9b0fbe2f91415a0d37733b4adad67544741ae03cb2e",
-    "last_updated": "2026-11-27T06:23:56.000Z",
+    "last_updated": "2026-11-28T06:08:57.000Z",
     "packageCount": 2,
     "packages": {
       "com.mekabu.blendshape-animation-creator": {
@@ -151531,8 +151738,8 @@
     "name": "BluWizard LABS Repository",
     "id": "net.bluwizard.vpmlist",
     "author": "BluWizard",
-    "hash": "f9bc725c37efb5212ac7c8b07534f70cc2482e55ea37b9d369f5066557eca3a9",
-    "last_updated": "2026-10-23T21:26:01.000Z",
+    "hash": "21de616781614992feb7e3348a42778c517a8eb007c6be998721a52e35106ae5",
+    "last_updated": "2026-11-28T02:29:20.000Z",
     "packageCount": 7,
     "packages": {
       "net.bluwizard.poipresets": {
@@ -152839,8 +153046,8 @@
         "name": "net.bluwizard.source",
         "displayName": "BluWizard LABS - Source",
         "description": "BluWizard's Package of Esssential Stuff and Gimmicks that Blu uses across their Projects. You will find some interesting and possibly useless gimmicks in here.",
-        "latestVersion": "2.3.4",
-        "versionCount": 25,
+        "latestVersion": "2.3.5",
+        "versionCount": 26,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -152849,6 +153056,16 @@
           "url": "https://bluwizard.net"
         },
         "versions": {
+          "2.3.5": {
+            "version": "2.3.5",
+            "name": "net.bluwizard.source",
+            "displayName": "BluWizard LABS - Source",
+            "description": "BluWizard's Package of Esssential Stuff and Gimmicks that Blu uses across their Projects. You will find some interesting and possibly useless gimmicks in here.",
+            "url": "https://github.com/BluWizard10/BluSource/releases/download/2.3.5/net.bluwizard.source-2.3.5.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "2.3.4": {
             "version": "2.3.4",
             "name": "net.bluwizard.source",
@@ -155778,8 +155995,8 @@
     "name": "[VPMM.dev] hackebein",
     "id": "dev.vpmm.public.hackebein",
     "author": "Hackebein",
-    "hash": "e41926d9e3786d8780c9cb84627b91d5206d0777dfc1ba107a2b71d4922b91f1",
-    "last_updated": "2026-11-27T05:06:04.000Z",
+    "hash": "59d894d3c898e4ff2f1310d8e4a6692cf4d46c64b9cbe520470f92c1966aec09",
+    "last_updated": "2026-11-27T17:51:49.000Z",
     "packageCount": 10,
     "packages": {
       "com.poiyomi.pro": {
@@ -158971,7 +159188,7 @@
     "id": "jp.hinasense.vpm",
     "author": "HinanoAira",
     "hash": "6101414a61af4480361097ebeaa841db500396ff4f3b1c47e3db8a078521a2fc",
-    "last_updated": "2026-11-27T06:00:01.000Z",
+    "last_updated": "2026-11-28T06:00:01.000Z",
     "packageCount": 2,
     "packages": {
       "jp.hinasense.liltoon.freak": {
@@ -162463,7 +162680,7 @@
     "name": "KIBA Lab. VRChat Packages",
     "id": "com.kibalab.vpm",
     "author": "KIBA",
-    "hash": "87f51e4ec549e35b23cb7a7fa6a44aad337d51708fc531d37760cec62aadec0f",
+    "hash": "1d49b81f97166ddfcd5e8587f78510903e88aa838bc16ae9adfe757f2508c3a6",
     "last_updated": "2026-08-01T16:09:51.678Z",
     "packageCount": 13,
     "packages": {
@@ -162693,7 +162910,7 @@
         "displayName": "TSMP Codec Color256",
         "description": "Color256 TSMP codec, Udon handler, shaders, materials, and prefab.",
         "latestVersion": "0.0.3-beta.1",
-        "versionCount": 6,
+        "versionCount": 7,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -162779,6 +162996,20 @@
               "com.kibalab.tsmp.core": ">=1.0.0",
               "com.vrchat.worlds": ">=3.9.0"
             }
+          },
+          "2.1.0": {
+            "version": "2.1.0",
+            "name": "com.kibalab.tsmp.codec.color256",
+            "displayName": "TSMP Codec Color256",
+            "description": "Color256 TSMP codec, Udon handler, shaders, materials, and prefab.",
+            "url": "https://github.com/kibalab/TSMPCodec-Color256/releases/download/v2.1.0/com.kibalab.tsmp.codec.color256-2.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.kibalab.tsmp.core": ">=1.0.0",
+              "com.kibalab.tsmp.codec.luma4": ">=1.0.0",
+              "com.vrchat.worlds": ">=3.9.0"
+            }
           }
         }
       },
@@ -162788,7 +163019,7 @@
         "displayName": "TSMP Codec Luma4",
         "description": "Luma4 TSMP codec, Udon handler, shaders, materials, and prefab.",
         "latestVersion": "0.0.1",
-        "versionCount": 8,
+        "versionCount": 9,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -162900,6 +163131,19 @@
               "com.kibalab.tsmp.core": ">=1.0.0",
               "com.vrchat.worlds": ">=3.9.0"
             }
+          },
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "com.kibalab.tsmp.codec.luma4",
+            "displayName": "TSMP Codec Luma4",
+            "description": "Luma4 TSMP codec, Udon handler, shaders, materials, and prefab.",
+            "url": "https://github.com/kibalab/TSMPCodec-Luma4/releases/download/v1.1.0/com.kibalab.tsmp.codec.luma4-1.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.kibalab.tsmp.core": ">=1.0.0",
+              "com.vrchat.worlds": ">=3.9.0"
+            }
           }
         }
       },
@@ -162909,7 +163153,7 @@
         "displayName": "TSMP Codec RGB16",
         "description": "RGB16 TSMP codec, Udon handler, shaders, materials, and prefab.",
         "latestVersion": "0.0.3-beta.1",
-        "versionCount": 6,
+        "versionCount": 7,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -162995,6 +163239,20 @@
               "com.kibalab.tsmp.core": ">=1.0.0",
               "com.vrchat.worlds": ">=3.9.0"
             }
+          },
+          "2.1.0": {
+            "version": "2.1.0",
+            "name": "com.kibalab.tsmp.codec.rgb16",
+            "displayName": "TSMP Codec RGB16",
+            "description": "RGB16 TSMP codec, Udon handler, shaders, materials, and prefab.",
+            "url": "https://github.com/kibalab/TSMPCodec-RGB16/releases/download/v2.1.0/com.kibalab.tsmp.codec.rgb16-2.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.kibalab.tsmp.core": ">=1.0.0",
+              "com.kibalab.tsmp.codec.luma4": ">=1.0.0",
+              "com.vrchat.worlds": ">=3.9.0"
+            }
           }
         }
       },
@@ -163004,7 +163262,7 @@
         "displayName": "TSMP Codec RGB20",
         "description": "RGB20 TSMP codec, Udon handler, shaders, materials, and prefab.",
         "latestVersion": "0.0.3-beta.1",
-        "versionCount": 7,
+        "versionCount": 8,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -163103,6 +163361,20 @@
               "com.kibalab.tsmp.core": ">=1.0.0",
               "com.vrchat.worlds": ">=3.9.0"
             }
+          },
+          "2.1.0": {
+            "version": "2.1.0",
+            "name": "com.kibalab.tsmp.codec.rgb20",
+            "displayName": "TSMP Codec RGB20",
+            "description": "RGB20 TSMP codec, Udon handler, shaders, materials, and prefab.",
+            "url": "https://github.com/kibalab/TSMPCodec-RGB20/releases/download/v2.1.0/com.kibalab.tsmp.codec.rgb20-2.1.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.kibalab.tsmp.core": ">=1.0.0",
+              "com.kibalab.tsmp.codec.luma4": ">=1.0.0",
+              "com.vrchat.worlds": ">=3.9.0"
+            }
           }
         }
       },
@@ -163112,7 +163384,7 @@
         "displayName": "TSMP Core",
         "description": "Core TSMP runtime, encoder, decoder, setup tooling, shared Udon behaviours, codec base types, and streaming utilities.",
         "latestVersion": "0.0.1",
-        "versionCount": 13,
+        "versionCount": 14,
         "keywords": [],
         "unity": "2022.3",
         "author": {
@@ -163271,6 +163543,18 @@
             "displayName": "TSMP Core",
             "description": "Core TSMP runtime, encoder, decoder, setup tooling, shared Udon behaviours, codec base types, and streaming utilities.",
             "url": "https://github.com/kibalab/TSMP-Core/releases/download/v1.0.0/com.kibalab.tsmp.core-1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {
+              "com.vrchat.worlds": ">=3.9.0"
+            }
+          },
+          "1.1.0": {
+            "version": "1.1.0",
+            "name": "com.kibalab.tsmp.core",
+            "displayName": "TSMP Core",
+            "description": "Core TSMP runtime, encoder, decoder, setup tooling, shared Udon behaviours, codec base types, and streaming utilities.",
+            "url": "https://github.com/kibalab/TSMP-Core/releases/download/v1.1.0/com.kibalab.tsmp.core-1.1.0.zip",
             "zipSha256": null,
             "unity": "2022.3",
             "vpmDependencies": {
@@ -165824,7 +166108,7 @@
     "id": "dev.ladyluh.vpm",
     "author": "luna-gelmini",
     "hash": "29b50b3a46469eb3ade74e9b7cfef4546be058b5d397a4dc015b615979324093",
-    "last_updated": "2026-11-27T02:57:13.000Z",
+    "last_updated": "2026-11-28T03:59:43.000Z",
     "packageCount": 4,
     "packages": {
       "dev.ladyluh.questkit": {
@@ -187695,7 +187979,7 @@
     "id": "jp.pipipigiken.vpm",
     "author": "orange3134",
     "hash": "fdfcf0227a2be7d6ef7e840800fc48834054e85de4dd49202c7e2154a08fece3",
-    "last_updated": "2026-11-26T22:25:12.000Z",
+    "last_updated": "2026-11-27T23:33:38.000Z",
     "packageCount": 2,
     "packages": {
       "jp.pipipigiken.mpavatar-package": {
@@ -192949,7 +193233,7 @@
     "id": "dev.sleightly.vpm-listing",
     "author": "JustSleightly",
     "hash": "263ae27864a2063bd3bc8485f328fb428359ed01da756bcbd99d522d153e9c3c",
-    "last_updated": "2026-10-12T04:09:58.000Z",
+    "last_updated": "2026-10-12T04:09:57.000Z",
     "packageCount": 2,
     "packages": {
       "dev.sleightly.clipfocus": {
@@ -193725,7 +194009,7 @@
     "id": "dev.thry.vpm",
     "author": "Thryrallo",
     "hash": "0189583cd590af92f6337bf072cfea3211c6a3ca90738536d8f30bcd5fab82cb",
-    "last_updated": "2024-08-05T22:13:00.000Z",
+    "last_updated": "2024-08-05T22:13:01.000Z",
     "packageCount": 1,
     "packages": {
       "de.thryrallo.vrc.avatar-performance-tools": {
@@ -202702,7 +202986,7 @@
     "id": "io.github.vrclearn.hierarchydecorator",
     "author": "VRCLearn",
     "hash": "8d27ef11abe45ec6a5435977c44e6725e36f6e972dff05ef5e30c06aba794bad",
-    "last_updated": "2026-11-27T01:02:03.000Z",
+    "last_updated": "2026-11-27T01:02:02.000Z",
     "packageCount": 1,
     "packages": {
       "com.vrclearn.hierarchydecorator": {
@@ -204609,8 +204893,8 @@
     "name": "VR Vlog Packages",
     "id": "com.vrvlog.packages",
     "author": "VR Vlog",
-    "hash": "9cbdb22f3ce055e5f68930877658ad594fb1883190e785e6b1dd7defa793db09",
-    "last_updated": "2026-11-26T14:06:52.000Z",
+    "hash": "0f662592b1a675fd4028f123389ed41f67f037a4746931ff0aa4c7f2dc7fdb6c",
+    "last_updated": "2026-11-28T02:24:53.000Z",
     "packageCount": 3,
     "packages": {
       "com.vrvlog.liltoon-vrm-exporter": {
@@ -204618,8 +204902,8 @@
         "name": "com.vrvlog.liltoon-vrm-exporter",
         "displayName": "VR Vlog lilToon VRM Exporter",
         "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
-        "latestVersion": "2.0.0-alpha.1",
-        "versionCount": 113,
+        "latestVersion": "2.0.1",
+        "versionCount": 115,
         "keywords": [
           "vrm",
           "liltoon",
@@ -204631,6 +204915,26 @@
           "name": "VR Vlog"
         },
         "versions": {
+          "2.0.1": {
+            "version": "2.0.1",
+            "name": "com.vrvlog.liltoon-vrm-exporter",
+            "displayName": "VR Vlog lilToon VRM Exporter",
+            "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v2.0.1/com.vrvlog.liltoon-vrm-exporter-2.0.1.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
+          "2.0.0": {
+            "version": "2.0.0",
+            "name": "com.vrvlog.liltoon-vrm-exporter",
+            "displayName": "VR Vlog lilToon VRM Exporter",
+            "description": "Exports a VRM 1.0 MToon fallback and validated lilToon extension in one step.",
+            "url": "https://github.com/VR-Vlog/VR-Vlog-Avatar-Exporter/releases/download/v2.0.0/com.vrvlog.liltoon-vrm-exporter-2.0.0.zip",
+            "zipSha256": null,
+            "unity": "2022.3",
+            "vpmDependencies": {}
+          },
           "2.0.0-alpha.1": {
             "version": "2.0.0-alpha.1",
             "name": "com.vrvlog.liltoon-vrm-exporter",
@@ -206143,13 +206447,56 @@
   },
   {
     "url": "https://waya0125.com/vpm",
-    "name": "Waya0125 VPM",
-    "id": "waya0125.com",
+    "name": "waya0125 Package List",
+    "id": "com.waya0125",
     "author": "waya0125@waya0125.com",
-    "hash": null,
+    "hash": "35e4bd158cb01957dee5221de0cc7188cacc11aa43571ef6a972ebc425e10934",
     "last_updated": "2024-07-10T03:49:01.000Z",
-    "packageCount": 0,
-    "packages": {}
+    "packageCount": 1,
+    "packages": {
+      "com.waya0125.screencapture": {
+        "id": "com.waya0125.screencapture",
+        "name": "com.waya0125.screencapture",
+        "displayName": "waya0125 - Screen Capture",
+        "description": "This software is intended to photograph characters.",
+        "latestVersion": "1.0.1",
+        "versionCount": 2,
+        "keywords": [
+          "Screen",
+          "Capture",
+          "Avatar",
+          "waya0125"
+        ],
+        "unity": "2017.1",
+        "author": {
+          "name": "wayamoti2015@waya0125",
+          "email": "wayamoti2015@waya0125.com",
+          "url": "https://misskey.waya0125.com/@waya"
+        },
+        "versions": {
+          "1.0.1": {
+            "version": "1.0.1",
+            "name": "com.waya0125.screencapture",
+            "displayName": "waya0125 - Screen Capture",
+            "description": "This software is intended to photograph characters.",
+            "url": "https://files.waya0125.com/vpm/ScreenCapture/ScreenCapture_1.0.1.zip",
+            "zipSha256": null,
+            "unity": "2017.1",
+            "vpmDependencies": {}
+          },
+          "1.0.0": {
+            "version": "1.0.0",
+            "name": "com.waya0125.screencapture",
+            "displayName": "waya0125 - Screen Capture",
+            "description": "This software is intended to photograph characters.",
+            "url": "https://files.waya0125.com/vpm/ScreenCapture/ScreenCapture_1.0.0.zip",
+            "zipSha256": null,
+            "unity": "2017.1",
+            "vpmDependencies": {}
+          }
+        }
+      }
+    }
   },
   {
     "url": "https://whiteflare.github.io/vpm-repos/vpm.json",
